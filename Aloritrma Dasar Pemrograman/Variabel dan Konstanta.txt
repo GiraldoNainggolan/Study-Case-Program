@@ -1,0 +1,29 @@
+Variabel & Konstanta
+
+Konstanta -> suatu elemen yang nilainya sudah ditetapkan
+Variabel -> suatu elemen yang nilainya berubah-ubah atau tidak tetap
+contohnya: ketika ada rumus lingkaran VRkuadrat yang menjadi Konstanta adalah nilai V(22/7 atau 3,14) lalu R(variabel karna dia tidak memiliki nilai mutlak).
+
+KONSEP VARIABEL & KONSTANTA:
+* Konstanta & variabel hannya menyimpan data secara sementara (volatile / RAM)
+* Nilai konstanta tidak dapat diubah selama program dijalankan, sedangkan nilai variabel dapat diubah selama program dijalankan.
+* Konstanta & variabel hanya dapat menyimpan satu data
+* Nilai dari suatu konstanta & variabel adalah nilai yang terakhir
+
+Nilai dari suatu konstanta & variabel adlah nilai yang terakhit,
+misalnya: X = 10 -> X = 5 -> X = 50. Pengertiannya adalah ketika nilai awal X = 10 kemudian berubah menjadi nilai X = 5 kemudian nilai nya berubah untuk terakhir adalah X = 50, jadi dalam pemrograman itu semuanya dibaca dari kiri ke kanan atau dari atas ke bawah
+
+ATURAN VARIABEL & KONSTANTA
+1. Harus dimulai huruf alfabet
+2. Huruf kecil atau huruf kapital dibedakan
+3. Karakter penyusun variabel hannya boleh huruf alfabet, angka dan garis bawah (underscore)
+4. Tidak boleh menggunakan spasi (karakter putih)
+5. Penamaan konstanta & variabel sebaiknya mencerminkan nilai yang dikandungnya
+
+MEMBUAT KONSTANTA
+PESEUCODE:
+CONSTANT phi = 3.14 (gunakan keyword yang namanya constrant lalu gabungkan dengan variabelnya kemudian masukkan nilainya)
+
+MEMBUAT VARIABEL
+PESEUCODE:
+DECLARE r = 30 (gunakan keyword yang namanya declare kemudian gabungkan dengan variabelnya r lalu masukkan nilainya)

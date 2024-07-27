@@ -1,0 +1,63 @@
+Memahami dasar-dasar - dan perbedaan di antara - pendekatan manajemen proyek yang umum ini dapat membantu Anda mendemonstrasikan pengetahuan manajemen proyek Anda selama wawancara. Hal ini juga dapat membantu Anda mengevaluasi sebuah proyek untuk menentukan pendekatan yang tepat saat mengerjakan pekerjaan.
+
+Waterfall dan Agile diimplementasikan dengan berbagai cara pada berbagai proyek yang berbeda, dan beberapa proyek dapat menggunakan aspek-aspek dari masing-masing pendekatan. Bagan di bawah ini menjelaskan dan membandingkan pendekatan Waterfall dan Agile secara singkat. Anda dapat menggunakannya sebagai alat referensi cepat, tetapi perlu diketahui bahwa dalam praktiknya, perbedaan antara kedua pendekatan ini mungkin tidak selalu jelas.
+
+Perbandingan Waterfall dan Agile
+
+
+Air Terjun
+
+Agile
+
+
+Peran manajer proyek
+
+Manajer proyek berperan sebagai pemimpin aktif dengan memprioritaskan dan memberikan tugas kepada anggota tim.
+
+Scrum Master berperan sebagai fasilitator, menghilangkan hambatan yang dihadapi tim. 
+
+Tim berbagi lebih banyak tanggung jawab dalam mengelola pekerjaan mereka sendiri.
+
+Ruang Lingkup
+
+Hasil dan rencana proyek ditetapkan dengan baik dan didokumentasikan pada tahap awal inisiasi dan perencanaan. 
+
+Perubahan dilakukan melalui proses permintaan perubahan formal. 
+
+Perencanaan dilakukan dalam iterasi yang lebih pendek dan berfokus pada penyampaian nilai dengan cepat. 
+
+Iterasi berikutnya disesuaikan sebagai tanggapan terhadap umpan balik atau masalah yang tidak terduga.
+
+Jadwal
+
+Mengikuti jalur yang sebagian besar linier melalui fase inisiasi, perencanaan, pelaksanaan, dan penutupan proyek.
+
+Waktu diatur ke dalam fase-fase yang disebut Sprint. Setiap Sprint memiliki durasi yang ditentukan, dengan daftar hasil yang direncanakan pada awal Sprint. 
+
+Biaya
+
+Biaya tetap terkendali dengan estimasi yang cermat di awal dan pemantauan yang ketat sepanjang siklus hidup proyek. 
+
+Biaya dan jadwal dapat berubah dengan setiap iterasi. 
+
+Kualitas
+
+Manajer proyek membuat rencana dan mendefinisikan kriteria dengan jelas untuk mengukur kualitas di awal proyek.
+
+Tim meminta masukan dari pemangku kepentingan dan umpan balik dari pengguna secara berkelanjutan dengan menguji produk di lapangan dan secara teratur menerapkan perbaikan.
+
+Komunikasi
+
+Manajer proyek secara terus menerus mengkomunikasikan kemajuan menuju tonggak pencapaian dan indikator utama lainnya kepada para pemangku kepentingan, memastikan bahwa proyek berada di jalur yang tepat untuk memenuhi harapan pelanggan. 
+
+Tim berfokus pada pelanggan, dengan komunikasi yang konsisten antara pengguna dan tim proyek.
+
+Pemangku kepentingan
+
+Manajer proyek terus mengelola dan memantau keterlibatan pemangku kepentingan untuk memastikan proyek berjalan sesuai rencana.  
+
+Tim sering memberikan hasil kerja kepada para pemangku kepentingan selama proyek berlangsung. Kemajuan menuju tonggak pencapaian bergantung pada umpan balik pemangku kepentingan.
+
+
+Sekarang setelah Anda lebih memahami perbedaan antara pendekatan manajemen proyek Waterfall dan Agile, Anda dapat menggunakan pemahaman ini untuk menentukan mana yang paling efektif untuk proyek Anda.
+

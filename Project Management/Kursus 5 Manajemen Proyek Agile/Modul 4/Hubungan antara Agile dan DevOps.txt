@@ -1,0 +1,7 @@
+Dalam video terakhir, kita telah membahas peran DevOps dalam Agile di tingkat yang lebih tinggi. Banyak organisasi telah mulai merangkul dan menggunakan pendekatan ini. Kami sarankan untuk membaca tentang hubungan antara kerangka kerja Agile tradisional dan DevOps dalam artikel ini untuk pemahaman lebih lanjut:
+
+Cara Menggabungkan DevOps dan Agile (https://devops.com/how-to-combine-devops-and-agile/)
+
+Agile vs DevOps: Apa Bedanya? (https://www.cmswire.com/information-management/agile-vs-devops-whats-the-difference/#:~:text=Fundamentally%2C%20DevOps%20brings%20together%20two,the%20ever%2Dchanging%20consumer%20needs.&text=%2Dbased%20Shiftleft%2C%20explained%20how%20both%20Agile%20and%20DevOps%20are%20managed)
+
+Konvergensi Scrum dan DevOps (https://www.scrum.org/resources/convergence-scrum-and-devops)

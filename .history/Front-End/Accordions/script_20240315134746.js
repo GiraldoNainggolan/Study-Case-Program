@@ -1,0 +1,1 @@
+const accordionItemHeader = accordion-item-header

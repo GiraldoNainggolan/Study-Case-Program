@@ -1,0 +1,10 @@
+Cara Push ke Gitbash:
+
+	1. Buat Repositoty di Github
+	2. Buka folder dan arahkan ke gitbash
+	3. ketik: git init
+	4. git add .
+	5. git commit -m "testing"
+	6. git branch -M  main
+	7. git remote add origin { yang ada di repo}
+	8. semua udah selesai tinggal cek di github

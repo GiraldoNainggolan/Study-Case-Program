@@ -1,0 +1,18 @@
+Pengertian: langkah-langkah pemecahan masalah dengan menggunakan kode yang tidak terlihat pada bahasa pemrograman tertentu.
+
+CIRI-CIRI PESEUCODE:
+1. Pola Bahasa Inggris yang Simple
+2. Tidak Ada Standar Aturan
+
+CONTOH PESEUCODE:
+
+//PROGRAM persegi panjang
+//Program untuk menghitung luas persegi panjang.
+
+//DECLARATION
+    DECLARE integer panjang,lebar,luas
+
+//IMPLEMENTATION/DEFENITION
+    INPUT (panjang,lebar)
+    SET luas=panjang*lebar
+    DISPLAY(luas)

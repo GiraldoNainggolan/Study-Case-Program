@@ -1,0 +1,34 @@
+Konsekuensi dari terburu-buru dalam menjalani fase proyek
+Saat itu hari Jumat malam ketika Jason, seorang manajer proyek di sebuah perusahaan yang berspesialisasi dalam perangkat lunak realitas virtual, menerima telepon mendesak dari manajernya, Mateo. Mateo memberi tahu Jason bahwa dia membutuhkan biaya dan jadwal untuk program pelatihan realitas virtual untuk Flight Simulators, Inc., sebuah perusahaan yang melakukan pemeliharaan pesawat, pada akhir pekan.
+
+Jason menghabiskan akhir pekannya dengan mengerjakan proposal untuk Flight Simulators, Inc. Dia dengan cepat menyusun proposal yang memperkirakan bahwa akan memakan biaya $200.000 dan membutuhkan waktu enam minggu untuk mengembangkan kursus. Ini adalah biaya standar dan kerangka waktu untuk mengembangkan pelatihan di platform perusahaannya. Dia mengirimkan proposal tersebut ke Flight Simulators, Inc. sehingga dia dapat memenuhi tenggat waktu mereka.
+
+Ketika Jason masuk ke kantor pada hari Senin pagi, Mateo memberitahunya bahwa dia ditegur karena tidak mengikuti proses perusahaan untuk membuat proposal dan melibatkan para insinyur dalam prosesnya. Para insinyur melihat informasi yang disajikan oleh Flight Simulators, Inc. dan menyadari bahwa perangkat lunak perusahaan tidak akan bekerja dengan platform mereka. Diperlukan waktu enam bulan untuk mengembangkan platform mereka untuk memenuhi kebutuhan perangkat lunak organisasi dan enam bulan lagi untuk menguji integrasi perangkat lunak dan platform. Biaya untuk mengembangkan dan menguji perangkat lunak ini akan mencapai lebih dari satu juta dolar.
+
+Proyek ini telah gagal bahkan sebelum dimulai. Tidak ada cara untuk menyelesaikan permintaan dari Flight Simulators, Inc. tanpa mempengaruhi anggaran, kualitas, dan jadwal.
+
+Apa yang seharusnya terjadi
+Ketika manajernya menelepon, Jason mengatakan kepadanya bahwa meskipun ia memahami bahwa Mateo ingin membuat pelanggan senang dengan memberikan proposal kepada mereka dengan segera, ia ingin meluangkan lebih banyak waktu untuk membuat proposal yang benar. Jason memberi tahu Mateo bahwa ia akan membuat email ke Flight Simulators, Inc. dan meminta waktu tambahan untuk membuat proposal yang akurat dan masuk akal. Mateo ragu-ragu tetapi setuju.
+
+Pada Senin pagi, Jason melihat bahwa Flight Simulators, Inc. telah menanggapi permintaannya. Mereka menghargai fakta bahwa dia menyampaikan kekhawatirannya tentang perputaran cepat pada permintaan proposal. Mereka mengatakan bahwa mereka akan memberinya waktu seminggu untuk bekerja dengan timnya dalam memberikan estimasi untuk proyek tersebut.
+
+Sekarang Jason memiliki waktu untuk melibatkan semua pemain kunci dalam memperkirakan upaya yang diperlukan untuk menyelesaikan proyek, termasuk biaya, jadwal, dan sumber daya.
+
+Mari kita terapkan siklus hidup proyek pada proyek ini.
+
+Grafik melingkar yang menunjukkan bagaimana fase-fase siklus hidup proyek saling berkaitan. Memulai, merencanakan, melaksanakan, dan menutup.
+Memulai proyek
+Ini adalah fase yang dilalui Jason dalam skenario pertama. Idealnya, pada fase ini, Jason mendiskusikan tujuan proyek dengan Flight Simulators, Inc. untuk mendapatkan pemahaman yang jelas tentang apa yang mereka minta. Setelah Jason mendefinisikan tujuan proyek, ia dapat mengumpulkan para pemangku kepentingan dan anggota tim proyek untuk mendefinisikan apa yang perlu dilakukan agar berhasil membuat pelatihan ini untuk Flight Simulators, Inc. Jason mengidentifikasi keahlian yang dibutuhkan, jadwal, dan biaya untuk mengembangkan pelatihan. Dia mengidentifikasi dan mendokumentasikan nilai yang diciptakan proyek ini bagi perusahaan. Dia mempresentasikan semua informasi yang telah dia kumpulkan kepada tim kepemimpinan perusahaannya, yang kemudian menyetujui proposal Jason. Jason kemudian mengajukan proposal tersebut ke Flight Simulators, Inc. dan mereka menerimanya.
+
+Membuat rencana
+Setelah Jason mendapat lampu hijau untuk mengerjakan proyek tersebut, dia membuat rencana proyek dari awal hingga akhir. Dengan memiliki rencana, semua anggota tim dan pemangku kepentingan siap untuk menyelesaikan tugas mereka. Jason menguraikan tenggat waktu dan tugas-tugas penting agar proyek tersebut berhasil. Dia membuat jadwal untuk memperhitungkan semua sumber daya, bahan, dan tugas yang diperlukan untuk menyelesaikan proyek.
+
+Melaksanakan dan menyelesaikan tugas
+Selama fase proyek ini, tim proyek Jason menjalankan rencananya dengan melaksanakan pekerjaan. Jason memantau timnya saat mereka menyelesaikan tugas-tugas proyek. Perannya sebagai manajer proyek bukan untuk menyelesaikan tugas individu tetapi untuk membantu memecah setiap hambatan yang akan memperlambat atau menghentikan tim dalam menyelesaikan tugas mereka. Jason juga bertanggung jawab untuk mengkomunikasikan jadwal dan ekspektasi kualitas. Jason menggunakan kemampuan komunikasinya untuk terus memberi informasi terbaru kepada Flight Simulators, Inc. tentang status proyek dan mengumpulkan umpan balik dari mereka. Hal ini membuat proyek tetap sesuai jadwal dan sesuai anggaran.
+
+Menutup proyek
+Tim Jason telah berhasil menyelesaikan pelatihan, dan dia memberikannya kepada Flight Simulators, Inc. Mereka sangat senang dengan hasilnya! Jason sekarang siap untuk menutup proyek ini dan beralih ke proyek berikutnya. Sebelum dia menutup bab ini, Jason dan timnya mendiskusikan dan mendokumentasikan pelajaran yang didapat dari proyek ini. Apa yang berhasil dengan baik, dan apa yang bisa bekerja lebih baik di lain waktu? Jason juga mengadakan acara makan siang bersama untuk timnya untuk merayakan dan menghargai kerja keras mereka.
+
+Hal-hal penting yang bisa diambil
+Mungkin terlihat seperti pekerjaan yang berat untuk menjalani seluruh siklus hidup proyek, namun dampak jangka panjang yang akan terjadi pada proyek Anda sangatlah besar! Adalah tugas Anda sebagai manajer proyek untuk memastikan bahwa pimpinan Anda benar-benar memahami risiko jika tidak mempersiapkan proyek dengan baik. Membuat asumsi yang tidak tepat dapat menempatkan perusahaan Anda dalam risiko. Sebaliknya, meluangkan waktu untuk memulai, merencanakan, melaksanakan, dan menutup proyek Anda dengan hati-hati akan menghasilkan kesuksesan proyek dan hubungan kerja yang baik dengan pelanggan.
+

@@ -1,0 +1,98 @@
+Metrik data umum untuk manajemen proyekStatus: Diterjemahkan secara otomatis dari bahasa Bahasa Inggris
+Diterjemahkan secara otomatis dari bahasa Bahasa Inggris
+Informasi:Item ini mencakup konten yang belum diterjemahkan ke bahasa pilihan Anda.
+Ada banyak jenis data proyek yang dapat Anda gunakan untuk menentukan kemajuan dan efisiensi tim Anda, mengevaluasi keberhasilan proyek Anda, dan menginformasikan keputusan proyek. Meskipun Anda tidak perlu menjadi ahli data, mengetahui cara mengukur, melacak, dan mengevaluasi jenis data yang tepat akan membantu Anda memberikan nilai dan dampak yang maksimal.
+
+Bacaan ini akan merangkum beberapa jenis data yang umum dari video sebelumnya dan memperkenalkan beberapa poin data utama yang dapat membantu Anda mengelola proyek dan bekerja dengan pemangku kepentingan. Bacaan ini juga akan memperkenalkan beberapa cara untuk menginterpretasikan data sehingga Anda dapat mengurangi risiko dan membuat keputusan yang tepat tentang tim dan proyek Anda.
+
+Manfaat menganalisis data dalam manajemen proyek
+Tangan yang menunjuk ke salah satu batang dalam diagram batang.
+Sebagai manajer proyek, Anda dapat menggunakan data setiap hari untuk membuat keputusan yang lebih baik, memecahkan masalah, meningkatkan kinerja dan proses, serta memahami pengguna Anda.
+
+Misalnya, jika Anda memiliki data tentang pola pembelian pelanggan, Anda dapat mengidentifikasi produk terlaris Anda, dan Anda akan dapat membuat keputusan yang lebih cerdas saat melakukan pemesanan produk baru dengan pemasok Anda. Data ini juga akan membantu Anda lebih memahami pengguna dan preferensi mereka sehingga Anda dapat meningkatkan penawaran dan kinerja produk Anda.
+
+Anda juga dapat menggunakan data tim proyek untuk membantu Anda menyempurnakan proses. Misalnya, jika tim Anda mengalami masalah, menganalisis data dari pelacak proyek Anda tentang jumlah tugas yang diselesaikan, eskalasi, atau masalah proses internal dapat membantu Anda menemukan sumbernya. Hal ini akan memungkinkan Anda untuk membuat keputusan yang tepat tentang di mana harus memfokuskan upaya Anda untuk meningkatkan proses.
+
+Melalui analisis, aplikasi, dan eksekusi yang kritis, data menjadi alat yang ampuh untuk memandu proyek apa pun ke arah yang benar.
+
+Data, metrik, dan analitik
+Tiga gambar untuk mewakili data, metrik, dan analitikThree images: Numbers grouped in a circle to represent data; a graph with rulers lining the x and y axis to represent metrics; two people working on a puzzle to represent analytics.
+Data adalah informasi. Ini adalah angka dan umpan balik yang tersedia bagi Anda tentang berbagai aspek proyek Anda. Metrik adalah cara Anda mengukur data. Metrik mendefinisikan informasi (data) penting atau spesifik yang perlu Anda ketahui tentang proyek Anda, seperti produktivitas, kualitas, atau keterlibatan. Setelah Anda menentukan metrik proyek Anda, Anda menganalisis data sesuai dengan metrik tersebut untuk menemukan pola dan menjawab pertanyaan tentang proyek Anda. Proses ini disebut analitik: menggunakan data untuk menjawab pertanyaan, menemukan hubungan, dan memprediksi hasil yang tidak diketahui.
+
+Saat menganalisis data, tanyakan: Apa arti metrik tersebut bagi Anda? Bagaimana Anda ingin menggunakan metrik yang telah Anda pilih? Dapatkah Anda menemukan pola untuk membuat prediksi tentang proyek Anda? Dapatkah Anda menemukan cara untuk meningkatkan-atau mengoptimalkan-aspek tertentudari proyek Anda? Pelajaran apa yang dapat Anda ambil dari data proyek Anda?
+
+Beberapa bagian berikutnya adalah beberapa kategori metrik yang umum digunakan dalam manajemen proyek dan penjelasan singkat tentang apa itu metrik dan bagaimana mereka berguna untuk sebuah proyek. Perlu diingat bahwa penggunaan metrik yang berbeda tidak terbatas pada kategori-kategori ini. Semua data proyek Anda saling terkait. Metrik yang sama juga dapat memberikan informasi yang berbeda ketika diterapkan pada aspek yang berbeda dari proyek Anda.
+
+Metrik produktivitas
+Kalender dan jam untuk mewakili produktivitas
+Metrik produktivitas biasanya mengukur kemajuan dan hasil dari waktu ke waktu. Metrik ini memungkinkan Anda untuk melacak-atau memprediksi-efektivitas dan efisiensi tim proyek Anda.
+
+Untuk melacak produktivitas tim Anda dari waktu ke waktu, analisis jumlah tugas atau pencapaian yang diselesaikan dalam jangka waktu tertentu. Ajukan pertanyaan seperti, berapa persen tugas yang diselesaikan tepat waktu, dan berapa lama waktu yang dibutuhkan? Atau, jika tugas tidak selesai tepat waktu, berapa lama waktu yang dibutuhkan untuk menyelesaikan semua tugas?
+
+Tingkat penyelesaian tepat waktu dapat membantu menggambarkan kepada klien dan pemangku kepentingan tentang kemajuan proyek dan kapan mereka dapat mengharapkan hasil tertentu siap. Jika tingkat penyelesaian proyek Anda tinggi, itu berarti Anda melakukan pekerjaan yang baik dalam memenuhi target penyelesaian. Jika tingkat penyelesaiannya rendah, itu berarti Anda melewatkan tenggat waktu. Menganalisis data dapat membantu Anda membuat keputusan tentang hal-hal seperti meningkatkan atau menerapkan proses baru, atau mengevaluasi kembali cara Anda memperkirakan ruang lingkup, kompleksitas, dan jadwal proyek.
+
+Menghitung durasi (berapa lama waktu yang dibutuhkan untuk menyelesaikan sesuatu) dapat berguna untuk menetapkan dan mengevaluasi tugas dan pencapaian serta menentukan apakah Anda akan memenuhi tenggat waktu proyek. Melacak durasi tugas dapat meningkatkan keakuratan estimasi jadwal proyek. Data ini dipecah menjadi beberapa jam, hari, minggu, bulan, dan terkadang tahun.
+
+Anda juga dapat menganalisis informasi saat ini untuk memprediksi hasil di masa depan dan membuat proyeksi (atau perkiraan) tentang tren produktivitas, durasi proyek, biaya, kinerja, atau kualitas. Data semacam ini memberdayakan Anda untuk secara proaktif mengelola proyek dan sumber dayanya, serta mengukur keakuratan proyeksi Anda dari waktu ke waktu. Misalnya, menganalisis kinerja atau kecepatan tim Anda secara keseluruhan dapat menjawab pertanyaan seperti, apakah tim menyelesaikan tugas dan pencapaiannya? Berapa persentase tugas yang diselesaikan tim tepat waktu?
+
+Memprediksi masa depan mungkin mustahil, tetapi membangun pemahaman yang lebih baik tentang hal itu dan menyempurnakan metode Anda untuk membuat proyeksi dapat dicapai dan berharga.
+
+Metrik kualitas
+Papan klip dengan tanda centang
+Metrik kualitas berkaitan dengan pencapaian hasil yang dapat diterima dan dapat mencakup metrik seperti jumlah perubahan, masalah, dan varians biaya, yang semuanya memengaruhi kualitas.
+
+Perubahan mengacu pada perbedaan dalam aspek apa pun dari proyek dari apa yang semula direncanakan atau diperlukan. Masalah adalah masalah yang dapat memengaruhi penyelesaian tugas-dan sering kali mengakibatkan perubahan. Lacak jumlah perubahan dan masalah untuk mengidentifikasi pola, menyempurnakan proses, dan berbagi informasi tentang proyek dengan para pemangku kepentingan.
+
+Variansbiaya atau anggaran adalah perbedaan antara jumlah uang aktual yang dihabiskan untuk sebuah proyek dan jumlah yang dianggarkan untuk proyek tersebut. Seiring waktu, data ini dapat membantu Anda memahami seberapa baik Anda memperkirakan anggaran untuk proyek Anda. Varians yang rendah berarti Anda telah memperkirakan anggaran proyek Anda secara akurat. Varians yang tinggi berarti Anda harus mengevaluasi kembali proses estimasi Anda. Anda bisa saja memperkirakan biaya yang terlalu rendah atau terlalu tinggi untuk anggaran Anda, atau Anda mungkin tidak melacak pengeluaran secara efektif.
+
+Kebahagiaan dan kepuasan
+Dua orang tersenyum dan melakukan tos
+Manajer proyek di Google menggunakan subset metrik yang disebut metrik kebahagiaan yang juga berhubungan dengan kualitas. Ini adalah metrik yang berhubungan dengan berbagai aspek kepuasan pengguna secara keseluruhan terhadap suatu produk atau layanan, seperti daya tarik visual, seberapa besar kemungkinan mereka akan merekomendasikan, dan kemudahan penggunaan. Metrik kebahagiaan umumnya dapat ditangkap dengan survei yang dirancang dengan baik atau dengan melacak pendapatan yang dihasilkan, retensi pelanggan, atau pengembalian produk.
+
+Skor kepuasan pelanggan mencerminkan sikap, kepuasan, atau kemudahan penggunaan yang dirasakan oleh pengguna. Skor ini mengukur seberapa baik proyek tersebut memberikan apa yang telah ditetapkan dan seberapa baik proyek tersebut memenuhi kebutuhan pelanggan dan pemangku kepentingan. Skor kepuasan pelanggan umumnya mewakili metrik gabungan-jumlah dari beberapa metrik kepuasan yang berbeda. Sebagai contoh, dalam survei kepuasan, pelanggan mungkin secara terpisah menilai penampilan produk dengan nilai 6/10, kemudahan penggunaan dengan nilai 7/10, dan kemungkinan untuk merekomendasikan atau menggunakan lagi dengan nilai 8/10. Skor kepuasan pelanggan secara keseluruhan akan menjadi 7/10.
+
+Anda perlu menentukan skor apa yang dapat diterima untuk proyek Anda dengan berdiskusi dengan para pemangku kepentingan tentang aspek-aspek yang paling penting dari proyek tersebut.
+
+Adopsi dan keterlibatan
+Perangkat seluler yang dipegang oleh pengguna yang berinteraksi dengan situs web
+Satu set metrik lain yang terkait dengan kualitas adalah adopsi dan keterlibatan. Adopsi mengacu pada apakah suatu produk, layanan, atau proses diterima dan digunakan atau tidak. Keterlibatan mengacu pada sejauh mana produk tersebut digunakan-frekuensi penggunaan, jumlah waktu yang dihabiskan untuk menggunakannya, dan jangkauan penggunaan. Mungkin akan membantu untuk memikirkan hal ini dalam hal mengadakan pesta: metrik adopsi Anda akan mengungkapkan kepada Anda apakah orang menerima undangan dan datang atau tidak. Metrik keterlibatan akan memberi tahu Anda seberapa aktif mereka di pesta tersebut-apakah mereka berpartisipasi dalam kegiatan atau berinteraksi dengan peserta lain, apakah mereka mengundang teman-teman mereka untuk datang bersama mereka, dan berapa lama mereka tinggal.
+
+Metrik adopsi untuk peluncuran produk atau layanan, seperti aplikasi, program perangkat lunak, layanan pengiriman, atau keanggotaan gym, akan serupa dengan contoh pesta. Namun, metrik ini bisa sedikit lebih kompleks jika Anda perlu melacak metrik untuk lebih dari satu hal, seperti apakah pengguna melakukan pembelian tambahan atau mendaftar untuk fitur premium.
+
+Setiap proyek perlu menentukan metrik adopsi yang berhasil, seperti:
+
+Tingkat konversi
+
+Waktu ke nilai (TTV)
+
+Tingkat penyelesaian orientasi
+
+Frekuensi pembelian
+
+Memberikan umpan balik (menilai produk atau layanan)
+
+Melengkapi profil
+
+Metrik keterlibatan memberi tahu Anda sejauh mana produk, layanan, atau proses digunakan. Metrik ini mengungkapkan frekuensi dan jenis interaksi dan partisipasi pelanggan dari waktu ke waktu. Metrik keterlibatan dapat mencakup tingkat penggunaan harian fitur desain atau melacak pesanan dan interaksi pelanggan.
+
+Sebagai manajer proyek, Anda tidak hanya peduli dengan tingkat keterlibatan pengguna akhir. Sama pentingnya untuk memantau keterlibatan pemangku kepentingan dan anggota tim juga. Mengukur partisipasi pemangku kepentingan dengan melacak frekuensi komunikasi, respons terhadap email atau pembaruan, kehadiran di rapat, atau tingkat masukan dapat memberi Anda gambaran apakah pemangku kepentingan menemukan nilai dalam proyek atau tidak. Kurangnya keterlibatan yang berarti dapat membuat proyek Anda berisiko. Para pemangku kepentingan mungkin tidak mengetahui perubahan atau kemajuan proyek secara keseluruhan, dan oleh karena itu hasil akhir proyek mungkin tidak memenuhi harapan mereka. Mengukur keterlibatan anggota tim sangat penting untuk keberhasilan proyek Anda karena semakin mereka terlibat, semakin produktif mereka, dan semakin besar kemungkinan mereka menghasilkan hasil yang berkualitas tinggi.
+
+Idealnya, Anda ingin metrik adopsi dan keterlibatan Anda meningkat atau setidaknya memenuhi metrik tujuan yang telah ditetapkan dengan para pemangku kepentingan di awal proyek. Jika tidak ada peningkatan, atau metriknya turun, maka tingkat Anda rendah dan karenanya tidak berhasil. Lihat sumber daya di bawah ini untuk pemahaman yang lebih mendalam tentang bagaimana dan mengapa mengukur adopsi dan keterlibatan.
+
+Hal-hal penting yang dapat diambil
+Data, metrik, dan analitik semuanya penting untuk keberhasilan proyek Anda. Anda harus memahami cara mengumpulkan dan mengukur data, serta cara menggunakan data tersebut untuk memberi tahu Anda tentang berbagai aspek proyek Anda. Bergantung pada proyek dan tujuan uniknya, beberapa metrik akan lebih penting daripada yang lain. Tugas Anda adalah memastikan bahwa Anda memahami metrik mana yang paling diminati oleh para pemangku kepentingan Anda dan elemen apa yang memengaruhi kemampuan tim Anda untuk memberikan hasil yang berkualitas tepat waktu dan sesuai anggaran.
+
+Ingin mempelajari lebih lanjut? Lihat sumber daya berikut ini: 
+
+Panduan Komprehensif Untuk Metrik Manajemen Proyek (https://www.wrike.com/blog/what-are-project-management-performance-metrics/)
+
+Manajemen Proyek Berbasis Data: 4 Poin Data Paling Penting untuk Diperhatikan (https://top5projectmanagement.com/articles/data-driven-project-management-the-4-most-important-data-points-to-look-at/)
+
+Analisis Proyek: Manfaat, Tantangan, dan Langkah Pertama (https://aliresources.hexagon.com/articles-blogs/project-analytics-benefits-challenges-and-first-steps)
+
+Analisis Proyek untuk Meningkatkan Pengambilan Keputusan Proyek dan Portofolio (https://www.pmi.org.in/conference2017/pdfs/papers-pdfs/theme-3-rapidly-changing-world/21-Project-Analytics-to-Improve-Project.pdf)
+
+Metrik Manajemen Proyek  (https://business.adobe.com/blog/basics/metrics)
+
+Metrik Produktivitas: Mengapa Mereka Penting & 4 Contoh (https://www.ringcentral.com/us/en/blog/productivity-metrics/)
+ 

@@ -1,0 +1,35 @@
+Saat wawancara untuk posisi manajer proyek, pewawancara mungkin akan meminta Anda untuk mendiskusikan alat manajemen proyek yang Anda kenal atau pernah Anda gunakan di masa lalu. Ada banyak jenis alat manajemen proyek yang akan Anda temui selama karier Anda. Alat-alat ini akan terus berkembang dan berubah seiring dengan perkembangan teknologi. Kemampuan untuk berbicara tentang alat-alat ini, dan bagaimana Anda menggunakannya, akan sangat penting untuk mendapatkan pekerjaan tersebut.
+
+Selain pewawancara mengajukan pertanyaan umum tentang alat bantu, mereka mungkin akan mengajukan pertanyaan yang lebih spesifik, seperti "Bagaimana Anda tahu jika sebuah proyek keluar dari jalur?" Penting untuk mengaitkan jawaban ini dengan jenis-jenis alat penjadwalan yang telah Anda pelajari dalam kursus ini. Jika Anda belum memiliki pengalaman bekerja dengan alat penjadwalan tertentu, seperti Smartsheet atau spreadsheet digital-cobalah untuk memanfaatkan pengalaman nyata.
+
+Sebagai contoh, apakah Anda pernah merencanakan untuk pindah rumah? Jika ya, Anda bisa mendiskusikan bagaimana Anda merencanakan jadwal dan menjadwalkan vendor sehingga Anda bisa memenuhi tanggal pindahan Anda. Apakah Anda menggunakan spreadsheet untuk melacak anggaran, jadwal, dan barang-barang Anda? Pengalaman ini menunjukkan bahwa Anda memahami cara menggunakan alat bantu. Hal ini juga menunjukkan bahwa Anda mengetahui pentingnya membuat, memantau, dan mengelola jadwal proyek untuk memberikan hasil pada saat penyelesaian proyek.
+
+Pertanyaan terkait lainnya yang mungkin ditanyakan oleh pewawancara adalah, "Bagaimana Anda menjalankan tugas sesuai dengan jadwal Anda?" Ini adalah kesempatan yang bagus untuk menunjukkan kemampuan Anda untuk menjadi produktif dengan membagikan pengalaman Anda menggunakan alat bantu, seperti dokumen digital atau spreadsheet. Alat-alat ini membantu Anda membuat artefak proyek, melacak tugas, dan menyimpan detail proyek di satu tempat! Anda juga dapat menggunakannya sebagai alat kolaborasi karena mudah dibagikan dengan rekan tim dan pemangku kepentingan dan memungkinkan pembaruan secara real-time.
+
+Terakhir, ada alat manajemen proyek khusus, juga disebut alat manajemen kerja, yang menempatkan semua manfaat yang dibahas di atas ke dalam satu tempat. Alat manajemen proyek seperti Asana, Monday.com, Basecamp, dan Trello adalah beberapa di antara beberapa alat yang berada di peringkat teratas untuk mengelola proyek. Alat-alat ini membantu Anda merencanakan, melacak, dan menyelesaikan pekerjaan di berbagai fase proyek. Alat-alat ini sering kali memiliki tata letak yang menarik secara visual dan fitur otomatis yang menghemat waktu dan menciptakan efisiensi dalam tugas sehari-hari manajer proyek. Menjelaskan pengetahuan Anda tentang alat-alat ini-dan bagaimana alat-alat ini bermanfaat bagi manajer proyek, tim, dan perusahaan-dalam sebuah wawancara merupakan cara yang bagus untuk menunjukkan bahwa Anda memenuhi syarat untuk peran tersebut.
+
+Kiatprofesional: Pelajari lebih lanjut dengan mencoba tutorial gratis atau versi uji coba alat manajemen proyek populer. Dengan menavigasi perangkat lunak manajemen proyek, Anda akan dapat menjelaskan penggunaan dan fungsionalitas jenis alat bantu ini secara langsung. Berikut ini beberapa contoh untuk memulai:
+
+Asana (https://asana.com/id)
+ dan 
+Panduan Asana (https://help.asana.com/hc/id/)
+
+Basecamp (https://basecamp.com/)
+
+Trello (https://trello.com/en)
+
+Jira (https://www.atlassian.com/software/jira)
+
+ClickUp (https://clickup.com/)
+
+Monday.com (https://monday.com/)
+
+Microsoft Project (https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
+ atau 
+Project Libre (https://www.projectlibre.com/)
+ (sumber terbuka)
+
+Smartsheet (https://www.smartsheet.com/)
+Demo (https://www.youtube.com/watch?v=quGpnXiCUms)
+
+

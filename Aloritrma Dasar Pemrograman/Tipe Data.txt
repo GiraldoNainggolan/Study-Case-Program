@@ -1,0 +1,38 @@
+Pengertian: digunakan untuk mempresentasikan nilai suatu data (sesuai dengan bahasa pemrograman yang digunakan)
+
+JENIS TIPE DATA:
+1.  Bilangan Bulat
+2.  Bilangan Pecahan
+3.  Karakter / Teks
+4.  Boolean
+
+Pembahasan:
+
+* BILANGAN Bulat
+Dipakai untuk menyatakan bilangan yang tidak mempunyai pecahan desimal, misalnya 34, 8. 1203, -7, 43234553, dll. 
+
+Jenis Tipe Data -> Ukuran (bit) -> Range :
+1. Byte -> 8 -> -128 s/d 127
+2. Short -> 16 -> -32768 s/d 32767
+3. Int -> 32 -> -2147483648 s/d 2147483647
+4. Long -> 64 -> -9223372036854775808 s.d. 9223372036854775807
+
+* BILANGAN PECAHAN
+Dipakau untuk menyatakan bilangan yang mempunyai pecahan desimal, misalnya 3.65, 0.0045, 29.0, dll.
+
+Jenis Tipe Data -> Ukuran (bit) -> Range :
+Float -> 32 -> -3.4 x 1038 s/d 4.4 x1038
+Double -> 64 -> - 1.8 x 10308 s.d. 1.8 x 10308
+
+* KARAKTER / TEKS 
+Karakter -> Dipakau untuk menyatakan simbol (angka, huruf, special character).
+Teks -> Kumpulan dari karakter
+
+Jenis Tipe Data -> Ukuran (bit) -> Range :
+Char -> 16 -> 0 s/d 65535
+
+* BOOLEAN 
+Dipakai untuk menyatakan nilai Benar/True/1 atau Salah/False/0
+
+Jenis Tipe Data -> Ukuran (bit) -> Range :
+Boolean -> tidak ada (-) -> True / False

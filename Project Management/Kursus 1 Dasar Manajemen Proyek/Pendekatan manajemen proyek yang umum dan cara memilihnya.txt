@@ -1,0 +1,25 @@
+Pendekatan manajemen proyek yang populer
+Di bawah ini adalah ringkasan singkat dari beberapa pendekatan manajemen proyek yang telah Anda perkenalkan sejauh ini:
+
+Waterfall adalah metodologi tradisional di mana tugas dan fase diselesaikan secara linier dan berurutan, dan setiap tahap proyek harus diselesaikan sebelum tahap berikutnya dimulai. Manajer proyek bertanggung jawab untuk memprioritaskan dan menugaskan tugas kepada anggota tim. Dalam Waterfall, kriteria yang digunakan untuk mengukur kualitas didefinisikan dengan jelas di awal proyek.
+
+Agile melibatkan fase-fase pendek kerja kolaboratif dan berulang dengan pengujian yang sering dilakukan dan perbaikan yang diimplementasikan secara teratur. Beberapa fase dan tugas terjadi pada waktu yang sama dengan yang lain. Dalam proyek Agile, tim berbagi tanggung jawab untuk mengelola pekerjaan mereka sendiri. Scrum dan Kanban adalah contoh kerangka kerja Agile, yang merupakan pendekatan pengembangan spesifik berdasarkan filosofi Agile.
+
+Scrum adalah kerangka kerja Agile yang berfokus pada pengembangan, pengiriman, dan pemeliharaan proyek dan produk yang kompleks melalui kolaborasi, akuntabilitas, dan proses berulang. Pekerjaan diselesaikan oleh tim kecil lintas fungsi yang dipimpin oleh Scrum Master dan dibagi menjadi beberapa Sprint pendek dengan daftar hasil yang telah ditentukan.
+
+Kanban adalah alat yang digunakan dalam pendekatan Agile dan Lean yang memberikan umpan balik visual tentang status pekerjaan yang sedang berlangsung melalui penggunaan papan atau bagan Kanban. Dengan Kanban, manajer proyek menggunakan catatan tempel atau kartu catatan di papan Kanban fisik atau digital untuk mewakili tugas-tugas tim dengan kategori seperti "Harus dilakukan", "Sedang berlangsung", dan "Selesai"
+
+Lean menggunakan alat bantu kualitas 5S untuk menghilangkan delapan area pemborosan, menghemat uang, meningkatkan kualitas, dan merampingkan proses. Prinsip-prinsip Lean menyatakan bahwa Anda dapat melakukan lebih banyak dengan lebih sedikit dengan mengatasi disfungsi yang menciptakan pemborosan. Lean mengimplementasikan sistem penjadwalan Kanban untuk mengelola produksi.
+
+Six Sigma melibatkan pengurangan variasi dengan memastikan bahwa proses kualitas diikuti setiap saat. Metode Six Sigma mengikuti pendekatan peningkatan proses yang disebut DMAIC, yang merupakan singkatan dari define, measure, analyze, improve, dan control.
+
+Lean Six Sigma merupakan kombinasi dari pendekatan Lean dan Six Sigma. Pendekatan ini sering digunakan dalam proyek-proyek yang bertujuan untuk menghemat uang, meningkatkan kualitas, dan bergerak melalui proses dengan cepat. Lean Six Sigma juga ideal untuk memecahkan masalah yang kompleks atau berisiko tinggi. Kerangka kerja organisasi 5S, proses DMAIC, dan penggunaan papan Kanban adalah komponen dari pendekatan ini. 
+
+Terlepas dari perbedaannya, semua metodologi manajemen proyek ini membutuhkan komunikasi dan kolaborasi di antara berbagai tim dan bertujuan untuk menyelesaikan proyek tepat waktu dan sesuai anggaran.
+
+Seorang wanita sedang berpikir dengan tangan di dagu. Tiga gelembung pikiran keluar dari kepalanya.
+Memilih pendekatan manajemen proyek
+Dengan banyaknya metodologi yang tersedia, ada banyak pilihan yang dapat digunakan untuk proyek Anda. Karena proyek dan organisasi tempat Anda akan menjalankannya sangat bervariasi, pendekatan yang Anda pilih untuk diterapkan pada setiap proyek akan berbeda-beda. Di Google, kami sering menggunakan gabungan pendekatan dan kerangka kerja untuk mencapai tujuan proyek secara efisien! Semua pendekatan dapat digabungkan dengan pendekatan lainnya, tergantung pada kebutuhan proyek Anda.
+
+Memilih pendekatan yang paling sesuai untuk proyek, organisasi, dan tim membutuhkan waktu dan latihan. Anda akan belajar lebih banyak tentang cara memilih pendekatan manajemen proyek di seluruh program sertifikat ini. Sementara itu, lihatlah bagaimana artikel ini menguraikan metodologi umum dan kapan (atau kapan tidak) menggunakannya: 
+Metodologi manajemen proyek mana yang harus Anda gunakan? https://www.teamwork.com/project-management-guide/project-management-methodologies/

@@ -1,0 +1,18 @@
+Pengertian: cara menuliskan instruksi-instruksi yang harus dilaksanakan dalam bentuk kalimat deskriptif dengan menggunakan bashasa yang jelas.
+
+TIPS Membuat Kalimat Deskriptif:
+1. Bahasa baku
+2. Mudah dimengerti
+3. Berkoresponden dengan notasi Pemrograman
+
+Contoh di Kehidupan (Memasak nasi):
+Ambilkan beras -> Bersihkan beras -> Kukus -> Nasi siap dihidangkan 
+
+Contoh di Pemrograman:
+PROGRAM Persegi Panjang
+Program untuk menghitung luas persegi panjang.
+
+ALGORITMA :
+1. Masukkan/input panjang dan lebar persegi panjang.
+2. Hitung luas persegi panjang dengan rumus: Luas = Panjang x Lebar
+3. Tampilkan luas persegi panjang.

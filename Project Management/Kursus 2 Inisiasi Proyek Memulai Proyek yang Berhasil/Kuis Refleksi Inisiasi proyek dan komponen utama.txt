@@ -1,0 +1,57 @@
+Dalam latihan ini, Anda akan membaca sebuah skenario dan mengidentifikasi enam komponen utama dari inisiasi proyek:
+
+Tujuan
+
+Ruang lingkup
+
+Hasil proyek
+
+Kriteria keberhasilan
+
+Pemangku kepentingan
+
+Sumber daya
+
+Mulailah dengan membaca skenarionya:
+
+Bayangkan Anda adalah seorang manajer proyek di sebuah perusahaan perangkat lunak pendidikan. Anda ditugaskan untuk mengembangkan sebuah proyek baru untuk mengembangkan platform penilaian digital untuk sebuah sekolah menengah setempat. Sebelum memulai proyek, Anda bertemu dengan guru, administrator sekolah, departemen TI sekolah, dan pengawas distrik untuk mendiskusikan proyek tersebut dan mendapatkan masukan dari mereka.
+
+Selama pertemuan ini, Anda mengorganisir pemikiran Anda dengan menuliskan komponen-komponen kunci proyek yang diminta oleh para pemangku kepentingan. Catatan Anda tentang komponen-komponen kunci tersebut adalah:
+
+anggaran maksimum $150.000
+
+Tim: dapat menambahkan satu anggota dari departemen TI sekolah
+
+Platform harus memungkinkan guru untuk memasukkan nilai dan memungkinkan siswa/orang tua untuk melihat nilai
+
+Perlu dukungan penuh dari guru di sekolah menengah: adopsi 100% dalam sembilan bulan ke depan
+
+Proyek harus fokus hanya pada platform penilaian digital dan TIDAK berdampak pada platform digital lainnya (mis. kehadiran, pembayaran makan siang sekolah)
+
+Secara keseluruhan, sekolah sedang mencari platform untuk penilaian digital
+
+Langkah selanjutnya dalam proyek ini adalah mengatur komponen-komponen utama ke dalam piagam proyek. Anda kemudian akan mempresentasikan piagam tersebut kepada individu yang terlibat dalam proyek. Piagam proyek memastikan semua orang selaras sebelum merencanakan dan kemudian melaksanakan proyek.
+
+Manakah dari komponen utama yang menjadi tujuan proyek? Tuliskan satu kalimat.
+-> **Tujuan proyek** adalah **"Secara keseluruhan, sekolah sedang mencari platform untuk penilaian digital."**
+ 
+Komponen kunci mana yang menguraikan ruang lingkup proyek? Tuliskan satu kalimat.
+-> **Ruang lingkup proyek** adalah **"Proyek harus fokus hanya pada platform penilaian digital dan TIDAK berdampak pada platform digital lainnya (mis. kehadiran, pembayaran makan siang sekolah)."**
+
+Manakah dari komponen utama yang menjadi tujuan proyek? Tuliskan satu kalimat.
+-> Tujuan proyek adalah "Secara keseluruhan, sekolah sedang mencari platform untuk penilaian digital.
+
+Komponen kunci apa yang merupakan hasil proyek? Tuliskan satu kalimat.
+-> **Hasil proyek** adalah **"Platform harus memungkinkan guru untuk memasukkan nilai dan memungkinkan siswa/orang tua untuk melihat nilai."**
+
+Komponen kunci apa yang merupakan hasil proyek? Tuliskan satu kalimat.
+-> Hasil proyek adalah "Platform harus memungkinkan guru untuk memasukkan nilai dan memungkinkan siswa/orang tua untuk melihat nilai."
+
+Komponen kunci mana yang menguraikan kriteria keberhasilan proyek? Tuliskan satu kalimat.
+-> Kriteria keberhasilan proyek adalah "Perlu dukungan penuh dari guru di sekolah menengah: adopsi 100% dalam sembilan bulan ke depan."
+
+Siapa saja pemangku kepentingan proyek? Tuliskan satu kalimat.
+-> **Pemangku kepentingan proyek** adalah **guru, administrator sekolah, departemen TI sekolah, dan pengawas distrik.**
+
+Komponen utama mana yang menguraikan sumber daya yang akan Anda miliki untuk proyek ini?
+-> **Sumber daya** yang akan Anda miliki untuk proyek ini diuraikan dalam **"Anggaran maksimum $150.000 dan tim yang dapat menambahkan satu anggota dari departemen TI sekolah."**

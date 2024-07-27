@@ -1,0 +1,15 @@
+Pengertian: Digunakan jika didalam program, sebuah perintah dikerjakan persyaratan atau kondisi tertentu dipenuhi, biasanya melibatkan desision (benar atau salah).
+
+Contoh Penggunaan,
+PENERIMAAN KARYAWAN
+SYARAT: >= 17 tahun, L||P, >= SLTA.
+Inputan: Kemampuan -> == 17 tahun, L, SLTP.
+AND: KEMAMPUAN -> ==17 TAHUN, L , SLTP. (logika yang digunakan tidak cocok karna simbolnya & harus mencakup nilai sempurna sedangkan bagian SLTP itu mempengarhuiny).
+OR: KEMAMPUAN -> == 17 TAHUN, L, SLTP. (logika ini bisa digunakan karna simbol || or digunakan untuk menenetukan nilai benar).
+
+
+JENIS-JENSI LOGIKA PERCABANGAN
+1. IF TUNGGAL
+2. IF GANDA
+3. IF MAJEMUK
+4. CASE

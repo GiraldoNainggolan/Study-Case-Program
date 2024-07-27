@@ -1,0 +1,37 @@
+Dalam pelajaran ini, Anda akan belajar mendefinisikan dan membuat tujuan dan hasil proyek yang terukur. Sekarang, mari kita fokus pada tujuan yang SMART.
+
+Sasaran yangSpesifik, Terukur, Dapat Dicapai, Relevan , dan Terikat Waktu (SMART ) sangat membantu untuk memastikan keberhasilan proyek. Ketika Anda memulai karier dalam manajemen proyek, Anda mungkin tidak secara langsung menetapkan tujuan proyek, tetapi Anda harus dapat mengklarifikasi dan memahaminya. Sasaran SMART membantu Anda melihat cakupan penuh dari sebuah tujuan, menentukan kelayakannya, dan dengan jelas mendefinisikan kesuksesan proyek secara konkret.
+
+Mari kita rekap apa yang telah kita bahas di video sebelumnya dengan melihat rincian kriteria tujuan SMART di bawah ini:
+
+
+Enam Ikon untuk tujuan-tujuan SMART: Spesifik, Terukur, Dapat Dicapai, Relevan, Terikat waktu
+
+Spesifik: Tujuan tidak memiliki ambiguitas yang dapat disalahartikan oleh tim proyek.
+
+Terukur: Metrik membantu tim proyek menentukan kapan tujuan tercapai.
+
+Dapat dicapai: Tim proyek setuju bahwa tujuan tersebut realistis.
+
+Relevan: Sasaran sesuai dengan rencana strategis organisasi dan mendukung piagam proyek.
+
+Terikat waktu: Tim proyek mendokumentasikan tanggal untuk mencapai tujuan.
+
+Anda mungkin melihat variasi dari setiap huruf dalam singkatan "SMART". (Misalnya, Anda mungkin melihat "dapat ditindaklanjuti" atau "dapat dicapai" alih-alih "dapat dicapai" atau "realistis" alih-alih "relevan.") Namun, maksud umum dari masing-masing istilah ini-untuk memastikan tujuan dapat dicapai-selalu serupa.
+
+Memfokuskan pada huruf "M" dalam SMART
+Mari kita luangkan waktu sejenak untuk memperbesar huruf M dalam SMART, yang merupakan singkatan dari terukur. Memiliki tujuan yang terukur memungkinkan Anda untuk menilai keberhasilan proyek Anda berdasarkan metrik yang dapat diukur atau berwujud, seperti jumlah dolar, jumlah output, jumlah, dll. Tujuan yang terukur penting karena mereka menyisakan sedikit ruang untuk kebingungan seputar ekspektasi dari para pemangku kepentingan.
+
+Tidak semua metrik memiliki nilai, jadi Anda harus menentukan metrik mana yang masuk akal untuk proyek tersebut. Misalnya, mengukur berapa banyak pertemuan yang dihadiri oleh insinyur perangkat lunak dalam proyek Anda setiap minggunya mungkin bukan metrik yang paling berharga untuk tujuan produktivitas. Sebagai alternatif, Anda dapat mengukur aspek lain dari produktivitas insinyur, seperti jumlah fitur yang dibuat per insinyur atau jumlah masalah yang ditandai per hari.
+
+Menentukan sasaran SMART
+Mari kita jelajahi sebuah contoh yang berkaitan dengan membuat tujuan pribadi yang terukur. Bayangkan Anda ingin melakukan perubahan karier, dan Anda menetapkan tujuan untuk menyelesaikan Sertifikat Karier Google. Anda dapat mengukur keberhasilan tujuan ini karena setelah menyelesaikan seluruh program, Anda akan menerima sertifikat-sebuah hasil yang nyata.
+
+Sekarang, mari kita tentukan cara membuat elemen lain dari sasaran ini menjadi SMART. Dalam contoh ini, tujuan spesifik Anda adalah mendapatkan Google Career Certificate. Anda dapat membuat tujuan ini dapat dicapai dengan memutuskan bahwa Anda akan menyelesaikan satu kursus per bulan. Sasaran ini relevan karena mendukung keinginan Anda untuk melakukan perubahan karier. Terakhir, Anda dapat membuat tujuan ini terikat waktu dengan memutuskan bahwa Anda akan menyelesaikan program ini dalam waktu enam bulan.
+
+Setelah menentukan masing-masing komponen ini, maka tujuan SMART Anda akan menjadi: Mendapatkan Sertifikat Google Career dengan mengambil satu kursus per bulan dalam waktu enam bulan ke depan.
+
+Hal-hal penting yang dapat diambil
+Menentukan metrik dapat sangat membantu dalam menangkap status, keberhasilan, penundaan, dan lainnya dalam sebuah proyek. Sebagai manajer proyek, mengidentifikasi metrik yang berarti dapat membantu menggerakkan proyek menuju tujuannya. Selain itu, dengan mendefinisikan setiap elemen dari tujuan proyek untuk menjadikannya SMART, Anda dapat menentukan apa arti kesuksesan untuk tujuan tersebut dan bagaimana cara mencapainya.
+
+

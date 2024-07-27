@@ -1,0 +1,42 @@
+* MySQL SQL
+Pengertian: SQL adalah bahasa standar untuk menangani Database Relasional.
+SQL digunakan untuk menyisipkan, mencari, memperbarui, dan menghapus catatan database.
+
+Pernyataan SQL berikut memilih semua catatan dalam tabel "Pelanggan":
+SELECT * FROM Customers;
+
+* MySQL SELECT
+Pernyataan ini SELECTdigunakan untuk memilih data dari database.
+
+Data yang dikembalikan disimpan dalam tabel hasil, yang disebut kumpulan hasil.
+
+* MySQL WHERE
+* MySQL AND, OR, NOT
+* MySQL ORDER BY
+* MySQL INSERT INTO
+* MySQL NULL Values
+* MySQL UPDATE
+* MySQL DELETE
+* MySQL LIMIT
+* MySQL COUNT, AVG, semua
+* MySQL LIKE
+* MySQL WildcardS
+* MySQL IN
+* MySQL BETWEEN
+* MySQL Aliases
+* MySQL Joins
+* MySQL INNER JOIN
+* MySQL LEFT JOIN
+* MySQL RIGHT JOIN
+* MySQL CROSS JOIN
+* MySQL Self Joins
+* MySQL UNION
+* MySQL GROUP BY
+* MySQL HAVING
+* MySQL EXISTS
+* MySQL ANY, ALL
+* MySQL INSERT SELECT
+* MySQL CASE
+* MySQL Null Functions
+* MySQL Comments
+* MySQL Operators

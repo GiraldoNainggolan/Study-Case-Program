@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex</title>
+    <style>
+        .section {
+            display: flex;
+            width: 100%;
+            height: auto;
+            min-height: 100vh;
+
+            /* Deskop 1 */
+            /* justify-content: center; */
+
+            /* Deskop 2 */
+            /* justify-content: center;
+            align-content: center;
+            align-items: center; */
+            /* flex-wrap: wrap; */
+
+            /* Deskop 3 */
+            /* justify-content: center;*/
+            align-items: center;
+            flex-direction: column-reverse;
+
+            /* Deskop 4 */
+            /* justify-content: flex-end;
+            align-items: end; */
+
+            /* Deskop 5 */
+            /* justify-content: flex-end; */
+
+            /* Deskop 6 */
+            /* align-items: center; */
+
+        }
+
+        .container {
+            padding: 40px;
+            display: flex;
+            gap: 50px 20px;
+
+            /* Properti ini menentukan arah utama (main axis) dalam container flex dan secara efektif mengatur bagaimana elemen flex ditempatkan dalam container. */
+            /* flex adalah model tata letak (layout) yang diperkenalkan dalam CSS */
+            /* flex-direction: row; -> row: Objek ditempatkan sama dengan arah teks.
+            /* flex-direction: row-reverse; -> row-reverse: Objek ditempatkan berlawanan dengan arah teks. Tetapi berarah terbalik (kanan ke kiri). */
+            /* flex-direction: column; -> Column: objek akan disusun secara vertikal dari atas ke bawah. */
+            /* flex-direction: column-reverse; -> Column-reverse: Objek ditempatkan dari bawah ke atas., tetapi dengan arah terbalik (bawah ke atas). */
+
+            /* Properti ini menentukan apakah elemen flex akan melibas (wrap) ke baris atau kolom berikutnya jika tidak cukup ruang dalam container. */
+            /* flex-wrap: nowrap; -> nowrap: Setiap objek pada satu baris.
+            /* flex-wrap: wrap; -> wrap: Objek membungkus ke baris tambahan.
+            /* flex-wrap: wrap-reverse; -> wrap-reverse: Objek membungkus ke garis tambahan wrap secara terbalik
+
+            /* Properti ini mengontrol cara elemen flex ditempatkan sepanjang sumbu utama container.  */
+            /* justify-content: flex-start; -> flex-start: Objek sejajar dengan sisi kiri wadah.
+            /* justify-content: flex-end; -> flex-end: Objek sejajar dengan sisi kanan wadah.
+            /* justify-content: center; -> center: Objek sejajar di tengah wadah.
+            /* justify-content: space-between; -> space-between: Objek ditampilkan dengan jarak yang sama di antara mereka.
+            /* justify-content: space-evenly; Space-evenly: setiap child element akan memiliki jarak yang setara, termasuk jarak ke tepi main-start dan main-end. */
+            /* justify-content: space-around; -> space-around: Objek ditampilkan dengan jarak yang sama di sekitarnya. */
+
+            /* Properti ini mengontrol cara elemen flex ditempatkan sepanjang sumbu silang container. */
+            /* align-items: stretch; -> stretch : Item diregangkan agar sesuai dengan wadah. */
+            /* align-items: flex-start; -> flex-start: Objek sejajar dengan bagian atas wadah.
+            /* align-items: flex-end; -> flex-end : Objek sejajar dengan bagian bawah wadah.
+            /* align-items: center; -> center: Objek sejajar dengan bagian tengah wadah.  
+            /* align-items: baseline; -> baseline: Item ditampilkan di garis dasar wadah.*/
+
+            /* Properti ini mengontrol cara beberapa baris atau kolom elemen flex ditempatkan sepanjang sumbu silang container. Ini hanya berlaku jika ada lebih dari satu baris atau kolom.      */
+            /* align-content: default; -> Normal (default): Jika kita tidak menerapkan value pada align content, flex items akan diposisikan secara default. */
+            /* align-content: flex-start; -> Flex-start: flex items ditata pada permulaan flex container. */
+            /* align-content: flex-end; -> Flex-end: flex items ditata pada akhir flex container. */
+            /* align-content: center; -> Center: flex items diposisikan di tengah flex container. */
+            /* align-content: space-between; Space-between: flex items akan disebar secara merata, item pertama akan diposisikan pada cross-start dan item terakhir akan diposisikan pada cross-end. */
+            /* align-content: space-around; -> Space-around: flex items akan disebar secara merata dengan jarak celah yang sama juga. */
+            /* align-content: space-evenly; -> Space-evenly: flex items akan disebar secara merata dengan jarak yang merata juga. */
+
+            /* Dua properti flex-direction dan flex-wrap sering digunakan bersamaan shorthand properti flex-flow dibuat untuk menggabungkan keduanya.  */
+            /* Properti lain yang dapat kamu terapkan untuk masing-masing objek adalah align-self. Properti ini memiliki nilai yang sama dengan align-items dan nilainya untuk item tertentu. */
+
+            /* Gap atau celah */
+            /* gap: 1rem; /* diterapkan secara vertikal dan horizontal dengan nilai yang sama */
+            /* gap: 1rem 2rem; /* diterapkan secara vertikal dan horizontal */
+            /* row-gap: 1rem; /* diterapkan secara horizontal */
+            /* column-gap: 1rem;  diterapkan secara vertikal */
+
+            /* Deskop 1 */
+            /* align-items: center;
+            gap: 10px 20px; */
+
+            /* Deskop 2 */
+            /* flex-direction: column; */
+
+            /* Deskop 3 */
+            /* flex-direction: row-reverse; */
+            align-items: center; 
+            /* order: 1;
+
+
+            /* Deskop 4 */
+            /* flex-direction: column; */
+
+
+            /* Deskop 5 */
+            /* flex-direction: row-reverse;
+            align-items: end; */
+            /* flex-wrap: wrap-reverse; */
+
+
+            /* Destop 6 */
+            /* flex-direction: column-reverse;
+            justify-content: flex-start; */
+
+        }
+
+        .circle {
+            display: flex;
+            height: 200px;
+            width: 200px;
+            border-radius: 100%;
+            background-color: greenyellow;
+            margin: 10px;
+
+        }
+        .circle:nth-child(3) {
+        }
+
+        .circle:nth-child(3) {
+            display: flex;
+            height: 200px;
+            width: 200px;
+            border-radius: 100%;
+            background-color: rgb(255, 47, 47);
+            margin: 10px;
+            order: 2;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="section">
+        <div class="container">
+            <div class="circle"></div>
+            <div class="circle">box 2</div>
+            <div class="circle">box 3</div>
+        </div>
+    </div>
+</body>
+
+</html>

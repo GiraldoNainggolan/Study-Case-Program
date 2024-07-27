@@ -1,0 +1,47 @@
+Pengertian: Merupakan simbol-simbol yang digunakan untuk operasi data tertentu saat dilakukan eksekusi program.
+
+JENIS OPERATOR SECARA UMUM
+1. Operator Penugasan 
+2. Operator Aritmatika
+3. Operator Pembanding
+4.Operator Logika
+
+* OPERATOR Penugasan
+Digunakan untuk memberikan nilai kedalam variabel.
+misalnya: X = 2 (artinya nilai 2 dimasukkan ke variable X)
+
+* OPERATOR ARITMATIKA
+Digunakan untuk operasi perhitungan.
+
+Operator -> operasi
++ -> Pemjumlahan
+- -> Pengurangan
+* -> Perkalian
+/ -> Pembagian
+% -> Sisa pembagian
+++ -> Penambahan dengan 1 (satu)
+-- -> Pengurangan dengan 1 (satu)
+
+* OPERATOR PEMBANDING 
+Digunakan untuk membadingkan dua nilai / variable dan hasilnya TRUE atau FALSE 
+
+Operator -> Operasi
+< -> Kurang dari 
+> -> Lebih dari 
+<= -> Kurang dari sama dengan
+>= -> Lebih dari sama dengan
+== -> Sama dengan 
+!= -> Tidak sama dengan
+
+* OPERATOR LOGIKA 
+Digunakan untuk membadingkan dua ekspresi / Ungkapan boolean dan hasilnya adalah TRUE atau FALSE.
+
+Operator -> Operasi 
+&& -> AND
+|| -> OR 
+! -> NOT
+
+* TABLE KEBENARAN (ini berhubungan dengan OPERATOR LOGIKA)
+& -> digunakan untuk menentukan kesempurnaan dari kebenaran tanpa ada kecacatan dalam artian harus keduanya benar.
+|| -> digunakan untuk menentukan nilai benar.
+!(A) -> tanda seru ini digunakan untuk membuat pernyataan terbalik dari nilai yang diyang ingin ditentukan atau biasa disebut negasi.

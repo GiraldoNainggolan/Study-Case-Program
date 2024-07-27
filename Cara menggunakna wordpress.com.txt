@@ -1,0 +1,13 @@
+Cara menggunakna wordpress.com:
+
+1. masuk ke webnya
+2. pilih hosingan ketik dipencarian "sesuai_anda"
+3. kunjungi web pada dasbordnya kemudian salin linknya
+4. tempelkan salinan link wordpress tadi di menu samaran 
+5. kembali ke halaman web kemudian active webnya
+6. kemudian masuk ke menu theme
+7. pilih theme yang gratis "Dyad 2"
+
+
+
+konsultasi, manajemen, mechanic, bantuan

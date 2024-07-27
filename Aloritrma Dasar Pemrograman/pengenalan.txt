@@ -1,0 +1,20 @@
+Pengertian alpro = urutan langkah-langkah untuk menyelesaikan masalah pemrograman komputer gabungan materi aljabar dan algoritma.
+
+Analogi yang mencakup:
+(Masalah) Membuat algoritma diawali dengan adanya masalah -> (Algoritma) Membuat algoritma untuk menjadikan pedoman pembuatan program -> (Program Komputer) Program komputer sesuai pedoman algoritma -> (Solusi) Solusi akan tercapai.
+
+Cara Mendeskripsikan Masalah:
+Menjabarkan Masalah -> Merinci masalah untuk menyelesaikan masalah -> membuat sarna interaksi manusia-komputer
+
+Masalah --> Program Komputer:
+Bentuk urutan masalah -> Tentukan bahasa pemrograman -> Konsep mesin komputer
+
+Kesimpulan:
+* Penyusunan aspek proses logika dari suatu pemecahan masalah tanpa melihat bahsa pemrograman yang akan digunakan.
+* Urutan notasi logika yang merupakan strategis dan rancangan sistematis dari stratergis pemecahan masalah, untuk menggambarkan urutan langkah kerja yang jika dikerjakan akan membawa ketujuannya.
+* Urutan logika angka kerja untuk menyelesaikan suatu masalah
+
+Notasi Algoritma:
+1. Untaian Kalimt Deskriptif
+2. Flowchart
+3. Pseudocode

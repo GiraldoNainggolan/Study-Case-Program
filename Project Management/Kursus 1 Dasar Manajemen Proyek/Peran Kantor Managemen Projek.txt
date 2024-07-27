@@ -1,0 +1,30 @@
+Peran Kantor Manajemen ProyekStatus: Diterjemahkan secara otomatis dari bahasa Bahasa Inggris
+Diterjemahkan secara otomatis dari bahasa Bahasa Inggris
+Dalam pelajaran ini, Anda akan mempelajari berbagai jenis struktur organisasi. Manajer proyek memiliki fungsi utama dalam organisasi Klasik dan Matriks. Di dalam kedua jenis struktur ini, terkadang ada kelompok yang didedikasikan khusus untuk manajemen proyek dalam organisasi: Kantor Manajemen Proyek. Dalam bacaan ini, kita akan membahas tujuan dan fungsi Kantor Manajemen Proyek.
+
+Apa yang dimaksud dengan PMO?
+Kantor Manajemen Proyek, atau PMO, adalah sebuah kelompok dalam sebuah organisasi yang mendefinisikan, menetapkan, dan membantu menjaga standar dan proses manajemen proyek di seluruh organisasi tersebut. PMO sering kali bertindak sebagai pusat koordinasi untuk semua proyek organisasi, membantu proyek-proyek tersebut berjalan lebih lancar dan efisien.
+
+Manajer proyek organisasi dapat beroperasi di dalam PMO itu sendiri atau di dalam departemen lain. Di Google, misalnya, ada manajer proyek yang bekerja di PMO yang berfokus pada keunggulan operasional, tetapi ada banyak manajer proyek dan program di departemen lain di seluruh organisasi.
+
+Apa saja fungsi dari PMO?
+PMO menawarkan panduan dan dukungan kepada manajer proyek organisasi mereka. Mereka berbagi praktik terbaik, status proyek, dan arahan untuk semua proyek organisasi sambil sering kali mengambil proyek strategis itu sendiri. Fungsi utama PMO meliputi:
+
+Perencanaan dan tata kelola strategis
+Ini adalah fungsi terpenting dari PMO. Hal ini melibatkan pendefinisian kriteria proyek, memilih proyek sesuai dengan tujuan bisnis organisasi, dan kemudian memberikan kasus bisnis untuk proyek-proyek tersebut kepada manajemen.
+
+Praktik terbaik
+PMO membantu mengimplementasikan praktik dan proses terbaik dalam organisasi mereka. Mereka juga berbagi pelajaran yang didapat dari proyek-proyek sukses sebelumnya. Mereka membantu memastikan konsistensi di antara proyek-proyek organisasi mereka dengan memberikan panduan tentang proses, alat, dan metrik.
+
+Budaya proyek yang umum
+PMO membantu menetapkan praktik budaya proyek yang umum dengan melatih karyawan tentang pendekatan yang optimal dan praktik terbaik. Hal ini membantu menjaga praktik manajemen proyek tetap konsisten dan efisien di seluruh organisasi.
+
+Manajemen sumber daya
+PMO sering kali bertanggung jawab untuk mengelola dan mengalokasikan sumber daya-seperti orang dan peralatan-di seluruh proyek di seluruh organisasi berdasarkan anggaran, prioritas, jadwal, dan lainnya. Mereka juga membantu mendefinisikan peran dan tanggung jawab yang diperlukan pada proyek tertentu. PMO memberikan pelatihan, pendampingan, dan pembinaan kepada semua karyawan, khususnya manajer proyek.
+
+Pembuatan dokumentasi, arsip, dan alat proyek
+PMO berinvestasi dan menyediakan template, alat, dan perangkat lunak untuk membantu mengelola proyek. Mereka juga memainkan peran penting dalam menjaga sejarah proyek organisasi mereka. Setelah proyek selesai, mereka mengarsipkan semua dokumen yang dibuat selama proyek berlangsung untuk referensi di masa mendatang dan untuk menangkap pelajaran yang didapat.
+
+Hal-hal penting yang dapat diambil
+Singkatnya, tujuan utama PMO meliputi: perencanaan strategis dan tata kelola, menerapkan praktik terbaik manajemen proyek, membangun budaya proyek yang sama, manajemen sumber daya, dan membuat dokumentasi, arsip, dan alat bantu proyek. PMO mendukung organisasi mereka dalam mengelola proyek dalam jumlah besar dan membantu menjaga agar semua karyawan bekerja ke arah yang sama untuk mencapai tujuan organisasi.
+

@@ -1,0 +1,7 @@
+Product Backlog dan Sasaran Produk
+Dalam pelajaran ini, Anda akan belajar tentang artefak Scrum yang penting: Product Backlog. Singkatnya, Product Backlog adalah daftar yang terurut tentang apa yang perlu dilakukan untuk meningkatkan produk. Ini adalah sumber otoritatif tunggal untuk item yang dikerjakan oleh Tim Scrum. Selama penyempurnaan Product Backlog, item dipecah dan didefinisikan lebih lanjut dengan menambahkan detail. Detail ini dapat bervariasi, tetapi sering kali mencakup atribut seperti deskripsi, nilai, urutan, perkiraan, dan ukuran.
+
+Sasaran Produk adalah tujuan jangka panjang untuk Tim Scrum, dan termasuk dalam Product Backlog. Sisa dari Product Backlog mendefinisikan tugas-tugas apa saja yang akan memenuhi Product Goal.
+
+Untuk mempelajari lebih lanjut tentang Product Backlog dan Product Goal, silakan baca ikhtisar ini dari 
+panduan Scrum 2020 (https://scrumguides.org/scrum-guide.html#product-backlog).

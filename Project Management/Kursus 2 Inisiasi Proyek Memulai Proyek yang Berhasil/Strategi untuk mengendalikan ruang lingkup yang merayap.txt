@@ -1,0 +1,24 @@
+Pada pelajaran ini, kita telah membahas pentingnya mendefinisikan dan mendokumentasikan ruang lingkup proyek dan bagaimana mengidentifikasi faktor-faktor penyusutan ruang lingkup yang dapat mempengaruhi pencapaian tujuan proyek. Dalam bacaan ini, kita akan fokus pada cara mengendalikan scope creep.
+
+Praktik terbaik manajemen ruang lingkup
+Ruang lingkup proyek dapat menjadi tidak terkendali dengan cepat-sangat cepat sehingga Anda mungkin tidak menyadarinya.Scope creep adalah ketika pekerjaan proyek mulai berkembang melampaui apa yang awalnya disepakati selama fase inisiasi. Scope creep dapat membuat Anda, tim, dan organisasi Anda tertekan, dan hal ini dapat membahayakan proyek Anda. Efek dari scope creep dapat menghambat setiap aspek proyek, mulai dari jadwal, anggaran, sumber daya, dan pada akhirnya, keberhasilan proyek secara keseluruhan.
+
+Berikut adalah beberapa praktik terbaik untuk manajemen ruang lingkup dan mengendalikan scope creep:
+
+Tentukan persyaratan proyek Anda. Berkomunikasi dengan para pemangku kepentingan atau pelanggan Anda untuk mengetahui dengan tepat apa yang mereka inginkan dari proyek dan mendokumentasikan persyaratan tersebut selama fase inisiasi.
+
+Tetapkan jadwal proyek yang jelas. Manajemen waktu dan tugas sangat penting untuk tetap berpegang pada ruang lingkup proyek Anda. Jadwal Anda harus menguraikan semua persyaratan proyek Anda dan tugas-tugas yang diperlukan untuk mencapainya.
+
+Tentukan apa yang berada di luar ruang lingkup. Pastikan pemangku kepentingan, pelanggan, dan tim proyek Anda memahami ketika perubahan yang diusulkan berada di luar ruang lingkup. Buatlah kesepakatan yang jelas tentang dampak potensial terhadap proyek dan dokumentasikan kesepakatan Anda.
+
+Berikan alternatif . Sarankan solusi alternatif kepada pelanggan atau pemangku kepentingan Anda. Anda juga dapat membantu mereka mempertimbangkan bagaimana perubahan yang diusulkan dapat menimbulkan risiko tambahan. Lakukan analisis biaya-manfaat, jika perlu.
+
+Siapkan proses kontrol perubahan. Selama proyek Anda berjalan, beberapa perubahan tidak dapat dihindari. Tentukan proses bagaimana setiap perubahan akan didefinisikan, ditinjau, dan disetujui (atau ditolak) sebelum Anda menambahkannya ke dalam rencana proyek Anda. Pastikan tim proyek Anda mengetahui proses ini.
+
+Pelajari cara mengatakan tidak. Terkadang Anda harus mengatakan tidak pada perubahan yang diusulkan. Mengatakan tidak kepada pemangku kepentingan utama atau pelanggan bisa jadi tidak nyaman, tetapi hal ini diperlukan untuk melindungi ruang lingkup proyek Anda dan kualitasnya secara keseluruhan. Jika Anda diminta untuk melakukan tugas tambahan, jelaskan bagaimana tugas tersebut akan mengganggu anggaran, jadwal, dan/atau sumber daya yang telah ditetapkan dalam persyaratan awal proyek Anda.
+
+Mengumpulkan biaya untuk pekerjaan di luar ruang lingkup . Jika pekerjaan di luar ruang lingkup diperlukan, pastikan untuk mendokumentasikan semua biaya yang dikeluarkan. Hal ini termasuk biaya untuk pekerjaan yang secara tidak langsung dipengaruhi oleh peningkatan ruang lingkup. Pastikan untuk menunjukkan untuk apa biaya tersebut.
+
+Hal-hal penting yang dapat diambil
+Anda hanya dapat menghindari penambahan ruang lingkup jika semua orang yang terlibat dalam proyek memahami dan menyetujui tanggung jawab, batasan, dan jadwal. Menghindari scope creep juga membutuhkan komunikasi yang jelas, manajemen ekspektasi, dan jalur yang jelas menuju hasil yang Anda inginkan. Mengikuti strategi yang dibahas di sini dapat membantu Anda secara proaktif mengelola scope creep sebelum merambat ke dalam proyek Anda!
+

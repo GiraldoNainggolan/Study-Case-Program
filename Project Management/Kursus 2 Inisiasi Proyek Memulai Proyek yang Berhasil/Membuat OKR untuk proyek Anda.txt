@@ -1,0 +1,112 @@
+Apa itu OKR?
+OKR adalah singkatan dari tujuan dan hasil utama. OKR menggabungkan tujuan dan metrik untuk menentukan hasil yang terukur. 
+
+Bagan yang menunjukkan deskripsi tujuan dan hasil-hasil utamaObjectives: Defines what needs to be achieved; describes a desired outcome.
+Key results: The measurable outcomes that objectively define when the objective has been met
+
+OKR di seluruh perusahaan digunakan untuk menetapkan tujuan akhir untuk seluruh organisasi, seluruh tim, atau departemen. OKR tingkat proyek menggambarkan hasil terfokus yang perlu dicapai oleh setiap kelompok untuk mendukung organisasi.
+
+OKR dan manajemen proyek
+Sebagai manajer proyek, OKR dapat membantu Anda memperluas sasaran proyek dan memperjelas hasil yang Anda perlukan dari proyek untuk mencapai sasaran tersebut. OKR tingkat proyek membantu menetapkan ruang lingkup yang sesuai untuk tim Anda sehingga Anda dapat mengatakan "tidak" pada permintaan yang mungkin menghalangi mereka untuk mencapai tujuan. Anda juga dapat membuat dan menggunakan OKR tingkat proyek untuk membantu memotivasi tim Anda karena OKR dimaksudkan untuk menantang Anda agar melampaui apa yang dapat dicapai dengan mudah.
+
+Membuat OKR untuk proyek Anda
+Tetapkan tujuan Anda
+Tujuan proyek harus aspiratif, selaras dengan tujuan organisasi, berorientasi pada tindakan, konkret, dan signifikan. Pertimbangkan visi yang Anda dan para pemangku kepentingan miliki untuk proyek Anda dan tentukan apa yang Anda ingin tim proyek capai dalam 3-6 bulan.
+
+Contoh:
+
+Membangun perangkat lunak keamanan data yang paling aman
+
+Terus meningkatkan analisis dan konversi web
+
+Menyediakan layanan dengan performa terbaik
+
+Membuat aplikasi yang tersedia secara universal
+
+Meningkatkan jangkauan pasar
+
+Mencapai penjualan tertinggi di antara para pesaing di wilayah tersebut
+
+
+ Tujuan yang kuat memenuhi kriteria berikut. Mereka adalah
+
+Aspiratif
+
+Selaras dengan tujuan organisasi
+
+Berorientasi pada tindakan
+
+Konkret
+
+Signifikan
+
+Untuk membantu membentuk setiap tujuan, tanyakan pada diri sendiri dan tim Anda:
+
+Apakah objektif tersebut membantu mencapai tujuan proyek secara keseluruhan?
+
+Apakah tujuan tersebut selaras dengan OKR perusahaan dan departemen?
+
+Apakah tujuan tersebut menginspirasi dan memotivasi?
+
+Apakah pencapaian tujuan akan memberikan dampak yang signifikan?
+
+Kembangkan hasil utama
+Selanjutnya, tambahkan 2-3 hasil utama untuk setiap tujuan. Hasil-hasil utama harus terikat waktu. Hasil-hasil tersebut dapat digunakan untuk menunjukkan jumlah kemajuan yang harus dicapai dalam waktu yang lebih singkat atau untuk menentukan apakah Anda telah memenuhi tujuan Anda di akhir proyek. Hasil utama juga harus menantang Anda dan tim Anda untuk mengembangkan diri untuk mencapai lebih banyak hal.
+
+Contoh:
+
+X% pendaftaran baru dalam kuartal pertama setelah peluncuran
+
+Meningkatkan belanja pengiklan sebesar X% dalam dua kuartal pertama tahun ini
+
+Adopsi fitur baru setidaknya X% pada akhir tahun
+
+Maksimal 2 bug kritis dilaporkan setiap bulan oleh pelanggan per Sprint
+
+Mempertahankan tingkat berhenti berlangganan buletin sebesar X% pada tahun kalender ini
+
+Hasil utama yang kuat memenuhi kriteria berikut:
+
+Berorientasi pada hasil - bukan tugas
+
+Terukur dan dapat diverifikasi
+
+Spesifik dan terikat waktu
+
+Agresif namun realistis
+
+Untuk membantu membentuk hasil utama Anda, tanyakan kepada diri sendiri dan tim Anda hal-hal berikut ini:
+
+Apa yang dimaksud dengan sukses?
+
+Metrik apa yang akan membuktikan bahwa kita telah berhasil mencapai tujuan?
+
+Praktik terbaik pengembangan OKR
+Berikut adalah beberapa praktik terbaik yang perlu diingat saat menulis OKR:
+
+Pikirkan tujuan Anda sebagai sesuatu yang memotivasi dan menginspirasi, dan hasil utama Anda sebagai sesuatu yang taktis dan spesifik. Tujuan menggambarkan apa yang ingin Anda lakukan dan hasil utama menggambarkan bagaimana Anda akan tahu bahwa Anda telah melakukannya.
+
+Sebagai aturan umum, cobalah untuk mengembangkan sekitar 2--3 hasil utama untuk setiap tujuan.
+
+Pastikan untuk mendokumentasikan OKR Anda dan menautkannya dalam rencana proyek Anda.
+
+OKR versus tujuan SMART
+Sebelumnya dalam pelajaran ini, Anda telah mempelajari cara membuat tujuan SMART untuk proyek Anda. Meskipun tujuan SMART dan OKR memiliki beberapa kesamaan, ada beberapa perbedaan utama. Artikel berikut menjelaskan bagaimana sasaran SMART dan OKR serupa, bagaimana perbedaannya, dan kapan Anda mungkin ingin menggunakan salah satunya: 
+Memahami Kegunaan Unik OKR vs Sasaran SMART
+
+Untuk mempelajari lebih lanjut cara kerja OKR dalam membantu manajer proyek mendefinisikan dan membuat tujuan dan hasil proyek yang terukur, lihat sumber daya berikut:
+
+Buku panduan OKR Google
+
+Merencanakan sasaran perusahaan (https://help.asana.com/hc/id/articles/17965094839067-Merencanakan-dan-mengelola-gol-perusahaan)
+
+OKR dan sasaran SMART: Apa perbedaannya? (https://www.whatmatters.com/resources/okrs-smart-goals-difference-between)
+
+OKR dan KPI: Apa Itu dan Bagaimana Mereka Bekerja Bersama
+
+Bagaimana OKR dan manajemen proyek bekerja bersama (https://www.reflektive.com/blog/okrs-and-kpis-what-they-are-and-how-they-work-together/)
+
+Contoh OKR (https://business.adobe.com/blog/basics/okr-examples)
+
+OKR TED Talk (https://www.youtube.com/watch?v=L4N1q4RNi9I)
+ (John Doerr, pendiri OKR, menjelaskan mengapa rahasia kesuksesan adalah menetapkan tujuan yang tepat)

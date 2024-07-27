@@ -1,0 +1,82 @@
+Sebelumnya, Anda telah mempelajari bahwa analisis biaya-manfaat adalah proses menjumlahkan nilai yang diharapkan dari sebuah proyek-manfaatnya-dan membandingkannya dengan biaya dalam bentuk dolar. Dalam bacaan ini, kita akan membahas manfaat melakukan analisis biaya-manfaat, pertanyaan-pertanyaan panduan untuk membantu Anda dan para pemangku kepentingan melakukan analisis biaya-manfaat, dan cara menghitung laba atas investasi (ROI).
+
+Manfaat analisis biaya-manfaat
+Analisis biaya-manfaat dapat meminimalkan risiko dan memaksimalkan keuntungan untuk proyek dan organisasi. Analisis ini dapat membantu Anda berkomunikasi secara jelas dengan para pemangku kepentingan dan eksekutif serta menjaga proyek Anda tetap berada di jalurnya. Karena jenis analisis ini menggunakan data yang objektif, analisis ini dapat membantu mengurangi bias dan menjaga agar kepentingan pribadi pemangku kepentingan tidak memengaruhi keputusan.
+
+Membandingkan manfaat proyek dengan biayanya dapat membantu Anda membuat kasus bisnis yang kuat kepada para pemangku kepentingan dan pimpinan serta memastikan organisasi Anda mengejar proyek yang paling menguntungkan atau berguna. Organisasi menggunakan analisis biaya-manfaat untuk mengurangi pemborosan dan menginvestasikan sumber daya mereka secara bertanggung jawab.
+
+Pertanyaan panduan untuk analisis biaya-manfaat
+Ketika Anda mengejar sebuah proyek, manfaatnya harus lebih besar daripada biayanya. Penting bagi Anda dan para pemangku kepentingan untuk mempertimbangkan pertanyaan-pertanyaan seperti di bawah ini sejak awal, saat Anda mempersiapkan proposal.
+
+Untuk menentukan manfaat dari sebuah proyek, Anda mungkin bertanya:
+
+Nilai apa yang akan dihasilkan oleh proyek ini?
+
+Berapa banyak uang yang dapat dihemat oleh proyek ini bagi organisasi kita?
+
+Berapa banyak uang yang akan dihasilkan dari pelanggan yang sudah ada?
+
+Berapa banyak waktu yang akan dihemat?
+
+Bagaimana proyek ini akan meningkatkan pengalaman pelanggan?
+
+Dan untuk menentukan biaya proyek, pertimbangkan pertanyaan-pertanyaan seperti:
+
+Berapa banyak waktu yang harus dihabiskan orang untuk proyek ini?
+
+Berapa biaya satu kali?
+
+Apakah ada biaya berkelanjutan?
+
+Bagaimana dengan biaya jangka panjang?
+
+Anda juga dapat mempertimbangkan pertanyaan tentang manfaat tak berwujud. Ini adalah keuntungan yang tidak dapat diukur, seperti:
+
+Kepuasan pelanggan. Apakah proyek ini akan meningkatkan retensi pelanggan, sehingga mereka akan membelanjakan lebih banyak uang untuk produk atau layanan perusahaan?
+
+Kepuasan karyawan. Apakah proyek tersebut akan meningkatkan moral karyawan, sehingga mengurangi pergantian karyawan?
+
+Produktivitas karyawan. Apakah proyek akan mengurangi jam lembur karyawan, sehingga menghemat uang perusahaan?
+
+Persepsi merek. Apakah proyek tersebut dapat meningkatkan persepsi dan pengakuan merek perusahaan, menarik lebih banyak pelanggan atau memberikan keunggulan kompetitif?
+
+Anda juga dapat membalik pertanyaan-pertanyaan ini untuk mempertimbangkanbiaya tak berwujud . Ini adalah biaya yang tidak dapat diukur. Misalnya, apakah proyek tersebut dapat membahayakan retensi pelanggan, kepuasan karyawan, atau persepsi merek?
+
+Saat memberikan nilai pada biaya dan manfaat yang berwujud atau tidak berwujud, Anda dapat merujuk pada proyek serupa di masa lalu, melakukan penelitian industri, atau berkonsultasi dengan para ahli.
+
+Menghitung biaya dan manfaat
+Proses menghitung biaya dan manfaat juga disebut menghitung laba atas investasi, atau ROI. Ada banyak cara untuk menentukan ROI proyek, tetapi cara termudah adalah dengan membandingkan biaya di muka dan biaya yang sedang berjalan dengan manfaatnya dari waktu ke waktu.
+
+Salah satu rumus ROI yang umum adalah:
+
+
+Dalam rumus ini, G mewakili keuntungan finansial yang Anda harapkan dari proyek, dan C mewakili biaya di muka dan biaya yang sedang berjalan dari investasi Anda dalam proyek tersebut.
+
+Sebagai contoh, bayangkan biaya proyek Anda sebesar $6.000 di muka ditambah $25 per bulan selama 12 bulan. Dua puluh lima dolar selama 12 bulan sama dengan $300 per tahun, yang berarti total biaya Anda adalah $6.300. Anda memperkirakan bahwa proyek ini akan menghasilkan pendapatan sebesar $10.000 selama tahun tersebut. Dengan demikian, Anda memiliki: 
+
+G = $10,000
+
+C = $6,300
+
+Sekarang, dengan menggunakan rumus di atas, Anda memasukkan jumlah-jumlah tersebut sebagai berikut: 
+
+($10.000 - $6.300) ÷ $6.300 = ROI
+
+Kemudian Anda lanjutkan dengan perhitungan: 
+
+Pertama, di dalam tanda kurung:  10,000 - 6,300 = $3,700
+
+Selanjutnya, $3.700 ÷ $6.300 = 0,5873
+
+Terakhir, 0,5873 x 100 = 58,7% 
+
+ROI-nya adalah 0,587, atau 58,7%. Mengingat ROI yang kuat cenderung di atas 10%, Anda menemukan 58,7% sebagai ROI yang kuat, jadi Anda memutuskan untuk melanjutkan proyek tersebut.
+
+Hal-hal penting yang dapat diambil
+Melakukan analisis biaya-manfaat dapat membantu Anda dan pemangku kepentingan Anda menentukan apakah masuk akal untuk mengambil proyek baru dengan mengevaluasi apakah manfaatnya lebih besar daripada biayanya. Ketika melakukan analisis biaya-manfaat untuk proyek prospektif Anda, Anda dapat menggunakan pertanyaan panduan dan rumus ROI yang disediakan dalam bacaan ini sebagai referensi.
+
+Untuk mempelajari lebih lanjut tentang melakukan analisis biaya-manfaat, lihat artikel berikut:
+
+Analisis Biaya Manfaat untuk Proyek - Panduan Langkah-demi-Langkah (https://www.projectmanager.com/blog/cost-benefit-analysis-for-projects-a-step-by-step-guide)
+
+Analisis Biaya Manfaat atau Manfaat Biaya (https://pmstudycircle.com/cost-benefit-or-benefit-cost-analysis/#:~:text=Cost%2Dbenefit%20analysis%20is%20a,during%20the%20project%20selection%20analysis)

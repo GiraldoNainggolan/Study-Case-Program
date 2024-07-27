@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Flexbox</title>
+
+    <!-- CSS -->
+    <style>
+        body {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #container {
+            display: flex;
+            /* background-color: red; */
+            border: 2px solid black;
+            padding: 15px;
+            /* digunakan untuk mengatur jarak antara elemen yang ada didalam border */
+            height: 400px;
+            flex-wrap: wrap;
+
+            /* align-content: space-evenly; */
+            /* align-content: center;
+            align-content: baseline;
+            align-content: end;
+            align-content: flex-start;
+            align-content: space-between;
+            align-content: space-around; */
+            align-content: stretch;
+
+            /* justify-content: center; */
+            /* justify-content: end; */
+            /* justify-content: space-around; */
+            /* justify-content: space-between; */
+            /* justify-content: space-evenly; */
+
+            align-items: center;
+            /* align-items: end; */
+            /* align-items: stretch; */
+            /* align-items: baseline; */
+        }
+
+        .items {
+            padding: 10px;
+            width: 100px;
+            /* height: 100px; */
+            /*Wajib untuk menghapus ini saat menggunakan align-items:stratch*/
+            margin: 2px;
+            border: 2px solid black;
+        }
+
+        /* Digunakan untuk align-items: stretch; lalu items yang didalam content akan berada di garis yang sama */
+        /* .kotak-1{
+            font-size: 40px;
+        }
+
+        .kotak-2{
+            height: 60px;
+        }
+
+        .kotak-3{
+            height: 30px;
+        } */
+    </style>
+</head>
+
+<body>
+    <h1> Learn Flexbox</h1>
+    <div id="container">
+        <div class="items kotak-1">Kotak 1</div>
+        <div class="items kotak-2">Kotak 2</div>
+        <div class="items kotak-3">Kotak 3</div>
+        <div class="items kotak-4">Kotak 4</div>
+        <div class="items kotak-5">Kotak 5</div>
+        <div class="items kotak-6">Kotak 6</div>
+        <div class="items kotak-7">Kotak 7</div>
+        <div class="items kotak-8">Kotak 8</div>
+        <div class="items kotak-9">Kotak 9</div>
+        <div class="items kotak-10">Kotak 10</div>
+        <div class="items kotak-11">Kotak 11</div>
+        <div class="items kotak-12">Kotak 12</div>
+        <div class="items kotak-13">Kotak 13</div>
+    </div>
+</body>
+
+</html>

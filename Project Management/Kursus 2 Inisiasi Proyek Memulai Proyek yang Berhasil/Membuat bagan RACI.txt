@@ -1,0 +1,81 @@
+Bagan RACI dapat menjadi cara yang sangat efektif untuk mendefinisikan peran proyek, memberikan arahan kepada setiap anggota tim dan pemangku kepentingan, serta memastikan pekerjaan dilakukan secara efisien. Memiliki bagan RACI yang tersedia selama durasi proyek Anda sebagai visual yang cepat bisa sangat berharga. Dalam bacaan ini, kita akan membahas fungsi bagan RACI dan komponen-komponennya serta mengeksplorasi bagaimana manajer proyek menggunakan bagan RACI untuk mendefinisikan dan mendokumentasikan peran dan tanggung jawab proyek.
+
+Elemen-elemen bagan RACI
+Bagan RACI menciptakan peran yang jelas dan memberikan arahan kepada setiap anggota tim dan pemangku kepentingan. Sepanjang karier Anda, Anda mungkin pernah mendengar bagan RACI disebut sebagai Matriks Penugasan Tanggung Jawab (RAM), diagram RACI, atau matriks RACI. Tujuan utama dari bagan ini adalah untuk memperjelas peran setiap orang dalam proyek Anda.
+
+Pertama, mari kita uraikan masing-masing peran yang dapat diberikan kepada setiap orang:
+
+R: Bertanggung jawab: siapa yang menyelesaikan pekerjaan
+
+A: Akuntabel: siapa yang memastikan pekerjaan selesai
+
+C: Berkonsultasi: siapa yang memberikan masukan atau umpan balik tentang pekerjaan
+
+I: Diinformasikan: siapa yang perlu mengetahui hasilnya
+
+Perhatikan bahwa bagan RACI dapat disusun dengan berbagai cara, tergantung pada preferensi pribadi, jumlah tugas yang diberikan, dan jumlah orang yang terlibat. Pada video sebelumnya, kami telah menunjukkan salah satu format bagan RACI. Templat di bawah ini menunjukkan cara lain untuk mengatur bagan RACI.
+
+Tabel yang menunjukkan format bagan RACI standar
+Mari kita lihat lebih jauh masing-masing peran dan cara menentukan anggota tim mana yang harus ditugaskan ke peran yang mana.
+
+Penanggung Jawab
+Individu yang ditugaskan sebagai "penanggung jawab" untuk sebuah tugas adalah orang yang benar-benar melakukan pekerjaan untuk menyelesaikan tugas tersebut. Setiap tugas membutuhkan setidaknya satu pihak yang bertanggung jawab. Merupakan praktik terbaik untuk mencoba membatasi jumlah anggota tim yang ditugaskan untuk peran penanggung jawab tugas, namun dalam beberapa kasus, Anda mungkin memiliki lebih dari satu.
+
+Beberapa pertanyaan yang perlu ditanyakan kepada diri sendiri saat menentukan orang atau beberapa orang yang harus ditempatkan dalam peran yang bertanggung jawab untuk tugas tertentu adalah
+
+Di bawah departemen apa pekerjaan tersebut berada?
+
+Siapa yang akan melakukan pekerjaan tersebut?
+
+Akan sangat membantu jika Anda mengevaluasi orang-orang dalam tim Anda untuk menentukan peran yang cocok untuk mereka. Ingatlah bahwa Anda mungkin perlu membuat daftar peran, bukan nama, jika beberapa orang memiliki lebih dari satu peran.
+
+Mari kita gali lebih dalam contoh kita dengan Office Green. Tugas kita adalah mengembangkan poin-poin harga untuk proyek tersebut, dan Analis Keuangan akan menyelesaikan pekerjaan untuk tugas ini. Oleh karena itu, kita akan mencantumkan "Analis Keuangan" dalam peran yang bertanggung jawab untuk tugas ini di bagan RACI.
+
+Bagian dari bagan RACI, di mana Analis Keuangan berada dalam peran "bertanggung jawab"
+Bertanggung jawab
+Orang yang "bertanggung jawab" adalah yang bertanggung jawab untuk memastikan tugas tersebut selesai. Penting untuk hanya memiliki satu orang yang bertanggung jawab untuk setiap tugas. Hal ini membantu memperjelas kepemilikan tugas. Orang yang bertanggung jawab pada akhirnya memiliki wewenang untuk menyetujui hasil kerja pihak yang bertanggung jawab.
+
+Untuk menentukan siapa yang harus ditandai sebagai anggota tim yang bertanggung jawab, pertimbangkan:
+
+Siapa yang akan mendelegasikan tugas yang harus diselesaikan?
+
+Siapa yang akan meninjau pekerjaan untuk menentukan apakah tugas sudah selesai?
+
+Anda mungkin akan menghadapi situasi di mana pihak yang bertanggung jawab juga bertanggung jawab, namun jika memungkinkan, akan sangat membantu jika Anda memisahkan peran-peran ini. Memastikan bahwa akuntabilitas tidak dibagi memastikan bahwa tidak ada kebingungan mengenai siapa yang bertanggung jawab.
+
+Melanjutkan contoh Office Green kita, Anda telah menetapkan peran "bertanggung jawab" kepada Kepala Keuangan. Kepala Keuangan harus memastikan proyek tetap sesuai anggaran dan menghasilkan keuntungan, sehingga mereka memiliki otoritas tertinggi atas poin harga produk. Oleh karena itu, mereka harus menyetujui pekerjaan Analis Keuangan dalam mengerjakan tugas tersebut.
+
+Bagian dari bagan RACI, di mana Kepala Bagian Keuangan berperan sebagai "penanggung jawab"
+Berkonsultasi
+Anggota tim atau pemangku kepentingan yang ditempatkan dalam peran "dikonsultasikan" memiliki informasi yang berguna untuk membantu menyelesaikan tugas. Tidak ada jumlah maksimum atau minimum orang yang dapat ditugaskan dalam peran "konsultan", tetapi penting bahwa setiap orang memiliki alasan untuk berada di sana.
+
+Berikut ini beberapa cara yang dapat Anda lakukan untuk membantu mengidentifikasi siapa yang tepat untuk peran tersebut:
+
+Siapa yang akan terkena dampak dari tugas tersebut?
+
+Siapa yang akan memberikan masukan atau umpan balik kepada orang yang bertanggung jawab untuk membantu menyelesaikan pekerjaan?
+
+Siapa yang menjadi ahli materi (subject matter expert/SME) untuk tugas tersebut?
+
+Orang-orang yang dimintai konsultasi akan sering berkomunikasi dua arah dengan pihak yang bertanggung jawab, sehingga penting untuk memastikan bahwa orang yang tepat berada dalam peran ini untuk membantu menyelesaikan tugas secara efisien dan benar.
+
+Kembali ke proyek di Office Green, kami memiliki Analis Keuangan yang "bertanggung jawab" dan Kepala Keuangan yang "bertanggung jawab". Siapa lagi yang perlu memberikan masukan tentang poin harga produk? Keputusan dan masukan siapa yang akan secara langsung mempengaruhi tugas tersebut? Direktur Produk perlu dimintai pendapat tentang masalah ini, karena mereka mengawasi semua penawaran produk. Orang ini akan memiliki informasi tentang potensi perubahan pada produk dan bagaimana perubahan ini dapat memengaruhi poin harga.
+
+Bagian dari bagan RACI, di mana Direktur Produk berada dalam peran "dikonsultasikan"
+Terinformasi
+Individu yang diidentifikasi perlu "diberi tahu" perlu mengetahui keputusan akhir yang telah dibuat dan ketika tugas selesai. Biasanya banyak orang yang ditugaskan untuk kategori ini dan beberapa anggota tim harus diberi tahu tentang sebagian besar tugas. Anggota tim atau pemangku kepentingan di sini tidak akan dimintai umpan balik, jadi kuncinya adalah memastikan bahwa orang-orang yang berada di grup ini hanya memerlukan pembaruan status dan tidak perlu memberikan umpan balik langsung untuk penyelesaian upaya tersebut.
+
+Pertanyaan-pertanyaan kunci yang perlu ditanyakan kepada diri Anda sendiri untuk memastikan bahwa Anda telah menangkap individu-individu yang berada dalam peran "yang memiliki informasi" dengan tepat adalah
+
+Siapa yang peduli dengan penyelesaian tugas ini?
+
+Siapa yang akan terpengaruh oleh hasilnya?
+
+Setelah Anda menentukan siapa yang bertanggung jawab, bertanggung jawab, dan berkonsultasi dalam tugas proyek Office Green, sekarang saatnya menentukan siapa yang perlu diberi tahu tentang tugas tersebut. Analis Keuangan Anda telah menetapkan poin-poin harga dengan masukan dari Direktur Produk, dan Kepala Bagian Keuangan telah menyetujuinya. Sekarang Anda perlu memberi tahu Tim Penjualan tentang poin harga akhir, karena mereka akan membutuhkan informasi ini untuk menjual produk.
+
+Bagian dari bagan RACI, di mana Tim Penjualan berperan sebagai "pemberi informasi"
+Kiatpro: Anda mungkin akan memiliki banyak anggota tim dan pemangku kepentingan yang ditempatkan dalam peran "pemberi informasi". Jika demikian, pastikan Anda memiliki rencana untuk memberi mereka informasi yang tidak membutuhkan banyak tenaga. Sesuatu yang mudah seperti akses hanya-lihat ke rencana proyek atau catatan rapat Anda dapat mencegah Anda dari keharusan untuk membuat komunikasi yang terpisah di sepanjang jalan.
+
+Hal-hal penting yang dapat diambil
+Bagan RACI adalah alat yang sangat berharga. Alat ini dapat membantu Anda mendefinisikan dan mendokumentasikan peran dan tanggung jawab proyek, memberikan arahan kepada setiap anggota tim dan pemangku kepentingan, serta memastikan pekerjaan dilakukan secara efisien. Bagan RACI juga dapat membantu Anda menganalisis dan menyeimbangkan beban kerja tim Anda. Meskipun mungkin diperlukan banyak revisi untuk memastikan bahwa anggota tim dan pemangku kepentingan ditempatkan ke dalam peran yang tepat dalam bagan RACI Anda, melakukan pekerjaan ini di awal akan membantu menghemat waktu dan mencegah miskomunikasi di kemudian hari.
+

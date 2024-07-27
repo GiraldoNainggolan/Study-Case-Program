@@ -1,0 +1,55 @@
+Dalam video sebelumnya, Anda telah mempelajari cara menggunakan pengetahuan untuk melihat data dan bagaimana sinyal membantu memprioritaskan data. Bacaan ini akan membahas pentingnya etika data dan dua prinsip utama: privasi data dan bias data.
+
+Etika data
+Sebagai seorang manajer proyek, pengumpulan dan analisis data akan menjadi bagian penting dari proyek Anda. Seperti yang telah Anda pelajari, Anda akan mengumpulkan data dari berbagai sumber, termasuk kelompok fokus, wawancara, dan kuesioner. Data yang kamu kumpulkan biasanya berisi PII (informasi yang dapat diidentifikasi secara pribadi) - informasi yang dapat digunakan untuk mengidentifikasi, menghubungi, atau menemukan seseorang secara langsung. Sering kali, Anda juga perlu melaporkan data yang Anda kumpulkan kepada pemangku kepentingan, pelanggan, dan tim proyek Anda. Mengumpulkan, menganalisis, dan membagikan data ini dengan cara yang etis sangatlah penting untuk menjaga integritas organisasi, proyek, dan posisi Anda.
+
+Etika data adalah studi dan evaluasi tantangan moral yang terkait dengan pengumpulan dan analisis data. Hal ini termasuk menghasilkan, merekam, mengkurasi, memproses, berbagi, dan menggunakan data untuk menghasilkan solusi yang etis.
+
+Bisnis menerapkan praktik etika data agar mereka dapat
+
+Mematuhi peraturan
+
+Menunjukkan bahwa mereka dapat dipercaya
+
+Memastikan penggunaan data yang adil dan wajar
+
+Meminimalkan bias
+
+Mengembangkan persepsi publik yang positif
+
+Etika data berakar pada beberapa prinsip. Dalam bacaan ini, kita akan fokus pada dua prinsip ini: privasi data dan bias data.
+
+Privasi data
+Privasi data adalah bagian penting dari etika data. Privasi data berkaitan dengan penanganan data yang tepat. Hal ini mencakup tujuan pengumpulan dan pemrosesan data, preferensi privasi, cara organisasi mengelola data pribadi, dan hak-hak individu. Hal ini berfokus untuk memastikan cara kita mengumpulkan, memproses, membagikan, mengarsipkan, dan menghapus data sesuai dengan hukum.
+
+Sebagai manajer proyek, Anda bertanggung jawab untuk melindungi data yang Anda kumpulkan. Anda dapat membantu memastikan privasi data yang dikumpulkan dari pengguna, pemangku kepentingan, dan pihak lain untuk proyek Anda dengan
+
+Meningkatkan kesadaran privasi data. Pastikan setiap anggota tim proyek Anda - ditambah vendor, kontraktor, dan pemangku kepentingan lain dari luar perusahaan Anda - mengetahui protokol keamanan dan privasi data organisasi Anda.
+
+Menggunakan alat keamanan. Alat keamanan gratis, seperti solusi penyimpanan terenkripsi dan pengelola kata sandi, dapat mengurangi kerentanan proyek Anda terhadap pelanggaran data. Di banyak aplikasi, seperti yang merupakan bagian dari Google Workspace dan Microsoft OneDrive, pengaturan privasi dapat disesuaikan untuk hanya memberikan akses ke individu tertentu.
+
+Anonimisasi data. Anonimisasi data mengacu pada satu atau beberapa teknik seperti mengosongkan, meng-hash, atau menyembunyikan informasi pribadi dan identitas untuk melindungi identitas orang-orang yang termasuk dalam data. Hal ini membantu melindungi informasi pribadi individu dengan membuatnya tetap anonim. Setelah informasi tersebut dianonimkan, informasi tersebut dapat digunakan dan dibagikan secara bebas. Jenis data yang harus dianonimkan termasuk nama, nomor telepon, nomor jaminan sosial, alamat email, foto, dan nomor rekening.
+
+Bias data
+Praktik etika data penting lainnya adalah memastikan bahwa data yang Anda kumpulkan tidak mengindikasikan adanya bias. Bias data adalah jenis kesalahan yang cenderung mencondongkan hasil ke arah tertentu. Mungkin pertanyaan-pertanyaan dalam survei Anda memiliki kecenderungan tertentu untuk memengaruhi jawaban, atau mungkin kelompok sampel Anda tidak sepenuhnya mewakili populasi yang ingin Anda pelajari. Bias juga dapat terjadi jika kelompok sampel tidak memiliki inklusivitas. Misalnya, jika sampel Anda tidak menyertakan penyandang disabilitas. Cara Anda mengumpulkan data juga dapat membuat dataset menjadi bias. Misalnya, Anda hanya memberi waktu singkat kepada orang-orang untuk menjawab pertanyaan, hal ini dapat menyebabkan jawaban yang terburu-buru. Ketika orang terburu-buru, mereka cenderung membuat lebih banyak kesalahan, yang dapat memengaruhi kualitas data mereka dan menciptakan hasil yang bias. Sebagai manajer proyek, Anda harus memikirkan tentang bias dan keadilan dari saat Anda mulai mengumpulkan data hingga saat Anda menyajikan kesimpulan.
+
+Jenis-jenis bias
+Ada beberapa jenis bias yang perlu diingat saat menyiapkan proses pengumpulan data Anda. Berikut adalah empat jenis bias yang paling umum yang dapat memengaruhi data Anda:
+
+Bias pengambilan sampel adalah ketika sampel tidak mewakili populasi secara keseluruhan. Misalnya, mungkin sampel Anda tidak menyertakan orang yang berusia di atas 65 tahun. Atau mungkin Anda mengecualikan orang-orang dari kelompok sosial ekonomi tertentu.
+
+Bias pengamat adalah kecenderungan orang yang berbeda untuk mengamati sesuatu secara berbeda. Misalnya, pemangku kepentingan dari berbagai belahan dunia mungkin melihat data yang sama secara berbeda dan menarik kesimpulan yang berbeda pula.
+
+Bias interpretasi adalah kecenderungan untuk selalu menafsirkan situasi yang tidak memiliki jawaban yang jelas dengan cara yang sangat positif atau negatif, padahal sebenarnya ada lebih dari satu cara untuk memahami data. Data yang tidak memberikan kesimpulan yang jelas membuat beberapa orang merasa cemas, yang dapat menyebabkan bias interpretasi. Sebagai contoh, seorang anggota tim mungkin menafsirkan hasil survei yang tidak meyakinkan secara negatif, sementara anggota tim lainnya mungkin dapat berpikir lebih hati-hati dan menilai data dari sudut pandang yang berbeda.
+
+Bias konfirmasi adalah kecenderungan untuk mencari atau menafsirkan informasi dengan cara yang mengonfirmasi keyakinan yang sudah ada sebelumnya. Misalnya, Anda mungkin meminta umpan balik dari pemangku kepentingan tertentu mengenai bagian-bagian proyek Anda karena Anda tahu bahwa mereka adalah pihak yang paling mungkin memiliki perspektif yang sama dengan Anda.
+
+Masing-masing jenis bias ini memengaruhi cara Anda mengumpulkan dan memahami data, jadi penting untuk menyadarinya saat menyiapkan proses pengumpulan data.
+
+Hal-hal penting yang dapat diambil
+Menurut Project Management Institute's 
+Kode Etik & Perilaku Profesional
+"Etika adalah tentang membuat keputusan terbaik terkait orang, sumber daya, dan lingkungan. Pilihan etis mengurangi risiko, memajukan hasil yang positif, meningkatkan kepercayaan, menentukan kesuksesan jangka panjang, dan membangun reputasi. Kepemimpinan sangat bergantung pada pilihan-pilihan etis."
+
+Cara utama untuk menunjukkan kemampuan kepemimpinan Anda adalah dengan melakukan penilaian yang baik dalam hal etika data. Untuk menceritakan kisah yang diinformasikan oleh data proyek kepada para pemangku kepentingan, anggota tim proyek, dan pihak lain dengan cara yang etis, Anda harus memastikan bahwa Anda memikirkan masalah privasi dan masalah yang berkaitan dengan bias dalam cara Anda melakukan, menganalisis, dan membagikan data tersebut.
+(https://www.pmi.org/about/ethics/code#:~:text=Ethics%20is%20about%20making%20the,absolutely%20dependent%20on%20ethical%20choices.)

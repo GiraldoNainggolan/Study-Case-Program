@@ -1,0 +1,23 @@
+1. CodeCombat📍
+https://codecombat.com/
+
+2. CSS Diner📍
+https://flukeout.github.io/
+
+3. Flexbox Froggy📍
+https://flexboxfroggy.com/
+
+4. CheckIO and Empire of Code📍
+https://checkio.org/
+
+5. Flexbox Defense📍
+http://www.flexboxdefense.com/
+
+6. Untrusted📍
+https://alexnisnevich.github.io/untrusted/
+
+7. CodeMonkey📍
+https://www.codemonkey.com/
+
+8. CodinGame📍
+https://www.codingame.com/start/
