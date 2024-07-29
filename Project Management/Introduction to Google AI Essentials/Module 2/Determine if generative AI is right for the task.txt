@@ -1,0 +1,27 @@
+- As you consider how to use
+generative AI in your own work, it's important to understand
+what AI can and can't do. One way to assess whether
+to apply generative AI to a task is to consider
+these guiding questions. First, is the task generative? Then, can the task be iterated on to achieve the best outcome? And finally, are there resources to provide adequate human oversight? Let's use a scenario to demonstrate how you might answer these questions and decide whether to
+use a generative AI tool. Imagine you're preparing
+for the grand opening of your new restaurant. You consider using an AI tool
+to create a promotional ad for the event, but you
+need some assistance developing the images. You start by asking,
+is the task generative? Yes. Recall that generative AI is a type of AI that can generate new
+content such as text, images, or other media. So generative AI can help you
+create promotional materials like text or images to
+advertise your new restaurant. Next, can the task be iterated on to achieve the best outcome? In other words, can you refine your prompt to improve your AI generated output? This is another yes. Generative AI tools allow you to edit and refine your prompts
+as many times as you need to achieve the desired results. In this case, say your
+restaurant serves Italian food and the AI tool generates
+an ad with a picture of a spaghetti dish. After thinking about the output, you decide it'd be more appealing to feature your restaurant's
+freshly baked pizza coming out of your wood-fired oven. You iterate and refine your prompt until you receive the best results. And finally, are there resources to provide adequate human oversight? Once again, the answer here is yes. Either you, as the restaurant's owner, or one of your employees will need to review the AI generated ads before sharing them with the public. Remember that a human in the
+loop approach should always be taken when using AI tools. So make sure that you or someone on your team is able to review and edit the output. By asking yourself
+these guiding questions, you can decide whether to use generative AI
+tools on a specific task. If you answered yes to
+all of the questions, then using a generative
+AI might be the right fit. But what happens if you answer no to one or more of the questions? For example, suppose you need to negotiate with local suppliers to get fair prices for the ingredients you want
+to use at your restaurant. When it comes to the question,
+is the task generative? The answer in this situation is no. A task like this is not generative because it requires communication and relationship building, skills that require a human touch. As you continue to experiment
+with using AI at work, try asking yourself
+these guiding questions to decide whether generative
+AI could help you complete some of your tasks.

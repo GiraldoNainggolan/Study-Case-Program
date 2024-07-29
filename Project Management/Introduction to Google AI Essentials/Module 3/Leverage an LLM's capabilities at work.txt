@@ -1,0 +1,59 @@
+- There are multiple ways to
+leverage an LLM's capabilities that work to boost
+productivity and creativity. A common one is content creation. You can use an LLM to create
+emails, plans, ideas, and more. As an example, you could
+ask an LLM to help you write an article about a work-related topic. Let's prompt Gemini to create an outline for an article on data
+visualization best practices. The article is for
+entry-level business analysts. Notice that the prompt
+begins with the verb create. It's often helpful to
+include a verb in your prompt to guide the LLM to produce useful output for your intended task. The output provides a helpful outline for a first draft of the article. You can also use an LLM for summarization. An LLM can summarize a lengthy
+document's main points. For example, you might
+ask Gemini to summarize a detailed paragraph about
+project management strategies. We'll begin the prompt
+with the verb summarize and specify that we want the
+output to be a single sentence. Then we'll include the paragraph we want Gemini to summarize. The output provides a
+convenient one-sentence summary of the paragraph. While this example shows
+how you can summarize a single paragraph, you can ask an LLM to summarize longer
+text and documents too. Classification is another possible use. For instance, you might prompt the LLM to classify the sentiment
+or feeling in a group of customer reviews as
+positive, negative, or neutral. Let's prompt Gemini to
+classify customer reviews about a retail website's
+new design as positive, negative, or neutral. The prompt includes the verb
+classify to guide the output. The prompt also contains the reviews. In this example, there are four reviews. The output accurately
+classifies the first two reviews as negative, the third as positive, and the fourth as neutral. Consider how you could leverage an LLM to efficiently complete
+large classification tasks. Or you can use an LLM for extraction, which involves pulling data
+from text and transforming it into a structured format
+that's easier to understand. Suppose you have a report
+that provides information about a global organization. You can prompt Gemini to
+extract all mentions of cities and revenue in the report
+and place them in a table. Then we'll include the
+report in our prompt. Please be aware that you should not input confidential information into LLMs. But in this example, the
+report is not confidential. The output displays a table with columns for city and revenue. This presents the information
+in a well-organized format that's easy to review. Another use is translation. You can leverage an LLM to translate text between different languages. For example, you might ask
+Gemini to translate the title of a training session
+from English to Spanish. The output includes a variety
+of Spanish translations to choose from and explains the reasoning behind each translation. This information can help you choose the most useful option for your audience. Or you can use an LLM for
+editing, such as to change the tone of a section of
+text from formal to casual and to check if the text
+is grammatically correct. For example, Gemini can help
+you edit a technical analysis about electric vehicles
+by making the language more accessible for a
+non-technical audience. We'll start the prompt with the verb edit and specify that the
+language should be easy for a non-technical
+audience to understand. After this, we'll include
+the technical analysis. The output provides a
+version of the analysis that an audience less familiar with the technical details can understand. This is just one example of how an LLM can help you edit documents. LLMs can quickly customize
+the tone, length, and format of documents to fit your needs. One more use for an LLM we'll
+discuss is problem-solving. You can utilize an LLM
+to generate solutions for a variety of workplace challenges. When planning a company
+event, for example, you could prompt the LLM
+to find menu solutions that accommodate the food
+restrictions of multiple guests while following a holiday-themed menu. And here's another example. Let's say you're an entrepreneur who recently launched a
+new copy editing service. Let's ask Gemini to solve a problem related to the copy editing service. We'll ask for suggestions for
+increasing the client base. The output provides specific suggestions for reaching new clients,
+optimizing services, and growing the business. I love these ideas. Let's ask Gemini to draft an email so we can easily share
+these ideas with others. LLMs can help you brainstorm solutions for many different types of problems. I'm definitely excited
+by the variety of ways we can leverage LLMs when
+completing workplace tasks. It's a very important skill to practice if you wanna use AI
+effectively in the workplace. Coming up, we'll focus
+more on evaluating output and iterating on your prompt.

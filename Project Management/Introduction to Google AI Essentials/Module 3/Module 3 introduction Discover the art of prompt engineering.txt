@@ -1,0 +1,29 @@
+- Prompt engineering involves designing the best prompt you can to
+get the output you want. Think about how you use
+language in your daily life. Language is used for so many purposes: to build connections, express
+opinions, or explain ideas. And sometimes, you
+might wanna use language to prompt others to respond
+in a particular way. Maybe you want someone to
+give you a recommendation or clarify something. In those cases, the way
+you phrase your words can affect how others respond. The same is true when prompting
+a conversational AI tool with a question or request. A prompt is text input
+that provides instructions to the AI model on how to generate output. For example, someone who
+owns a clothing store might want an AI model to output new ideas for how to market their clothing. This business owner
+might write the prompt: "I own a clothing store. We sell high fashion womenswear. Help me brainstorm marketing ideas." In this section of the course, you'll focus on how to design
+or engineer effective prompts to achieve more useful results from a conversational AI tool. My name is Yufeng, and
+I'm an engineer at Google. I first became interested in prompting because getting useful
+responses from language models was time-consuming. Sometimes it was even
+quicker for us to do the work without the use of AI. I was inspired to help our tools be more efficient, not less. I'm excited to help you learn more about developing effective prompts. First, you'll discover
+how LLMs generate output in response to prompts. And then, you'll explore the
+role of prompt engineering in improving the quality of the output. Prompt engineering is the practice of developing effective prompts
+that elicit useful output from generative AI. You'll learn to create
+clear and specific prompts, one of the most important
+parts of prompt engineering. The more clear and specific your prompt, the more likely you are
+to get useful output. Another important part of
+prompt engineering is iteration. You'll learn about evaluating output and revising your prompts. This will also help you
+get the results you need when leveraging conversational
+AI tools in the workplace. We'll also explore a
+specific prompting technique called few-shot prompting. Writing effective prompts involves critical thinking and creativity. It can also be a fun process, and it's a very important
+skill to practice if you wanna use AI
+effectively in the workplace. Are you excited to get
+started on prompt engineering? Let's go.

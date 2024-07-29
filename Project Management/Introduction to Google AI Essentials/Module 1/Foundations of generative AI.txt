@@ -1,0 +1,41 @@
+- Advancements in AI technology
+are reshaping how we work. Let's explore one of the key developments at the center of this
+transformation, generative AI. As the name suggests, generative AI is AI that can generate new content such as text, images, or other media. A unique quality of generative AI tools is that you can use them
+with natural language. Natural language refers
+to the way people talk or write when communicating
+with each other. Here's a simplified overview of how a generative AI tool
+works with natural language. First, you provide input. Input refers to any information or data that's sent to a
+computer for processing. Many generative AI tools,
+accept text and speeches input, and some also accept
+images or video files. Next, the data is
+processed by the AI tool. Then an output is generated
+in the form of text, images, audio, or video. Generative AI and the ability to interact with computers using natural
+language has introduced a world of possibilities for what
+people can create with AI. For example, you might be
+marketing a new business. You need fresh, engaging content
+like a promotional poster to advertise a new product, but you don't have a creative team to bring your ideas to life. No need to stress. With a few instructions, generative AI can help
+you create a poster. If the generated content
+doesn't meet your expectations, you can provide additional instructions until it produces something
+that meets your needs. This is just one example of how generative AI can
+complement your skills, but there are many other ways it can benefit you and your work. For example, generative AI
+can boost your productivity by helping you with tasks like
+drafting replies to emails. It can help you avoid mistakes, and it can improve your
+decision-making process by answering questions and
+brainstorming ideas with you. Whether you work in healthcare,
+education, finance, retail, or any other field,
+there are a wide variety of generative AI tools that
+can cater to your needs. One example is a conversational AI tool. A conversational AI tool
+is a generative AI tool that processes text requests
+and generates text responses. You can use it to brainstorm
+ideas, answer questions, and boost your productivity. Throughout Google AI Essentials, you'll gain practical experience using a conversational AI
+tool by Google called Gemini. Gemini can be used to get some creative inspiration
+when you're feeling stuck, build on your ideas, and provide detailed explanations that help you explore topics easily. For example, let's ask
+Gemini to brainstorm a list of team-bonding activities
+for our summer work retreat. The AI tool responds with
+a wide range of ideas from a fun beach party to
+a relaxed pottery class. Gemini also share some additional tips to consider when planning
+a successful work retreat. Generative AI has paved the
+way to exciting new frontiers, but before we can tap
+into what this technology has to offer, it's essential
+to investigate the capabilities and limitations of AI as a whole. Continue to the next part of
+this lesson to get started.

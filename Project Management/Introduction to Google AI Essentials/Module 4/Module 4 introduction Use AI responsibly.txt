@@ -1,0 +1,34 @@
+- Make sure that you use AI responsibly, ethically and for good outcomes. Hello! I'm excited to introduce
+you to new concepts that will help you learn
+how to use AI responsibly. Learning to use AI
+responsibly is a crucial part of experimenting with and
+using this technology. Responsible AI is the
+principle of developing and using AI ethically with
+the intent of benefiting people and society, while avoiding harm. To ensure people are treated
+fairly and respectfully, AI users must be aware of
+the limitations of AI tools and commit to using them ethically. An AI user is someone who leverages AI to complete a personal
+or professional task, like editing copy for
+a marketing campaign, brainstorming ideas for
+a nonprofit fundraiser, or discovering more effective ways to use a particular technology. AI can perform many tasks that help make work more
+productive, efficient, or engaging. But AI, to be clear, is not perfect. Humans are creative,
+logical and compassionate. We have critical reasoning abilities and contextual understanding
+of our environment that AI systems lack. Consider how the autopilot
+feature functions in an airplane. Autopilot navigates
+from point A to point B, but the plane still needs a human pilot to make complex decisions. For instance, if weather forces the plane to make an emergency landing, the pilot will be the one
+to manage that situation and safely land the plane. In this scenario, autopilot is the system and the pilot is the user. Autopilot can handle a lot
+of the more technical aspects of keeping the plane in the air, but generally, flying the plane safely is the responsibility of the pilots. Similarly, AI tools can help with many basic tasks in the workplace. AI can be used to brainstorm
+ideas for a new product, outline a press release, suggest questions to ask during
+a focus group and much more, but it cannot perform higher level tasks like giving personalized
+performance feedback to an employee or making a judgment about
+which candidate to hire or providing therapy to a patient. AI works best when used as a complement to our uniquely human
+skills and abilities. As a member of the
+Responsible Innovation Team, I use my human abilities
+to connect with colleagues, motivate teammates and drive
+innovation responsibly. My name is Emilio and
+I'm going to help you learn about what using
+AI responsibly means. In this section of the course,
+you'll learn about the biases that exist in AI models. Then, you'll examine the types of harms that are associated with AI and the importance of
+pairing the use of AI with human abilities
+like critical thinking and responsible decision-making. Finally, you'll discover some
+tips for maintaining privacy and security while experimenting
+with or using AI tools. Let's get started.

@@ -1,0 +1,20 @@
+- You've learned a lot
+about writing prompts that you can apply to workplace tasks. In this section, we discussed
+large language model, or LLM output. We examined how LLMs produce their output and potential issues you
+might encounter in the output. After this, we focused on a key principle of prompt engineering, creating
+clear and specific prompts. You learn just how
+important it is to specify what you want the LLM to do, and to include supporting context to help it provide better output. We then went on to discover
+how to improve the quality of AI output through iteration. It's essential that you
+evaluate your output, and then revise your prompt as needed. Lastly, we learned about
+few-shot prompting, which involves providing
+examples to guide the LLM. I wanna offer a final tip before I go. We focused on prompting
+large language models. You can use the same general principles when you prompt other
+kinds of AI models too. For instance, the next
+time you want to use AI to generate an image, try to be as clear and
+specific as possible, and then iterate to get
+closer to the output you want. It's been great guiding
+you through the process of prompt engineering, I
+hope you continue to apply and develop these skills as you leverage conversational
+AI tools in the workplace. To continue learning, I encourage
+you to explore the topic of using AI responsibly as
+part of Google AI Essentials.

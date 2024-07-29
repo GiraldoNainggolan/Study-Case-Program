@@ -1,0 +1,15 @@
+- Congratulations. You're almost done with
+this section of the course. You've discovered how responsible
+AI helps mitigate bias and avoid societal harms. Let's review some of those key points. First, you explored how systemic and data biases are
+reflected in AI models. Training or developing models
+with incomplete, outdated, or inaccurate data increases
+bias in AI systems. You examined the types of harms
+that are associated with AI, especially if AI tools are not
+paired with human abilities, like critical thinking and
+responsible decision making. Finally, you gained some
+tips for maintaining privacy and security when using AI. The best way to commit
+to using AI responsibly is to be vigilant about the risks of AI while enjoying its benefits. Think critically about how you use AI and the output you receive from AI tools. Share your awareness of
+potential biases with others. Staying up to date with
+the latest AI developments is also very important. AI tools are changing the world rapidly, but with new technology also comes risk. Understanding potential
+harms will help you consider learning how to use
+these tools responsibly. It's been great introducing you to the responsible use of AI. To continue learning, I encourage you to stay up to date on AI developments as part of Google AI Essentials.

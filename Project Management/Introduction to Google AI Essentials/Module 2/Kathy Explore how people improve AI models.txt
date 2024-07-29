@@ -1,0 +1,22 @@
+- Hi, I'm Kathy. I'm a product manager
+on the Google Labs team, and I work on CodeAI. CodeAI is ways to generate
+programming languages in code so that software developers can use CodeAI to help them write applications. So I'm from Alaska and
+we were the first family on the block to get internet. I'm one of five kids, so
+mom had a signup sheet. So everybody in the family wanted to use the computer so much that we all just got 30-minute increments. I remember when I first
+opened up a browser and went to a webpage, I saw other comments on it from people who were around the world, and I had no idea that you could
+talk to people that quickly who are on the other side of the planet, and it just blew my mind. When I look at AI, and especially with
+the advancement of LLMs and applying that to all
+of the developer tools that we have today, I
+have that same feeling of just being incredibly in awe of what is happening
+and what we're making, what my colleagues and I are making. When you're thinking about AI and you're thinking about
+large language models or deep learning or whatever application of AI you're dealing with,
+at the heart of whatever that model is is a person
+who is training it, who's evaluating it, who is
+applying more data to it. Human-in-the-loop is doing
+things like writing a prompt for the AI to give you a question, and then the AI gives you a
+question and you further refine. For me, it helps me write code. So if it doesn't get
+the code answer correct, I'll further prompt it to
+get it to give me a function that I actually really like. So the way I look at
+human-in-the-loop is a way to refine the AI's answers. There's a huge potential for
+AI to do good in the world, and the reason why is because AI is a tool that humans created to help us connect with each other more and
+help us be more human.

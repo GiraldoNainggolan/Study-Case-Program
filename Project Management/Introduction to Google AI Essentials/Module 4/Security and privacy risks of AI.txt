@@ -1,0 +1,31 @@
+- You've learned that it's important to be aware of the
+possible harms of AI tools. It's equally important to make sure you're equipped with the knowledge to make informed decisions about data, especially when it comes
+to privacy and security. Privacy is the right for
+a user to have control over how their personal
+information and data are collected, stored, and used. A variety of information
+is used to train AI models, including data sets and user inputs. For example, users might
+disclose private information during their interactions with an AI tool, and personal information might
+include names and addresses, medical records and history, and financial and payment information. If you're using an AI tool at your job, you might decide to include
+specific information about a project,
+stakeholders or your clients in an AI prompt to make the output more
+specific to your task. But using an AI tool in this way can present a security risk. Security is the act of
+safeguarding personal information and private data, and ensuring that the system is secure by preventing unauthorized access. The majority of IT industry leaders believe generative AI might introduce new security risks, and that before an organization
+implements generative AI for the first time, the organization should put enhanced
+security measures in place. As the user, there are
+measures you can take to help protect your own
+privacy and security, as well as that of your organization, coworkers, and business partners. First, before you use an AI tool, be aware of its terms of use or service, privacy policy, and any associated risks. Consider how transparent an AI tool is about how it collects data from its users. Trusted AI tools are often built with robust security and privacy teams that have thoroughly
+considered all kinds of risks and have put effort into
+communicating those risks to users. Before accepting terms of
+service for a website or an app, be aware of what data is collected and how it might be used. Next, don't input personal
+or confidential information. Most AI tools function adequately without specific personal details. So while using AI, keep private information,
+like your identity, your department's budget details
+or email address, private. Similarly, avoid putting
+confidential information into an AI tool to prevent the data from becoming
+available to a third party during a security breach or data leak. To personalize your outputs, you can always edit the details later. Many AI tools use encryption and other measures to help
+protect your information, but you should always make
+sure to protect your privacy. Finally, stay up to date
+on the latest tools. Knowing about new advancements in AI can help you understand
+risks as they come in. So if you plan on using AI frequently, make sure you're reading
+the latest articles from trusted news sources, scholarly and university publications, and subject matter experts. When it comes to AI, technology is progressing
+and changing almost daily. Luckily, security strategies are, too. As you've learned, privacy and security are a huge part of using AI responsibly. And knowing how to keep your
+organization and yourself safe is an integral part of responsible AI.
