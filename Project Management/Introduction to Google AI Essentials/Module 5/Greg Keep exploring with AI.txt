@@ -1,0 +1,34 @@
+- I am Greg. I'm a Research Scientist at Google, and that means that I
+try to build technologies and develop new ways to
+make machines intelligent. So when I was a kid,
+I watched a lot of TV, mostly kind of nerdy
+educational programs, like NOVA and things like that, and I
+became fascinated with physics and how the universe worked. And despite the fact that
+this wasn't the sort of thing that most people in my family
+did, I became convinced that I wanted to go to a
+university and study physics. In the process of my education, I learned that the thing in the world that I was most interested
+in understanding was actually the brain
+and human cognition. And so I went to graduate
+school in neuroscience. I met folks who were exploring not just how the brain worked, but how the brain could
+teach us to build machines that were more intelligent. And I came to Google
+to follow those ideas, to understand whether there
+were ideas from biology and neuroscience that could
+help us build machines that were smarter. The shift from machines
+that only understand exactly what they're explicitly told to machines that can actually learn
+from experience or data or mistakes has been nothing
+less than transformational. Seeing how other people
+use a piece of technology, use a tool, whether it's
+AI or something else, gives you new ideas about how you might use that tool, right? It's almost like watching cooking shows. You don't have to make the same thing that the chef makes on the
+show to learn something about how you could use this tool differently. I really encourage people to be educated about how the technology is useful, because there may be something
+that's similar problem, even if it comes from a different field or a different industry. I think that the approach
+to using AI in a new way for an application or a technology, it's actually relatively simple, which is that you should start with play. Start with trying to play with
+a toy version of the problem and a toy solution, and see if you can make it work
+in a simplified environment or at a small scale that
+gives you confidence that you can try something bigger. Try it not for composing
+an entire orchestral piece. Try it for just completing
+a melody or a phrase, but if there's any advice at all, it's to try to appreciate the opportunity as broadly as you can and be
+willing to try things again. And so there's really an
+opportunity to be someone who makes a discovery, makes a discovery about how to use a tool
+well, how to get a new effect with the technology, how to
+use it for a new purpose. So whether you're building AI or discovering ways to use it, the opportunity for
+innovation and creativity is in your hands, not anyone else's.

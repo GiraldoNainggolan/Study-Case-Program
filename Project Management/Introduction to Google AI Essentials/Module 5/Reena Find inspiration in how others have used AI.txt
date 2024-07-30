@@ -1,0 +1,36 @@
+- Hi, I'm Reena, I'm Head of Content and Partnership Enablement for Responsible Innovation at Google. My parents are both immigrants. My dad's from India, my
+mother's from the Philippines. They're both physicians, and met on a fellowship in the States. They were very science-based, I was always the opposite of them. I studied humanities in
+college, I studied English. I was very into writing and journalism, and was a business journalist for a while, my beat was innovation. So I know I have a really long title, but my team does a lot of things. Our primary purpose is to
+operationalize our AI principles. They're basically statements built on our mission,
+our values as a company, and how we serve our users responsibly. I and others on my team, we
+actually assess new applications that are going to be integrated
+into products and services. It's important to get as many
+points of view at the table when you're building AI. One thing about generative
+AI is that it touches so many sectors, it touches
+so many different domains, so many applications in one's daily life that we need a lot of different experts, and a lot of lived expertise
+as we're developing it. It's very helpful for
+testing, it's very helpful for batting around ideas and
+understanding ahead of time what some user's concerns might be, and how you might address 'em. The data that our AI
+systems are trained on reflect a lot of historical data. That can mean there might
+be historical biases, historical stereotypes, et
+cetera, that are in the data. And so, it's really important to make sure that we're looking at
+everything in today's world from many different perspectives. For my own team, we look across
+many different teams' work, because there are a lot of
+people being really creative, being really adventurous
+with AI right now, it's a wide open field. One team that I've looked
+at and found so much inspiration from, it's the
+Google Arts and Culture team. This is a team that works
+with the world's most renowned museums and cultural institutions, and makes their collections
+available online. And they've been doing
+so many exciting things that have actually inspired our work, in terms of offering guidelines to developing AI responsibly. So, for example, because they
+work with a lot of imagery, they've been fantastic in
+terms of showing outputs from AI applications that
+make it really clear to users that they're looking at an image
+that was generated with AI. And so, I love working with
+Google Arts and Culture because they come up with
+such, not only aesthetic, but very human and very
+natural ways to disclose that you're looking at something, or reading something
+that was created with AI, that feels really comfortable. One of the best ways to
+learn about what's happening in the AI field is simply
+to have fun, you know? Look for exciting ways to experience AI. Look at what your kids
+might be playing with. What catches your eye? What's fun? What brings you joy?
