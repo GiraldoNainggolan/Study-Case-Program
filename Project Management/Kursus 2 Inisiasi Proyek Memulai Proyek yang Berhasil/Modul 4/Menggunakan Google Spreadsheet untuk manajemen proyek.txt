@@ -1,0 +1,122 @@
+Fitur Lembar Kerja Esensial untuk manajemen proyek
+Berkolaborasi dengan tim Anda
+Google Spreadsheet memudahkan untuk berkolaborasi dan berbagi informasi. Ini berguna untuk kelompok kerja jarak jauh atau bekerja dengan tim yang memiliki jadwal berbeda.
+
+Saat Anda membagikan Spreadsheet, Anda dapat memilih dari izin berikut ini:
+
+mengedit, yang memungkinkan orang lain melakukan pengeditan dan perubahan langsung pada file;
+
+berkomentar, yang memungkinkan orang lain menambahkan komentar dan memberikan saran; atau
+
+hanya melihat, yang memungkinkan orang lain untuk melihat file tetapi tidak mengedit, berkomentar, atau memberi saran. Ini adalah pilihan yang baik jika Anda tidak ingin ada perubahan yang dilakukan pada file tersebut.
+
+Setelah Anda membagikan Sheet Anda dengan tim Anda dan memberi mereka izin pengeditan atau komentar, Anda semua dapat berkolaborasi secara langsung di Sheet dengan meninggalkan komentar. Anda juga dapat menetapkan tugas atau item tindakan melalui komentar.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut:  
+Berbagi dan berkolaborasi pada file (https://support.google.com/docs/answer/2494822?hl=en&visit_id=638575081214539440-2757676183&rd=1)
+
+Memformat spreadsheet Anda
+Membuat daftar
+Untuk membuat daftar apa pun di Spreadsheet, cukup beri label pada setiap daftar-misalnya, Nama, Tanggal, Catatan, atau kriteria lainnya-di baris header. (Baris tajuk adalah baris paling atas dalam spreadsheet.) Lalu, tambahkan item daftar yang berbeda di setiap sel di bawah judul daftar. Sebagian besar daftar disusun secara vertikal, tetapi Anda mungkin lebih suka daftar horizontal tergantung pada jenis item. Catatan: Anda akan mempelajari cara membuat rencana proyek lengkap dan memprioritaskan tugas di bagian akhir kursus ini.
+
+Menampilkan dan menyembunyikan konten
+Membekukan baris atau kolom 
+
+Membekukan baris header (atau kolom untuk daftar horizontal) dan memformat header adalah cara yang bagus untuk membuat judul daftar menonjol. Membekukan baris header akan membuat baris tersebut tetap berada di tempatnya ketika Anda menggulir daftar ke bawah, sehingga Anda selalu dapat melihat judul daftar. Format header seperti halnya Anda memformat teks dalam dokumen dengan mengubah font, gaya, ukuran, atau warna.
+
+Mengelompokkan dan menyembunyikan konten terkait
+
+Mengelompokkan baris dan kolom memungkinkan Anda untuk memperluas dan menciutkan kategori data atau informasi yang lebih besar dengan satu klik. Hal ini membuat spreadsheet Anda lebih mudah dibaca dan dikelola dengan menyembunyikan data yang dikelompokkan saat tidak diperlukan, atau dengan cepat membatalkan pengelompokan dan menampilkannya saat diperlukan.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut: 
+
+Membekukan atau menggabungkan baris dan kolom; Mengelompokkan, memisahkan, atau menyembunyikan baris atau kolom ((https://support.google.com/docs/answer/9060449?hl=en&ref_topic=9055295))
+
+Lembar contekan Google Spreadsheet (https://support.google.com/docs/answer/7684717?hl=en&ref_topic=9326428&visit_id=638575081214539440-2757676183&rd=1)
+
+Menambahkan kotak centang
+Kotak centang menyediakan cara cepat dan sangat visual untuk melacak kemajuan tugas atau menunjukkan apakah kriteria tertentu telah terpenuhi.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut:  
+Menambahkan kotak centang ke spreadsheet
+
+Mengatur data
+Membuat daftar tarik-turun
+Jika Anda bekerja dengan orang lain di Lembar bersama, Anda mungkin akan mendapatkan respons atau deskripsi data yang tidak konsisten. Misalnya, seorang rekan tim mungkin mencantumkan tugas mereka sebagai "selesai" sementara yang lain mencatatnya sebagai "selesai." Menambahkan daftar dropdown (juga disebut sebagai validasi data) memastikan data yang dimasukkan ke dalam spreadsheet sesuai dengan yang Anda tentukan. Hal ini juga membuat orang lain lebih cepat menambahkan data karena mereka memilih dari daftar pilihan yang telah ditentukan sebelumnya.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut: 
+Membatasi entri data dengan daftar (https://support.google.com/a/users/answer/9604139?hl=en#zippy=%2Clearn-how)
+
+Menambahkan kode warna
+Terkadang akan sangat membantu jika Anda mengubah warna sel dan teks agar Anda dapat dengan cepat melihat perkembangan proyek Anda. Anda dapat menambahkan kode warna ke spreadsheet dengan menerapkan pemformatan bersyarat. Pemformatan bersyarat memformat sel dengan cara tertentu jika berisi informasi tertentu. Misalnya, melacak status kemajuan sebagai "Belum dimulai" dengan warna merah, "Sedang berlangsung" dengan warna oranye, dan "Selesai" dengan warna hijau.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut: 
+Melihat perubahan data dengan pemformatan bersyarat
+
+Mengurutkan dan memfilter data
+Kumpulan data yang besar bisa jadi sulit untuk dikelola. Spreadsheet membantu Anda mengurutkan dan memfilter data untuk membatasi apa yang terlihat dan menemukan jenis data tertentu di dalam spreadsheet.
+
+Mengurutkan data memungkinkan Anda untuk mengatur data sesuai dengan urutan yang Anda inginkan untuk ditampilkan, seperti menurut abjad, tanggal, atau tingkat kemajuan. Pemfilteran membatasi data yang akan ditampilkan dan hanya menampilkan data yang Anda minati, seperti tugas yang belum dimulai, atau item anggaran dalam rentang nilai tertentu.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut: 
+Memfilter data di spreadsheet (https://support.google.com/docs/answer/186103?hl=en&ref_topic=9327402&visit_id=638575081214539440-2757676183&rd=1) 
+
+Menambahkan tautan
+Tautan ke dokumentasi proyek lain atau bahkan situs web eksternal di spreadsheet Anda akan sangat membantu. Hal ini memberikan akses yang mudah dan terpusat kepada tim Anda ke semua data relevan yang mungkin mereka perlukan. Sebagai contoh, Anda dapat menambahkan tautan ke dokumen piagam proyek dari spreadsheet rencana proyek Anda.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut: 
+
+Menggunakan tautan (https://support.google.com/docs/answer/45893?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Ccreate-a-link)
+
+Menautkan ke data di spreadsheet (https://support.google.com/docs/topic/1361463?hl=en&visit_id=638575081214539440-2757676183&rd=1)
+
+Memvisualisasikan data
+Membuat tabel pivot
+Tabel pivot adalah alat analisis data dasar. Tabel pivot meringkas data Anda dan dapat membantu menunjukkan hubungan antara titik-titik data, membuatnya lebih mudah untuk memahami semua informasi yang terkandung dalam spreadsheet Anda. Anda akan mempelajari lebih lanjut tentang cara membuat dan menggunakan tabel pivot di bagian akhir kursus ini. Atau, lihat artikel Pusat Bantuan di bawah ini.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut: 
+Membuat dan mengedit tabel pivot (https://support.google.com/docs/answer/1272900?hl=en&visit_id=638575081214539440-2757676183&rd=1)
+
+Membuat bagan atau grafik
+Menyajikan data dalam bagan dan grafik adalah cara yang bagus untuk meringkas informasi penting tentang proyek Anda dengan cepat dan efektif kepada para pemangku kepentingan serta membuat laporan dan presentasi menjadi lebih menarik. Spreadsheet memungkinkan Anda membuat berbagai jenis bagan dan grafik secara otomatis menggunakan data di spreadsheet.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut:  
+Menyisipkan dan mengedit bagan
+
+Melakukan kalkulasi
+Menggunakan fungsi
+Fungsi dapat digunakan untuk memanipulasi data dan melakukan kalkulasi. Google Spreadsheet memiliki beragam fungsi yang sudah ada di dalamnya, yang berarti fungsi tersebut akan secara otomatis melakukan penghitungan yang Anda tentukan. Gunakan fungsi untuk menghitung jumlah atau rata-rata dengan cepat, menentukan tanggal mulai atau akhir secara otomatis, membuat laporan keuangan, dan banyak lagi.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut: 
+
+Menambahkan rumus dan fungsi (https://www.coursera.org/learn/project-initiation-google/supplement/q941t/using-google-sheets-for-project-management)
+
+Lembar contekan Google Spreadsheet (https://support.google.com/a/users/answer/9300022?hl=en)
+
+
+Templat spreadsheet yang berguna
+Menggunakan templat spreadsheet untuk manajemen proyek
+Membuat jenis spreadsheet yang sama berulang kali bisa memakan waktu. Anda dapat menghemat waktu dengan menggunakan templat seperti yang tersedia di 
+Galeri templat Google Spreadsheet
+. Pilih dari berbagai spreadsheet yang sudah jadi untuk anggaran, jadwal, dan pelacak, atau buat sendiri!
+
+Beberapa templat yang lebih umum dijelaskan dan ditautkan di bawah ini. Untuk menggunakan templat untuk materi kursus ini, klik tautan di bawah ini dan pilih "Gunakan Templat":
+
+Garis Waktu Proyek (https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)
+: Templat garis waktu proyek berguna jika Anda ingin melacak keseluruhan proyek dari konsepsi hingga penutupan. Contoh ini mencakup garis waktu visual yang menjabarkan siklus hidup proyek dan aktivitas utama yang perlu dilakukan selama setiap fase. Anda akan mempelajari lebih lanjut tentang membuat dan melacak garis waktu proyek di bagian akhir kursus ini dan mendapatkan pengalaman bekerja dengan templat garis waktu proyek Anda sendiri.
+
+Pelacakan
+Proyek (https://docs.google.com/spreadsheets/d/12AK5slxygSxj8nmjS39SCnEFkCy8WZDbgN0vSQh2xwg/template/preview?resourcekey=0-__sqaWcGZavYWgXz-WD4jQ#gid=1161341563)
+: Templat pelacakan proyek berguna untuk melacak anggaran, hasil, dan data lainnya. Contoh ini mencakup kolom untuk melacak biaya dan waktu, serta kolom dengan daftar tarik-turun untuk melacak tingkat prioritas tugas. Fitur lainnya termasuk rumus untuk menghitung jam, biaya, dan persentase hasil yang telah diselesaikan, yang memungkinkan Anda untuk melacak pengeluaran dan kemajuan proyek.
+
+Bagan
+Gantt(https://docs.google.com/spreadsheets/d/1Yc1KA_7DMwBqyt2Zcx68HAV3oEp1FnUt-undm0XHgqM/template/preview?resourcekey=0-y-3VgQEbmAVaiEGfeyeJ-g#gid=1115838130)
+: Bagan Gantt menggabungkan banyak aspek dari jenis-jenis spreadsheet manajemen proyek menjadi satu. Gantt chart mengatur tugas berdasarkan hari dan berguna untuk menunjukkan hubungan antara banyak bagian yang bergerak dalam sebuah proyek. Bagan ini juga berguna untuk mengelola proyek dengan banyak kolaborator. Gantt chart sering kali menyertakan pemformatan bersyarat yang membuat sel berubah warna berdasarkan sejauh mana proyek berjalan sehingga Anda bisa segera menentukan seberapa besar kemajuan yang telah Anda capai pada tugas tertentu.
+
+Garis Waktu Pemasaran Acara (https://docs.google.com/spreadsheets/d/10GindXMsW6z0pFvd5Ymjz_PS0dXJ5eCkl3KDKEPO9qY/template/preview#gid=541890420)
+: Templat garis waktu berguna untuk membuat jadwal, melacak peristiwa, dan memvisualisasikan tugas dan pencapaian yang terlibat dalam sebuah proyek. Anda dapat menggunakan templat ini untuk mengelola proyek yang melibatkan banyak tugas pemasaran atau tugas yang berhubungan dengan publik. Anda dapat melacak postingan media sosial, riset pasar, dan mengoordinasikan konten di berbagai platform.
+
+Lihat sumber daya ini dari Pusat Bantuan Google untuk mempelajari lebih lanjut:  
+Membuat template dokumen (https://support.google.com/docs/answer/148833?hl=en&visit_id=638575081211981418-92343831&rd=1)
+
+

@@ -1,0 +1,59 @@
+- Have you ever created a
+presentation for a client or designed a website
+for your new business? If so, you may have used
+an iterative process to achieve your goal. In an iterative process, you create a first version, evaluate it, and improve upon it for the next version. Then you repeat these steps until you get the desired outcome. For example, if you're
+developing a proposal, report or other document to
+share with your coworkers, you might produce multiple drafts and make improvements on each draft, until you are satisfied with the result. Taking an iterative approach
+is often the most effective way to solve a problem or develop a product. An iterative process is also effective in prompt engineering. Prompt engineering often
+requires multiple attempts before you get the optimal output. Most of the time, you won't get the best result on your first try. If you try something and it doesn't work, don't get discouraged. Instead, carefully evaluate the output to determine why you didn't
+get the response you wanted. Then, revise your prompt
+to try for a better result. Let's consider possible reasons
+you might not get useful output after creating a
+clear and specific prompt. First, differences in
+large language models can affect output. Each LLM is developed
+with unique training data and programming techniques and has different background knowledge about specific domains. For this reason, different
+models might respond to similar prompts in different ways. And might fail to provide an adequate
+response to some prompts. Taking an iterative approach with the LLM you are using
+will produce the best results. Second, LLM limitations. Previously, you learned that LLM output may sometimes be inaccurate, biased, insufficient, irrelevant, or inconsistent. You should critically
+evaluate all LLM output by asking yourself the
+following questions. Is the output accurate?
+Is the output unbiased? Does the output include
+sufficient information? Is the output relevant
+to my project or task? And finally, is the output
+consistent if I use the same prompt multiple times? If you identify any issues
+when you evaluate output, iterating on your initial prompt
+can often help you resolve these issues and get better output. To begin, if you notice
+there's any context missing in your prompt, add it. Your choice of words
+can also significantly impact an LLM's output. Using different words or phrasing in your prompts
+often yields different responses from the model. Experimenting with different
+phrasings can help you obtain the most useful output. Now that you know more
+about iterative prompting, let's consider an example. Suppose you work as a
+human resources coordinator for a video production company. The company wants to develop
+an internship program for students who are
+exploring careers in animation and motion graphics design. The company is based in the United States, in the state of
+Pennsylvania, my home state. Your team wants to partner with local colleges to provide
+internship opportunities for students in Pennsylvania. As a first step, you need to create a list of colleges in Pennsylvania
+that have animation programs. The list should include necessary
+details about the colleges and be in a well organized format that your team can quickly review. Let's review an example using Gemini. Help me find colleges with animation programs in Pennsylvania. Next, we'll examine our output. The output lists colleges in Pennsylvania that have animation programs, along with further information
+related to these programs. This is helpful information, but it isn't structured in a way that your team can quickly reference when contacting the colleges. Organizing the information in
+a table would make it easier to read and understand, especially for stakeholders
+like your manager who may have limited time. We can iterate on the
+prompt by adding context to specify the desired
+format of the output. We'll type show these options as a table. The output displays a table that provides useful
+information about the location of each college and the specific
+type of degree it offers. Now, the list is in a well
+organized format that's easier for your team to follow. Although the table contains most of the information your team needs, it doesn't include a key detail, whether the school is a
+public or private institution. Your company wants to offer internships to
+students from both public and private colleges. We'll add a new request for Gemini to include the relevant
+information in the table. Can you add a column showing whether they're public or private? Now, the table includes a column that indicates whether a
+college is private or public. To share this information
+with your team in a format that's easy to review and understand, you can use the Export to Sheets feature. This will allow your team to easily access and analyze the data and make informed decisions
+based on the results. You should apply the
+same iterative approach to further tasks. When you develop prompts
+for additional tasks, be aware that previous prompts
+made in the same conversation can influence the output
+of your most recent prompt. If you notice this is
+happening, you may want to start a new conversation. Iteration is a key part
+of prompt engineering. By taking an iterative
+approach to prompting, you can leverage an LLM to
+provide the most useful output for your needs.

@@ -1,0 +1,33 @@
+Dalam video sebelumnya, Anda telah mempelajari bahwa analisis data adalah proses pengumpulan dan pengorganisasian informasi untuk membantu menarik kesimpulan, memecahkan masalah, membuat keputusan yang tepat, dan mendukung tujuan Anda. Dalam bacaan ini, kita akan membahas bagian-bagian penting dari proses analisis data.
+
+Ada enam langkah utama yang terlibat dalam analisis data: Bertanya, mempersiapkan, memproses, menganalisis, berbagi , dan bertindak. Mari kita bahas satu per satu.
+
+Ikon untuk "Tanya"
+Selama fase Tanyakan, ajukan pertanyaan-pertanyaan kunci untuk membantu membingkai analisis Anda, dimulai dengan: Apa masalahnya? Saat mendefinisikan masalah, lihatlah kondisi bisnis saat ini dan identifikasi perbedaannya dengan kondisi ideal. Biasanya, ada hambatan yang menghalangi atau ada sesuatu yang salah yang perlu diperbaiki. Pada tahap ini, Anda harus sespesifik mungkin. Anda juga harus tetap fokus pada masalah itu sendiri, bukan hanya pada gejalanya saja. Sebagai contoh, bayangkan Anda sedang melakukan analisis data untuk sebuah gym yang kehilangan keanggotaan. Anda bisa bertanya: Mengapa kami terus kehilangan anggota? Tapi pertanyaan yang lebih baik dan lebih spesifik adalah: Faktor-faktor apa saja yang berdampak negatif pada pengalaman anggota? Dengan begitu, saat Anda mulai melakukan riset, Anda tahu persis apa yang harus dicari.
+
+Grafik garis yang menunjukkan tren menurun untuk keanggotaan gym yang menurun dari bulan ke bulan
+Bagian lain dari tahap Ask adalah mengidentifikasi pemangku kepentingan Anda dan memahami harapan mereka. Ada banyak pemangku kepentingan dalam sebuah proyek, dan masing-masing dari mereka dapat membuat keputusan, memengaruhi tindakan, dan mempertimbangkan strategi. Setiap pemangku kepentingan juga akan memiliki tujuan spesifik yang ingin mereka capai. Sangat umum bagi pemangku kepentingan untuk datang kepada Anda dengan masalah yang perlu dipecahkan. Namun sebelum Anda memulai analisis Anda, Anda harus mengetahui dengan jelas apa yang mereka minta dari Anda. Misalnya, jika manajer Anda menugaskan Anda untuk melakukan proyek yang berkaitan dengan analisis risiko bisnis gym, ada baiknya Anda mengkonfirmasi apakah mereka ingin Anda menganalisis semua jenis risiko yang dapat memengaruhi gym atau hanya risiko yang berkaitan dengan cuaca atau tren musiman.
+
+Ikon untuk "mempersiapkan"
+Setelah Anda memiliki arah yang jelas, sekarang saatnya untuk beralih ke tahap Mempersiapkan. Di sinilah Anda mengumpulkan dan menyimpan data yang akan Anda gunakan untuk proses analisis yang akan datang.
+
+Mari kita kembali ke contoh keanggotaan gym kita. Untuk mengumpulkan data tentang pengalaman anggota, Anda memutuskan untuk mengirimkan survei kepada anggota gym untuk meminta umpan balik tentang pengalaman mereka. Untuk memastikan Anda mendapatkan jawaban yang spesifik, Anda meminta mereka memberikan umpan balik dalam tiga kategori yang berbeda: pemeliharaan fasilitas, layanan pelanggan, dan biaya keanggotaan . Anda juga memberikan ruang bagi mereka untuk menulis tanggapan. Ketika Anda mendapatkan kembali survei anggota, penting bagi Anda untuk memiliki sistem yang terorganisir untuk melacak dan mengarsipkannya. 
+
+Ikon untuk "Proses"
+Tahap ini adalah saatnya untuk Memproses data Anda. Pada langkah ini, Anda akan "membersihkan" data Anda, yang berarti Anda akan memasukkan data Anda ke dalam spreadsheet, atau alat lain yang Anda pilih, dan menghilangkan ketidakkonsistenan dan ketidakakuratan yang dapat menghalangi hasil. Saat mengumpulkan data, pastikan untuk menyingkirkan respons ganda atau data yang bias. Hal ini membantu Anda mengetahui bahwa setiap keputusan yang diambil dari analisis didasarkan pada fakta dan adil serta tidak bias. Misalnya, jika Anda melihat adanya respons ganda dari satu anggota gym ketika menyortir survei, Anda perlu menyingkirkan salinannya untuk memastikan kumpulan data Anda akurat.
+
+Selama tahap ini, penting juga untuk memeriksa data yang Anda siapkan untuk memastikan data tersebut lengkap dan benar serta tidak ada kesalahan pengetikan atau kesalahan lainnya.
+
+ikon untuk "menganalisis"
+Sekarang saatnya untuk Menganalisis. Pada tahap ini, Anda mencermati data Anda untuk menarik kesimpulan, membuat prediksi, dan memutuskan langkah selanjutnya. Di sini, Anda akan mengubah dan mengatur data dengan cara yang menyoroti cakupan penuh dari hasil sehingga Anda dapat mengetahui apa arti dari semua itu. Anda dapat membuat visualisasi menggunakan bagan dan grafik untuk menentukan apakah ada tren atau pola dalam data atau kebutuhan untuk penelitian tambahan.
+
+Dalam contoh keanggotaan gym kami, katakanlah Anda melihat 50% anggota menulis tanggapan tambahan pada survei yang menyebutkan bahwa peralatannya sudah usang. Survei tersebut juga menunjukkan bahwa 75% dari tanggapan menyebutkan "biaya keanggotaan yang mahal." Ketika melihat 50% tanggapan yang menyebutkan "peralatan yang ketinggalan zaman" dan 75% tanggapan yang menyebutkan "biaya keanggotaan yang mahal" secara berdampingan dalam sebuah grafik, Anda mungkin dapat menyimpulkan bahwa tanggapan ini saling menginformasikan satu sama lain. Anda dapat menyimpulkan bahwa gym harus berinvestasi pada peralatan baru jika ingin mempertahankan anggota dan menambah nilai pada biaya keanggotaan.
+
+Ikon untuk "Bagikan"
+Setelah Anda mengajukan pertanyaan untuk mencari tahu masalahnya-kemudian menyiapkan, memproses, dan menganalisis data-saatnya untuk membagikan temuan Anda. Pada tahap ini, Anda menggunakan visualisasi data untuk mengatur data Anda dalam format yang jelas dan mudah dipahami oleh audiens Anda. Saat berbagi, Anda dapat menawarkan wawasan yang Anda peroleh selama analisis untuk membantu para pemangku kepentingan membuat keputusan yang efektif berdasarkan data untuk memecahkan masalah.
+
+Ikon untuk "Bertindak"
+Dan akhirnya, Anda siap untuk Bertindak! Pada tahap akhir analisis data Anda, bisnis mengambil semua wawasan yang telah Anda berikan dan menerapkannya ke dalam tindakan untuk menyelesaikan masalah bisnis asli.
+
+Melakukan analisis data adalah proses penting untuk memahami kebutuhan dan tantangan bisnis serta menentukan solusi yang efektif. Enam langkah dasar ini-tanya, siapkan, proses, analisis, bagikan , dan tindak-akanmembantu Anda mencapai kesuksesan! 
+

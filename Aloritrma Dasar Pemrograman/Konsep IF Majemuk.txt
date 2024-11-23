@@ -1,0 +1,33 @@
+Pengertian: Digunakan jika pemilihan memberikan lebih dari dua alternatif pilihan
+
+Misalnya: Jika si Ando (A) ingin bermain kerumah si Andi dan bertemu Bapaknya dan ditanya "Apakah Andi ada dirumah ?", jika ada di rumah langsung bermain sama Andi namun jika tidak (kondisinya false) maka ubah ke pernyataan lain
+            yakni kerumah Endi dan bertemu dengan ayahnya makan dilakukan pengkondisi lagi jika Endi berada dirumah maka pernyataan selesai namun jika sebaliknya (false) pastinya akan melakukan opsi lagi sampai opsi-opsi lainnya tergantung study kasus
+            Dan jika sebanyak mungkin masih bernilai false maka tindakan yang terakhir adalah menyuruh Ando untuk pulang kerumahnya (balik lagi ke kegiatan sebelum ada aktifitas atau mengakhiri aktifitas).
+
+RANGKAIAN PSUDOCODE:
+
+IF (Kondisi-1)
+        <Pernyataan-1>
+        <Pernyataan-2>
+        ..............
+        <Pernyataan-m>
+
+ELSE IF <Kondisi-2>
+        <Pernyataan-3>
+        <Pernyataan-4>
+        ..............
+        <Penyataan-n>
+
+ELSE IF<Kondisi-3>
+        <Pernyataan-5>
+        <Pernyataan-6>
+        ..............
+        <Penyataan-O>
+
+ELSE
+        <Pernyataan-7>
+        <Pernyataan-8>
+        ..............
+        <Penyataan-p>
+
+endif

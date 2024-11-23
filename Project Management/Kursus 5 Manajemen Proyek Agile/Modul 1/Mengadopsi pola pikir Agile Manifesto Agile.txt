@@ -1,0 +1,61 @@
+Dalam video sebelumnya, kami menjelaskan manajemen proyek Agile sebagai pendekatan manajemen proyek dan tim berdasarkan Manifesto Agile. Dalam bacaan ini, kami akan memperkenalkan Anda pada manifesto tersebut, yang terdiri dari empat nilai dan 12 prinsip yang mendefinisikan pola pikir yang harus diperjuangkan oleh semua tim Agile.
+
+Sejarah Agile
+Agile sebagai pendekatan manajemen proyek diperkenalkan ke dunia pada tahun 2001 di Amerika Serikat. Di sebuah resor ski di pegunungan Wasatch, Utah, 17 orang yang memproklamirkan diri sebagai anarkis organisasi berkumpul dan menggabungkan beberapa proses ringan untuk menciptakan apa yang kita kenal sekarang sebagai Agile Manifesto. Para pencipta Agile bermaksud menjadikannya sebagai seperangkat nilai dan prinsip yang akan memperbaiki dan mengubah proses pengembangan perangkat lunak yang sudah ada, namun perusahaan-perusahaan di berbagai industri dengan cepat melihat nilai Agile juga. Dengan segera, Agile diadopsi di semua bidang.
+
+Nilai dan prinsip Agile
+Dalam video terakhir, Anda telah menjelajahi 
+Manifesto Agile
+-yang menjadi pedoman bagi semua tim Agile secara mendalam. Anda telah mempelajari bahwa Agile adalah pendekatan yang sangat kolaboratif yang cocok untuk proyek-proyek yang sangat kompleks dan kompetitif. Dalam bacaan ini, kita akan membahas secara singkat empat nilai dan 12 prinsip Agile Manifesto.
+
+Nilai-nilai Agile mengacu pada empat pernyataan berikut:
+
+Individu dan interaksi lebih penting daripada proses dan alat
+
+Perangkat lunak yang berfungsi dibandingkan dokumentasi yang komprehensif
+
+Kolaborasi pelanggan dibandingkan negosiasi kontrak
+
+Menanggapi perubahan dibandingkan mengikuti rencana
+
+Para ahli Agile melihat nilai-nilai ini sebagai dasar penting dari tim dengan kinerja terbaik, dan setiap anggota tim harus berusaha untuk menjalankan nilai-nilai ini untuk menerapkan manfaat penuh dari Agile.
+
+Hal yang sama juga berlaku untuk 12 prinsip, yang merupakan inti dari setiap proyek Agile:
+
+"Prioritas tertinggi kami adalah memuaskan pelanggan melalui pengiriman perangkat lunak yang berharga secara dini dan berkelanjutan." 
+Apakah Anda bekerja untuk membuat produk untuk perusahaan Anda atau untuk pelanggan, kemungkinan besar ada seseorang yang menunggu pengirimannya. Jika pengiriman tersebut tertunda, hasilnya adalah pelanggan, pengguna, atau organisasi dibiarkan menunggu nilai tambah bagi kehidupan dan alur kerja mereka. Agile menekankan bahwa memberikan nilai kepada pengguna lebih awal dan sering kali menciptakan aliran nilai yang stabil, meningkatkan kesuksesan Anda dan pelanggan Anda. Hal ini akan membangun kepercayaan dan keyakinan melalui umpan balik yang terus menerus serta realisasi nilai bisnis yang lebih awal.
+
+"Sambutlah perubahan persyaratan, bahkan di akhir pengembangan. Proses Agile memanfaatkan perubahan untuk keunggulan kompetitif pelanggan." 
+Saat bekerja di Agile, penting untuk menjadi lincah. Itu berarti mampu bergerak dengan cepat, mengubah arah kapan pun diperlukan. Hal ini juga berarti bahwa Anda dan tim Anda terus-menerus memindai lingkungan Anda untuk memastikan perubahan yang diperlukan telah diperhitungkan dalam rencana. Mengakui dan menerima bahwa rencana Anda dapat berubah (sekali, dua kali, atau beberapa kali) akan memastikan bahwa Anda dan pelanggan memaksimalkan kesuksesan Anda.
+
+"Kirimkan perangkat lunak yang berfungsi sesering mungkin, dari beberapa minggu hingga beberapa bulan, dengan preferensi pada skala waktu yang lebih pendek." 
+Memberikan produk Anda dalam jumlah kecil dan sering adalah penting karena hal ini memberikan waktu dan kesempatan reguler bagi para pemangku kepentingan-termasuk pelanggan-untuk memberikan umpan balik tentang kemajuannya. Hal ini memastikan bahwa tim tidak akan menghabiskan terlalu banyak waktu untuk menempuh jalan yang salah.
+
+"Para pelaku bisnis dan pengembang harus bekerja sama setiap hari selama proyek berlangsung." 
+Menghilangkan hambatan antara pengembang dan orang-orang yang berfokus pada sisi bisnis proyek, membangun kepercayaan dan pemahaman serta memastikan bahwa pengembang, atau mereka yang membangun solusi, selaras dengan kebutuhan pengguna.
+
+"Bangunlah proyek di sekitar orang-orang yang termotivasi. Berikan mereka lingkungan dan dukungan yang mereka butuhkan, dan percayalah pada mereka untuk menyelesaikan pekerjaan." 
+Tim Agile yang sukses terdiri dari anggota tim yang tidak hanya saling mempercayai satu sama lain untuk menyelesaikan pekerjaan, namun juga dipercaya oleh sponsor dan eksekutif untuk menyelesaikan pekerjaan. Tim membangun solusi yang lebih baik ketika mereka diberdayakan dan dimotivasi untuk menyelesaikan proyek-proyek yang sulit.
+
+"Metode yang paling efisien dan efektif untuk menyampaikan informasi kepada dan di dalam tim pengembangan adalah percakapan tatap muka."Tidak ada yang bisa menandingi komunikasi tatap muka. Komunikasi tatap muka memungkinkan kita untuk menangkap isyarat, bahasa tubuh, dan ekspresi wajah tertentu yang terkadang hilang saat menggunakan bentuk komunikasi seperti email, chat, atau telepon. Namun, kita tidak bisa selalu bertatap muka. Menetapkan norma-norma komunikasi yang efektif-apapun formatnya-sangat penting bagi tim yang efektif.
+
+"Perangkat lunak yang berfungsi adalah ukuran utama kemajuan." 
+Dalam tim Agile, cara utama untuk menunjukkan penyelesaian pekerjaan yang berarti adalah dengan menunjukkan bagian solusi yang berfungsi. Dalam tim perangkat lunak, hal itu bisa berarti perangkat lunak yang berfungsi. Dalam tim non-perangkat lunak, hal itu bisa berarti bagian penting dari solusi yang siap didemonstrasikan kepada pengguna atau perwakilan mereka untuk mengumpulkan umpan balik. Hal ini berbeda dengan proyek tradisional atau proyek Waterfall, di mana penyelesaian dokumen proyek dapat digunakan untuk mengukur kemajuan. Dalam manajemen proyek Agile, tidak cukup hanya dengan mengatakan bahwa tim telah 80% selesai dengan suatu aktivitas jika tidak ada artefak yang dapat didemonstrasikan untuk ditinjau.
+
+"Proses Agile mendorong pengembangan yang berkelanjutan. Sponsor, pengembang, dan pengguna harus dapat mempertahankan kecepatan yang konstan tanpa batas waktu." 
+Mempertahankan kecepatan yang stabil namun hati-hati akan mencegah terjadinya kesalahan di sepanjang proses. Selain itu, Anda tidak ingin tim Anda merasa terlalu banyak bekerja atau kewalahan. Di sisi lain, tim yang kurang dimanfaatkan dapat menjadi bosan dan kehilangan semangat kreatif untuk berinovasi. Cita-cita Agile adalah untuk mencapai kecepatan upaya yang stabil bagi tim yang menghindari lembur dan kelelahan.
+
+"Perhatian yang terus menerus terhadap keunggulan teknis dan desain yang baik akan meningkatkan kelincahan." 
+Prinsip ini menyampaikan bahwa hanya karena tim bekerja dengan cepat, bukan berarti mereka mengorbankan kualitas. Dengan menekankan kualitas dan desain di seluruh fase pengembangan proyek, kelincahan, efisiensi, dan kecepatan tim akan meningkat. Ketika tim memberikan solusi yang dibangun dengan baik, mereka dapat dengan cepat merespons umpan balik pengguna dan informasi baru. Namun, jika produknya berkualitas rendah, mengimplementasikan perubahan dapat menjadi masalah, rumit, dan memperlambat seluruh tim.
+
+"Kesederhanaan-seni memaksimalkan jumlah pekerjaan yang tidak dilakukan-sangat penting." 
+Tim harus menghindari penerapan fitur tambahan ke dalam solusi yang tidak secara eksplisit diminta oleh pengguna atau pemilik produk. Hal ini termasuk menghapus prosedur yang tidak lagi diperlukan, dan mengurangi dokumentasi yang tidak perlu.
+
+"Arsitektur, persyaratan, dan desain terbaik muncul dari tim yang mengatur dirinya sendiri." 
+Anggota tim harus dapat menyelesaikan pekerjaan mereka dengan merancang proses dan praktik kerja mereka sendiri, tanpa manajer yang mendikte bagaimana mereka beroperasi. Anggota tim juga harus merasa diberdayakan untuk menyampaikan pertanyaan, kekhawatiran, atau umpan balik.
+
+"Secara berkala, tim merefleksikan cara untuk menjadi lebih efektif, kemudian menyesuaikan perilakunya." 
+Dalam Agile, penting untuk mengakui bahwa belajar dari keberhasilan dan kegagalan adalah hal yang berkelanjutan. Tidak ada tim yang sempurna. Akan ada kesalahan, tantangan, cobaan, dan kemenangan. Tim harus merefleksikan semua aspek yang berbeda dari kegiatan mereka sehingga mereka dapat membuat penyesuaian yang diperlukan.
+
+Untuk informasi tambahan, baca lebih lanjut tentang 
+12 prinsip di sini (https://agilemanifesto.org/principles.html).

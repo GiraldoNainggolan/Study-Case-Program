@@ -1,0 +1,33 @@
+- To start innovating with AI, consider what tasks
+you need to accomplish. For example, think about
+what slows down your work. Then think about how incorporating
+AI into your workflow may help you meet your needs. For inspiration, let's discuss some
+innovative types of AI models and explore their possibilities. Med-PaLM is a large language model that is designed to
+answer medical questions. It was built based on
+Google's existing LLM PaLM, but it was adapted for
+answering medical questions through training with clinicians. The Med-PaLM model is exciting because it demonstrates the potential for a model that already exists like PaLM to be specialized through training with
+experts in the field. Consider how workers in the healthcare industry
+may leverage this model and how other industries might use their own specialized models. Some machine learning and AI
+tools analyze just one modality or form of data in their input. A multimodal model is an AI model that can accept and learn
+from multiple types of input, such as images, video, or audio. AI tools that incorporate
+multimodal models can perform additional
+tasks beyond what a model that analyzes just one
+type of data can do. Med-PaLM has a multimodal
+version called Med-PaLM M. As a multimodal model,
+Med-PaLM M can do more than answer text-based medical questions. It can interpret several
+types of biomedical data, including language, medical
+imaging, and genomic data. This expands the model's potential for use in the medical field. Let's consider the following scenario. You're attending a presentation, there's a large audience, and everyone is so interested in every word the speaker has to say. Observing the speaker might inspire you. Even if you don't have the expertise to speak on the same topic, you might adopt some of the
+techniques the speaker uses. Likewise, you can find
+inspiration in how others use AI. AI is used innovatively
+across multiple industries, and more and more, humans are applying AI to create solutions to complex problems. Robotics is another industry where AI is frequently used in novel ways. The startup company
+Refiberd is applying AI to sensor technology to
+help reduce textile waste. Refiberd developed an AI system that uses sensors to identify and organize different
+textiles in recycling plants based on their materials. This helps reduce the amount
+of waste in recycling plants. Textiles made from certain
+materials can be sent to facilities that can process them. You can apply ideas from this
+example to your own work. Even if you don't have a robot or a need to sort physical
+objects in your work, you might be inspired to use
+AI for sorting in another way. For instance, you might use AI
+to organize workplace tasks. Are there other kinds of sorting or organizational tasks
+AI could help you with? There are so many ways humans
+use AI to address questions and improve the lives of others. I encourage you to keep exploring how you too can augment your work with AI.

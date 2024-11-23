@@ -1,0 +1,20 @@
+Saya Gian Spicuzza, saya seorang Program Manager
+dengan Tim Keamanan Android. Tim Keamanan Android bertanggung jawab untuk melindungi lebih dari dua miliar perangkat Android
+yang tersebar di dunia. Secara khusus, saya
+bekerja bersama tim yang terdiri dari pengguna
+akhir hingga partner kami, bahkan dengan tim
+engineering di Google untuk menentukan setiap
+rilis nama dessert Android, yang kami sebut sebagai
+versi Android. Bergantung pada apa
+yang perlu dilakukan untuk rilis dan siklus tersebut,
+sayalah yang menanganinya. Kami banyak berdiskusi dengan partner eksternal dan produsen ponsel dalam membantu mereka mengadopsi
+fitur keamanan baru yang berjalan di Android
+untuk rilis ponsel baru. Tim internal kami
+selalu berusaha berpikir lebih maju,
+mencoba dan memikirkan apa kerentanan berikutnya atau area berikutnya yang dapat ditingkatkan pada platform ini. Keamanan penting
+bagi siapa pun di sini karena seiring meningkatnya data
+kami yang didigitalkan, semakin penting data
+tersebut untuk dilindungi. Dari perspektif pemrograman, katakanlah Anda telah
+membangun sistem yang aman. Namun, jika ada kecacatan dalam software meskipun itu
+berukuran satu byte, seluruh sistem bisa menjadi tidak aman dan siapa pun
+bisa membobolnya.

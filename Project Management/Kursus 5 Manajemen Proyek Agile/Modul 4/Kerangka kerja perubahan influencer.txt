@@ -1,0 +1,59 @@
+Dalam video sebelumnya, kita telah belajar bagaimana menerapkan teknik manajemen perubahan organisasi pada tim Anda dalam Agile atau Scrum. Pada bacaan kali ini, kita akan belajar tentang kerangka kerja perubahan influencer yang dikembangkan oleh Joseph Grenny, Kerry Patterson, David Maxfield, Ron McMillan, dan Al Switzler dalam buku INFLUENCER: The New Science of Leading Change yang mengeksplorasi kekuatan pengaruh dalam memfasilitasi perubahan organisasi.
+
+Apa yang dimaksud dengan menjadi seorang influencer?
+
+Saat ini, ketika kita mendengar kata influencer, beberapa orang mungkin berpikir tentang ketenaran di media sosial. Namun, menjadi influencer lebih dari sekadar mendapatkan "like" - ini adalah tentang kemampuan seseorang untuk memimpin dan memengaruhi orang lain untuk mengubah perilaku, hati, dan pikiran mereka untuk menghasilkan hasil yang bermakna dan berkelanjutan. Sebagai seorang manajer proyek, Anda akan diminta untuk memimpin upaya yang membutuhkan tingkat perubahan ini, dan menerapkan model ini dapat menghasilkan dampak yang besar.
+
+Mempengaruhi berbeda dengan membujuk. Persuasi bersifat jangka pendek, sedangkan pengaruh bersifat jangka panjang. Untuk memiliki pengaruh yang nyata, Anda membutuhkan orang lain untuk mempercayai Anda, menganggap Anda sebagai otoritas, dan memiliki keyakinan terhadap keputusan Anda. Sebagai manajer proyek dalam proyek Agile, Anda dapat menggunakan pengaruh untuk memfasilitasi perubahan organisasi atau membuat tim mencoba alat, proses, atau teknologi baru. Ketika memfasilitasi perubahan organisasi, pengaruh adalah perbedaan antara perubahan sementara dalam perilaku dan perubahan yang mendalam dalam budaya dan nilai.
+
+Tiga kunci untuk mempengaruhi
+Tiga kunci untuk mempengaruhi, seperti yang diteliti oleh penulis model ini, adalah memperjelas hasil yang dapat diukur, menemukan perilaku yang penting, dan menggunakan enam sumber pengaruh. Mari kita bahas masing-masing.
+
+Memperjelas hasil yang terukur
+Anda tidak dapat memengaruhi orang lain untuk berubah sampai Anda tahu apa yang Anda inginkan, mengapa Anda menginginkannya, dan kapan Anda menginginkannya. Anda mungkin ingat bahwa hasil yang efektif adalah hasil yang spesifik, terukur, dapat dicapai, relevan, dan terikat waktu (S.M.A.R.T). Saat menetapkan tujuan untuk sebuah proyek, ingatlah untuk bertanya pada diri Anda sendiri tentang "mengapa". Apakah hasilnya spesifik dan terukur? Apakah sesuai dengan yang Anda inginkan? Apakah terikat waktu? Selain itu, pastikan ukuran-ukuran tersebut terlihat dan transparan bagi seluruh tim selama perubahan berlangsung.
+
+Temukan perilaku penting
+Perilaku penting adalah tindakan yang dilakukan seseorang pada saat yang sangat penting dalam konteks perubahan yang mereka inginkan. Misalnya, jika seorang anggota Tim Pengembangan ingin meningkatkan keterlibatan Pemilik Produk selama proses pengembangan, mereka mungkin menunjukkan perilaku penting ketika mereka baru saja selesai membuat fitur baru. Alih-alih melanjutkan ke item berikutnya dalam daftar tugas mereka, mereka mungkin mengirim email ke Pemilik Produk untuk meninjau pekerjaan mereka dan memberikan umpan balik. Dengan memilih untuk menyertakan atau tidak menyertakan Pemilik Produk pada saat yang penting, pengembang melakukan tindakan kecil untuk memberlakukan perubahan yang ingin mereka buat.
+
+Seperti yang telah kita bahas, perubahan nyata terjadi ketika Anda dapat mengubah perilaku orang lain. Apakah Anda mengubah pikiran tim, pemangku kepentingan, atau pelanggan Anda, penting untuk melacak pola perilaku mereka saat ini dan memahami perilaku yang Anda inginkan untuk mereka adopsi untuk membuat perubahan yang Anda inginkan.
+
+Untuk menentukan perilaku yang penting, Anda dapat berkonsultasi dengan para ahli, memindai artikel dan penelitian terbaik dan yang paling banyak dikutip, atau melakukan penilaian budaya dengan mengidentifikasi norma dan kebiasaan di dalam tim. Ketika mengidentifikasi perilaku, evaluasi perilaku mana yang konstruktif terhadap perubahan yang ingin Anda dorong dan perhatikan contoh-contoh dari mereka yang berhasil di mana sebagian besar orang lain gagal.
+
+Gunakan enam sumber pengaruh
+Para penulis INFLUENCER: The New Science of Leading Change mempelajari perusahaan dan individu yang berhasil atau tidak berhasil dalam mengimplementasikan perubahan, dan mereka mengidentifikasi enam sumber atau faktor yang berkorelasi dengan keberhasilan perubahan. Ketika menentukan cara mempengaruhi audiens target Anda untuk menciptakan perubahan, Anda harus mempertimbangkan untuk menggunakan semua sumber ini untuk meningkatkan peluang keberhasilan Anda. Anda bahkan dapat mempertimbangkan untuk memprioritaskan sumber-sumber tersebut berdasarkan pengetahuan Anda tentang audiens Anda. Misalnya, beberapa audiens target mungkin paling terpengaruh oleh insentif keuangan, sementara yang lain mungkin lebih terdorong oleh dampak keadilan sosial. 
+
+Berikut adalah enam sumber yang ditemukan oleh penulis dalam penelitian mereka, termasuk contoh ide tentang bagaimana Anda dapat menggunakan contoh-contoh ini dalam pekerjaan Anda bersamaan dengan skenario keterlibatan Pemilik Produk (dijelaskan sebelumnya):
+
+Motivasi pribadi: Apakah individu termotivasi secara internal untuk terlibat dalam perilaku baru? Dapatkah Anda membantu mereka "menyukai apa yang mereka benci"?
+
+Contoh: Pastikan Pemilik Produk tepat waktu, apresiatif, dan efektif saat memberikan umpan balik.
+
+Kemampuan pribadi: Apakah individu-individu tersebut mampu melakukan perilaku tersebut? Apakah mereka memiliki kemampuan, pengetahuan, dan keterampilan untuk "melakukan apa yang tidak bisa mereka lakukan"?
+
+Contoh: Pastikan pengembang mengetahui cara menggunakan alat bantu demo yang tersedia dan dapat dengan mudah mengirimkan video singkat tentang fitur baru di email mereka kepada Pemilik Produk. 
+
+Motivasi sosial: Apakah ada kontak atau jaringan sosial yang mendorong atau mencegah perilaku baru ini?
+
+Contoh: Mintalah anggota Tim Pengembang untuk saling mengingatkan dalam Daily Scrum untuk mengirim email kepada Pemilik Produk sebelum mereka menyelesaikan pekerjaan.
+
+Kemampuan sosial: Apakah tim memiliki sumber daya dalam jaringan sosial mereka untuk membantu mereka menjalankan perilaku baru?
+
+Contoh: Berikan Tim Pengembang alat untuk melacak semua demo mereka kepada Pemilik Produk selama Sprint.
+
+Motivasi struktural: Apakah ada penghargaan atau insentif yang akan mereka terima jika mereka melakukan perilaku baru?
+
+Contoh: Berikan penghargaan Sprint berupa kartu hadiah kopi yang dapat diberikan kepada Pemilik Produk setelah setiap Sprint.
+
+Kemampuan struktural: Apakah ada faktor lingkungan yang berperan yang menghalangi atau mendukung perilaku baru? Dapatkah Anda membuat perilaku yang salah lebih sulit dilakukan daripada perilaku yang benar?
+
+Contoh: Tambahkan aturan ke sistem manajemen konten yang mengisi nama Pemilik Produk di daftar peninjau.
+
+Kunci yang dapat diambil
+Tiga kunci untuk mempengaruhi ini membentuk kerangka kerja perubahan influencer dan akan meningkatkan peluang Anda untuk sukses dengan sebuah perubahan. Memperjelas hasil yang terukur, menemukan perilaku penting, dan memanfaatkan enam sumber pengaruh secara bersama-sama untuk memimpin organisasi, tim, atau individu untuk mengalami perubahan positif.
+
+Untuk mempelajari lebih lanjut, kami sarankan untuk membaca buku 
+INFLUENCER: The New Science of Leading Change
+ atau artikel  (https://www.prnewswire.com/news-releases/influencer-the-new-science-of-leading-change-207352831.html)
+The Influencer Change Framework-The Power to Change
+Anything (https://sourcesofinsight.com/influencer-the-power-to-change-anything/)
+, yang meringkas buku tersebut.

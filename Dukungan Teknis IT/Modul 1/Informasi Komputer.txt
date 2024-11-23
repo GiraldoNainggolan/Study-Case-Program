@@ -1,0 +1,65 @@
+Saat Anda mendengar kata komputer, mungkin Anda memikirkan sesuatu seperti desktop game yang canggih
+dengan lampu yang berkedip. Atau mungkin Anda memikirkan
+laptop yang tipis dan ramping. Perangkat mewah ini
+bukan seperti yang dibayangkan orang-orang saat komputer
+pertama kali dibuat. Sederhananya, komputer adalah
+perangkat yang menyimpan dan memproses data
+dengan melakukan penghitungan. Sebelum kita memiliki perangkat komputer
+yang benar-benar dapat digunakan, istilah komputer digunakan untuk mengacu pada seseorang
+yang melakukan penghitungan. Anda mungkin berpikir
+ini omong kosong belaka. Komputer saya dapat digunakan
+untuk memeriksa media sosial, menjelajahi Internet, mendesain grafis. Bagaimana mungkin komputer
+hanya melakukan penghitungan? Baiklah, dalam kursus ini, kita akan mempelajari cara penghitungan komputer
+diimplementasikan ke dalam aplikasi, media sosial, game, dll., semua hal yang Anda gunakan setiap hari. Namun, sebelum mulai, kita akan mempelajari perkembangan komputer dari bentuk komputasi paling awal hingga diciptakannya perangkat yang
+Anda ketahui dan sukai hari ini. Di dunia teknologi, dan dari sisi filosofis dalam hidup, kita perlu mengetahui
+pengalaman yang sudah dilalui agar memahami posisi kita sekarang
+dan tujuan kita. Konteks historis dapat membantu Anda memahami mengapa segala sesuatunya
+berjalan seperti sekarang. Apakah Anda pernah merasa penasaran
+mengapa alfabet tidak disusun secara urut di keyboard? Tata letak keyboard
+yang paling banyak digunakan di dunia adalah Cordelia, dibedakan dengan tombol Q-W-E-R-T-Y di baris teratas papan ketik. Huruf yang paling lazim Anda ketik
+tidak ditemukan di baris utama tempat jari paling sering
+melakukan gerakan pengetikan. Alasannya? Ada banyak versi untuk
+menjawab pertanyaan ini Sebagian orang mengatakan keyboard ini
+dibuat untuk memperlambat ketikan agar tidak membuat mesin tik mekanis macet. Yang lain mengklaim keyboard
+bertujuan untuk mengatasi masalah yang dihadapi operator telegraf. Satu hal yang pasti,
+tata letak keyboard yang digunakan jutaan orang saat ini bukanlah yang paling efektif. Tata letak keyboard yang berbeda telah diciptakan untuk meningkatkan
+efisiensi proses pengetikan. Sekarang, karena kita mulai hidup di dunia yang mengandalkan perangkat seluler
+dengan smartphone kita, lanskap untuk keyboard
+mungkin berubah total. Mari berharap untuk yang terbaik. Industri teknologi, sedikit banyak dapat membantu memahami konsep
+yang akan Anda temui. Pada akhir pelajaran ini, Anda akan dapat mengidentifikasi beberapa kemajuan paling besar di sejarah awal komputer. Apakah Anda tahu sempoa? Sempoa terlihat seperti mainan kayu
+yang dimainkan anak-anak. tetapi sebenarnya, sempoa adalah salah
+satu wujud komputer paling awal. Sempoa diciptakan pada abad 500 SM
+untuk menghitung angka dalam jumlah besar. Meskipun sudah ada kalkulator seperti seri TI-89 yang andal atau
+aplikasi yang ada di komputer kita. Sempoa sebenarnya
+masih digunakan hingga saat ini. Selama berabad-abad, manusia membuat alat hitung yang lebih canggih, tapi mereka masih memerlukan manusia untuk melakukan penghitungan manual. Langkah besar dalam proses
+penghitungan adalah penemuan kalkulator mekanik pada abad ke-17 oleh Blaise Pascal. Perangkat ini menggunakan serangkaian
+gigi dan tuas untuk melakukan penghitungan
+untuk pengguna secara otomatis. Meskipun perangkat ini terbatas
+pada  penjumlahan, pengurangan, perkalian, dan pembagian
+untuk bilangan kecil, perangkat ini telah membuka jalan
+untuk penemuan mesin yang lebih kompleks. Operasi mendasar dari kalkulator mekanik kemudian diterapkan pada industri tekstil. Sebelum kita menyederhanakan proses produksi, alat tenun digunakan untuk
+menenun benang menjadi kain. Jika Anda ingin merancang pola pada kain. Diperlukan pekerjaan manual
+dalam jumlah yang sangat banyak. Pada tahun 1800-an, seorang pria bernama Joseph Jacquard menemukan
+mesin tenun yang dapat diprogram. Alat tenun ini bekerja berdasarkan
+urutan kartu yang memiliki lubang. Saat mesin tenun bertemu lubang, mesin tenun akan mengaitkan
+benang yang ada di bawahnya. Jika mesin tenun tidak menemukan lubang, kait pada mesin tidak akan
+menyambungkan benang apa pun. Pada akhirnya, penemuan ini memungkinkan
+terciptanya desain pola pada kain. Kartu ini dikenal sebagai kartu punch. Saat Tuan Jacquard mengubah industri tekstil, mungkin dia tidak menyadari
+bahwa penemuannya akan membentuk dunia komputasi,
+dan mengubah dunia. Sangat mengagumkan, Tuan Jacquard. Mari kita maju beberapa dekade dan bertemu seorang pria bernama Charles Babbage. Babbage adalah seorang insinyur berbakat yang mengembangkan serangkaian
+mesin yang kini dikenal sebagai terobosan terbesar dalam perjalanan menuju
+diciptakannya komputer modern. Dia membuat mesin diferensial. Mesin ini merupakan versi
+yang sangat canggih dari kalkulator mekanis yang baru saja kita bahas. Mesin ini dapat melakukan operasi matematika yang cukup rumit, tetapi hanya itu fungsinya. Setelah menciptakan mesin
+tersebut, Babbage menciptakan mesin yang disebutnya
+sebagai Mesin Analisis. Dia terinspirasi oleh Jacquard, yang menggunakan kartu punch
+untuk melakukan penghitungan secara otomatis, alih-alih memasukkannya
+secara manual dengan tangan. Babbage menggunakan kartu punch card dan Mesin Analisis agar orang-orang dapat menentukan terlebih dahulu rangkaian penghitungan yang ingin mereka lakukan. Meskipun pencapaian ini sangat mengesankan, Mesin Analisis masih hanya
+dapat dikategorikan sebagai kalkukator mekanis
+yang sangat canggih. Berkat wawasan yang luas dari
+seorang ahli matematika bernama Ada Lovelace yang menyadari potensi pengembangan Mesin Analisis. Dia orang pertama yang
+menyadari bahwa mesin tersebut dapat digunakan untuk melakukan lebih dari
+sekedar proses penghitungan murni. Dia mengembangkan algoritma pertama
+untuk mesin tersebut. Ini adalah contoh pertama
+dari pemrograman komputer. Algoritma adalah serangkaian langkah yang memecahkan masalah tertentu. Berkat penemuan Lovelace mengenai  fungsi algoritma yang dapat diprogram ke dalam Mesin Analisis, mesin tersebut menjadi mesin komputasi serba guna pertama dalam sejarah. Hal ini juga merupakan salah satu contoh
+yang signifikan keterlibatan perempuan dalam terciptanya pemikiran dan ide
+paling berharga di bidang teknologi sejak tahun 1800-an.

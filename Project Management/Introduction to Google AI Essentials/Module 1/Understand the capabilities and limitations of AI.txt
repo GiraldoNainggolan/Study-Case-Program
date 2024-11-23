@@ -1,0 +1,31 @@
+- Just as you don't need to be
+a carpenter to use a hammer, you don't need to be a computer expert to use AI effectively. That said, understanding
+the basics of what AI can do will help you make the
+most of the technology. Today's AI tools can do a
+lot to enhance your work. They can generate content, like assisting a marketing team by making a promotional
+video for a new product. They can analyze information quickly, like highlighting the key
+points of a long email thread. They can answer questions in
+a detailed and nuanced way. And overall, they can
+simplify your day-to-day and allow you to focus on
+other aspects of your work. While AI can complete a variety of tasks, there are some tasks that
+require a human touch, such as handling sensitive issues. These limitations can be
+critical in certain contexts. For example, AI can't learn independently. It needs people to continually
+update its training. Shortcomings in an AI tool's training data can also potentially
+reflect or amplify biases, leading to skewed or unfair outcomes. Another major limitation is that AI output can
+sometimes contain inaccuracies, otherwise known as hallucinations. Hallucinations are AI
+outputs that are not true. These inaccuracies can
+range from minor errors, such as a sentence that
+doesn't make sense, to significant distortions. For instance, consider a sales manager who's using an AI tool to
+analyze quarterly sales data. The AI tool might identify declining sales of a particular product, and flag the item as something that should
+be removed from stores. However, what if there
+were a seasonal factor affecting sales that hadn't been accounted
+for in the AI tool's analysis? Hallucinations like this one
+can lead to misguided decisions if the user doesn't carefully
+review the AI tool's output. Considering AI's limitations, human oversight over AI
+generated output is crucial to ensure that the information
+is accurate and ethical. Effective management
+of AI in the workplace requires teamwork from
+technical to non-technical roles to ensure that AI's output
+and decision making processes are aligned with values
+that benefit people. Ultimately, an inclusive approach that maintains human
+oversight over these tools is the key to shaping a brighter future where AI works for everyone.

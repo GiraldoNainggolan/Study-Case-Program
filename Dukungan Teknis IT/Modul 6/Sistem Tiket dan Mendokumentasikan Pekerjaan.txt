@@ -1,0 +1,31 @@
+Pernahkah Anda mengerjakan sesuatu yang
+mencakup banyak langkah dan waktu lama, lalu Anda harus mengulangnya
+tiga bulan kemudian dan Anda benar-benar lupa
+dengan semua yang telah Anda lakukan? Hal ini sering terjadi di dunia IT. Karena itu, Anda perlu dokumentasikan
+tugas yang dikerjakan. Dokumentasi bisa tampak seperti membuang
+waktu, tetapi sebenarnya menghemat waktu. Yang pertama adalah sistem tiket atau bug. Tiket adalah cara umum
+mendokumentasikan masalah. Bug adalah masalah pada sistem yang
+tidak disebabkan oleh sumber eksternal. Bayangkan jika Anda menerima email
+setiap kali ada yang rusak. Itu akan sulit dilacak dan
+tidak skalabel sama sekali. Industri IT memanfaatkan berbagai sistem
+guna melacak hal ini untuk Anda. Beberapa contohnya
+adalah Bugzilla, JIRA, dan Redmine. Ini adalah solusi lengkap yang
+membantu Anda melacak masalah pengguna, berkomunikasi dengan pengguna,
+dan menyediakan update. Salah satu cara efektif untuk
+menggunakan sistem dokumentasi adalah memperbarui tiket
+berisi masalah yang dihadapi. langkah dan prosedur yang Anda coba
+serta solusi yang Anda dapatkan. Ini penting karena dua alasan. Pertama, pengguna
+tetap mengetahui info terbaru. Kedua, membantu mengaudit langkah Anda jika perlu melihat tindakan sebelumnya. Anda juga dapat mencatat prosedur dan
+kebijakan untuk membuat jejak dokumentasi. Ada banyak pilihan tempat Anda menulis
+dan menyimpan dokumentasi. Anda dapat menyimpan kebijakan
+dan prosedur dalam dokumen, halaman web,
+melalui penyimpanan file online atau banyak media lainnya. Pastikan itu dapat diakses
+semua orang di perusahaan Anda. Jika Anda memiliki tugas rutin bulanan
+seperti mengupdate software lama, pastikan untuk mencatat semua langkah dan
+lihat kembali jika perlu. Dokumentasi bukanlah
+situasi 'buat lalu lupakan'. Sistem dan proses terus berubah, begitu pula dokumentasi Anda. Penting untuk memperbarui dokumentasi agar Anda tidak membaca
+sesuatu yang sudah lama. Satu lagi yang ingin saya sampaikan
+tentang menulis dokumentasi adalah Anda tidak perlu membuat
+tulisan yang kreatif Anda bukan menulis cerita pendek,
+Anda menulis dokumen teknis. Buat dokumen seringkas mungkin agar ketika orang membaca dokumen Anda, mereka mudah mengetahui
+apa yang perlu dilakukan.

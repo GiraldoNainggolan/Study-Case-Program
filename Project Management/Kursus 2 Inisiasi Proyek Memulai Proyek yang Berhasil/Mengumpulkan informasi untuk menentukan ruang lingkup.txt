@@ -1,0 +1,54 @@
+Dalam pelajaran ini, Anda akan belajar mendefinisikan status ruang lingkup proyek dan membedakan faktor dalam ruang lingkup, di luar ruang lingkup, dan ruang lingkup merayap yang memengaruhi pencapaian tujuan proyek. Di sini kita akan fokus pada cara mengidentifikasi elemen-elemen penting dari ruang lingkup proyek dan memeriksa pertanyaan-pertanyaan yang tepat untuk diajukan dalam rangka mendefinisikannya.
+
+Mengajukan pertanyaan-pertanyaan yang menentukan ruang lingkup
+Bayangkan ketika bekerja di grup manajemen restoran, manajer Anda menelepon dan meminta Anda untuk "memperbarui ruang makan," lalu dengan cepat menutup telepon tanpa memberikan instruksi lebih lanjut. Dalam handoff awal dari manajer ini, Anda kehilangan banyak informasi. Bagaimana Anda tahu apa yang harus ditanyakan?
+
+Mari kita rangkum secara singkat konsep ruang lingkup. Ruang lingkup memberikan batasan untuk proyek Anda. Anda mendefinisikan ruang lingkup untuk membantu mengidentifikasi sumber daya yang diperlukan, biaya sumber daya, dan jadwal proyek.
+
+Dalam situasi yang baru saja kami jelaskan, berikut adalah beberapa pertanyaan yang dapat Anda tanyakan kepada manajer Anda untuk mendapatkan informasi yang Anda butuhkan untuk mendefinisikan ruang lingkup proyek:
+
+
+Pemangku kepentingan
+Bagaimana Anda sampai pada keputusan untuk memperbarui ruang makan? 
+
+Apakah permintaan tersebut berasal dari pemilik restoran, pelanggan, atau pemangku kepentingan lainnya? 
+
+Siapa yang akan menyetujui ruang lingkup proyek? 
+
+Tujuan
+Apa alasan untuk memperbarui ruang makan? 
+
+Apa yang tidak berfungsi di ruang makan saat ini? 
+
+Apa tujuan akhir dari proyek ini? 
+
+Hasil
+Ruang makan mana yang sedang diperbarui? 
+
+Apa yang sebenarnya perlu diperbarui? 
+
+Apakah ruang makan perlu direnovasi? 
+
+Sumber daya
+Bahan, peralatan, dan orang apa saja yang dibutuhkan? 
+
+Apakah kita perlu menyewa kontraktor? 
+
+Apakah kita perlu mendapatkan denah lantai dan izin bangunan? 
+
+Anggaran
+Berapa anggaran untuk proyek ini? Apakah tetap atau fleksibel? 
+
+Jadwal
+Berapa lama waktu yang kita miliki untuk menyelesaikan proyek ini? 
+
+Kapan proyek ini harus diselesaikan? 
+
+Fleksibilitas
+Seberapa besar fleksibilitas yang ada? 
+
+Apa prioritas tertinggi: memenuhi tenggat waktu, tetap berpegang pada anggaran, atau memastikan hasilnya memenuhi semua target kualitas? 
+
+Hal-hal penting yang bisa diambil
+Meluangkan waktu untuk bertanya dan memastikan bahwa Anda memahami cakupan proyek akan membantu mengurangi biaya, pengerjaan ulang, frustrasi, dan kebingungan. Pastikan Anda memahami siapa, apa, kapan, di mana, mengapa, dan bagaimana hal itu berlaku untuk ruang lingkup. Jika Anda tidak memiliki informasi tersebut, fokuskan pertanyaan Anda pada elemen-elemen tersebut. Fase inisiasi proyek menetapkan fondasi untuk proyek, jadi memastikan bahwa Anda memahami ruang lingkup dan ekspektasi selama tahap ini sangat penting.
+

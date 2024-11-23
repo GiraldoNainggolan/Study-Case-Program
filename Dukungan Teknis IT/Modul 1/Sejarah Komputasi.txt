@@ -1,0 +1,26 @@
+Pada tanggal 20 Juli 1969, salah satu peristiwa paling fenomenal
+berhasil tercatat dalam sejarah. Saat Apollo 11 menyelesaikan
+misi bersejarahnya ke bulan. Untuk memastikan kesuksesan misi tersebut,
+selain dibantu orang-orang paling cerdas komputer juga berperan penting. Sistem pemandu yang menavigasi
+pesawat ruang angkasa adalah salah satu bentuk paling awal dari komputasi modern. Komputer tersebut, yang telah membantu
+mewujudkan mimpi Amerika ke bulan, berukuran satu ruangan penuh
+dan memiliki 1/10.000 daya komputasi benda yang dibawa hampir setiap orang
+di saku mereka saat ini, smartphone. Hardware dan software komputer telah
+melalui evolusi dramatis, yang awalnya hanya digunakan untuk menggerakkan roket,
+kini membentuk seluruh cara dunia bekerja. Pikirkan hari yang Anda lalui. Apakah Anda sudah mengemil? Menyalakan TV? Mengendarai mobil? Komputer ada di balik seluruh aktivitas Anda,
+komputer ada di mana-mana. Jadi, inilah rencana kita. Pada akhir kursus ini, Anda akan memahami
+cara kerja komputer dan memahami komponen penyusun IT.
+Kita akan membahas dasar-dasar cara hardware komputer
+melakukan penghitungan dan kita akan membuat komputer dari nol. Kita akan melihat cara sistem operasi
+mengontrol dan berinteraksi dengan hardware. Kita akan membahas internet dan memahami lebih baik cara komputer
+saling berkomunikasi. Kita juga akan mempelajari
+cara aplikasi dan program bekerja sama dan memungkinkan
+manusia berinteraksi dengan sistem ini. Terakhir, kita akan bahas pelajaran penting
+tentang pemecahan masalah dengan komputer dan membahas keterampilan komunikasi
+yang sangat penting saat berinteraksi
+dengan orang lain di bidang IT. Baik Anda mencari pekerjaan di industri IT
+atau hanya ingin mempelajari cara laptop terhubung ke Internet,
+memahami cara kerja komputer di setiap level dapat membantu Anda dalam
+kehidupan sehari-hari dan di tempat kerja. Tetapi sebelumnya, mari kita
+kembali ke awal mula semuanya bahkan sebelum pendaratan misi Apollo 11, agar Anda dapat memahami bagaimana dan
+mengapa kita menggunakan komputer saat ini.

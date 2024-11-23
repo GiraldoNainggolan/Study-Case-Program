@@ -1,0 +1,53 @@
+Anda sudah mempelajari apa itu internet dan sedikit tentang cara kerjanya. Sekarang kita akan mundur dan mempelajari
+alasan internet diciptakan. Tetapi sebelumnya,
+saya ingin memperkenalkan diri. Nama saya Gian Spicuzza, saya adalah Program Manager
+di Android Security. Saya membantu lebih dari dua miliar
+pengguna Android dengan mengelola
+fitur keamanan baru untuk setiap Android dessert
+atau versi Android. Saya selalu suka teknologi
+dan bekerja di bidang IT sejak berusia 16 tahun.
+dan selama di universitas. Saya mengisi waktu luang dengan
+membaca tentang teknologi baru dan membuat server dari bagian komputer lama
+di basemen saya. Ingatan awal saya tentang teknologi adalah menunggu
+orang tua saya tidur agar saya bisa diam-diam menggunakan internet
+saat telepon tidak digunakan untuk browsing sepanjang malam dan membaca artikel tentang teknologi. Pekerjaan peretama saya adalah di bagian IT di tiga organisasi nonprofit
+yang bekerja sendirian. Pekerjaan itu menantang dan sangat menyenangkan karena saya
+bertanggung jawab untuk semua hal, mulai dari mengonfigurasi dan
+mengelola server cadangan hingga menunjukkan karyawan baru cara mengakses email
+dan menggunakan komputer. Saya senang sekali berada di sini. Saya bukanlah peserta ujian teladan dan itu tercermin di nilai saya. Namun dengan kerja keras
+dan ketekunan, saya bisa memiliki karier yang bagus
+di bidang IT, jadi Anda juga pasti bisa. Ayo mulai dan bahas
+lebih lanjut soal internet. Internet telah menjadi
+bagian penting dalam hidup kita. Rekening bank kita, hiburan, berita, dan pendidikan,
+semua ada di internet. Penting untuk mempelajari alasannya, karena beberapa desain asli internet telah mencapai batasnya. Sebagai staf dukungan IT, Anda harus memahami masa depan internet dan alasannya. Mari kembali ke tahun 1950
+saat semuanya dimulai. Ingat, waktu itu komputer
+sangat besar dan berat. Jika Anda adalah programmer, Anda harus berinteraksi dengan komputer besar ini yang bisa menua
+dengan sangat cepat, khususnya jika ada
+beberapa orang yang ingin menggunakan satu-satunya
+resource komputasi yang ada. Akhir tahun 1960, pemerintah AS menggelar proyek bernama DARPA. Proyek itu menghasilkan
+versi awal internet yang kita kenal sekarang
+dengan ARPANET. Sebenarnya,
+programmer komputer bisa berbagi satu resource komputasi dengan mengakses komputer
+dari jarak jauh. Namun, masih ada
+satu masalah besar. Jaringan tidak bisa
+saling berkomunikasi. Baru pada tahun 1970 kita memiliki
+terobosan penting di bidang jaringan komputer
+yang memecahkan masalah tersebut. Berkat ilmuan komputer, Vinton Cerf dan Bob Kahn
+yang menciptakan metode yang disebut Transmission Control Protocol dan Internet Protocol, atau TCP/IP. Awalnya hanya
+beberapa komputer di universitas, pemerintahan, dan bisnis
+yang menggunakan TCP/IP, lalu jadi ratusan. Dan dalam 50 tahun,
+miliaran komputer menerapkan ini. TCP/IP adalah protokol
+yang kita gunakan di internet saat ini. Akhirnya, orang-orang
+di seluruh dunia bisa saling mengirim data. Namun, masih ada masalah. Informasi yang dikirim hanyalah teks, tidak tersentralisasi,
+dan kurang menarik. Lalu tahun 1990-an, seorang ilmuan komputer bernama
+Tim Berners-Lee menemukan World Wide Web. Temuannya menggunakan protokol berbeda untuk menampilkan informasi di halaman web dan menjadi
+cara yang banyak digunakan untuk berkomunikasi
+dan mengakses internet. Semua orang yang memiliki
+koneksi internet pada saat itu bisa mengakses sumber informasi
+dari World Wide Web. Sudah 30 tahun sejak World Wide Web diciptakan. Dari awalnya kita hanya bisa
+mengirim email sederhana dalam tampilan halaman web dasar
+hingga sekarang bisa melakukan chat video
+dan mendapatkan berita terbaru, memesan makanan,
+membeli buku, bahkan mobil dalam hitungan detik, mengikuti kursus online seperti saat ini, tadinya belum bisa dilakukan. Hadirnya internet yang kita kenal sekarang
+adalah puncak dari pengetahuan dan teknik dari banyak ilmuan cerdas
+dan organisasi.

@@ -1,0 +1,17 @@
+Templat lembar kerja anggaran
+Templat anggaran adalah alat yang berguna untuk membantu Anda memperkirakan, melacak, dan memelihara anggaran proyek. Di bawah ini, Anda akan menemukan beberapa templat anggaran yang berbeda yang dapat Anda gunakan untuk proyek-proyek mendatang. Masing-masing templat ini diformat dalam spreadsheet digital. 
+
+Gambar templat anggaran tiruan dengan kolom tugas, tenaga kerja, bahan, biaya tetap, dan target dan anggaran aktual
+Templat Anggaran Microsoft Excel
+
+Templat Anggaran Situs Web Microsoft Excel
+ (dapat digunakan untuk proyek apa pun) (https://create.microsoft.com/en-us/template/website-budget-142337c5-35f0-4e42-ab85-0643840d738c)
+
+Templat Anggaran Google Spreadsheet
+ (Catatan: Anda harus masuk ke akun Google untuk membuat salinan templat ini) (https://docs.google.com/spreadsheets/d/1DuY4viZtcjPzhdC1EotnJMxLd61v0eYNkRtJwHGww8U/template/preview)
+
+Keterampilan spreadsheet untuk penyusunan anggaran
+Ketika menggunakan spreadsheet untuk melacak anggaran, ada beberapa keterampilan dasar yang perlu Anda pelajari. Memahami cara menggunakan rumus SUM dan AVERAGE, tabel, dan filter hanyalah beberapa keterampilan spreadsheet yang akan membuat pekerjaan Anda sebagai manajer proyek menjadi lebih mudah. Pastikan untuk memeriksa 
+sumber daya kursus tentang spreadsheet
+ untuk pengenalan keterampilan ini. (https://www.coursera.org/learn/project-planning-google/resources/E0vc0)
+

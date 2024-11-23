@@ -1,0 +1,27 @@
+Kita tahu, komputer ada di mana-mana. Anda melihat komputer di  rumah, tempat kerja, bandara, minimarket. Anda bahkan sedang memakai
+komputer untuk mengikuti kursus ini. Mungkin sekarang Anda sedang membawa komputer di saku Anda. Meskipun komputer terlihat rumit dan sulit untuk dipelajari, Pada dasarnya fungsi komputer adalah
+menghitung memproses, dan menyimpan data. Di pelajaran ini, kita akan mengintip apa yang ada di dalam komputer. Di beberapa pelajaran berikutnya, kita akan membahas
+cara kerja setiap komponen ini. Untuk sekarang, mari kita lihat
+komputer desktop pada umumnya. Desktop adalah komputer yang diletakkan di atas atau
+di bawah meja kita. Di sini ada monitor, keyboard, mouse, dan desktop. Terkadang bahkan ada webcam, speaker, atau printer. Komponen-komponen fisik ini
+kita sebut sebagai hardware. Mari lihat ke bagian belakang komputer. Di sini terdapat konektor umum, ada stopkontak di sini, lalu port umum ada di sini. Port adalah titik koneksi
+yang dapat dihubungkan dengan perangkat untuk menambah fungsi komputer. Kita akan mempelajari detail tentang port yang ada di sini di pelajaran berikutnya, tapi berikut ringkasannya. Port ini untuk dihubungkan ke monitor,
+sementara beberapa port lainnya di sini untuk menghubungkan
+keyboard dan mouse. Terdapat satu port lainnya yang penting untuk koneksi jaringan. Hanya dengan beberapa port ini,
+kita memiliki fungsi dasar untuk menelusuri web
+dan banyak hal lainnya. Laptop juga sama. Ini beberapa port yang sama, monitor bawaan, dan keyboard. Ada juga komponen fisik di dalam casing laptop yang disembunyikan
+agar mudah dibawa. Setelah mengetahui cara kerja komputer, Anda dapat mengetahui
+cara kerja komputer lainnya. Ini bagian favorit saya. Mari kita buka desktop ini dan mempelajarinya lebih lanjut. Saya akan kosongkan meja ini terlebih dulu. Siapkan diri Anda. Ini terlihat rumit, tapi tidak masalah.
+Saya akan memandu Anda. Mari mulai dengan tur singkat. Kemudian mempelajari lebih mendalam setiap komponen ini di pelajaran berikutnya. Di sini, komponen ini adalah CPU, atau unit pemrosesan pusat, yang ditutupi oleh pendingin ini. Anggap CPU sebagai otak komputer. CPU melakukan semua
+kalkulasi dan pemrosesan data. CPU banyak berkomunikasi dengan komponen sebelah sini. RAM atau Random Access Memory. RAM adalah memori sementara komputer. Kita gunakan komponen ini saat menyimpan data untuk sementara. Katakanlah Anda mengetikkan chat atau teks di pemroses kata, informasi ini akan disimpan di RAM. Jangan panik, kami akan jelaskan detail lebih lanjut tentang RAM
+di pelajaran berikutnya. Saat ingin menyimpan apa saja
+di memori jangka panjang, kita gunakan komponen ini, hard drive. Hard drive menyimpan semua data, yang meliputi musik, gambar, aplikasi. Saya akan tunjukkan hal lain yang menarik. Anda melihat papan besar ini? Ini adalah motherboard. Komponen ini adalah tempat
+segala komponen kita disusun dan yang memungkinkan
+komponen saling berkomunikasi. Ini adalah fondasi dari komputer. Anggap motherboard sebagai tubuh atau sistem sirkulasi komputer yang menghubungkan semua komponen. Komponen terakhir yang dibahas
+adalah catu daya, yang mengonversi listrik dari stopkontak menjadi format
+yang dapat digunakan komputer. Ingin tahu hal yang menarik? Hampir seluruh komputer disusun
+menggunakan semua komponen tersebut bahkan ponsel. Tampilannya mungkin berbeda dengan yang ada di laptop, ponsel menggunakan hardware yang lebih kecil dari yang kita lihat
+di desktop dan laptop hari ini. Memahami cara kerja hardware komputer adalah keterampilan
+yang bermanfaat bagi dukungan IT. Karena departemen IT memelihara hardware yang digunakan perusahaan. Pemahaman yang baik
+tentang isi komputer akan sangat bermanfaat saat memecahkan masalah terkait hardware dan membongkar komponen untuk memastikan
+semuanya berfungsi dengan baik Menarik sekali.

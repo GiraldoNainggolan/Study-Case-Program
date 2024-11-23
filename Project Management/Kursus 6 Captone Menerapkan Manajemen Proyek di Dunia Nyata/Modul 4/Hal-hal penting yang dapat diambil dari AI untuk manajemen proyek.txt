@@ -1,0 +1,55 @@
+Dalam pelajaran ini, Anda telah belajar tentang AI dan bagaimana AI dapat membantu Anda sebagai manajer proyek. Kemudian, Anda berlatih bekerja dengan alat bantu AI generatif dan bereksperimen dengan petunjuk untuk menghasilkan output yang berguna.
+
+Setelah pengenalan AI ini, Anda dapat terus bereksperimen dengan alat bantu AI generatif untuk melakukan brainstorming ide, meningkatkan produktivitas, membantu Anda menghindari kesalahan, dan membantu proses pengambilan keputusan. Selama mengikuti Program Sertifikat Manajemen Proyek Google dan seterusnya, pertimbangkan untuk bereksperimen dengan Gemini untuk mengetahui lebih lanjut tentang topik-topik ini, dan lanjutkan perjalanan pembelajaran AI Anda.
+
+Hal-hal penting yang dapat diambil
+AI dalam manajemen proyek
+AI dengan cepat mengubah dunia manajemen proyek. Sebagai seorang manajer proyek, Anda dapat meningkatkan karier Anda dengan memahami teknologi canggih ini dan cara memanfaatkannya dalam pekerjaan sehari-hari. Saat Anda terus mengembangkan keahlian dalam profesi ini, ingatlah hal tersebut:
+
+Memahami dan menggunakan AI penting untuk kesuksesan masa depan Anda sebagai manajer proyek, karena alat bantu AI semakin umum digunakan di lapangan.
+
+AI dapat membantu Anda melakukan tugas-tugas seperti menganalisis data historis proyek, memprediksi hasil tugas, dan membuat rekomendasi mitigasi risiko.
+
+Alat bantu AI dapat menambah tugas rutin yang penting untuk menyelesaikan proyek tepat waktu, seperti menyarankan pengoptimalan, mengirim pengingat tepat waktu, dan secara otomatis melacak kemajuan tugas.
+
+AI generatif dalam manajemen proyek
+AI generatif adalah jenis AI yang mampu menciptakan konten baru. Anda dapat memanfaatkan alat bantu AI generatif untuk menyelesaikan tugas-tugas yang praktis dan kreatif. Sebagai manajer proyek, Anda dapat menggunakan alat bantu AI generatif untuk:
+
+Membuat templat untuk artefak proyek apa pun, termasuk rencana proyek, jadwal proyek, dan rencana komunikasi.
+
+Membuat, mengatur, dan menguraikan agenda, catatan rapat, dan pelacak tugas.
+
+Membuat konten, seperti email, rencana proyek, ide presentasi, dan ringkasan eksekutif.
+
+Menyederhanakan tugas harian, seperti pemeriksaan status tugas proyek dan pemberitahuan tim.
+
+Mentranskrip atau meringkas rapat dan catatan rapat.
+
+Gunakan AI secara bertanggung jawab
+Karena AI memiliki keterbatasan, Anda harus menggunakannya secara bertanggung jawab. Untuk tetap mengikuti perkembangan di bidang yang berubah dengan cepat ini:
+
+Tinjau keluaran AI.
+
+Mengungkapkan penggunaan AI Anda.
+
+Pertimbangkan implikasi privasi dan keamanan dari penggunaan AI.
+
+Mempertimbangkan dampak dari penggunaan AI.
+
+Sumber daya untuk informasi lebih lanjut
+Jika Anda tertarik untuk mempelajari lebih lanjut, kunjungi sumber daya berikut:
+
+All Things Generative AI (https://generativeai.net/)
+: Pelajari pengenalan yang lebih komprehensif tentang AI generatif, yang mencakup contoh jenis konten yang dapat dihasilkan oleh jenis AI ini, bersama dengan tautan ke beberapa alat bantu AI generatif populer lainnya.
+
+Membentuk masa depan Manajemen Proyek dengan AI (https://www.pmi.org/learning/thought-leadership/ai-impact/shaping-the-future-of-project-management-with-ai)
+: Baca laporan terperinci dari Project Management Institute mengenai tren AI di industri dan prediksi masa depan AI dalam pekerjaan manajemen proyek.
+
+Sorotan Sains & Teknologi: AI Generatif
+: Temukan mengapa sistem AI generatif penting di dunia saat ini dalam artikel dari Kantor Akuntabilitas Pemerintah AS (GAO) ini.
+
+Ada Lebih Banyak Bias AI Daripada Data yang Bias, Sorotan Laporan NIST (https://www.nist.gov/news-events/news/2022/03/theres-more-ai-bias-biased-data-nist-report-highlights#:~:text=Bias%20in%20AI%20systems%20is,systemic%2C%20institutional%20biases%20as%20well.)
+: Menelaah risiko yang terlibat ketika bias hadir dalam data AI dan rekomendasi untuk memitigasi risiko ini, berdasarkan penelitian yang dilakukan oleh National Institute of Standards and Technology (NIST), Departemen Perdagangan AS.
+
+Apa itu Kecerdasan Buatan (AI)? (https://cloud.google.com/learn/what-is-artificial-intelligence?hl=id)
+: Jelajahi pengenalan Google Cloud tentang AI, termasuk kasus lain ketika AI dapat digunakan, seperti dalam pengenalan suara dan gambar.

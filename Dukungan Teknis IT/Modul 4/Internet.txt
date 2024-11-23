@@ -1,0 +1,44 @@
+Kita tahu ada banyak cara
+menggunakan internet. Tapi saya ingin membahas salah satu cara yang
+paling banyak digunakan orang untuk mengakses internet, yaitu melalui web. Semua situs dapat diakses
+melalui web. Situs pada dasarnya adalah dokumen teks
+yang diformat dengan HTML atau HyperText Markup Language. Ini adalah bahasa coding
+yang digunakan browser web. Halaman web umumnya
+terdiri dari komponen-komponen dasar. Halaman ini berisi konten multimedia
+seperti teks, gambar, audio, dan video. Saat ingin membuka situs, Anda mengetikkan URL seperti
+www.reddit.com. URL yang merupakan singkatan dari Uniform Resource Locator adalah
+alamat web, seperti alamat rumah. Bagian www dalam URL
+adalah singkatan dari World Wide Web. Bagian keduanya, reddit.com
+adalah nama domain. Siapa pun dapat mendaftarkan nama domain,
+atau biasa disebut nama situs. Setelah nama domain digunakan,
+nama itu akan didaftarkan ke ICANN, Internet Corporation for
+Assigned Names and Numbers. Setelah nama domain terdaftar di ICANN, tidak ada yang bisa menggunakan nama itu lagi
+kecuali jika kembali tersedia. Bagian terakhir URL adalah dot com. Anda juga bisa menggunakan akhiran domain
+lain, seperti reddit.net atau reddit.org. Akhiran nama domain yang berbeda
+adalah standar untuk jenis suatu situs. Domain berakhiran .edu
+biasanya digunakan institusi pendidikan. Ingatlah bahwa komputer menggunakan
+alamat IP untuk menemukan komputer lainnya. Anda bisa melakukan hal yang sama
+jika ingin mencari komputer di internet. Coba ketikkan 172.217.6.46
+di browser web dan tekan Enter. Apa yang terjadi? Mengapa kita membuka
+halaman beranda Google? Ternyata alamat IP 172.217.6.46
+mengarah ke halaman beranda Google melalui protokol web yang penting,
+yaitu Domain Name System atau DNS. DNS bertindak sebagai direktori internet. Mari gunakan kata yang bisa dibaca manusia
+untuk mengarahkan ke alamat IP. Komputer tidak tahu apa itu Google.com. Komputer hanya tahu
+cara menuju ke alamat IP. Dengan DNS, komputer mampu memetakan
+alamat IP Google dengan Google.com Setiap kali Anda membuka situs,
+komputer melakukan pencarian DNS untuk menemukan alamat IP
+nama situs yang Anda ketik. Trik ini bisa menjadi langkah awal yang baik
+untuk mendiagnosis suatu jenis masalah DNS. Jadi, jika Anda dapat mengakses
+sebuah situs berdasarkan alamat IP-nya tetapi bukan nama domainnya
+yang dapat dibaca manusia, kemungkinan ada masalah
+di konfigurasi DNS yang digunakan jaringan. Memahami alamat IP
+sangat berguna dalam semua situasi yang mungkin Anda hadapi
+sebagai staf dukungan IT. Sumber permintaan internet
+biasanya diidentifikasi berdasarkan alamat IP di log server. Banyak bagian
+infrastruktur IT harus menerapkan konfigurasi alamat IP
+agar dapat berfungsi. DNS adalah sistem yang sangat besar
+dan akan kita bahas lebih lanjut nanti. Sekarang Anda telah memahami
+dasar-dasar cara kerja internet. Saya undur diri, dan Anda akan dipandu
+teman dan rekan saya yang sangat andal, Gian Spicuzza. Kita jumpa lagi dalam kursus
+yang membahas serba-serbi jaringan komputer. Namun di pelajaran berikutnya, Gian akan membahas
+lahirnya era internet yang luar biasa.

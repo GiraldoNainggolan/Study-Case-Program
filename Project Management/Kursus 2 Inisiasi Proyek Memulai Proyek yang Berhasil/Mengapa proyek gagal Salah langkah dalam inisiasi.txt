@@ -1,0 +1,41 @@
+Anda telah mempelajari langkah-langkah perencanaan yang diperlukan untuk mengambil langkah-langkah yang diperlukan untuk menyiapkan sebuah proyek untuk sukses. Namun, terlepas dari upaya terbaik Anda, proyek masih bisa gagal. Terkadang faktor-faktor yang menyebabkan kegagalan proyek berada di luar kendali Anda. Misalnya, teknologi untuk menyelesaikan proyek tidak tersedia, atau pemangku kepentingan memutuskan untuk mengubah tujuan proyek secara drastis. Namun, ada beberapa faktor yang dapat menyebabkan kegagalan yang lebih berada di bawah kendali Anda, seperti tidak dapat menyelesaikan hasil proyek dalam waktu yang telah disepakati atau tidak dapat memenuhi visi pemangku kepentingan untuk proyek tersebut.
+
+Dalam bacaan ini, kita akan mengeksplorasi beberapa alasan utama mengapa proyek gagal dan memeriksa bagaimana kesalahan langkah selama fase inisiasi dapat menyebabkan kegagalan proyek.
+
+Gambar orang dengan tanda tanya di dekat kepala
+Ekspektasi yang tidak jelas
+Anda mungkin ingat pertanyaan-pertanyaan yang perlu Anda jawab di awal fase inisiasi proyek, termasuk:
+
+Apa tujuan akhirnya?
+
+Apa hasil dan jadwal yang diharapkan?
+
+Berapa anggarannya?
+
+Siapa saja pemangku kepentingannya?
+
+Tidak meluangkan waktu di awal proyek untuk mengajukan pertanyaan-pertanyaan penting, mendokumentasikan keputusan, dan memahami ruang lingkup proyek yang sebenarnya dapat menyebabkan kegagalan. Lagi pula, tanpa arahan, Anda tidak akan pernah bisa mencapai tujuan Anda.
+
+Harapan yang tidak realistis
+Kita semua ingin membuat manajer kita terkesan, namun terkadang, kita secara tidak sengaja menyetujui ekspektasi yang tidak realistis dan membuat proyek kita gagal sejak awal. Sebagai contoh, jika sebuah proyek diperkirakan akan memakan waktu dua minggu karena tingkat detail dan upaya yang diperlukan, namun kita mencoba menyelesaikannya dalam satu minggu, kita tidak akan memiliki sumber daya yang tersedia untuk memenuhi jadwal gabungan. Hal ini kemungkinan besar akan mengakibatkan masalah kualitas. Penting untuk memahami persyaratan proyek sebelum menyetujui tenggat waktu apa pun. Sebagai praktik terbaik, jangan berkomitmen pada tanggal yang pasti saat memulai proyek untuk menghindari penetapan ekspektasi yang tidak realistis. Anda akan memiliki lebih banyak informasi dan dapat mengelola ekspektasi dengan lebih baik pada fase perencanaan.
+
+Miskomunikasi
+Komunikasi yang jelas adalah kuncinya. Jika informasi tidak dikomunikasikan secara tepat waktu, tidak menyertakan informasi yang relevan (risiko, keputusan yang diambil, perubahan ruang lingkup, dll.), atau tidak dikirim ke pemangku kepentingan yang tepat, maka Anda mungkin akan mengalami kegagalan. Melakukan analisis pemangku kepentingan dan kemudian menggunakan bagan RACI untuk memahami pemangku kepentingan mana yang harus diberi informasi atau dikonsultasikan adalah awal yang baik untuk menciptakan strategi komunikasi yang efektif.
+
+Sebagai manajer proyek, Anda tidak harus memenuhi gaya komunikasi yang unik dari setiap orang, namun Anda harus menetapkan ekspektasi tentang bagaimana komunikasi akan terjadi. Saat Anda memulai sebuah proyek, pastikan Anda meluangkan waktu untuk memahami kebutuhan komunikasi tim dan pemangku kepentingan Anda. Beberapa orang tidak menyukai email dan lebih memilih untuk melakukan percakapan melalui telepon, beberapa orang lebih memilih untuk melakukan komunikasi secara tertulis, dan beberapa orang lebih memilih pertemuan tatap muka. Sistem komunikasi yang kuat menggabungkan semua metode ini. Tetapkan ekspektasi untuk pendekatan komunikasi Anda sejak dini sehingga Anda, anggota tim, dan pemangku kepentingan memiliki pemahaman yang jelas tentang bagaimana Anda akan berkomunikasi.
+
+Kurangnya sumber daya
+Sumber daya mencakup anggota tim, anggaran, dan materi. Sayangnya, tanpa perencanaan yang tepat, sumber daya Anda dapat dengan cepat menjadi terlalu banyak atau habis. Terkadang manajer proyek tidak memperhitungkan fakta bahwa anggota tim menangani banyak tugas dan mungkin tidak dapat mencurahkan waktu yang diperlukan untuk menyelesaikan semua tugas yang ditugaskan dengan benar dan tepat waktu. Atau, manajer proyek mungkin tidak menyadari bahwa keahlian khusus diperlukan untuk menyelesaikan tugas tertentu. Memastikan bahwa anggota tim yang tepat tersedia pada waktu yang tepat sangatlah penting.
+
+Kesalahan umum lainnya adalah salah menghitung biaya proyek Anda. Sebagai contoh, bayangkan Anda memiliki anggaran proyek sebesar $10.000. Jika proyek Anda membutuhkan $10.000 untuk material dan Anda juga harus mengirim dan memasang material tersebut, maka Anda tidak akan memiliki cukup uang untuk menyelesaikan proyek Anda. Perjelas kebutuhan sumber daya Anda dan konfirmasikan ketersediaannya dengan pimpinan di awal untuk menghindari penundaan atau masalah di kemudian hari.
+
+Ruang lingkup
+Ruang lingkup memberikan kerangka kerja menyeluruh tentang apa yang termasuk dan tidak termasuk dalam pekerjaan dan hasil proyek. Mendefinisikan ruang lingkup pada fase inisiasi membantu mengidentifikasi sumber daya yang dibutuhkan, biaya yang terkait dengan sumber daya tersebut, dan jadwal yang diperlukan untuk menyelesaikan pekerjaan. Terkadang proyek gagal karena ruang lingkup proyek berkembang dan dampak terhadap ruang lingkup tidak ditangkap.
+
+Sebagai contoh, bayangkan Anda diberi proyek yang awalnya mencakup tiga hasil kerja. Selama proyek berlangsung, seorang pemangku kepentingan meminta agar dua hasil kerja tambahan disertakan, tetapi tidak ada perubahan yang dilakukan pada jadwal, anggaran, atau anggota tim untuk mencerminkan dampak dari peningkatan jumlah hasil kerja. Sebagai manajer proyek, ketika hasil kerja berubah, Anda harus memastikan bahwa Anda menangkap potensi dampak perubahan tersebut terhadap jadwal, anggaran, dan kualitas. Inilah mengapa sangat penting untuk memastikan bahwa semuanya didokumentasikan pada fase inisiasi. Miliki rencana untuk menangani pergeseran ruang lingkup jika terjadi, dan perjelas siapa yang memiliki wewenang untuk menyetujui perubahan ruang lingkup.
+
+Hal-hal penting yang dapat diambil
+Meluangkan waktu untuk memperjelas ekspektasi-khususnya seputar metode komunikasi, sumber daya yang tersedia, dan ruang lingkup-selama fase inisiasi akan meningkatkan peluang keberhasilan proyek Anda. Bahkan jika Anda mengikuti praktik-praktik terbaik ini, Anda mungkin masih mengalami kegagalan. Ingatlah bahwa dalam setiap kegagalan, ada peluang untuk belajar, tumbuh, dan melakukan yang lebih baik di lain waktu.
+
+Untuk bacaan tambahan tentang pelajaran yang dapat dipelajari dari proyek yang gagal, lihat artikel ini: 
+Tujuh Pelajaran yang Bisa Dipetik dari Proyek yang Gagal (https://project-management.com/7-lessons-to-learn-from-a-failed-project/)

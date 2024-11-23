@@ -1,0 +1,46 @@
+Kita telah membahas
+tanggung jawab utama kernel. Sekarang mari kita bahas aspek utama terakhir
+pada sistem operasi, yaitu cara manusia
+berinteraksi dengannya. Inilah yang disebut dengan ruang pengguna. Saat berinteraksi
+dengan sistem operasi, kita ingin melakukan
+sejumlah fungsi tertentu, seperti membuat file dan folder, membuka aplikasi, dan menghapus item.
+Anda tentu paham hal ini. Ada dua cara
+untuk berinteraksi dengan OS. Dengan shell atau
+antarmuka pengguna grafis. Ada juga beberapa shell yang menggunakan
+antarmuka pengguna grafis, tetapi kita akan menggunakan
+shell Antarmuka Command Line atau CLI dengan lebih sering. Artinya, kita akan menggunakan
+perintah teks. Antarmuka Pengguna Grafis atau GUI adalah cara berinteraksi
+dengan komputer secara visual. Kita menggunakan mouse
+untuk mengklik dan menarik objek, membuka folder, dll. Kita dapat melihat semua hal
+yang kita lakukan dengan GUI ini. Anda mungkin menggunakan GUI setiap hari tanpa menyadarinya. Untuk menonton video ini,
+Anda mungkin menggunakan GUI dengan mengklik ikon, lalu memilih menu untuk membuka browser web
+dan melihat-lihat situs. Orang-orang biasanya
+mengenali suatu perangkat atau produk berdasarkan GUI-nya. Anda mungkin dapat
+mengetahui perbedaan antara komputer yang menjalankan OS Microsoft Windows atau Mac dari desain jendela,
+menu, dan ikon. Anda mungkin juga
+melihat GUI di berbagai tempat lain, seperti ponsel dan tablet, mesin ATM, dan kios di bandara. Shell pada dasarnya adalah
+program yang menafsirkan perintah teks dan mengirimnya
+ke OS untuk dieksekusi. Sebelum kita memiliki antarmuka
+dengan visual yang bagus, perintah seperti "Create a file"
+harus diketik. Pada GUI yang ada saat ini, shell masih umum digunakan
+untuk menjalankan perintah, terutama oleh pengguna super. Pengguna super memiliki kemampuan
+di atas rata-rata pengguna komputer biasa. Terutama pada OS Linux,
+Anda harus benar-benar mengetahui perintahnya,
+bukan hanya GUI. Hal ini karena sebagian besar
+komputer Linux yang Anda tangani dalam dukungan IT
+akan diakses dari jarak jauh. Sering kali, Anda tidak akan
+mendapati GUI. Ada banyak jenis shell. Beberapa di antaranya
+memiliki fitur berbeda, dan beberapa shell lainnya menangani
+performa secara berbeda. Ini adalah konsep yang sama
+di balik sistem operasi yang berbeda. Untuk saat ini,
+kita hanya akan menggunakan shell yang paling umum,
+yaitu Bash atau Bourne Again Shell di Linux. Anda mungkin berpikir bahwa lebih mudah bagi saya untuk
+menavigasi GUI dibandingkan menggunakan perintah
+untuk melakukan hal yang sama. Mengapa saya perlu
+mempelajari keduanya? Perlu saya tekankan, penting bagi Anda
+untuk mengetahui cara menggunakan shell
+dalam peran dukungan IT. Beberapa pengujian hanya dapat
+diselesaikan melalui perintah. Pada peran IT tingkat lanjut, Anda mungkin harus menangani
+ribuan komputer. Anda tentu tidak ingin
+mengklik tombol atau menarik jendela pada setiap komputer jika ternyata Anda
+bisa menjalankan satu perintah sekaligus.

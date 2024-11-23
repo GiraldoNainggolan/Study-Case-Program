@@ -1,0 +1,15 @@
+Sebelumnya dalam kursus ini, kita sudah membahas bagaimana program
+adalah instruksi yang diberikan ke CPU. Kita dapat mengirimkan
+kode biner atau bit ke CPU, lalu CPU akan menggunakan set instruksi
+untuk menjalankan perintah tersebut. Namun, CPU mungkin berasal
+dari produsen yang berbeda serta mungkin memiliki
+instruksi yang berbeda. Terdapat berbagai jenis komponen hardware
+seperti kartu video dan hard drive yang juga memiliki
+antarmuka khususnya tersendiri. Lalu, bagaimana cara menulis program
+yang dapat dipahami hardware? Salah satu caranya adalah menulis program untuk setiap kemungkinan
+kombinasi CPU dan hardware dengan menggunakan bahasa asli
+dan antarmuka dari komponen tersebut. Namun, mungkin terdapat
+jutaan konfigurasi hardware. Lalu bagaimana agar konfigurasi itu bekerja
+dengan hardware yang beragam dan kompleks? Berkat upaya ilmuwan  komputer
+dan prinsip abstraksi, kita kini bisa menggunakan bahasa pemrograman untuk menulis instruksi
+yang dapat berjalan di hardware apa pun.

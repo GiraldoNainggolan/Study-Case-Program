@@ -1,0 +1,29 @@
+Pada akhir video ini, Anda akan mempelajari cara kita bisa
+merepresentasikan kata, angka, emoji, dan lainnya yang kita lihat
+di layar kita dengan hanya memanfaatkan
+256 kemungkinan nilai tadi. Ini semua berkat encoding karakter. Encoding karakter digunakan untuk menetapkan nilai biner kita pada karakter agar dapat dibaca oleh manusia. Jelas kita tidak ingin melihat semua teks di email kita dan halaman web disajikan dalam bentuk urutan
+kombinasi angka 0 dan 1 yang rumit Inilah manfaat dari encoding karakter. Anggaplah encoding karakter sebagai kamus. Ini adalah cara komputer untuk mencari karakter apa yang direpresentasikan oleh nilai biner
+yang diberikan. Standar encoding karakter paling tua
+yang digunakan adalah ASCII. ASCII merepresentasikan alfabet, angka, dan tanda baca dalam bahasa Inggris. Karakter pertama pada
+tabel konversi ASCII ke biner yaitu huruf a kecil, menjadi 01100001 dalam biner. Ini dilakukan untuk semua karakter yang dapat Anda temukan
+di alfabet bahasa Inggris, serta angka dan beberapa simbol khusus. Keunggulan ASCII adalah
+kita hanya perlu menggunakan 127 nilai dari 256 kemungkinan yang ada. ASCII digunakan dalam jangka
+waktu yang sangat lama, tetapi akhirnya, ASCII tidak dapat mengikuti
+perkembangan kebutuhan. Standar encoding karakter lainnya dibuat untuk merepresentasikan
+bahasa yang berbeda, jumlah karakter yang berbeda,
+dan lainnya. Pada akhirnya, diperlukan lebih dari 256 nilai untuk dapat
+merepresentasikan perkembangan yang ada. Kemudian, muncul UTF-8, standar encoding paling umum
+yang digunakan sekarang. Dengan tabel ASCII yang sama, UTF-8 juga membuat kita bisa menggunakan
+jumlah byte yang bervariasi. Apa maksud saya?
+Bayangkan emoji apa saja. Mustahil membuat emoji dengan satu byte karena kita hanya bisa menyimpan satu karakter dalam satu byte. Namun, UTF-8 memungkinkan kita untuk menyimpan satu karakter
+dalam lebih dari satu byte, yang berarti, emoji-emoji
+baru dapat terus diciptakan UTF-8 dibuat berdasarkan Standar Unicode. Kita tidak akan membahasnya secara mendetail, tetapi Standar Unicode membantu kita merepresentasikan encoding karakter
+secara konsisten. Setelah bisa merepresentasikan huruf, angka, tanda baca, dan bahkan emoji, bagaimana cara kita merepresentasikan warna? Jadi, ada berbagai macam model warna. Untuk sekarang, kita akan
+menggunakan jenis dasar yang digunakan di banyak komputer, RGB atau model merah, hijau, dan biru. Sama seperti warna aktual, jika Anda mencampur kombinasi warna apapun
+dari tiga warna tersebut, Anda bisa mendapatkan
+berbagai macam warna. Di dunia komputer, kita menggunakan tiga karakter
+untuk model RGB. Setiap karakter merepresentasikan
+suatu warna tertentu, kemudian mengubah warna pixel yang Anda lihat di layar. Hanya dengan delapan kombinasi
+angka 0 dan 1, kita dapat merepresentasikan semua yang Anda lihat di komputer dari huruf sederhana seperti 'a',
+sampai video yang Anda tonton sekarang ini.
+Keren sekali.

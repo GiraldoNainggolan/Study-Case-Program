@@ -1,0 +1,35 @@
+Salah satu tugas paling penting yang dilakukan kernel
+adalah manajemen proses. Proses adalah program yang dijalankan, seperti browser internet
+atau editor teks. Program adalah aplikasi yang dapat dijalankan, seperti Chrome. Perhatikan perbedaannya. Kita dapat memiliki banyak proses dari program yang sama
+yang berjalan pada saat yang sama. Bayangkan berapa banyak jendela Chrome
+yang dapat Anda buka. Semua jendela ini merepresentasikan
+proses yang berbeda untuk program yang sama. Saat ingin menjalankan program, kita harus menyediakan resource komputer
+untuk program tersebut, seperti RAM dan CPU. Kita hanya memiliki
+jumlah resource terbatas dan ingin mampu menjalankan
+beberapa program. Kernel harus mengelola
+resource ini secara efisien agar semua program yang ingin kita gunakan
+dapat dijalankan. Kernel tidak mengalokasikan semua resource komputer
+hanya untuk satu proses. Sistem sebenarnya terus menjalankan beberapa proses yang diperlukan
+agar dapat berfungsi. Kernel memperhatikan semua proses ini sekaligus. Apa yang ingin dijalankan program, proses harus dibuat untuk hal tersebut. Proses ini perlu memiliki resource hardware,
+seperti RAM dan CPU. Kernel harus menjadwalkan waktu
+bagi CPU untuk mengeksekusi instruksi
+dalam proses, tetapi hanya ada satu CPU
+dan banyak proses. Bagaimana cara CPU mengeksekusi beberapa proses sekaligus?
+Sebenarnya tidak begitu. CPU mengeksekusi proses
+satu per satu melalui sesuatu yang disebut
+irisan waktu. Irisan waktu adalah interval waktu
+yang sangat singkat, yang dialokasikan untuk
+proses eksekusi CPU. Interval waktu ini sangat singkat
+sehingga Anda bahkan tidak menyadarinya. Benar-benar super singkat. CPU mengeksekusi satu proses
+dalam hitungan milidetik, lalu mengeksekusi proses lainnya,
+dan seterusnya. Dalam pandangan manusia, semuanya terlihat berjalan serentak. Begitulah cepatnya cara kerja CPU. Jika komputer Anda melambat, sementara resource CPU
+sudah dimaksimalkan, mungkin ada banyak faktor
+yang menjadi penyebabnya. Mungkin saja satu proses membutuhkan lebih banyak irisan waktu
+daripada yang seharusnya. Artinya, proses berikutnya
+tidak dapat dieksekusi. Kemungkinan lainnya adalah terlalu banyak proses yang menginginkan waktu CPU
+dan CPU tersebut tidak dapat memenuhinya. Apa pun kasusnya, meskipun kernel
+telah melakukan upaya terbaik untuk mengelola proses, kita mungkin perlu bertindak
+secara manual dari waktu ke waktu. Kernel menciptakan proses, menjadwalkannya secara efisien, dan mengelola cara proses dihentikan. Hal ini penting karena
+kita memerlukan cara untuk mengumpulkan semua resource
+yang telah digunakan sebelumnya oleh proses yang aktif dan mengalokasikannya
+ke proses lain.

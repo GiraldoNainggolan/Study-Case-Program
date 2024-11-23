@@ -1,0 +1,27 @@
+Pengertian:
+* IF TUNGGAL -> Digunakan sebagai persyaratan (benar) dan tidak memberikan pilihan lain jika yang dilaksanakan bila kondisi bernilai salah.
+* IF GANDA -> Digunakan memberikan pilihan lain bila kondisi bernilai salah
+
+RANGKAIAN PSUDOCODE:
+
+* IF TUNGGAL                                  
+if <Kondisi>
+        <Pernyataan-1>
+        <Pernyataan-2>
+        ..............
+        <Pernyataan-m>
+   
+endif
+
+
+* IF GANDA
+if <Kondisi>
+        <Pernyataan-1>
+        ...............
+        <Pernyataan-m>
+else
+        <Pernyataan-n>
+        ...............
+        <Pernyataan-n>
+        
+endif

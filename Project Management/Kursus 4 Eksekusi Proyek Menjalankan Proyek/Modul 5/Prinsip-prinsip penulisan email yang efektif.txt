@@ -1,0 +1,91 @@
+Email telah lama menjadi metode komunikasi utama bagi banyak orang dalam bisnis, namun pesan-pesannya mudah disalahpahami atau diabaikan. Dalam bacaan ini, kita akan membahas empat prinsip penulisan email yang efektif yang akan membantu email Anda menonjol, diingat, dan mendapatkan tanggapan yang Anda butuhkan. Prinsip-prinsip ini adalah:
+
+Nyatakan apa yang Anda inginkan dengan jelas.
+
+Jaga agar konten tetap singkat dan padat.
+
+Susun tulisan Anda.
+
+Periksa tata bahasa, tanda baca, dan ejaan.
+
+Prinsip-prinsip penulisan email yang efektif
+Nyatakan apa yang Anda inginkan dengan jelas
+Ketika Anda mulai menulis email, itu karena ada sesuatu yang Anda inginkan dari pembaca. Anda mungkin ingin mendapatkan jawaban yang sederhana, membujuk seseorang untuk melakukan sesuatu, atau mengatur pertemuan. Sebelum menulis email, pikirkan tentang apa yang Anda inginkan, kapan Anda membutuhkan apa yang Anda inginkan, dan cara terbaik untuk mendapatkan apa yang Anda inginkan saat Anda menginginkannya.
+
+Berikut ini beberapa tips tentang cara menyatakan dengan jelas apa yang Anda inginkan dalam email Anda:
+
+Cantumkan permintaan Anda di baris subjek email.
+
+Nyatakan permintaan Anda dalam dua paragraf pertama pesan email Anda.
+
+Tunjukkan ajakan bertindak spesifik yang terkait dengan permintaan Anda (misalnya, balas, tinjau, RSVP).
+
+Tuliskan kalimat yang jelas dan ringkas saat memberikan detail.
+
+Tentukan istilah. Hindari penggunaan akronim dan terminologi yang mungkin tidak diketahui oleh pengguna. Berikan informasi tambahan yang diperlukan untuk menghindari kesalahpahaman. 
+
+Jaga agar konten tetap ringkas
+Buatlah kata-kata Anda bekerja untuk Anda. Hapus semua tulisan yang tidak membantu mendefinisikan apa yang Anda inginkan atau berkontribusi pada kebutuhan pembaca.
+
+Ringkaslah konten yang ingin Anda sampaikan, dan hapus apa pun dalam email Anda yang tidak berkontribusi pada tujuan Anda.
+
+Usahakan untuk menulis email yang "tidak banyak pertanyaan" dan "berdiri sendiri". Artinya, pesan tersebut berisi informasi yang cukup untuk berdiri sendiri. Pembaca seharusnya tidak memiliki pertanyaan tentang apa yang Anda inginkan dan kapan Anda menginginkannya.
+
+Kenali audiens Anda. Beberapa orang-seperti para eksekutif dan pimpinan yang sibuk-mungkin tidak ingin membaca email lebih dari beberapa kalimat atau mengklik tautan eksternal untuk informasi lebih lanjut. Cobalah untuk menyesuaikan email Anda.
+
+Susunlah tulisan Anda
+Struktur berkaitan dengan aliran visual, atau estetika, dari email Anda. Email yang terstruktur dengan baik akan menyampaikan informasi penting kepada pembaca dengan cepat dan memungkinkan mereka untuk memindai teks penjelasan-atau mengabaikannya sama sekali. Berikut adalah beberapa tips untuk menyusun email Anda secara efektif:
+
+Gunakan poin-poin. Poin-poin memecah aliran visual. Jika Anda memiliki lebih dari satu poin, pertimbangkan untuk menggunakan poin-poin. Tuliskan kata kerja aksi yang kuat di awal setiap poin.
+
+Gunakan label. Label membantu memandu pembaca ke informasi apa yang paling penting.
+
+Tambahkan hyperlink. Hyperlink memungkinkan pembaca untuk mengakses informasi tambahan secara langsung, daripada menambahkan detail yang panjang pada email Anda.
+
+Tulis kalimat topik yang kuat. Letakkan ide utama paragraf dalam kalimat topik.
+
+Periksa tata bahasa, tanda baca, dan ejaan
+Tata bahasa, tanda baca, dan ejaan sangat penting. Mengaktifkan saran tata bahasa dan ejaan di aplikasi email Anda dapat membantu Anda mengidentifikasi kesalahan dengan cepat. Pastikan untuk memperbaiki kesalahan sebelum mengirimkannya.
+
+Menerapkan prinsip penulisan email yang efektif
+Untuk mempelajari cara menerapkan prinsip-prinsip ini, mari kita lihat contoh email berikut ini:
+
+Issac diberi tugas untuk mengirim email tentang retret pembangunan tim tahunan perusahaan. Harap diperhatikan: Teks berwarna biru dan bergaris bawah menunjukkan hyperlink ke situs atau dokumen eksternal.
+
+Contoh Contoh 1. Lihat penjelasan rinci:Subject : Annual Team Building Retreat - Register Now!
+Team,
+I am thrilled to invite you all officially to the 2021 Annual Team Building Retret. As in previous years, we are taking time out to celebrate and strengthen our team spirit—to learn from each other and to plan for the challenges ahead.
+Weve got something special planned for this retreat! Beyond the staples of world-class training, fabulous working sessions, and executive presentations, we've also arranged:
+An Annual Awards Dinner at the Hotel San Francisco; pre-booked rooms for those who want to stay at the hotel after dinner; and an afternoon at Shoreline Lake with sailing, rowing, and paddle boats available.
+We hope you can join us for all three excursons. Don't forget to register and sign up per the instructions on the site.
+Our theme this year is Transform. We look forward to sharing a transformational week with you all!
+Best,
+Issac Soto
+Contoh email ini tidak seefektif yang seharusnya. Tanggal dan lokasi acara tidak disertakan. Tautan utama yang ingin diklik oleh pembaca - untuk mendaftar ke acara tersebut - diletakkan di bagian bawah email. Tautan lain dalam pesan tersebut juga sangat banyak karena jumlahnya sangat banyak. Tidak ada peluru atau label untuk membantu mengatur informasi. Selain itu, ada beberapa kesalahan pengejaan dan tanda baca.
+
+Mari kita lihat bagaimana email Issac dapat direvisi agar lebih efektif.
+
+Contoh email 2. Lihat penjelasan rinci untuk teks lengkap:Subject: Annual Team Building Retreat - Register Now!
+Team,
+I am thrilled to invite you to the 2021 Annual Team Building Retreat, October 13–15 at the Hotel San Francisco. This is an opportunity to celebrate and strengthen our team spirit and to learn from one another as we plan for the challenges ahead. To end the event, we will hold our Annual Awards Dinner.
+Sign up now! 
+For the retreat
+For hotel rooms
+For lakeside activities
+Best,
+Issac Soto
+Dalam contoh ini, ada deskripsi yang jelas dan ringkas tentang email tersebut di bagian awal email. Tanggal dan lokasi acara dinyatakan dengan jelas di awal email. Paragraf pembuka langsung diikuti dengan label yang dicetak tebal: Daftar sekarang! Kemudian, poin-poin bullet membantu memisahkan hyperlink untuk visibilitas yang lebih baik, dan hyperlink dengan jelas menyatakan apa yang akan diakses oleh pembaca ketika mereka mengklik. Terakhir, tata bahasa, ejaan, dan tanda baca semuanya akurat.
+
+Hal-hal penting yang bisa diambil
+Ketika Anda menulis email, pikirkan tentang orang yang Anda kirimi email dan apa yang mereka butuhkan agar dapat dengan cepat membaca dan memahaminya dengan benar. Ingatlah untuk:
+
+Nyatakan apa yang Anda inginkan dengan jelas.
+
+Jaga agar konten tetap ringkas.
+
+Susun tulisan Anda.
+
+Periksa tata bahasa, tanda baca, dan ejaan.
+
+Dengan mengingat prinsip-prinsip ini saat Anda membuat konsep email akan membantu Anda berkomunikasi secara lebih efektif dengan anggota tim, pemangku kepentingan, pelanggan, dan lainnya. Hal ini juga dapat menunjukkan tingkat profesionalisme dan kompetensi Anda serta menginspirasi kepercayaan orang lain terhadap kemampuan Anda.
+

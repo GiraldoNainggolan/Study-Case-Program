@@ -1,0 +1,23 @@
+Pengertian: cara menuliskan instruksi-instruksi yang harus dilaksanakan dalam bentuk simbol-simbol diagram alir.
+
+Simbol / Notasi (dasar): Nama -> Fungi
+1. elips : bernama Terminator -> Memulai dan mengakhiri flowhcart
+2. panah : bernama Arrow -> Arah aliran alur
+3. belah-ketupat memanjang : bernama Preparation -> Instalasi / Pemberian nilai awal
+4. jajar-genjang : bernama Data -> Membaca input dan menampilkan output
+5. persegi-panjang : bernama Process -> Proces pengerjaan
+
+Note: 
+Perancangan tidak ada rumus namun ini hannya didasari oleh sebuah gambaran dari hasil pemikiran dalam manganalisa suatu permasalahn dalam komputer.
+
+Program menghitung persegi panjang:
+Terminator(Memulai) -> Preparation(Deklarasi, panjang, lebar, luas) -> Data(Baca nilai panjang, lebar) -> Proces(Hitung luas=panjang*lebar)-> Process(Tulis nilai kuas) -> Terminator(Selesai)
+
+Instruksi Deklarasi Variabel:
+Variabel = tempat untuk menyimpan nilai
+contoh: baju = nilai, dan keranjang = variabeln. Jadi deklarasi itu adalah mencari dan menyediakan tempat variabel barulah untuk menampung nilai atau kalo ingin membeli sesuatu kita harus punya uang (variabel) baru membeli barang (nilai).
+
+TIPS Menggunakan Flowchart:
+1. Gunakan bahas yang mudah dimengerti 
+2. Gunakan kosakata yang baku
+3. Masukkan kalimat dalam simbol

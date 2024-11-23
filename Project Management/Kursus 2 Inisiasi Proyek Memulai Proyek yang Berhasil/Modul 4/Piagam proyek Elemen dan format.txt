@@ -1,0 +1,40 @@
+Piagam proyek dengan jelas mendefinisikan proyek dan menguraikan detail yang diperlukan agar proyek dapat mencapai tujuannya. Piagam proyek yang terdokumentasi dengan baik dapat menjadi senjata rahasia manajer proyek untuk meraih kesuksesan. Dalam bacaan ini, kita akan membahas fungsi, elemen-elemen kunci, dan pentingnya piagam proyek serta mempelajari cara membuatnya.
+
+Piagam adalah cara formal untuk menangkap tujuan, nilai, manfaat, dan detail proyek. Anda dapat menganggap piagam sebagai kompas untuk proyek Anda karena Anda akan menggunakannya sepanjang siklus hidup proyek. Banyak pemangku kepentingan akan melihat piagam proyek Anda untuk memastikan bahwa Anda memang selaras dengan tujuan strategis dan siap untuk mencapai tujuan akhir yang diinginkan. Karena piagam proyek memiliki begitu banyak hal penting, penting untuk memasukkan jumlah detail yang tepat tanpa menghilangkan elemen-elemen yang tidak penting.
+
+Seperti halnya dokumen proyek Anda lainnya, sebaiknya berkolaborasi dengan tim dan pemangku kepentingan Anda sejak dini dan sesering mungkin. Mengembangkan piagam proyek dengan berkolaborasi dengan kedua kelompok tersebut dapat membantu Anda memastikan bahwa piagam proyek Anda membahas masalah terpenting para pemangku kepentingan utama Anda dan membuat tim Anda tetap selaras. Pastikan untuk menggunakan business case-alasan untuk memulai proyek-sebagai arahan panduan untuk piagam proyek Anda. Piagam proyek dapat bervariasi dari satu organisasi ke organisasi lainnya dan dari satu proyek ke proyek lainnya. Kunci bagi manajer proyek untuk mengidentifikasi jenis piagam terbaik untuk proyek tersebut untuk mendapatkan informasi yang relevan dan menyiapkan proyek Anda untuk sukses. 
+
+Piagam proyek akan bervariasi, tetapi biasanya mencakup beberapa kombinasi dari informasi utama berikut ini:
+
+pengantar/ringkasan proyek
+
+tujuan/sasaran
+
+kasus bisnis/manfaat dan biaya
+
+tim proyek
+
+ruang lingkup
+
+kriteria keberhasilan
+
+persyaratan utama atau hasil utama
+
+anggaran
+
+jadwal / garis waktu atau tonggak pencapaian
+
+kendala dan asumsi
+
+risiko
+
+OKR
+
+persetujuan
+
+Anda mungkin akan menggunakan banyak format piagam proyek yang berbeda di sepanjang karier manajemen proyek Anda. Salah satu contohnya adalah dokumen yang dipadatkan dan disederhanakan, seperti yang akan Anda pelajari dalam video mendatang dan yang ditautkan dalam aktivitas. Piagam proyek yang singkat dan sederhana dapat digunakan pada proyek-proyek kecil yang tidak terlalu kompleks.
+
+
+Untuk proyek yang lebih kompleks, Anda dapat menautkan ke analisis atau dokumen tambahan. Anda dapat menempatkan item-item ini dalam lampiran.
+
+Organisasi Anda mungkin memiliki template yang unik untuk Anda gunakan, atau Anda mungkin memiliki fleksibilitas untuk memanfaatkan template yang Anda temui dalam karier Anda. Seiring berjalannya proyek Anda, Anda mungkin juga akan menemukan revisi pada piagam proyek Anda-dan itu tidak masalah. Ingat, ini adalah dokumen yang hidup; biarkan dokumen ini berkembang seiring dengan proyek Anda, dan tinjau serta kunjungi kembali sesering mungkin untuk memastikan Anda tetap selaras.

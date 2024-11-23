@@ -1,0 +1,103 @@
+Sebelum mulai belajar merakit komputer, mari kita bahas teorinya terlebih dulu. Di materi sebelumnya,
+kita sudah membahas tentang biner dan cara komputer melakukan kalkulasi. Ingat komputer hanya dapat berkomunikasi
+dalam biner menggunakan 1 dan 0. Komputer berbicara bahasa mesin,
+tapi manusia berbicara bahasa manusia seperti bahasa Inggris, Spanyol,
+Mandarin, Hindi, dll. Jika manusia ingin berkomunikasi
+dengan mesin, mereka membutuhkan kamus terjemahan, sama seperti ketika saya
+ingin berbicara dalam bahasa Spanyol, saya akan mencarinya dalam
+kamus bahasa Inggris ke Spanyol. Komputer memiliki kamus bawaan. Di materi ini kita akan belajar lebih dalam
+cara komputer menerjemahkan informasi yang kita berikan menjadi petunjuk
+yang dipahami komputer. Saat ini Anda mungkin menggunakan
+browser web, pemutar musik, editor teks, atau aplikasi lainnya di komputer. Kita berinteraksi dengan
+aplikasi-aplikasi ini setiap hari mereka disebut sebagai program. Program adalah petunjuk yang memberi tahu
+komputer apa yang perlu dilakukan. Kita biasanya menyimpan program
+di media yang tahan lama, seperti hard drive. program bisa diibaratkan seperti
+resep-resep makanan yang disimpan di buku resep, sama seperti
+aplikasi yang disimpan di hard drive. Jika ingin memasak banyak makanan,
+kita menyewa koki untuk mengikuti resep kita dan memasak makanan yang enak. Semakin cepat koki memasak,
+semakin banyak makanan yang disiapkan. Koki ini adalah CPU yang memproses resep,
+kita meminta koki yang memasak makanan, koki ini bekerja sangat cepat,
+memasak lebih cepat dari membaca resep. Kita ambil salinan resep
+dan menempatkannya ke dalam RAM. Ingat RAM adalah memori jangka pendek
+di komputer untuk menyimpan informasi di lokasi yang bisa diakses CPU lebih cepat
+dibandingkan jika disimpan di hard drive. Kini kita bisa memberi koki satu atau dua resep sekaligus,
+bukan semua yang ada di buku resep. Katakanlah saya ingin membuat
+sandwich selai kacang dan jeli. Saya menemukan resep yang bagus
+dan mengirimnya ke koki untuk dibuat. Ingat koki perlu petunjuk dengan cepat, saya tidak akan mengirim semua resep,
+cukup satu saja. Pertama, siapkan dua lembar roti,
+kedua, oleskan selai kacang di 1 lembar roti, ketiga, oleskan jeli di lembar roti lainnya,
+empat, gabungkan kedua lembar roti. Saya akan beri tahu
+satu hal lagi kepada Anda. Koki hanya dapat berkomunikasi
+dengan kita dalam bahasa 1 dan 0. Saat mengirimkan sesuatu yang bisa dibaca,
+seperti resep membuat sandwich selai kacang dan jeli,
+kita perlu beri petunjuk seperti ini. Dalam kenyataannya,
+proses ini sedikit lebih rumit. CPU secara konstan mengambil
+petunjuk dan menjalankannya, petunjuk ini ditulis dalam biner. Bagaimana petunjuk-petunjuk ini
+berpindah di komputer? Di komputer,
+terdapat external data bus atau EDB. Ini bukan mobil bus, tapi barisan kabel
+yang saling menghubungkan bagian komputer, fungsinya seperti pembuluh darah
+di tubuh manusia. Saat mengirimkan
+tegangan ke salah satu kabel, kita katakan status kabel aktif
+diwakili oleh 1, jika tidak ada tegangan, kita katakan
+status kabel nonaktif diwakili oleh 0. Ini cara kita mengirimkan
+petunjuk 1 dan 0. Anda mengingatnya? Di materi sebelumnya, kita sudah membahas
+cara transistor mengirimkan tegangan. Kini kita sudah paham cara bit
+berpindah secara fisik di komputer, EDB tersedia dalam berbagai ukuran,
+1 bit, 16-bit, 32-bit, bahkan 64-bit. Bisa dibayangkan jika Anda memiliki 64 kabel,
+seberapa banyak data yang bisa dipindahkan. Namun kita akan menggunakan
+EDB dengan 8-bit dalam contoh ini, mengirimkan satu byte pada satu waktu. Kini CPU menerima
+bit yang diperlukan untuk mulai bekerja. Di dalam CPU,
+terdapat komponen yang disebut register, fungsinya adalah menyimpan data
+yang sedang dikerjakan CPU. Misalnya, jika CPU ingin menambahkan
+dua angka, satu angka akan disimpan di register A, sementara angka lainnya
+akan disimpan di register B, hasil dari kedua angka ini
+akan disimpan di register C. Bayangkan register sebagai meja kerja koki, tempat koki bekerja dan mulai memasak.
+Untuk memasak, koki membutuhkan buku terjemahan untuk menerjemahkan
+biner menjadi tugas yang bisa dijalankan. Mari kita mundur sejenak. Ingat bahwa program kita disalin
+ke dalam RAM agar bisa dibaca CPU, RAM adalah memori yang diakses acak
+sehingga CPU dapat membaca bagian mana saja dari RAM
+secepat bagian lainnya. Kita sebenarnya tidak mengirim
+data dari RAM melalui EDB, karena ada terlalu banyak data. RAM menyimpan jutaan data
+bahkan miliaran baris data. Meskipun contoh sandwich terdengar mudah,
+sebagian besar resep tidak semudah itu. Ada ribuan baris data panjang
+yang ingin kita proses tapi tidak perlu secara berurutan. Karena kita hanya mengirim satu baris data
+melalui EDB dalam satu waktu, kita perlu bantuan komponen lainnya,
+yaitu memory controller chip atau MCC. Komponen MCC adalah jembatan
+antara CPU dan RAM. Bayangkan komponen ini sebagai saraf
+dalam otak yang terhubung ke memori Anda, tempat CPU berkomunikasi dengan MCC
+dan menyatakan perlu petunjuk untuk langkah nomor 3 dari resep ini,
+lalu MCC menemukan petunjuk langkah nomor 3 di RAM,
+mengambil data, lalu mengirimnya melalui EDB. Terdapat bus lainnya, yang sama sekali
+bukan seperti bus dalam proses ini yang disebut address bus,
+fungsinya menghubungkan CPU ke MCC dan mengirimkan lokasi data,
+tapi bukan data itu sendiri, lalu MCC mengambil address ini dan mencari
+data yang kemudian dikirim melalui EDB. Percaya atau tidak, RAM bukan cara tercepat
+mengirimkan lebih banyak data ke CPU untuk diproses. CPU juga menggunakan
+sesuatu yang disebut sebagai cache. Cache berukuran lebih kecil dari RAM tapi dapat menyimpan data
+yang sering digunakan. RAM bisa diibaratkan seperti kulkas
+penuh makanan, mudah mengambil makanan tapi perlu waktu untuk mengeluarkannya,
+sementara cache seperti sesuatu yang disimpan di saku celana. Cache menyimpan
+data yang sering diakses atau terbaru. Terdapat tiga level cache di CPU,
+L1, L2, dan L3. L1 adalah cache terkecil dan tercepat. Kini kita sudah memahami
+cara RAM berinteraksi dengan CPU tetapi bagaimana cara CPU mengetahui
+awal dan akhir suatu petunjuk? CPU memiliki clock internal
+yang menjaga pengoperasiannya tetap sinkron. Clock internal terhubung ke kabel spesial
+yang disebut kabel clock. Saat mengirim atau menerima data, operasi ini
+mengirim tegangan ke kabel clock agar CPU tahu kapan dapat mulai melakukan kalkulasi. Kabel clock bisa diibaratkan
+seperti detik dalam jam, setiap detiknya
+CPU melakukan satu siklus operasi. Saat mengirim tegangan ke kabel clock,
+ini disebut sebagai siklus clock, jika memiliki banyak data yang perlu diproses
+dalam perintah, Anda perlu menjalankan banyak siklus clock. Anda pernah melihat
+CPU di toko yang memiliki label 3,4 Ghz? Angka ini merujuk pada kecepatan clock CPU,
+yang merupakan angka maksimal siklus clock yang dapat ditangani
+dalam periode tertentu. Angka 3,4 Ghz artinya 3,4 miliar
+siklus per detik, itu sangat cepat. Namun, meskipun memiliki kecepatan ini,
+bukan berarti selalu secepat ini. Ini menunjukkan siklus clock
+tidak dapat melampaui angka ini, tapi ini tidak menghentikan
+banyak orang mencoba melampauinya. Ada cara untuk melewati angka siklus clock
+di CPU di hampir semua perangkat, yang disebut sebagai over clocking. Operasi ini meningkatkan rasio siklus clock
+CPU untuk menjalankan lebih banyak tugas. Ini biasa digunakan untuk meningkatkan
+performa CPU kelas bawah. Katakanlah Anda gamer yang ingin grafis
+lebih baik dan sedikit lag saat bermain, Anda mungkin perlu melakukan
+over clock CPU saat bermain game. Namun sisi negatif dari melakukan ini
+berpotensi menyebabkan CPU terlalu panas.

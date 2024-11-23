@@ -1,0 +1,37 @@
+Sebelum membahas
+penyimpanan komputer, kita perlu memahami
+beberapa hal terlebih dulu. Saya merujuk pada hal-hal seperti
+gigabyte, bit, dan lainnya. Tapi kita belum akan membahas apa arti semua metrik itu. Maaf, saya terlalu cepat membahas gigabit. Seperti dugaan Anda, istilah tadi merujuk pada ukuran data. Unit terkecil penyimpanan data adalah bit. Satu bit dapat menyimpan satu digit biner, sehingga dapat menyimpan 1 atau 0. Unit terbesar berikutnya
+dalam penyimpanan disebut byte, yang terdiri dari 8 bit. Satu byte dapat menyimpan
+huruf, angka, atau simbol. Unit terbesar berikutnya
+disebut sebagai KB bite. Namun kita biasanya
+menggunakan istilah kilobyte. Satu kilobyte terdiri dari hingga 1.024 byte. Berikut diagram konversi data secara singkat. Berapa banyak 500 gigabyte? Mari amati ukuran file musik rata-rata, biasanya sekitar 3 megabyte. Pada mesin berukuran 500 gigabyte, ia mampu menampung 165.000 file musik. Jumlah musik yang sangat banyak. Semua data komputer kita ada di hard drive tempat menyimpan program, musik, foto, dll. Pernahkah Anda mengalami
+masalah pada komputer dan kehilangan semua data
+yang ada di hard drive? Saya juga pernah. Itu pengalaman yang buruk. Hal ini sering terjadi dan Anda mungkin akan menghadapinya
+sebagai staf dukungan IT. Pastikan Anda mencadangkan
+data agar terlindungi. Artinya Anda perlu menyalin
+atau menyimpan data di suatu tempat agar terlindungi saat hard drive mengalami error. Dengan demikian,
+Anda tidak akan kehilangan semua data. Ada dua jenis hard drive
+yang umum digunakan saat ini. Hard Describes atau HDD menggunakan spinning platter dan mechanical arm
+untuk membaca dan menulis informasi. Kecepatan rotasi platter memungkinkan Anda membaca
+dan menulis data dengan lebih cepat. Hal ini umumnya disebut sebagai RPM atau revolution per minute. Hard drive dengan RPM
+yang lebih tinggi akan lebih cepat. Jika Anda membeli hard drive sekarang, Anda akan menemukan hard drive dengan penyimpanan 500 gigabyte
+dengan 5.400 rpm HDD rentan terhadap banyak kerusakan karena ada banyak bagian yang bergerak. Kerentanan terhadap kerusakan ini tidak akan Anda temukan
+pada jenis penyimpanan yang baru atau biasa disebut
+solid state drive atau SSD. SSD tidak memiliki bagian yang bergerak. Anda mengenali stik USB? SSD beroperasi dengan cara yang sama. Informasi akan disimpan di microchip dan data akan berpindah
+lebih cepat dibandingkan di HDD. Faktor bentuk untuk SSD juga lebih ramping jika dibandingkan
+dengan sepupu mereka HDD. Terdengar hebat, bukan? Lalu mengapa tidak semua orang
+menggunakan SSD? Itu karena keduanya
+memiliki kelebihan dan kekurangan. HDD lebih murah, tetapi rentan terhadap kerusakan. SDD memiliki risiko lebih kecil
+untuk kehilangan data, tapi harganya juga lebih mahal. Anda tidak dapat membeli
+banyak memori penyimpanan dalam bentuk SSD sebanyak HDD. Percaya atau tidak,
+ada juga Hard drive campuran antara SSD dan HDD. Jenis tersebut menawarkan performa SSD yang dibutuhkan untuk performa sistem yang menunjang komputer beserta hard disk drives, tapi mengurangi bagian yang kurang penting
+seperti penyimpanan file dasar. Terdapat beberapa antarmuka yang digunakan hard drive
+untuk menghubungkan sistem. Antarmuka ATA adalah yang paling umum. Drive ATA yang paling populer
+adalah Serial ATA atau SATA, yang menggunakan
+satu kabel untuk transfer data. Drive SATA bersifat hot swappable
+(dapat diganti tanpa mengganggu sistem), istilah yang keren, bukan? Ini berarti Anda tidak perlu mematikan mesin untuk memasangkan drive SATA. Drive SATA bergerak lebih cepat dan menggunakan kabel yang lebih efisien seperti ini dibandingkan dengan pendahulunya. SATA menjadi antarmuka HDD
+paling andal untuk saat ini. Namun tak lama kemudian, orang menyadari
+bahwa menggunakan kabel SATA tidak cukup baik untuk menangani kecepatan SSD yang mulai muncul di pasaran. Antarmuka ini tidak mampu mengimbangi kecepatan SSD yang terbaru. Lalu, antarmuka standar baru dibuat
+dan diberi nama NVM express, atau NVMe. Sebagai ganti menggunakan kabel untuk menghubungkan drive ke mesin, drive ditambahkan sebagai slot ekspansi yang memungkinkan throughput data yang lebih besar
+dan meningkatkan efisiensi.

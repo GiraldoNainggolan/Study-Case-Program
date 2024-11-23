@@ -1,0 +1,58 @@
+Ayo kita pasang RAM.
+Temukan slot DIMM di motherboard Anda. Nah, ini slot DIMM-nya
+seperti yang sudah kita bahas. Ada empat slot di sini dan saya punya
+empat stik RAM, akan saya tunjukkan. Ini stik RAM saya
+yang dibungkus dengan plastik antistatis. Kita keluarkan isinya. Seperti yang saya sampaikan sebelumnya,
+kita akan menggunakan RAM DDR3. Baiklah, satu hal yang ingin saya lakukan
+sebelum memasang RAM adalah memastikan bahwa saya sudah menyelaraskan
+slot ini dengan slot RAM agar tidak perlu memasukkan RAM
+secara paksa ketika memasangnya. Seperti yang Anda lihat di sini,
+mulailah dengan memasukkan RAM di tengah. Sebelum saya melakukannya, biasanya saya
+memastikan bahwa posisinya sudah benar, lalu mulai mencocokkan stik RAM
+ke posisi yang sama, seperti ini. Kira-kira seperti ini... seperti ini... dan seperti ini. Dengan begitu, Anda tidak akan
+membahayakan pin saat mengambil stik RAM dan
+memasukkannya secara tidak sengaja. Paham, ya. Sekarang kita akan
+memasukkannya ke dalam slot di sini. Sejajarkan pin dengan benar dan
+dorong RAM hingga Anda mendengar bunyi klik. RAM terpasang dengan benar
+jika kedua sisinya terkunci. Ada hal lain yang perlu Anda tahu,
+yaitu slot yang ada di sini, berwarna hitam dan putih. Kita akan memasukkan RAM
+ke slot putih. Ada dua... dan kita juga akan memasukkan
+yang satunya di sini. Selesai, Anda berhasil memasang RAM
+dengan aman ke dalam motherboard. Selanjutnya, kita punya hard drive. Dalam contoh kali ini, kita akan menggunakan
+hard drive SSD SATA, bukan HDD. Kita hanya perlu menggunakan satu kabel SATA
+untuk menghubungkannya ke motherboard. Pertama-tama, saya akan memasukkan
+hard drive ke slot ini. Casing untuk hard drive bisa bervariasi,
+tapi untuk yang satu ini sangat mudah. Kita hanya perlu mendorongnya masuk
+hingga terdengar bunyi klik, seperti ini. Setelah hard drive
+terpasang dengan benar, kita hanya perlu menggunakan satu kabel SATA
+untuk menghubungkan SSD ke motherboard. Saya akan ambil kabelnya. Ini kabel SATA-nya. Sekarang saya akan menghubungkan
+sisi ini ke SSD. Selanjutnya saya akan menyambungkan
+sisi ini ke motherboard. Berhasil, kabelnya sudah terpasang. Ingat, kabel SATA hanya bisa
+dihubungkan satu arah. Setelah SSD terpasang, mari kita lanjutkan
+dengan memasang kipas pendingin. Seperti ini tampilannya. Satu hal yang perlu diperhatikan adalah
+konektor Molex ini. Lanjutkan dan temukan label di belakang
+motherboard yang bertuliskan kipas belakang. Tidak semua motherboard memilikinya,
+tapi contoh yang kita gunakan memilikinya. Ini sebagai informasi saja. Masukkan sesuai alurnya,
+seperti ini. Kipas sudah terpasang.
+Saya akan lanjutkan dengan menyambungkan konektor Molex ini
+ke motherboard, seperti ini. Sekarang kipas saya sudah terpasang. Sebagai praktik terbaik untuk mengujinya,
+buat terowongan angin yang mengisap udara, meniupkan udara ke komponen Anda,
+lalu mendorong semuanya ke belakang. Lihat bagaimana heatsink
+juga dilengkapi dengan kipas. Hal ini cukup normal karena CPU
+menghasilkan banyak panas dan kita ingin membantu
+mendinginkannya sebaik mungkin. Kita hampir selesai.
+Sekarang kita akan menghubungkan catu daya dan menguji untuk memastikan
+semuanya berfungsi dengan baik. Mari ambil catu dayanya. Ini dia. Pertama, masukkan catu daya
+ke casing komputer. Pastikan untuk tidak membahayakan
+motherboard saat memasangnya. Anda harus memasukkan catu daya
+secara perlahan... dan mendorongnya ke dalam,
+seperti ini. Saya akan meletakkan
+semua kabel ke samping agar tidak menonjol dan membahayakan
+motherboard, seperti yang saya bilang tadi. Sekarang saya akan mulai
+mengamankan posisi catu dayanya. Ini selalu jadi bagian serunya. Seperti yang Anda lihat,
+biasanya saya hanya menggunakan tangan karena sekrupnya mudah dimasukkan. Setelah semua sekrup berhasil dimasukkan, saya akan menggunakan obeng
+untuk mengencangkannya. Seperti ini. Sekarang kencangkan
+sekrup yang di sini. Bagus, catu daya kini sudah terpasang
+dengan aman di tempatnya dan tidak akan bergerak kemana-mana. Sebagai catatan tambahan, Anda juga bisa
+memasang catu daya sebelum menambahkannya ke motherboard, bergantung pada
+posisi casing komputer Anda.

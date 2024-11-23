@@ -1,0 +1,108 @@
+Dalam pelajaran ini, Anda akan belajar untuk menyelesaikan analisis pemangku kepentingan dan menjelaskan signifikansinya. Di sini, kita akan fokus pada cara memprioritaskan berbagai jenis pemangku kepentingan yang ada dalam sebuah proyek, mendapatkan dukungan dari pemangku kepentingan, dan mengelola ekspektasi mereka.
+
+Melakukan analisis pemangku kepentingan
+Pemangkukepentingan adalah bagian penting dari proyek apa pun. Kemampuan manajer proyek untuk menyeimbangkan kebutuhan pemangku kepentingan, mendapatkan dukungan mereka, dan memahami kapan dan bagaimana cara melibatkan mereka adalah kunci keberhasilan proyek.
+
+Kunci utama untuk menjaga para pemangku kepentingan tetap terorganisir agar dapat memahami kapan dan bagaimana melibatkan mereka pada waktu yang tepat. Dalam video sebelumnya, kami memperkenalkan analisis pemangku kepentingan, sebuah alat yang berguna bagi manajer proyek untuk memahami kebutuhan pemangku kepentingan dan membantu meminimalkan cegukan selama siklus hidup proyek Anda.
+
+Mari kita tinjau langkah-langkah utama dalam analisis pemangku kepentingan:
+
+Buatlah daftar semua pemangku kepentingan yang terkena dampak proyek. Saat membuat daftar ini, tanyakan pada diri Anda sendiri: Siapa yang berinvestasi dalam proyek ini? Siapa yang terkena dampak dari proyek ini? Siapa yang berkontribusi terhadap proyek ini?
+
+Tentukan tingkat kepentingan dan pengaruh untuk setiap pemangku kepentingan-langkah ini membantu Anda menentukan siapa pemangku kepentingan utama Anda. Semakin tinggi tingkat kepentingan dan pengaruhnya, semakin penting untuk memprioritaskan kebutuhan mereka selama proyek berlangsung.
+
+Menilai kemampuan pemangku kepentingan untuk berpartisipasi dan kemudian mencari cara untuk melibatkan mereka. Berbagai jenis proyek akan menghasilkan berbagai jenis pemangku kepentingan - beberapa akan menjadi pemangku kepentingan aktif dengan lebih banyak pendapat dan titik kontak dan yang lainnya akan menjadi pemangku kepentingan pasif, lebih memilih hanya pembaruan tingkat tinggi dan tidak terlibat dalam keseharian. Meskipun demikian, hanya karena pemangku kepentingan tidak berpartisipasi sesering pemangku kepentingan lainnya, bukan berarti mereka tidak penting. Ada banyak faktor yang akan berperan dalam menentukan kemampuan pemangku kepentingan untuk berpartisipasi dalam sebuah proyek, seperti jarak fisik dari proyek dan beban kerja yang ada. 
+
+Kiatpro: Anda mungkin ingin membentuk komite pengarah dalam beberapa proyek. Komite pengarah adalah kumpulan pemangku kepentingan utama yang memiliki kekuasaan dan kepentingan yang tinggi dalam sebuah proyek. Komite pengarah dapat memengaruhi beberapa departemen dalam organisasi, yang berarti mereka memiliki potensi untuk melepaskan sumber daya yang lebih besar kepada manajer proyek.
+
+Memvisualisasikan analisis Anda
+Jaringan kekuasaan menunjukkan minat pemangku kepentingan dalam proyek versus pengaruh mereka terhadap proyek. Alat empat kuadran ini membantu manajer proyek mengevaluasi cara mengelola pemangku kepentingan mereka. Alat ini digunakan untuk menentukan tingkat keterlibatan yang tepat yang diperlukan oleh tim proyek yang diperlukan untuk mendapatkan kepercayaan dan dukungan pemangku kepentingan. Setengah bagian atas dari kotak menunjukkan pengaruh yang lebih tinggi, dan setengah bagian bawah dari kotak menunjukkan pengaruh yang lebih rendah. Sementara itu, setengah bagian kiri dari grid mewakili minat yang lebih rendah, dan setengah bagian kanan dari grid mewakili minat yang lebih tinggi. Dengan mengingat hal tersebut, Anda akan menemukan kuadran kiri atas diberi label "memenuhi kebutuhan mereka," kuadran kanan atas "mengelola dengan cermat," kuadran kiri bawah diberi label "memonitor," dan kuadran kanan bawah diberi label "menunjukkan pertimbangan."  
+
+
+Luangkan waktu di awal proyek untuk menetapkan pendekatan pemangku kepentingan Anda. Buatlah daftar pemangku kepentingan dan kemudian tempatkan mereka di tempat yang sesuai pada kisi-kisi. Kemampuan untuk memvisualisasikan penempatan mereka akan membantu Anda mengelola komunikasi dan ekspektasi. Memiliki alat referensi cepat untuk mendorong tindakan komunikasi Anda juga akan memungkinkan Anda untuk memiliki kemampuan untuk menghabiskan lebih banyak waktu untuk melakukan tugas-tugas lain dalam proyek Anda.
+
+Untuk menguraikannya lebih lanjut, berikut adalah arti dari setiap kuadran: 
+
+Kuadran 1: Pengaruh Tinggi, Kepentingan Tinggi (Kanan Atas)
+
+Pemangku kepentingan di kuadran ini memiliki pengaruh yang signifikan terhadap proyek dan sangat tertarik dengan hasilnya. Mereka dapat sangat memengaruhi keputusan dan kesuksesan proyek. Contohnya mungkin termasuk sponsor proyek, eksekutif utama, atau otoritas pengatur. Tanggapan untuk kuadran ini meliputi:
+
+Keterlibatan dan Keterlibatan:
+
+Jaga agar para pemangku kepentingan ini tetap terinformasi dengan baik dan terlibat di sepanjang siklus proyek.
+
+Libatkan mereka dalam proses pengambilan keputusan, mintalah masukan dan umpan balik dari mereka.
+
+Tangani kekhawatiran mereka dengan segera dan efektif.
+
+Komunikasi Reguler:
+
+Jadwalkan pertemuan rutin atau pembaruan untuk memberi mereka informasi tentang kemajuan proyek dan masalah apa pun.
+
+Sesuaikan komunikasi dengan preferensi dan kebutuhan mereka untuk memastikan mereka tetap mendukung dan terlibat.
+
+Kuadran 2: Pengaruh Tinggi, Minat Rendah (Kiri Atas) 
+
+Pemangku kepentingan di kuadran ini memiliki pengaruh yang tinggi tetapi mungkin tidak terlalu tertarik dengan detail proyek sehari-hari. Mereka mungkin termasuk manajer senior yang perlu diberi informasi tetapi mungkin tidak terlibat secara aktif. Tanggapan untuk kuadran ini meliputi:
+
+Ringkasan Eksekutif:
+
+Berikan ringkasan tingkat tinggi tentang kemajuan proyek dan keputusan-keputusan penting untuk ditinjau oleh mereka.
+
+Fokus pada dampak proyek terhadap tujuan dan sasaran organisasi.
+
+Pembaruan Berkala:
+
+Berikan pengarahan atau pembaruan berkala untuk memastikan mereka mendapat informasi tentang pencapaian utama dan perubahan proyek yang penting.
+
+Kuadran 3: Pengaruh Rendah, Kepentingan Tinggi (Kanan Bawah) 
+
+Pemangku kepentingan di kuadran ini memiliki minat yang tinggi terhadap proyek, namun pengaruhnya relatif rendah terhadap hasilnya. Mereka biasanya mencari pembaruan dan informasi tentang proyek. Tanggapan untuk kuadran ini meliputi:
+
+Pembaruan Reguler:
+
+Komunikasikan kemajuan, risiko, dan pembaruan proyek agar mereka tetap terlibat dan mendapat informasi.
+
+Tanggapilah pertanyaan dan kekhawatiran mereka dengan segera untuk mempertahankan minat mereka.
+
+Umpan Balik Pemangku Kepentingan:
+
+Mintalah umpan balik dari mereka mengenai rencana, kemajuan, dan hasil proyek untuk memastikan perspektif mereka dipertimbangkan.
+
+Kuadran 4: Pengaruh Rendah, Minat Rendah (Kiri Bawah)
+
+Pemangku kepentingan di kuadran ini memiliki pengaruh yang rendah terhadap proyek dan minat yang terbatas pada detailnya. Mereka mungkin termasuk karyawan tingkat bawah atau departemen yang tidak secara langsung terkena dampak proyek. Tanggapan untuk kuadran ini meliputi:
+
+Komunikasi Umum:
+
+Bagikan pembaruan umum tentang kemajuan proyek secara keseluruhan tanpa membebani mereka dengan detail.
+
+Jawablah pertanyaan spesifik yang mungkin mereka miliki, namun hindari membanjiri mereka dengan informasi terkait proyek.
+
+Keterlibatan Minimal:
+
+Pertahankan tingkat komunikasi dan keterlibatan dasar agar mereka tetap mengetahui proyek tanpa mengalihkan perhatian mereka dari tanggung jawab rutin mereka.
+
+Dengan memahami pengaruh dan minat para pemangku kepentingan menggunakan jaringan kekuatan empat kuadran, manajer proyek dapat menyesuaikan strategi komunikasi dan keterlibatan mereka untuk mengelola hubungan pemangku kepentingan secara efektif di seluruh siklus hidup proyek. 
+
+Kiatpro: Meskipun alat bantu ini membantu mengatur informasi, alat bantu ini tidak serta merta membuat perbedaan antara pelibatan pemangku kepentingan yang berhasil dan yang tidak berhasil. Apa yang akan membuat pelibatan pemangku kepentingan yang sukses adalah kemampuan manajer proyek untuk mengetahui motivasi dan inspirasi para pemangku kepentingan. Hal ini membutuhkan waktu, keterampilan interpersonal, dan wawasan tentang cara kerja politik internal organisasi. Ingat, setiap proyek berbeda, dan proyek Anda mungkin memerlukan penyesuaian di sepanjang jalan seiring Anda berkembang sebagai manajer proyek. Melakukan perubahan yang diperlukan berarti Anda melakukan sesuatu yang benar. Pastikan untuk memeriksa dan memastikan bahwa Anda berada di jalur yang tepat, melibatkan pemangku kepentingan Anda dengan sukses, dan menyelesaikan proyek Anda!
+
+Menghasilkan dukungan pemangku kepentingan
+Setelah kamu mengatur dan menilai pemangku kepentingan kamu, sekarang saatnya untuk mulai membuat beberapa keputusan tentang dukungan siapa yang mutlak diperlukan untuk sukses, persyaratan siapa yang paling perlu diperhatikan, dan tingkat komunikasi apa yang akan dibutuhkan oleh setiap pemangku kepentingan.
+
+Mendapatkan dukungan dari pemangku kepentingan utama sangat penting untuk memastikan bahwa proyek Anda tidak kekurangan sumber daya.
+
+Kiat-kiat untuk mendapatkan dukungan dari pemangku kepentingan utama meliputi:
+
+Memetakan dengan jelas pekerjaan proyek dengan tujuan pemangku kepentingan.
+
+Menjelaskan bagaimana proyek tersebut selaras dengan tujuan departemen atau tim pemangku kepentingan.
+
+Mendengarkan umpan balik dari pemangku kepentingan dan mencari cara untuk memasukkan umpan balik mereka ke dalam piagam proyek jika diperlukan.
+
+Kelola ekspektasi pemangku kepentingan Anda dengan memberikan pandangan yang realistis tentang kemampuan tim Anda. Jangan terlalu banyak berjanji dan kurang memberikan hasil!
+
+Bacaan opsional
+Artikel ini, berjudul 
+Roll Call: Kami Bertanya kepada Komunitas Manajemen Proyek: Langkah Apa yang Anda Ambil Untuk Mengidentifikasi dan Memprioritaskan Semua Pemangku Kepentingan di Awal Proyek?
+menjelaskan strategi tambahan untuk mengidentifikasi pemangku kepentingan untuk lebih meningkatkan pemahaman Anda. (https://www.pmi.org/learning/library/identify-prioritize-stakeholders-11408)

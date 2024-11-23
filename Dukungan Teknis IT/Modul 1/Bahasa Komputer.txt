@@ -1,0 +1,34 @@
+Ingat saat saya bilang bahwa
+komputer adalah perangkat yang menyimpan dan memproses data
+dengan melakukan penghitungan? Anda dapat menciptakan kecerdasan buatan yang dapat mengalahkan manusia dalam permainan catur atau sesuatu yang lebih sederhana seperti
+menjalankan game video, semakin banyak kekuatan komputasi
+yang dapat Anda miliki, semakin banyak yang dapat Anda capai. Pada akhir pelajaran ini, Anda akan memahami hal yang
+dihitung komputer dan prosesnya. Mari kita lihat masalah
+matematika sederhana ini. 0 + 1 = ? Dalam waktu singkat,
+kita bisa menjawab satu, tetapi bayangkan Anda perlu melakukan 100 kalkulasi yang sesederhana seperti ini. Anda dapat melakukannya, dan jika Anda berhati-hati,
+Anda mungkin tidak melakukan kesalahan. Bagaimana jika Anda perlu melakukan
+1.000 kalkulasi seperti ini? Bagaimana dengan satu juta? Bagaimana dengan satu miliar? Inilah yang dilakukan komputer. Komputer membandingkan kombinasi 1 dan 0 jutaan atau miliaran kali per detik. Komunikasi yang digunakan komputer disebut sistem biner, yang juga dikenal sebagai
+sistem bilangan basis-2. Ini berarti, sistem tersebut
+hanya mengenali angka 1 dan 0. Anda mungkin berpikir, komputer saya hanya dapat
+berkomunikasi dalam angka 1 dan 0. Bagaimana cara berkomunikasi
+dengan komputer? Anggap saja seperti ini. Kita menggunakan huruf alfabet untuk membentuk kata-kata dan memberi makna
+pada kata-kata tersebut. Kita menggunakannya untuk membuat kalimat, paragraf, dan seluruh cerita. Hal yang sama berlaku pada biner, tetapi, sistem biner
+tidak menggunakan huruf A, B, C dan seterusnya, melainkan hanya 0 dan 1 untuk membuat kata-kata
+yang bermakna. Dalam istilah komputasi,
+kita mengelompokkan biner ke dalam kombinasi 8 angka, atau bit. Secara teknis, bit adalah digit biner. Secara historis, kita menggunakan 8 bit karena pada awal
+perkembangan komputasi, hardware menggunakan
+sistem bilangan basis-2 untuk memindahkan bit. Dua hingga delapan angka dapat menghasilkan rentang nilai yang cukup besar untuk melakukan komputasi yang kita perlukan. Pada waktu itu, kombinasi bit dalam
+jumlah berapa pun mulai digunakan, tetapi pada akhirnya
+pengelompokan 8 bit menjadi standar industri
+yang kita gunakan hari ini. Anda harus tahu bahwa
+sekelompok 8 bit disebut satu byte. satu byte yang terdiri dari angka 0
+dan 1 bisa terlihat seperti 10011011. Setiap byte dapat menyimpan satu karakter, dan dapat memiliki
+256 kemungkinan nilai berkat sistem basis-2,
+mulai dari digit 2 sampai 8. Dalam bahasa komputer, byte ini dapat berarti sesuatu seperti huruf C. Ini cara bahasa komputer diciptakan. Mari kita buat tabel sederhana
+untuk menerjemahkan sesuatu yang dibaca oleh komputer menjadi menjadi sesuatu yang dapat kita kenali. Apa yang dapat diterjemahkan
+dari susunan berikut? Apa Anda mendapatkan kata halo?
+Lumayan keren. Dengan menggunakan biner, kita bisa berkomunikasi tanpa batas
+dengan komputer kita. Semua yang Anda lihat
+di komputer Anda saat ini, baik video, gambar, teks, atau apa saja, hanyalah angka 1 atau 0. Anda perlu memahami cara kerja sistem biner. Ini adalah dasar pemahaman
+semua pelajaran lain yang akan kita bahas di kursus ini. Pastikan Anda memahami konsepnya
+sebelum melanjutkan.

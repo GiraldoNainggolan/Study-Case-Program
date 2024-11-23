@@ -1,0 +1,47 @@
+- There are all kinds of
+ways to leverage AI tools and many of them are
+readily available to you. Let's explore the different
+ways that AI tools can be integrated into your work routine and how they can
+streamline your workflows. As you might recall, an AI
+tool is AI powered software that can automate or assist
+users with a variety of tasks. In your role, you may come
+across generative AI tools in a few different ways,
+as stand-alone AI tools, as integrated AI features
+or as custom solutions. A stand-alone AI tool
+describes AI-powered software that's designed to be used on its own. Stand-alone AI tools
+can be accessed online or downloaded to a device with
+little or no technical setup. For example, Speeko is an AI speech coach designed to help you
+communicate with confidence. Speeko uses AI to analyze your voice and give you feedback on how to improve your
+communication skills in any setting, whether you're preparing
+for online meetings or in-person presentations. Suppose you're preparing
+for a job interview and want to practice answering
+common interview questions. With Speeko, you can
+record yourself responding to these questions, and
+Speeko will give you feedback on aspects, like clarity,
+pacing, and word choice, helping you learn how to
+communicate more effectively during the actual interview. Speeko also gives you
+personalized exercises to help you improve your skills. As another example, let's say, you want to create a new
+image for a design project using a desktop app you already have. Instead of searching for a
+stand-alone image generator, the desktop app might have
+an integrated AI feature that can help you get the job done. An integrated AI feature refers
+to a built-in enhancement to a particular piece of software. For example, Neural Filters is an AI tool that's built right into Adobe Photoshop. It lets you edit images
+by blurring backgrounds, adjusting colors, changing
+facial expressions, and much more. Stand-alone tools and integrated features are two common ways to use AI, but custom AI solutions
+are also an option. A custom AI solution is an application that's tailormade to
+solve a specific problem. For instance, in 2022,
+Johns Hopkins Hospital implemented an AI solution to
+help doctors detect sepsis, a condition where the body has an extreme response to an infection. This AI solution allowed
+doctors to diagnose and treat patients up to six hours sooner than previously possible, leading to improved patient outcomes. AI models, like this, can
+be rewarding to build, but they typically require
+dedicated resources and buy-in from your
+organization to produce. In this course, we'll focus mainly on stand-alone generative AI tools because they're readily
+available, often free to use, and can easily fit in your workstream. Before using AI tools,
+it's helpful to understand the technologies that
+power them, AI models. An AI model is a computer
+program trained on a set of data to recognize patterns and
+perform specific tasks. Think of the AI model as the engine and the AI tool as the car. The model provides the
+underlying capabilities while the tools interface
+assists you in completing tasks. Whether you're using a stand-alone tool, an integrated feature, or a
+custom solution in your work, remember that an AI tool
+is powered by an AI model. Next up, we'll explore
+how to effectively engage with AI tools to tackle a variety of tasks and boost your productivity.

@@ -1,0 +1,65 @@
+Setelah Anda mengeklik tombol "Mulai Lab", Anda akan melihat panel muncul di bawah tombol mulai lab yang memiliki tombol Buka VM Windows .
+
+
+Klik tombol Buka Mesin Virtual Windows dan tab baru akan terbuka dengan antarmuka visual untuk OS Windows, tempat Anda akan melakukan langkah-langkah selanjutnya di lab. Anda akan memiliki antarmuka visual untuk Windows yang tampak seperti ini:
+
+Catatan: Jika VM Windows macet dan terputus secara otomatis, Anda dapat menyambungkannya kembali dengan cara berikut:
+
+Kembali ke halaman lab, lalu klik Buka VM Windows lagi. Ini akan menghubungkan Anda kembali ke VM Windows yang sama.
+Pada halaman login, gunakan kredensial yang diberikan di bagian " Petunjuk Mesin Virtual untuk pengguna pembaca layar ". Masukkan " localhost " sebagai server, beserta nama pengguna dan kata sandi , dan biarkan kolom lainnya tidak berubah.
+
+Instruksi Mesin Virtual untuk pengguna pembaca layar
+
+Membuat folder
+Untuk pengguna keyboard saja:
+
+Navigasi ke desktop menggunakan tombol Tab dan tombol panah .
+Tekan Ctrl + Shift + N untuk membuat folder baru.
+Folder baru akan diberi nama Folder Baru secara default.
+Ganti nama folder dengan My Super Cool Folder dan tekan Enter .
+Untuk pengguna lain:
+
+Membuat folder di Windows sangatlah mudah. ​​Klik kanan di mana saja pada desktop dan Anda akan melihat menu ini muncul:
+
+Cuplikan layar menu klik kanan Windows, termasuk "Lihat", "Urutkan menurut", "Segarkan", "Baru", "Pengaturan tampilan", dan "Personalisasi"
+
+Arahkan kursor Anda ke "Baru", dan menu lain akan muncul seperti ini:
+
+Cuplikan layar menu klik kanan Windows, di menu "Baru". Opsi untuk membuat Baru: "Folder", "Pintasan", "Gambar bitmap", "Kontak", "Dokumen Teks Kaya", "Dokumen Teks", dan "Folder Terkompresi (terkompresi)"
+
+Pindahkan kursor Anda ke opsi pertama ("Folder"), dan pilih opsi tersebut. Jika kursor Anda meninggalkan menu, menu tersebut mungkin akan hilang; jika ini terjadi, ulangi saja langkah-langkah tersebut lagi. Folder baru akan muncul di desktop. Folder tersebut akan disebut "Folder baru" secara default, dan teksnya seharusnya sudah disorot agar Anda dapat mengeditnya.
+
+Cuplikan layar folder yang baru dibuat di desktop Windows. Folder tersebut diberi nama "Folder baru".
+
+Jika Anda mengklik di mana saja sebelum mengubah nama, Anda harus mengklik kanan folder tersebut dan memilih opsi "Ganti Nama" agar dapat mengeditnya. Ubah nama menjadi "My Super Cool Folder" .
+
+Cuplikan layar folder di desktop Windows. Nama folder sedang aktif dalam mode edit dan telah diubah namanya menjadi "My Super Cool Folder" Cuplikan layar folder di desktop Windows. Folder tersebut diberi nama "My Super Cool Folder"
+
+Folder Anda telah dibuat dan diberi nama! Untuk memverifikasi, klik dua kali pada folder tersebut dan jendela Windows Explorer akan muncul, memperlihatkan isi folder yang saat ini kosong.
+
+Cuplikan layar tampilan Windows Explorer berisi konten "My Super Cool Folder". Konten menunjukkan "Folder ini kosong."
+
+Klik Periksa kemajuan saya untuk memverifikasi tujuan.
+
+Buat folder
+
+Selamat!
+Selesai! Anda telah berhasil membuat folder di Windows. Akan ada banyak lab menarik lainnya yang akan datang, silakan gunakan lab ini sebagai penyegaran jika Anda lupa prosesnya.
+
+Anda dapat mengakhiri lab secara manual, atau akan otomatis berakhir ketika waktu habis.
+
+Akhiri lab Anda
+Setelah menyelesaikan lab, klik Akhiri Lab . Qwiklabs akan menghapus sumber daya yang telah Anda gunakan dan membersihkan akun untuk Anda.
+
+Anda akan diberi kesempatan untuk menilai pengalaman lab. Pilih jumlah bintang yang berlaku, ketik komentar, lalu klik Kirim .
+
+Jumlah bintang menunjukkan hal berikut:
+
+1 bintang = Sangat tidak puas
+2 bintang = Tidak Puas
+3 bintang = Netral
+4 bintang = Puas
+5 bintang = Sangat puas
+Anda dapat menutup kotak dialog jika tidak ingin memberikan umpan balik.
+
+Untuk masukan, saran atau koreksi, silakan gunakan tab Dukungan .

@@ -1,0 +1,37 @@
+Program, software, dan aplikasi
+adalah istilah yang sinonim satu sama lain. Untuk saat ini, kita akan terus menggunakan
+istilah software untuk merujuk ke ketiganya. Ada jenis software tertentu yang menjalankan
+fungsi spesifik seperti driver, yang memungkinkan kita
+untuk berinteraksi dengan hardware. Ada aplikasi yang kita gunakan
+untuk fungsi pekerjaan sehari-hari. Ada utilitas yang kita gunakan seperti
+kalkulator, setelan, dan alat lainnya. Dengan berbagai pilihan
+yang tak ada habisnya, bagaimana kita tahu software
+mana yang harus digunakan? Bagaimana kita memilihnya untuk digunakan
+di tempat kerja dan keseharian kita? Software selalu berubah. Developer merilis update. Perusahaan software berubah,
+fitur ditambahkan, dst. Perubahan konstan ini
+sepenuhnya di luar kendali kita dan ini dapat menimbulkan
+banyak kesulitan di dunia IT. Misalnya perusahaan yang membuat
+sistem penggajian merilis update software yang menyebabkan berubahnya setelan,
+atau bahkan lebih buruk, sepenuhnya membuatnya tidak kompatibel
+dengan perusahaan Anda. Kasus seperti ini bisa saja terjadi. Anda harus selalu menguji software baru
+sebelum mengizinkan perusahaan memakainya. Hal lain yang perlu dikhawatirkan
+adalah software lawas. Saat Anda menjalankan
+software lawas di komputer Anda berisiko terkena serangan cyber
+yang memanfaatkan bug software. Bug software adalah error pada software
+yang menimbulkan hasil yang tak diharapkan. Saat ini, update software biasanya
+berisi update keamanan penting serta fitur baru dan punya kompatibilitas
+yang lebih baik dengan sistem Anda. Pedoman yang baik adalah terus
+mengupdate software Anda. Masalah lain yang menghantui dunia IT
+terkait software adalah pengelolaan software. Jika Anda menyiapkan komputer
+untuk orang lain, pastikan mereka punya semua alat
+yang dibutuhkan untuk memulainya. Itu berarti Anda perlu menginstal
+semua software yang mereka perlukan. Anda terkadang juga harus menghapus
+software yang tidak mereka perlukan. Kita mungkin tidak menyadari software
+yang terinstal adalah software berbahaya yang menyebabkan kerusakan
+pada komputer Anda. Ada baiknya untuk memeriksa apakah
+software berasal dari sumber tepercaya sebelum Anda menginstalnya. Praktik industri yang umum adalah
+melarang penginstalan software tanpa persetujuan administrator. Praktik ini mencegah pengguna menginstal
+software yang tidak diinginkan. Pengguna akan melihat pesan error
+yang mengatakan penginstalan membutuhkan kredensial administrator. Sebelum kita membahas lebih jauh, mari kita
+bahas dasar-dasar pengelolaan software yang mencakup penginstal,
+mengupdate, dan menghapus software.

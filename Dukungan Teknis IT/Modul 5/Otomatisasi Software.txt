@@ -1,0 +1,19 @@
+Anda hebat. Sekarang Anda sudah mempelajari
+definisi software, cara mengintegrasikannya dengan komputer,
+dan cara mengelolanya. Mudah sekali menginstal, mengupdate,
+dan menghapus software di satu mesin. Namun, bagaimana jika harus melakukannya
+untuk beberapa mesin sekaligus? Pasti akan sangat menyita waktu. Andai saja ada cara
+untuk melakukannya secara otomatis. Bocorannya, memang ada caranya. Kita menggunakan software
+untuk membantu mengerjakan tugas ini. Ada banyak alat di luar sana
+yang membantu memudahkan pengelolaan komputer. Kita menggunakan otomatisasi untuk ini. Otomatisasi menjadikan proses
+berjalan secara otomatis. Anda bahkan juga dapat menggunakan
+alat otomatisasi seperti program dan skrip untuk membantu Anda
+dalam memecahkan masalah. Jadi, daripada membaca
+ratusan baris dalam file log untuk mencari secara manual
+saat terjadi error tertentu di komputer, Anda dapat menulis skrip
+untuk membacakan log untuk Anda dan mencetak baris yang relevan saja. Software memiliki banyak kegunaan, termasuk menjadikan proses
+lebih efisien dan mudah. Anda telah menyelesaikan materi
+tentang software. Bagus! Selanjutnya,
+Anda akan bertemu dengan Marty Clarke. Dia adalah instruktur Anda
+untuk pemecahan masalah dan akan menjelaskan tentang pentingnya layanan pelanggan yang baik
+untuk dukungan IT. Untuk saat ini, mari bekerja keras, serap ilmu sebanyak-banyaknya, dan nikmati prosesnya.

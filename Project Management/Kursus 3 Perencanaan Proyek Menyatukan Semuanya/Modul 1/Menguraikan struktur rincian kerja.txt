@@ -1,0 +1,13 @@
+Langkah-langkah untuk membangun WBS
+Sebagai pengingat, berikut adalah tiga langkah utama yang harus diikuti saat membuat WBS:
+
+Mulailah dengan gambaran proyek tingkat tinggi dan menyeluruh. Bertukar pikiran dengan tim Anda untuk membuat daftar hasil dan pencapaian utama. Contoh: Bayangkan Anda merencanakan sebuah acara perusahaan. Pencapaian utama Anda mungkin termasuk kategori seperti "mengamankan tempat," "menyelesaikan logistik tamu," dan "menetapkan agenda."
+
+Identifikasi tugas-tugas yang perlu dilakukan untuk memenuhi tonggak-tonggak pencapaian tersebut.Contoh: Anda dapat membagi tonggak pencapaian seperti "mengamankan tempat" menjadi beberapa tugas seperti "meneliti tempat", "tur dan mendekorasi ruangan", "melakukan pembayaran uang muka", dan seterusnya.
+
+Periksa tugas-tugas tersebut dan uraikan lebih lanjut menjadi sub-tugas. Contoh: Anda dapat memecah tugas seperti "tur dan mendekorasi ruangan" lebih lanjut menjadi sub-tugas seperti "mengatur komite dekorasi", "membeli dekorasi", "menetapkan tanggung jawab dekorasi", dan seterusnya.
+
+Bacaan lebih lanjut
+Untuk pembelajaran lebih lanjut tentang praktik terbaik dalam mengembangkan WBS, lihat artikel ini:
+
+Cara Membuat Struktur Perincian Kerja dan Mengapa Anda Harus Membuatnya (lucidchart.com/blog/how-to-create-a-work-breakdown-structure-and-why-you-should) 

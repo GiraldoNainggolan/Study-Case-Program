@@ -1,0 +1,23 @@
+Dalam bacaan ini, Anda akan belajar mendefinisikan karakteristik Scrum saat kita meninjau apa yang membuat Scrum berbeda dari kerangka kerja lainnya.
+
+Meskipun Scrum pertama kali digunakan untuk mendeskripsikan konten Agile pada tahun 1986 di Harvard Business Review (https://hbr.org/1986/01/the-new-new-product-development-game), istilah ini berasal dari olahraga yang digemari secara internasional, yaitu rugby. Dalam rugby, "scrum" melibatkan para pemain yang berkerumun berdekatan dengan kepala menunduk sambil mencoba menguasai bola. Kemudian, para pemain bekerja sama untuk mencapai tujuan bersama mereka: membawa bola melewati garis dan mencetak gol!
+
+Gambar tim rugby
+Makalah asli Harvard Business Review, yang ditulis oleh Hirotaka Takeuchi dan Ikujiro Nonaka dan berjudul 
+Permainan Pengembangan Produk Baru yang Baru
+memperkenalkan Scrum dalam bab "Memindahkan Scrum ke lapangan." Di sepanjang makalah tersebut, penulis terus menunjukkan karakteristik tim yang membantu memindahkan Scrum ke lapangan. Karakteristik tersebut adalah
+
+Ketidakstabilan bawaan: Dalam dunia Scrum, tim diberikan kebebasan untuk mencapai hasil yang penting dengan "persyaratan yang menantang." Takeuchi dan Nonaka menjelaskan bahwa hal ini memberikan tim "elemen ketegangan" yang diperlukan untuk "melaksanakan proyek yang memiliki kepentingan strategis bagi perusahaan."
+
+Tim yang mengatur diri sendiri: Tim Scrum dimaksudkan untuk beroperasi seperti perusahaan rintisan mereka sendiri, dengan tatanan unik yang tidak memiliki hirarki yang sebenarnya. Tim-tim ini dianggap mengatur diri sendiri ketika mereka menunjukkan otonomi, pertumbuhan berkelanjutan, dan kolaborasi.
+
+Fase pengembangan yang tumpang tindih: Individu dalam Tim Scrum harus "bekerja untuk menyelaraskan langkah mereka untuk memenuhi tenggat waktu." Pada titik tertentu di sepanjang proses, langkah setiap individu mulai tumpang tindih dengan yang lain, dan pada akhirnya, langkah kolektif terbentuk di dalam tim.
+
+Multi-learning: Scrum adalah kerangka kerja yang sangat bergantung pada uji coba dan kesalahan. Anggota tim Scrum juga bertujuan untuk selalu mengikuti perkembangan kondisi pasar yang berubah-ubah dan kemudian dapat merespons kondisi tersebut dengan cepat.
+
+Kontrol yang halus: Seperti yang telah kami sebutkan, Tim Scrum mengatur dirinya sendiri dan beroperasi seperti perusahaan rintisan, tetapi bukan berarti tidak ada struktur sama sekali. Dengan membuat pos pemeriksaan di sepanjang proyek untuk menganalisis interaksi dan kemajuan tim, Tim Scrum mempertahankan kontrol tanpa menghalangi kreativitas.
+
+Transfer pembelajaran secara organisasi: Dalam Scrum Team, setiap orang didorong untuk mempelajari keterampilan yang mungkin baru bagi mereka saat mereka mendukung anggota tim lainnya.
+
+Poin utama dari para penulis adalah bahwa "setiap elemen, dengan sendirinya, tidak menghasilkan kecepatan dan fleksibilitas. Namun secara keseluruhan, karakteristik tersebut dapat menghasilkan serangkaian dinamika baru yang kuat yang akan membuat perbedaan." Meskipun konsep-konsep ini pertama kali diperkenalkan pada tahun 1986, mereka masih tetap berlaku untuk Tim Scrum saat ini. 
+

@@ -1,0 +1,10 @@
+Menggunakan Gitbash:
+
+1. Masuk ke folder yang memiliki git project sebelumnya
+2. lalu klik kanan menu show more option kemudian arahkan ke 	menu git base here
+3. klik menu tersebut untuk masuk ke command linenya
+4. setelah itu pastikan berada pada user folder di gitbase
+5. ketik langkah-langkah berikut setelah lambang $
+6. git add .
+7. git commit -m "komentar bebas" 
+8. git push -u origin

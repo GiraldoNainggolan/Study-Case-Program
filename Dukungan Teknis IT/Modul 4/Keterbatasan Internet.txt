@@ -1,0 +1,34 @@
+Kita sering sekali
+menyebut alamat IP di kursus ini, tetapi belum membahasnya
+secara mendetail. Sebenarnya ada
+beberapa versi alamat IP. Protokol saat ini,
+Internet Protocol version 4 atau IPv4, adalah alamat yang terdiri dari 32 bit
+yang dipisahkan ke dalam empat grup. Contoh alamat IPv4
+adalah 73.55.242.3. Meskipun tampaknya ada banyak kemungkinan alamat IPv4, ada kurang dari 4,3 mililar alamat IPv4. Ada lebih dari 4,3 miliar situs di web saat ini. Beberapa alamat IPv4 sudah dipesan untuk tujuan khusus. Jumlah alamat IP
+yang bisa digunakan lebih kecil. Perangkat yang ingin terhubung
+ke internet harus memiilki alamat IP. Namun, perangkat di seluruh dunia sudah melebihi jumlah tersebut. Jadi, dari mana kita bisa
+memperoleh alamat IP? Alamat IP bisa setara dengan jumlah perangkat
+di seluruh dunia berkat alamat IPv6 atau
+Internet Protocol version 6, Alamat IPv6 terdiri dari 128 bit, empat kali lipat
+dari yang digunakan IPv4, yang artinya ada lebih banyak perangkat
+yang bisa memiliki alamat IP. Laju penggunaan alamat IPv6
+lambat tetapi stabil. Nyatanya, Anda akan melihat
+ada lebih banyak alamat IPv6 yang digunakan. Contoh alamat IPv4 adalah 172.14.24.1. Tetapi alamat IPv6 bisa jadi seperti ini. Cukup banyak perbedaannya, bukan? Ini analogi betapa jauhnya perbedaan antara IPv4 dan IPv6. Dengan IPv6, ada dua pangkat 128
+jumlah kemungkinan alamat IP. Dua pangkat 128
+adalah angka yang sangat besar, terlalu besar hingga ilmuan kesulitan menjelaskannya dalam kata-kata. Begini analoginya.
+Pikirkan butiran pasir. Jika Anda mengambil segenggam penuh, tahukah Anda
+ada berapa banyak butiran pasirnya? Mungkin banyak sekali, tetapi itu belum menyamai jumlah
+yang sedang kita bahas. Sekarang, ambil semua pasir
+di seluruh dunia. Anggaplah ada sekitar 7,5x10^18 butir pasir di seluruh dunia, yang masih belum mendekati
+jumlah alamat IPv6. Lalu, ambil semua pasir
+dari beberapa Bumi. Itu baru angka yang mendekati. Angka yang teramat sangat besar. Kita tidak akan kehabisan alamat IPv6 dalam waktu dekat Alat mitigasi lain
+yang telah kita gunakan adalah NAT
+atau Penafsiran Alamat Jaringan. NAT memungkinkan organisasi menggunakan satu alamat IP publik dan banyak alamat IP pribadi
+dalam jaringan. Anggap NAT sebagai
+resepsionis dalam perusahaan. Anda tahu nomor telepon perusahaan. Saat panggilan Anda diterima resepsionis, dia akan mengalihkan panggilan Anda
+ke salah satu nomor pribadi di dalam perusahaan. Daripada menggunakan ratusan alamat IP publik, perusahaan bisa menggunakan
+satu alamat IP. Ingat router
+yang kita bahas sebelumnya? Salah satu tugas
+yang perlu Anda lakukan sebagai staf dukungan IT
+adalah mengonfigurasi NAT di router untuk memfasilitasi komunikasi antara jaringan perusahaan Anda
+dan dunia luar.

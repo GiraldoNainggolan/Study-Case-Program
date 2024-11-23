@@ -1,0 +1,69 @@
+Lean
+MetodologiLean sering disebut juga sebagai Lean Manufacturing karena berasal dari dunia manufaktur. Prinsip utama dalam metodologi Lean adalah menghilangkan pemborosan dalam suatu operasi. Dengan mengoptimalkan langkah-langkah proses dan menghilangkan pemborosan, hanya nilai yang ditambahkan pada setiap fase produksi.
+
+Saat ini, metodologi Lean Manufacturing mengenali delapan jenis pemborosan dalam sebuah operasi: cacat, pemrosesan berlebih, produksi berlebih, menunggu, inventaris, transportasi, gerakan, dan talenta yang tidak dimanfaatkan. Dalam industri manufaktur, jenis-jenis pemborosan ini sering dikaitkan dengan masalah-masalah seperti:
+
+Kurangnya dokumentasi yang tepat
+
+Kurangnya standar proses
+
+Tidak memahami kebutuhan pelanggan
+
+Kurangnya komunikasi yang efektif
+
+Kurangnya kontrol proses
+
+Desain proses yang tidak efisien
+
+Kegagalan manajemen
+
+Masalah-masalah yang sama ini menciptakan pemborosan dalam manajemen proyek.
+
+Terapkan manajemen proyek Lean ketika Anda ingin menggunakan sumber daya yang terbatas, mengurangi pemborosan, dan merampingkan proses untuk mendapatkan manfaat maksimal.
+
+Anda dapat mencapai hal ini dengan menggunakan pilar-pilar alat kualitas Lean 5S. Istilah 5S mengacu pada lima pilar yang diperlukan untuk tata graha yang baik: memilah, menata, merapikan, merapikan, menstandarisasi, dan mempertahankan. Menerapkan metode 5S berarti membersihkan dan mengatur tempat kerja untuk mencapai jumlah waktu dan material yang terbuang sekecil mungkin. Metode 5S mencakup lima langkah berikut:
+
+Pemilahan: Singkirkan semua barang yang tidak diperlukan untuk operasi produksi saat ini dan sisakan hanya barang-barang yang penting saja.
+
+Atur secara berurutan: Susunlah barang-barang yang dibutuhkan agar mudah digunakan. Beri label pada barang sehingga siapa pun dapat menemukannya atau menyimpannya.
+
+Bersihkan: Simpan segala sesuatu di tempat yang benar. Bersihkan ruang kerja Anda setiap hari.
+
+Standarisasi: Lakukan proses dengan cara yang sama setiap saat.
+
+Pertahankan: Biasakan mempertahankan prosedur yang benar dan tanamkan disiplin ini dalam tim Anda.
+
+Dalam metodologi Lean, 5S membantu Anda meningkatkan kinerja. 
+
+Konsep terakhir dari Lean menggunakan sistem penjadwalan Kanban untuk mengelola produksi. Sistem penjadwalan Kanban, atau papan Kanban, adalah alat visualisasi yang memungkinkan Anda untuk mengoptimalkan alur kerja tim Anda. Alat ini memberikan tampilan visual kepada tim untuk mengidentifikasi apa yang perlu dilakukan dan kapan. Papan Kanban menggunakan kartu yang digerakkan dari kiri ke kanan untuk menunjukkan kemajuan dan membantu tim Anda mengoordinasikan pekerjaan.
+
+Papan Kanban, menunjukkan kolom (untuk dikerjakan, sedang berlangsung, pengujian, dan selesai) dengan catatan tempel yang mewakili tugas-tugas proyek.
+Papan Kanban dan 5S adalah metode inti dari metodologi Lean. Keduanya dapat membantu Anda mengelola proyek dengan sukses. Sekarang mari kita menganalisa metode Six Sigma dan mempelajari kapan waktu terbaik untuk menggunakannya.
+
+Six Sigma
+Six Sigma adalah metodologi yang digunakan untuk mengurangi variasi dengan memastikan bahwa proses kualitas diikuti setiap saat. Istilah "Six Sigma" berasal dari statistik dan secara umum berarti bahwa item atau proses harus memiliki kualitas 99,9996%.
+
+Tujuh prinsip utama Six Sigma adalah:
+
+Selalu fokus pada pelanggan.
+
+Mengidentifikasi dan memahami bagaimana pekerjaan diselesaikan. Pahami bagaimana pekerjaan benar-benar terjadi.
+
+Buatlah proses Anda mengalir dengan lancar.
+
+Kurangi pemborosan dan berkonsentrasilah pada nilai.
+
+Hentikan cacat dengan menghilangkan variasi.
+
+Libatkan dan berkolaborasi dengan tim Anda.
+
+Lakukan pendekatan terhadap aktivitas perbaikan dengan cara yang sistematis.
+
+Gunakan metodologi ini untuk menemukan aspek-aspek produk atau proses yang dapat diukur seperti waktu, biaya, atau kuantitas. Kemudian periksa item terukur tersebut dan tolak produk yang tidak memenuhi standar Six Sigma. Setiap proses yang menghasilkan produk yang tidak dapat diterima harus diperbaiki.
+
+Sekarang setelah Anda memahami Lean dan Six Sigma, mari kita lihat bagaimana keduanya bekerja sama untuk meningkatkan kinerja proyek Anda!
+
+Lean Six Sigma
+Setelah Lean dan Six Sigma dipraktikkan, diketahui bahwa kedua metodologi tersebut dapat digabungkan untuk meningkatkan manfaat. Alat-alat yang digunakan dalam Lean, seperti papan Kanban dan 5S, membangun kualitas dalam proses sejak awal. Produk yang dikembangkan dengan menggunakan metode Lean kemudian diperiksa atau diuji menggunakan standar Six Sigma. Produk yang tidak memenuhi standar ini akan ditolak.
+
+Perbedaan terbesar antara kedua metodologi ini adalah bahwa Lean merampingkan proses, sementara Six Sigma mengurangi variasi dalam produk dengan membangun kualitas sejak awal dan memeriksa produk untuk memastikan standar kualitas terpenuhi. Anda mungkin menemukan bahwa salah satu dari kedua metode ini-atau menggunakan keduanya secara bersamaan-dapat meningkatkan efisiensi proyek Anda.

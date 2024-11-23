@@ -1,0 +1,51 @@
+Dalam video sebelumnya, kita telah membahas empat kompetensi utama dari seorang manajer proyek: memungkinkan pengambilan keputusan, berkomunikasi dan melakukan eskalasi, keterampilan organisasi yang kuat, dan fleksibilitas. Dengan waktu dan latihan, Anda akan menguasai keterampilan-keterampilan ini untuk membantu Anda menjadi sukses dalam peran manajemen proyek. Dalam bacaan ini, kita akan menggali lebih dalam mengapa fleksibilitas sangat penting untuk manajemen proyek yang efektif dan bagaimana Anda dapat membantu tim Anda menghadapi ambiguitas.
+
+Pertama, mari kita tinjau kompetensi manajemen proyek lainnya yang telah Anda pelajari sejauh ini.
+
+Memungkinkan pengambilan keputusan
+Anda dapat membantu anggota tim merasa diberdayakan sejak awal proyek Anda dengan membuat proses pengambilan keputusan menjadi kolaboratif. Misalnya, nyatakan tujuan dari hasil tertentu dan mintalah masukan dari tim Anda tentang cara mencapai tujuan tersebut. Anda mungkin memiliki gagasan tentang bagaimana Anda ingin tugas-tugas tertentu diselesaikan, tetapi anggota tim Anda mungkin memiliki pendekatan yang lebih kreatif atau efisien. Memberdayakan tim Anda untuk mengekspresikan pendapat mereka dan membuat keputusan mereka sendiri memungkinkan Anda untuk fokus pada tugas-tugas manajemen secara menyeluruh dan memprioritaskannya sesuai urutan kepentingannya. Selain itu, ketika Anda mengizinkan anggota tim untuk bersuara dalam pengambilan keputusan, hal ini akan membantu menumbuhkan lingkungan yang bertanggung jawab, akuntabilitas, dan kedekatan tim.
+
+Mengkomunikasikan dan meningkatkan
+Manajemen proyek membutuhkan komunikasi yang jelas tentang tujuan dan ekspektasi proyek, peran dan tanggung jawab anggota tim, serta umpan balik yang konstruktif. Mengetahui cara berkomunikasi secara efektif dan kapan harus mengeskalasi masalah ke manajemen adalah kunci untuk menjaga Anda, tim Anda, dan organisasi Anda tetap berada di jalur kesuksesan. Ketika eskalasi diperlukan, cobalah untuk mendekati manajemen dengan masalah dan potensi solusi atau saran. Hal ini akan menunjukkan bahwa Anda mengambil inisiatif sebagai manajer proyek.
+
+Keterampilan organisasi yang kuat
+Jika Anda menunjukkan bahwa penting bagi Anda, sebagai seorang pemimpin, untuk tetap terorganisir melalui pelacakan dan komunikasi yang efisien, tim Anda akan mengikutinya. Salah satu cara untuk melakukannya adalah dengan memanfaatkan berbagai alat bantu organisasi yang tersedia, seperti:
+
+Perangkat lunak perencanaan dan penjadwalan (templat, alur kerja, kalender)
+
+Alat kolaborasi (email, perangkat lunak kolaborasi, dasbor)
+
+Dokumentasi (file, rencana, spreadsheet)
+
+Alat bantu jaminan kualitas (evaluasi, pelacak produktivitas, laporan)
+
+Anda mungkin perlu bereksperimen dengan pendekatan organisasi yang berbeda untuk menentukan mana yang terbaik bagi Anda dan tim Anda.
+
+Gambar seorang manajer proyek dengan agenda dan jam yang menjaga tim tetap tepat waktu dan terorganisir selama rapat
+Fleksibilitas
+Semua manajer proyek membutuhkan kemampuan untuk beradaptasi dan mengatasi perubahan dan tantangan. Mari kita telusuri lebih lanjut mengapa fleksibilitas merupakan keterampilan manajemen proyek yang sangat penting dan diskusikan bagaimana fleksibilitas dapat membantu mempersiapkan tim Anda untuk menghadapi perubahan, mengurangi risiko, dan menangani ambiguitas.
+
+Perencanaan yang fleksibel
+Perubahan tidak dapat dihindari, dan semakin fleksibel Anda sebagai manajer proyek, semakin sukses Anda di sepanjang karier Anda. Strategi perencanaan yang fleksibel ini dapat membantu Anda mengelola proyek selama masa-masa yang tidak terduga:
+
+Menilai kendala eksternal. Saat merencanakan proyek Anda, pertimbangkan acara eksternal, seperti hari libur nasional dan liburan anggota tim serta cuti sakit. Menyisakan waktu ekstra dalam jadwal untuk acara-acara yang tak terhindarkan ini di awal dapat membantu meminimalkan dampak pada proyek Anda.
+
+Rencanakan risiko dan tantangan. Jika Anda mempertimbangkan risiko yang mungkin terjadi, Anda mungkin dapat menemukan solusi untuk itu sebelumnya. Misalnya, bagaimana jika seseorang dalam tim Anda jatuh sakit atau memutuskan untuk berhenti? Apakah Anda dapat menggantikannya di dalam perusahaan? Jika tidak, bisakah Anda menyewa kontraktor independen? Buatlah daftar orang-orang yang mungkin dapat bergabung dengan tim Anda jika salah satu anggota tim Anda berhalangan. Anda juga bisa menilai risiko dengan melihat data historis. Tinjau proyek-proyek Anda sebelumnya dan periksa tantangan yang Anda hadapi. Kemudian evaluasi apakah tantangan serupa dapat terjadi pada proyek ini dan persiapkan diri Anda. Kami akan membahas manajemen risiko secara panjang lebar nanti dalam program ini.
+
+Hitung "float" dalam jadwal Anda. Float, atau slack, mengacu pada jumlah waktu yang dapat Anda tunggu untuk memulai suatu tugas sebelum berdampak pada jadwal proyek dan mengancam hasil proyek. Mengidentifikasi float dalam jadwal Anda dapat membantu manajemen sumber daya, penjadwalan, dan menjaga proyek Anda tetap pada jalurnya. Anda akan mempelajari lebih lanjut tentang menghitung float dalam kursus selanjutnya, ketika kita membahas pembuatan jalur kritis untuk tugas-tugas proyek Anda.
+
+Menangani ambiguitas
+Ambiguitas dapat menjadi tantangan besar dalam mengelola proyek. Manajer proyek sering menghadapi ambiguitas dalam tujuan, persyaratan, jadwal, visi, atau area lain yang terkait dengan proyek. Tim Anda akan mencari Anda untuk memimpin selama masa-masa ambiguitas dan perubahan, dan fleksibilitas sangat penting selama masa-masa ini. Berikut ini beberapa cara untuk membantu tim Anda menghadapi ambiguitas:
+
+Tetap tenang. Di masa-masa yang tidak menentu, menangani ambiguitas dengan anggun dan tenang akan membantu menginspirasi anggota tim Anda untuk melakukan hal yang sama.
+
+Ekspresikan empati. Sebagai manajer proyek, penting untuk mencoba memahami apa yang dipikirkan dan dirasakan oleh tim Anda, terutama pada masa-masa ambiguitas. Biarkan anggota tim Anda tahu bahwa Anda peduli dengan tantangan yang mereka hadapi dan siap mendukung mereka.
+
+Komunikasikan apa yang Anda ketahui dengan jelas. Tentukan aspek-aspek proyek yang sudah pasti dan tidak akan berubah. Hal ini membantu tim Anda mendapatkan pemahaman yang lebih baik tentang apa yang diharapkan, terlepas dari aspek-aspek proyek yang masih belum diketahui atau berubah.
+
+Buatlah keputusan dan patuhi keputusan tersebut. Cobalah untuk tidak menebak-nebak keputusan Anda di depan tim Anda karena hal ini dapat menyebabkan ketidakpastian yang lebih besar. Jika Anda perlu mengubah arah, jelaskan dengan jelas mengapa Anda memilih untuk melakukannya kepada tim Anda.
+
+Percayai keahlian tim Anda. Tingkatkan kejelasan dengan meminta semua orang di tim Anda mendiskusikan apa yang sudah mereka ketahui atau yakini sebagai hal yang benar tentang komponen-komponen proyek Anda, seperti apa saja yang terlibat dalam tugas-tugas tertentu atau sumber daya yang dibutuhkan, berdasarkan bidang keahlian mereka. Kemudian, diskusikan apa yang masih belum Anda ketahui dan curah pendapat tentang cara-cara untuk mengumpulkan lebih banyak informasi.
+
+Hal-hal penting yang dapat diambil
+Sebagai manajer proyek, memiliki fleksibilitas dan kemampuan untuk menangani ambiguitas dalam lingkungan bisnis yang berubah dengan cepat akan memberikan keuntungan bagi Anda. Menguasai kompetensi ini, bersama dengan pengambilan keputusan yang baik, kemampuan komunikasi yang efektif, dan keterampilan organisasi yang kuat, akan memungkinkan Anda untuk berinovasi dan berkembang sebagai manajer proyek dan pemimpin.

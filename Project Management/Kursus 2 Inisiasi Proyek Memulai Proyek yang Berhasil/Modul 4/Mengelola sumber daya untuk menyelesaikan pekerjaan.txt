@@ -1,0 +1,26 @@
+Sambil terus mempelajari alat dan teknik yang akan membantu Anda sukses dalam manajemen proyek, mari kita pertimbangkan pentingnya sumber daya proyek. Sumber daya proyek adalah siapa dan apa yang Anda andalkan untuk menyelesaikan proyek, termasuk anggaran, bahan, dan orang. Meskipun setiap sumber daya adalah entitas yang terpisah, semuanya bergantung satu sama lain-tim Anda tidak dapat melakukan pekerjaan tanpa bahan, dan Anda tidak dapat membeli bahan tanpa anggaran. Dalam bacaan ini, kita akan membahas beberapa sumber daya proyek utama dan tips untuk mengelolanya.
+
+Anggaran
+Pernahkah Anda membuat anggaran untuk diri sendiri atau keluarga Anda? Jika pernah, Anda pasti tahu bahwa anggaran mencakup berbagai macam pengeluaran. Sebagai contoh, anggaran pribadi bulanan dapat berisi item-item yang mencakup apa saja, mulai dari makanan, biaya transportasi, hingga biaya sewa rumah. Dengan hanya sejumlah dana tertentu untuk menutupi setiap pengeluaran, penting untuk memantau pengeluaran Anda dengan cermat agar tidak melebihi anggaran. Jika Anda melampaui satu kategori anggaran, Anda akan berdampak pada kategori lainnya dan perlu melakukan penyesuaian. Sebagai manajer proyek, Anda akan mengambil pendekatan umum yang sama dengan anggaran proyek Anda.
+
+Aspek umum dari anggaran proyek Anda akan mencakup:
+
+Tim: biaya orang-orang yang melakukan pekerjaan
+
+Layanan: semua vendor luar yang membantu proyek Anda
+
+Bahan: semua barang berwujud yang dibeli untuk menyelesaikan proyek
+
+Sepanjang karier manajemen proyek Anda, Anda akan menemukan berbagai jenis proyek dengan berbagai macam anggaran. Beberapa anggaran tidak memiliki margin kesalahan, sedangkan anggaran lainnya mungkin lebih fleksibel. Terlepas dari variabilitas ini, masalah anggaran pasti akan muncul, jadi penting untuk memastikan bahwa anggaran selaras dengan ruang lingkup proyek dan permintaan pemangku kepentingan.
+
+Orang
+Orang-orang adalah sumber daya penting dalam proyek Anda; Anda tidak dapat menyelesaikan proyek Anda sendiri! Anda harus mengandalkan tim yang kuat dengan berbagai keahlian dan spesialisasi untuk menyelesaikan pekerjaan. Sebagai manajer proyek, pastikan bahwa Anda memiliki komitmen dan dukungan pada jumlah jam yang diperlukan sumber daya Anda untuk menyelesaikan tugas mereka. Selain itu, Anda akan menemukan mitra terbaik dalam sebuah proyek adalah orang-orang yang selaras dengan tujuan proyek atau yang paling tertarik dengan pekerjaan proyek.
+
+Bahan
+Bahan-bahan bisa berbeda pada setiap proyek. Misalnya, jika Anda mengerjakan proyek TI, materi dapat mencakup hard drive dan komputer untuk menangani upaya pengkodean. Anda juga bisa memiliki materi yang tidak berwujud. Misalnya, pada proyek TI yang sama, penyimpanan online, program perangkat lunak, atau pelatihan karyawan juga dapat dianggap sebagai materi. Penting untuk memperhitungkan setiap dan semua materi potensial untuk menjalankan proyek yang sukses dengan orang yang tepat dan sesuai anggaran.
+
+Hal-hal penting yang perlu diperhatikan
+Sumber daya proyek Anda mencakup hal-hal seperti anggaran, orang, dan material. Sebagai manajer proyek, mengingat bahwa sumber daya Anda saling bergantung satu sama lain adalah kunci untuk memahami fungsi setiap sumber daya dan menentukan cara mengelola semuanya. Luangkan waktu untuk mewawancarai para pemangku kepentingan dan anggota tim potensial tentang sumber daya apa saja yang mereka pikir akan mereka perlukan untuk menyelesaikan proyek. Mereka mungkin memiliki gagasan tentang materi yang mereka butuhkan yang mungkin tidak Anda perhitungkan dalam anggaran, misalnya, atau dapat mengidentifikasi orang-orang dengan keahlian yang akan membuat mereka menjadi aset bagi tim proyek.
+
+Selanjutnya, kita akan membahas project charter, yang merupakan alat penting yang digunakan manajer proyek untuk mendapatkan kejelasan tentang sumber daya yang mereka perlukan untuk sebuah proyek.
+

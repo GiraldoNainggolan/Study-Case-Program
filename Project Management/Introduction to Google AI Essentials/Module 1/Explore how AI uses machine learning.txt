@@ -1,0 +1,37 @@
+- All the buzz surrounding AI can make it seem like the
+hottest new tech trend. But the truth is, AI has
+been around for a while. For example, have you ever wondered how streaming platforms
+recommend videos you might like? This feature is brought to you by AI. For years, streaming
+platforms have used AI tools to offer services like
+recommendation systems that enhance the user experience. An AI tool refers to AI-powered software that can automate or assist
+users with a variety of tasks. Examples of AI tools are everywhere, from GPS systems that suggest quick routes to translation systems that interpret conversations in real time. Companies of all shapes
+and sizes use AI tools to streamline operations and improve the quality of
+their products and services. While these AI tools can
+seem naturally smart, it's important to recognize
+that they're not self-taught. Instead, they're powered by what's known as machine learning. Machine learning, or ML, is a subset of AI focused on developing computer programs that can analyze data to make
+decisions or predictions. ML is a specialized layer under the broader
+category of AI technology. It's often used by AI tools to make sense of data
+quickly and efficiently. AI designers build ML
+programs using a training set, which is a collection of
+data used to teach AI. Basically, training sets provide
+ML programs with examples of what to expect and how
+to respond appropriately. For example, consider a food distributor that uses an AI tool to sort and pack ripe
+apples in their factory. For this tool to work, an
+AI designer must first train an ML program to identify ripe apples. They would do this by
+providing their ML program with a training set that
+includes thousands of images of ripe and unripe apples. As the ML program processes these images, it eventually learns to
+identify the features of ripe apples. Having learned to do this with ML, the AI tool can then identify ripe apples that weren't in its training set and help factory employees
+work more efficiently. As I mentioned earlier,
+many AI tools use ML to learn and improve their performance. However, for ML programs
+to perform effectively, the quality and relevance of
+their training data matter. A fundamental issue to be aware of is the potential for bias
+within training data. This could unintentionally
+cause an AI tool to produce inaccurate
+or unintended outputs. For example, the AI tool that
+was used to sort ripe apples might have learned from training data that only contain images of
+specific types of red apples. This would unintentionally
+make the AI less accurate at identifying ripe apples of varying sizes, shapes, or colors. The food producer might end
+up sorting apples incorrectly, causing them to lose money and
+waste perfectly good apples. When used appropriately, ML plays a key role in
+advancing AI into the future. It's truly an incredible
+and sophisticated technique with endless applications.

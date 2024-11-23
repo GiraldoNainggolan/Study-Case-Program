@@ -1,0 +1,46 @@
+Rencana proyek sangat penting karena digunakan untuk mengetahui ruang lingkup dan waktu yang dibutuhkan untuk menyelesaikan proyek. Rencana proyek pada dasarnya adalah cetak biru proyek - ini menjabarkan semua aktivitas dan pencapaian yang perlu dicapai oleh tim Anda untuk menyelesaikan proyek dengan sukses. Rencana proyek hadir dalam berbagai bentuk, ukuran, dan wujud. Bergantung pada proyek yang Anda kelola, template yang Anda gunakan dapat bervariasi, dan beberapa perusahaan bahkan memiliki template standar yang harus digunakan oleh manajer proyek mereka.
+
+Dalam video sebelumnya, Anda telah mempelajari berbagai alat dan teknik untuk membuat rencana proyek. Namun, bagaimana Anda mengetahui alat dan teknik mana yang harus digunakan dan kapan? Sebagai aturan umum, yang terbaik adalah menggunakan spreadsheet untuk proyek sederhana dan perangkat lunak manajemen proyek untuk proyek yang lebih kompleks. Terlepas dari alat bantu apa yang Anda gunakan, pastikan untuk menyertakan informasi kunci ini:
+
+Nomor ID tugas atau nama tugas: Anda mungkin akan memiliki puluhan, ratusan, atau bahkan ribuan tugas dalam sebuah proyek. Menetapkan ID atau nama tugas akan memudahkan untuk menemukan dan merujuk tugas ketika berkomunikasi dengan anggota tim dan pemangku kepentingan.
+
+Durasi tugas: Durasi tugas adalah jumlah waktu yang Anda perkirakan untuk menyelesaikan tugas tersebut. Menambahkan durasi tugas ke rencana proyek membantu Anda mengatur dan memprioritaskan tugas-tugas dalam proyek untuk membantu memastikan Anda mencapai tujuan tepat waktu.
+
+Tanggal mulai dan selesai: Memasukkan tanggal mulai dan selesai untuk setiap tugas membantu Anda melacak apakah Anda mengalami kemajuan tepat waktu atau tidak.
+
+Siapa yang bertanggung jawab atas apa: Menyertakan peran dan tanggung jawab setiap anggota tim membantu meningkatkan kejelasan dan efisiensi. Sebagai praktik terbaik, tetapkan juga pemilik untuk setiap tugas.
+
+Menggunakan spreadsheet untuk membuat rencana proyek
+Spreadsheet adalah alat yang sangat baik untuk digunakan dalam rencana proyek, terutama untuk proyek yang tidak terlalu kompleks dan memiliki pembagian tugas yang jelas. Spreadsheet dapat membutuhkan banyak input informasi secara manual, namun sebagai manajer proyek, Anda mungkin akan menyukai kontrol yang disediakan spreadsheet. Spreadsheet juga dapat disesuaikan, sehingga Anda dapat menyesuaikannya dengan kebutuhan proyek Anda.
+
+Grafik di bawah ini menunjukkan seperti apa rencana proyek untuk peluncuran situs web dalam spreadsheet sederhana.
+
+
+Grafik spreadsheet dari templat rencana proyek dalam bentuk bagan GANTT dengan tugas, pemilik tanggal, dan fase
+Kiatpro: Penting untuk memasukkan nomor Struktur Perincian Kerja (WBS ) ke dalam rencana proyek Anda. Dalam contoh ini, nomor ID secara langsung berhubungan dengan nomor WBS, yang merupakan cara yang berguna untuk menjaga konsistensi.
+
+Templat spreadsheet
+Akan sangat membantu jika Anda mencoba tutorial online agar Anda dapat terbiasa dengan berbagai fungsi dan antarmuka pengguna dari setiap alat. Kami telah menyertakan tautan ke beberapa templat rencana proyek di bawah ini:
+
+Smartsheet: Templat Rencana Proyek untuk Microsoft Word (https://www.smartsheet.com/top-excel-project-plan-templates-b)
+
+Smartsheet: Templat Rencana Proyek untuk Google Spreadsheet (https://www.smartsheet.com/free-google-docs-templates-google-timeline-templates)
+
+Templat Garis Waktu Rencana Proyek Google (https://docs.google.com/spreadsheets/d/1TauRTFipsWDWGqaw6tmqJeknKhVI5IjR5jJvBfVzfGw/template/preview)
+
+Templat Bagan Gantt Microsoft (https://create.microsoft.com/en-us/template/simple-gantt-chart-4bf6b793-490f-4623-84ca-c9c6251a91fc)
+
+Alat bantu manajemen kerja
+Ada banyak pilihan alat bantu manajemen kerja yang tersedia untuk Anda gunakan ketika merencanakan proyek. Kami telah membahas beberapa di antaranya dalam video sebelumnya, tetapi sebagai penyegaran, penting untuk diingat bahwa setiap perusahaan, manajer proyek, dan pelanggan memiliki preferensi alat bantu manajemen kerja. Anda mungkin menemukan alat bantu seperti 
+Smartsheet
+, 
+Asana
+, 
+Jira
+, 
+Trello
+dan masih banyak lagi. Alat-alat ini memungkinkan kolaborasi dan komunikasi pada tingkat tugas.
+
+Hal-hal penting yang dapat diambil
+Alat yang Anda gunakan untuk membuat rencana proyek harus membantu Anda mengumpulkan dan melacak detail proyek, mengelola jadwal, dan memvisualisasikan kemajuan proyek Anda. Rencana proyek yang jelas, menyeluruh, dan terorganisir dapat membantu menciptakan resep kesuksesan manajemen proyek.
+

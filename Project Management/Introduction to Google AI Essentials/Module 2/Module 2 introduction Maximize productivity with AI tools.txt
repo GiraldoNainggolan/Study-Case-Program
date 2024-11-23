@@ -1,0 +1,21 @@
+- We'll explore how to
+effectively engage with AI tools to tackle a variety of tasks and boost your productivity. AI tools are revolutionizing
+the way we approach work. These tools can offer creative solutions that help organizations and individuals tackle challenges both big and small. Whether you're in design, finance, or any other field, generative AI can help you streamline processes and maximize productivity. Do you create content? Generative AI can help you write drafts and create images in minutes. Is data analysis more your thing? Generative AI can assist
+you with forecasting trends and communicating
+insights to stakeholders. Maybe you need help
+brainstorming innovative ideas. Generative AI can help with that too. Hi, my name is Tris, and I'm a director of Product Management here at Google DeepMind. Together, my team and I build AI products that simplify complex tasks, making your daily work life smoother and hopefully more efficient. I've been at Google for almost 10 years, and I've seen so many
+amazing projects in AI. I started my career in
+AI about 20 years ago in Cambridge, Massachusetts, at a small startup
+building, of all things, a natural language search engine. In my job, I use AI to
+collaborate with colleagues, research fresh product concepts, and find creative approaches
+to problem solving. For example, I often use
+AI to brainstorm ideas for how I can make my team
+meetings more fun and productive. Essentially, I use AI
+a lot to help me boost my productivity and
+better achieve my goals. I'm thrilled to be your guide on this tour into the dynamic world of generative AI. In this part of the course, we'll explore practical
+applications of generative AI that can transform the way you work. And along the way,
+you'll learn how to boost your productivity with AI tools. You'll also learn about
+using AI responsibly by applying a human-in-the-loop
+approach to AI. So, are you ready to explore how generative AI can
+transform your workday? Let's uncover all the amazing
+things you can do with AI.

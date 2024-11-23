@@ -1,0 +1,40 @@
+- Although AI is a useful tool
+to help you accomplish tasks, it requires human involvement. No AI tool has the depth of
+experience, practical knowledge, and interactive skills that we do. Maintaining human oversight
+over AI is critical. An effective strategy for doing so is a human-in-the-loop approach, which uses a combination of
+machine and human intelligence to train, use, verify,
+and refine AI models. Let's try this strategy. Consider this scenario. An insurance company
+uses a custom AI solution to answer customer inquiries. When a customer sends a question to the company using their contact form, AI drafts an email response
+based on specific words and phrases in the message. Then a customer service agent
+reviews the customer inquiry and revises the email responses necessary before approving and
+then sending the message. Later, the development team
+can update the AI model based on the agent's feedback. Now, consider a business owner that's using a standalone AI tool to draft a new brand slogan. They prompt the tool
+with specific keywords and phrases that they'd like
+to feature in the slogan, and the tool generates a list of ideas. As the business owner reviews the output, they find a catchy option
+that really stands out. However, it needs a little refinement to get the phrasing just right. So the business owner prompts the AI tool with a few extra details, and voila, they put together a catchy
+new slogan for their business. Oversight is essential to ensure quality and accuracy when using AI tools. A human-in-the-loop approach
+blends the efficiency of AI tools with human insight that's critical for
+practicing responsible AI. Responsible AI is the
+principle of developing and using AI ethically with
+the intent of benefiting people and society while avoiding harm. It's important for businesses, customers, and employees alike to ensure
+that they use AI responsibly. One aspect of responsible
+AI involves managing the limitations of AI models
+such as knowledge cutoff. Knowledge cutoff is the
+concept that an AI model is trained at a specific point in time so it doesn't have any knowledge of events or information after that date. For example, imagine
+you're a financial analyst and you need to prompt an AI tool to analyze yesterday's
+stock market fluctuations. If the tool's last
+training date was in 2022, it wouldn't be able to provide you with the information you asked for because it doesn't know about events or information beyond
+its last training date. In situations like these,
+well-designed AI tools should recognize their limitations
+and respond accordingly. However, there are situations
+when a tool might try to generate a response
+despite its knowledge cutoff, leading to a hallucination. Hallucinations are AI
+outputs that are not true. Hallucinations can be problematic because they can lead to
+misinformation, misinterpretation, or inappropriate responses that might damage a company's reputation or result in customer dissatisfaction. For example, picture
+working at a retail company using an AI tool to forecast how much product inventory to order. If the AI tool produces inaccurate, outdated, or misinterpreted information, those hallucinations
+could lead the company to order the wrong amount of inventory causing supply issues for customers. While hallucinations can pose challenges, they can also be beneficial
+to your creative process. Suppose you use an AI image generator to help you design concept art for a fantasy-themed video game. You prompt the AI tool to create an image of a beautiful castle floating in the sky, and it outputs a unique, fun image, which also happens to be a hallucination. In this example, you produced
+a hallucination intentionally. However, hallucinations can be misleading when used in the wrong context. When using AI tools, it's important to apply a
+human-in-the-loop approach. By reviewing and evaluating
+AI-generated content, you can help mitigate the potential effects of hallucinations. This approach helps ensure that AI-generated outputs
+are not only innovative, but also accurate, relevant, and ethical, enhancing outcomes for businesses, customers, and society as a whole.

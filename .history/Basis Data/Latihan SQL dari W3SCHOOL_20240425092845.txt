@@ -1,0 +1,76 @@
+* MySQL SQL
+Pengertian: SQL adalah bahasa standar untuk menangani Database Relasional.
+SQL digunakan untuk menyisipkan, mencari, memperbarui, dan menghapus catatan database.
+
+Pernyataan SQL berikut memilih semua catatan dalam tabel "Pelanggan":
+SELECT * FROM Customers;
+
+* MySQL SELECT
+Pernyataan ini SELECTdigunakan untuk memilih data dari database.
+
+Data yang dikembalikan disimpan dalam tabel hasil, yang disebut kumpulan hasil.
+
+PILIH SINTAX:
+SELECT column1, column2, ...
+FROM table_name;
+
+Di sini, kolom1, kolom2, ... adalah nama bidang tabel yang datanya ingin Anda pilih.
+Jika Anda ingin memilih semua bidang yang tersedia dalam tabel, gunakan sintaks berikut:
+
+SELECT * FROM table_name;
+
+Contoh Kolom PILIH (SELECT)
+Pernyataan SQL berikut memilih kolom "Nama Pelanggan", "Kota", dan "Negara" dari tabel "Pelanggan":
+
+SELECT CustomerName, City, Country FROM Customers;
+
+PILIH * Contoh
+Pernyataan SQL berikut memilih SEMUA kolom dari tabel "Pelanggan":
+
+
+Pernyataan MySQL SELECT DISTINCT
+Pernyataan ini SELECT DISTINCTdigunakan untuk mengembalikan hanya nilai yang berbeda (berbeda).
+
+Di dalam tabel, kolom sering kali berisi banyak nilai duplikat; dan terkadang Anda hanya ingin membuat daftar nilai yang berbeda (berbeda).
+
+PILIH Sintaks yang BERBEDA
+
+SELECT DISTINCT column1, column2, ...
+FROM table_name;
+
+
+
+
+SELECT * FROM Customers;
+
+
+* MySQL WHERE
+* MySQL AND, OR, NOT
+* MySQL ORDER BY
+* MySQL INSERT INTO
+* MySQL NULL Values
+* MySQL UPDATE
+* MySQL DELETE
+* MySQL LIMIT
+* MySQL COUNT, AVG, semua
+* MySQL LIKE
+* MySQL WildcardS
+* MySQL IN
+* MySQL BETWEEN
+* MySQL Aliases
+* MySQL Joins
+* MySQL INNER JOIN
+* MySQL LEFT JOIN
+* MySQL RIGHT JOIN
+* MySQL CROSS JOIN
+* MySQL Self Joins
+* MySQL UNION
+* MySQL GROUP BY
+* MySQL HAVING
+* MySQL EXISTS
+* MySQL ANY, ALL
+* MySQL INSERT SELECT
+* MySQL CASE
+* MySQL Null Functions
+* MySQL Comments
+* MySQL Operators

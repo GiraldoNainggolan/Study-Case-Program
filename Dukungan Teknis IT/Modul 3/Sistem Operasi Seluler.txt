@@ -1,0 +1,14 @@
+Beberapa perangkat seluler merupakan perangkat komputasi serbaguna, seperti tablet atau smartphone. Perangkat seluler lain seperti
+pemantau kebugaran, e-reader, dan smartwatch dirancang untuk melakukan lebih sedikit tugas. Perangkat seluler serbaguna
+umumnya menggunakan sistem operasi seluler yang berasal dari sistem operasi lain. Misalnya, Android berasal dari Linux dan iOS banyak berbagi komponen inti
+dengan MacOS. Jadi, apa perbedaan sistem operasi seluler dengan OS yang menjadi dasarnya? Perangkat seluler memakai
+baterai yang harus diisi ulang atau diganti secara rutin dan
+Anda ingin perangkat bertahan selama mungkin di antara pengisian daya. Jadi, sistem operasi seluler dioptimalkan utk memakai
+daya sedikit mungkin, misalnya dengan menghilangkan fitur OS dan aplikasi yang tak diperlukan
+perangkat seluler. Kita juga gunakan gerakan, sentuhan, dan suara untuk berinteraksi
+dengan perangkat seluler dengan cara yang sangat berbeda dari
+komputer desktop atau server. Hal ini memerlukan penambahan
+driver perangkat dan dukungan ke sistem operasi seluler. Perangkat seluler yang lebih khusus seperti pelacak kebugaran, e-reader, dan perangkat GPS,
+sering kali menggunakan OS kustom yang dioptimalkan sesuai dengan rancangan perangkat tersebut. Perangkat ini bahkan lebih ramping
+untuk dijalankan pada hardware yang sangat minim dengan
+daya baterai yang sangat minim. Mereka mungkin juga dibuat dengan chip dan periferal khusus, yang tidak dapat dijalankan oleh sistem operasi serbaguna.

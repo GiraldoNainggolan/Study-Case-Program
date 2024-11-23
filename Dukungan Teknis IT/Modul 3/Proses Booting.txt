@@ -1,0 +1,35 @@
+Dalam materi kali ini,
+kita akan mempelajari cara sistem operasi
+mulai berjalan. Sebagai staf dukungan IT, Anda mungkin akan menangani banyak komputer
+yang tidak dapat bekerja. Penting untuk mengetahui
+langkah-langkah yang harus dijalankan
+oleh sistem operasi, sehingga Anda dapat membantu
+mendiagnosis masalahnya. Melakukan booting komputer
+atau menjalankan komputer berasal dari frasa yang berarti
+meraih sesuatu tanpa bantuan orang lain. Pada dasarnya, ini berarti memulai
+dari nol dan mengikuti serangkaian langkah untuk mencapai sistem operasional
+yang berjalan sepenuhnya. Saat kita mulai menjalankan komputer, istilah booting akan digunakan. Untuk sebagian besar sistem operasi, proses booting mengikuti
+pola umum, sama seperti kita memiliki
+jenis mobil berbeda yang dihidupkan dengan cara yang sama. Masukkan kunci,
+hidupkan mesin, dll. Berikut urutan langkah-langkah
+proses booting. Pertama, komputer dinyalakan. BIOS/UEFI adalah software tingkat rendah yang menginisialisasi
+hardware komputer untuk memastikan
+semuanya siap dioperasikan. Selanjutnya, BIOS/UEFI
+menjalankan proses yang disebut power-on self-test, atau POST. POST menjalankan serangkaian
+pengujian diagnostik untuk memastikan bahwa komputer
+berfungsi dengan baik. Selanjutnya, bergantung pada konfigurasi BIOS/UEFI,
+perangkat booting akan dipilih. Perangkat yang terpasang ke sistem, seperti hard drive, drive USB, drive CD, dan lain-lain akan dikonfigurasi sesuai
+urutan booting tertentu. Perangkat tersebut akan diperiksa
+sesuai urutan ini dan komputer akan mencari program yang disebut bootloader. Bootloader adalah program kecil yang memuat sistem operasi. Setelah menemukan bootloader di perangkat sesuai urutan
+yang tercantum, komputer akan mulai mengeksekusi
+program ini. Selanjutnya akan dilakukan pemuatan program yang lebih besar
+serta lebih rumit, dan akhirnya sampailah pada pemuatan
+sistem operasi. Setelah bootloader memuat
+sistem operasi, kernel akan dimuat. Kernel mengontrol akses
+ke resource komputer. Kernel juga memuat driver
+dan masih banyak lagi, sehingga hardware dapat berinteraksi
+dengan software. Selanjutnya, proses sistem
+yang penting dan item ruang pengguna diluncurkan. Hal ini mencakup proses seperti
+login pengguna, mempersiapkan lingkungan desktop, dan lainnya, yang pada dasarnya memungkinkan kita
+untuk berinteraksi dengan sistem. Dan selesai.
+Setelah beberapa langkah sederhana ini, Anda bisa mulai bekerja.

@@ -1,0 +1,6 @@
+Refrensi JetrstreamL: https://youtu.be/BKXQRajYj6U?si=YCXyg6wNvO49HT4t
+
+Dokumentasi Jetstream: https://medium.com/@laravelprotips/creating-a-laravel-saas-with-jetstream-a-step-by-step-guide-d21031073e2d
+
+
+Untuk Mengembangkan web sama tim: https://youtu.be/1aj3XlHxTRg?si=WV9Y97lJt2mcXa2v

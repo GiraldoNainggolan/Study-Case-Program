@@ -1,0 +1,79 @@
+Praktik terbaik email eskalasi
+Semua proyek-bahkan yang dikelola oleh manajer proyek yang berpengalaman-terkadang mengalami masalah. Peran Anda sebagai manajer proyek adalah membantu menyelesaikan masalah dan menghilangkan hambatan yang menghalangi tim Anda untuk mencapai tujuan. Meskipun banyak masalah yang mungkin cukup kecil untuk diselesaikan di dalam tim inti Anda, masalah lain-seperti perubahan besar dalam anggaran atau jadwal-mungkin perlu dibawa ke pemangku kepentingan untuk mendapatkan keputusan akhir. Merinci masalah-masalah ini, potensi dampaknya, dan dukungan yang Anda butuhkan dalam email yang jelas dan langsung ke audiens Anda dapat menjadi alat komunikasi yang efektif.
+
+Email eskalasi yang efektif:
+
+Pertahankan nada yang bersahabat
+
+Nyatakan hubungan Anda dengan proyek tersebut
+
+Jelaskan masalahnya
+
+Jelaskan konsekuensinya
+
+Ajukan permintaan
+
+Mari kita bahas lima kunci untuk menulis email eskalasi yang kuat.
+
+Pertahankan nada yang bersahabat
+Ketika menyusun email eskalasi, Anda mungkin merasa tergoda untuk langsung ke intinya, terutama ketika menghadapi masalah yang membuat stres dan sensitif terhadap waktu. Namun, perlu diingat bahwa penting untuk mengatasi masalah dengan baik. Pertimbangkan untuk membuka email Anda dengan menunjukkan niat baik yang sederhana, seperti "Saya harap Anda baik-baik saja." Saat menjelaskan masalah, gunakan nada yang tidak menyalahkan. Yang terpenting, jagalah agar email tetap ramah dan profesional. Bagaimanapun juga, Anda meminta bantuan penerima. Pastikan untuk menutup email Anda dengan mengucapkan terima kasih atas waktu yang diberikan.
+
+Nyatakan hubungan Anda dengan proyek
+Perkenalkan diri Anda di awal email jika Anda kurang mengenal pemangku kepentingan proyek. Pastikan untuk menyebutkan nama, peran, dan hubungan Anda dengan proyek dengan jelas. Hal ini akan membantu pembaca memahami mengapa Anda menghubungi mereka. Jaga agar perkenalan Anda tetap singkat dan langsung pada intinya-satu kalimat saja sudah cukup. Jika Anda mengenal orang yang menerima email eskalasi, Anda dapat dengan mudah menegaskan tanggung jawab Anda dalam proyek tersebut sebelum langsung membahas masalahnya.
+
+Jelaskan masalahnya
+Setelah Anda menyapa penerima email dan memperkenalkan diri secara singkat, jelaskan masalah yang sedang dihadapi. Nyatakan dengan jelas masalah yang perlu Anda selesaikan. Berikan konteks yang cukup bagi pembaca untuk memahami masalah tersebut, namun usahakan agar pesan Anda sesingkat mungkin. Hindari paragraf yang panjang dan padat yang dapat mengaburkan pesan Anda dan membuat pembaca tergoda untuk membaca sekilas.
+
+Jelaskan konsekuensinya
+Setelah menjelaskan masalahnya, uraikan dengan jelas konsekuensinya. Jelaskan secara spesifik bagaimana masalah ini berdampak negatif pada proyek atau bagaimana masalah ini berpotensi berdampak negatif pada proyek di kemudian hari dalam jadwal proyek. Sekali lagi, jaga agar penjelasan Anda tetap ringkas dan nada bicara Anda tetap bersahabat.
+
+Mengusulkan tindakan dan membuat permintaan
+Ini adalah bagian utama dari email eskalasi yang kuat. Pada bagian ini, Anda mengusulkan solusi (atau solusi) dan menyatakan apa yang Anda butuhkan dari penerima. Solusi yang bijaksana disertai dengan permintaan yang jelas akan membuat penerima tahu bagaimana mereka dapat membantu dan menggerakkan Anda menuju resolusi.
+
+Menyatukan semuanya
+Mari kita lihat bagaimana praktik-praktik terbaik ini digabungkan untuk membentuk email eskalasi yang kuat. Dalam skenario yang mendorong email tersebut, Sayid, seorang manajer proyek dari sebuah perusahaan yang menjual keranjang hadiah, mengalami masalah kontrol kualitas dengan salah satu item dalam rangkaian keranjang liburan. Jika masalah ini tidak segera diperbaiki, peluncuran produk harus ditunda dan perusahaan akan merugi. Dalam contoh email beranotasi di bawah ini, Sayid menjelaskan masalah ini kepada pemangku kepentingan internalnya dan meminta pertemuan dengan mereka.
+
+
+Teks alternatif dari email:
+
+Kepada: knelson@graciousgiftbaskets.com, gabrielmendoza@graciousgiftbaskets.com [Pemangku kepentingan Anda]
+
+Perihal: [Tindakan yang diperlukan] Keputusan yang diperlukan untuk membuat kemajuan dalam proyek Holiday Scents
+
+Hai Karen dan Gabriel,
+
+[Tetaplah ramah dan nyatakan hubungan Anda dengan proyek ini]
+Saya harap Anda baik-baik saja. Seperti yang Anda ketahui, saya telah mengelola lini produk Holiday Scents, yang dijadwalkan akan diluncurkan pada bulan Oktober. 
+
+[Jelaskan masalahnya]
+Saya ingin menyampaikan sebuah masalah untuk Anda. Keranjang di lini produk ini akan berisi lilin beraroma, dan kami telah memesan 5.000 lilin kepada Candlemakers, Inc. yang akan dikirim ke gudang pada hari Jumat untuk mempersiapkan pengiriman pelanggan pertama kami. Hingga saat ini, kami telah menerima 3.000 dari 5.000 lilin. Sayangnya, banyak dari lilin yang kami terima sejauh ini tidak memenuhi standar kualitas kami. Kemasannya rusak, atau lilinnya sendiri pecah. 
+
+[Jelaskan konsekuensinya]
+Hal ini membahayakan tingkat kepuasan pelanggan kami. Kegagalan untuk memenuhi persyaratan kualitas lilin pada hari Jumat akan mengakibatkan penundaan peluncuran produk selama tiga minggu. Jika penundaan ini terjadi, kami akan mengeluarkan biaya tambahan sebesar $20.000 karena kami harus memesan pengiriman lilin baru dan meninjau standar kualitas masing-masing lilin untuk memastikan bahwa lilin tersebut memenuhi perjanjian kontrak kami. 
+
+[Mengusulkan tindakan dan membuat permintaan]
+Saya telah mencari dua pemasok cadangan yang memiliki ulasan bintang lima dan rekam jejak pengiriman tepat waktu. Saya mengusulkan agar kita segera bertemu dengan mereka berdua sehingga kita bisa segera bergabung dengan salah satunya. Dengan begitu, kita bisa menghindari penundaan yang besar. Apakah Anda bisa hadir untuk rapat besok untuk mendiskusikan opsi dan mencapai kesepakatan tentang langkah selanjutnya? Mohon tanggapi dengan waktu yang paling sesuai untuk Anda. 
+
+Terima kasih sebelumnya atas pertimbangan dan masukan Anda,
+
+Sayid
+
+ Akhir email
+
+Poin-poin penting
+Dalam contoh ini, Sayid mempertahankan nada yang ramah, menjelaskan dengan jelas masalah dan potensi konsekuensinya, dan membuat permintaan yang jelas kepada penerima. Email tersebut juga singkat dan langsung pada intinya.
+
+Singkatnya, email eskalasi yang efektif menerapkan lima praktik terbaik ini:
+
+Pertahankan nada yang bersahabat
+
+Nyatakan hubungan Anda dengan proyek
+
+Jelaskan masalahnya
+
+Jelaskan konsekuensinya
+
+Ajukan permintaan
+
+Eskalasi adalah keterampilan yang berguna untuk menyelesaikan masalah dengan cepat, dan mengirim email eskalasi yang kuat yang menerapkan praktik-praktik terbaik ini dapat membantu tim Anda mendapatkan bantuan yang dibutuhkan.
+

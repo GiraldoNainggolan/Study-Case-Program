@@ -1,0 +1,22 @@
+Anda akan melakukan beberapa latihan
+dengan platform pembelajaran online Qwiklabs. Sebelum melakukannya,
+mari kita pelajari platform tersebut. Qwiklabs adalah lingkungan
+pembelajaran online yang memandu Anda menangani berbagai skenario yang mungkin
+Anda hadapi sebagai staf dukungan IT. Seperti yang telah dibahas sebelumnya,
+virtual machine atau VM menyimulasikan komputer
+menggunakan software. Virtual machine ini akan berjalan
+di Linux atau Windows, bergantung pada latihan
+yang akan dilakukan. Qwiklabs mendukung keduanya. Dengan begitu,
+Anda dapat mempelajari cara bekerja di kedua sistem operasi tersebut, terlepas dari sistem mana
+yang berjalan di mesin Anda. Virtual machine Qwiklabs ini
+berjalan di cloud. Jadi, Anda dapat mengaksesnya
+melalui internet dari mana saja. Seperti yang telah disampaikan, saat kami
+menjelaskan bahwa layanan berjalan di cloud, artinya layanan itu berjalan di pusat data
+atau di server jarak jauh lainnya. Setelah video ini berakhir, kami akan
+memberi Anda petunjuk cara mengakses dan menyelesaikan lab. Anda akan menggunakan Qwiklabs
+dalam banyak kursus untuk program ini. Jadi, luangkan waktu Anda
+untuk mempelajari platform ini. Kami akan terus mendorong Anda untuk mencoba
+latihan ini di komputer lokal jika opsi tersebut
+tersedia untuk Anda. Ingat, Anda bisa mahir jika terus berlatih,
+baik saat Anda mempelajari hal baru atau mencoba meningkatkan keterampilan. Jadi, berlatihlah menggunakan Qwiklabs
+sebanyak yang Anda bisa.

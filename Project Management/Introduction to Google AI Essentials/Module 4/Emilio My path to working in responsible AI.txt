@@ -1,0 +1,33 @@
+- Hi. I'm Emilio. I work at Google and I'm a responsible
+innovation program manager. I get asked all the time, "Wait, so you were a
+political science major and a Spanish major,
+and now you work in AI? What do you do?" And my best answer is, like,
+I do everything and nothing. I'm a program manager. I make sure that we get
+things done on time. I make sure that folks are collaborating well and
+effectively together. I connect the experts in AI in specific areas of AI
+like perception, fairness, to product development teams who are looking to incorporate
+those best practices. I read a really impactful book about the dangers of automating some levels of systemic inequality, and I think that really woke me up to not only the possibilities of AI, because I do consider
+myself a techno-optimist, but the ramifications of implementing AI without fully teaching folks and understanding for
+ourselves that implement it, what are the ramifications
+of these systems? Thinking about your own
+background and your own upbringing and where you come from in your culture, you have a certain set of experiences that led you to who you are
+and that serve as foundational to your core values and your core beliefs. The same thing exists for AI. So, for instance, I'm
+from Southern California. I have a bias towards sunshine
+and perfect waves, right? I think a lot of people
+do, but I do in particular. Now, those human aspects might
+not be directly translatable to a machine learning model, but because you can equate
+experiences to data, machine learning models only can learn based off the data that they've ingested, whether it's through historical
+data sets or user feedback. If we can make these systems more representative of the users
+that they purport to serve, I think it will help serve more people. Something that I think about is, what is the information that's
+going into those data sets? Who is being included and
+who is being excluded? Something I think a lot about is facial detection systems
+and social media sites. How well do those systems work
+for folks that look like me who have more melanin-rich skin, or folks who might have
+even more melanin-rich skin? And does it work across
+the spectrum equally? Does it not work across
+the spectrum equally? I think we all have a
+personal responsibility when using these tools. I think the two things that you can do are check the outputs of
+whatever tool you're using, and if you're going to use new data ingested into the model, check the data. Make sure that it's inclusive. Make sure that it's representative of the different communities that
+you hope to interact with. Get involved. Constantly give feedback on
+things that you don't approve of or that you do approve of so that the groups that
+are creating these systems know how to improve.

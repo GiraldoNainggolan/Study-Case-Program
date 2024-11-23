@@ -1,0 +1,19 @@
+Motherboard, dasar yang mengendalikan seluruh komponen komputer. Motherboard memungkinkan kita memperluas fungsi komputer
+dengan menambah kartu ekspansi. Motherboard menyalurkan daya dari stopkontak, dan memungkinkan berbagai bagian komputer untuk saling berkomunikasi
+satu sama lain. Singkatnya, motherboard benar-benar hebat. Setiap motherboard memiliki
+beberapa karakteristik penting. Pertama adalah chipset, yang menentukan bagaimana komponen saling berkomunikasi
+satu sama lain pada mesin. Chipset pada motherboard
+terdiri dari dua chip. Chipset pertama disebut Northbridge yang melakukan interkoneksi
+antara RAM dan kartu video. Chip kedua disebut Southbridge, yang memelihara IO
+atau pengontrol input-output seperti hard drive dan perangkat USB, yang memasukkan dan mengeluarkan data. Di beberapa CPU model terbaru, Northbridge telah terintegrasi langsung ke dalam CPU sehingga tidak ada
+chipset Northbridge terpisah. Chipset adalah komponen penting pada motherboard yang memungkinkan kita mengelola data antara CPU, RAM, dan perangkat periferal. Periferal adalah perangkat eksternal yang kita hubungkan ke komputer, seperti mouse, keyboard, dan monitor. Selain chipset, motherboard memiliki
+karakteristik penting lainnya yang memungkinkan penggunaan slot ekspansi. Slot ekspansi juga memberi kemampuan untuk meningkatkan fungsi komputer. Jika Anda ingin mengupgrade kartu grafis, Anda dapat membeli lalu memasangnya pada motherboard melalui slot ekspansi. Standar bus ekspansi saat ini adalah PCI Express atau Peripheral Component
+Interconnect express. Bus PCI terlihat
+seperti slot pada motherboard sementara dudukan kartu ekspansi PCI terlihat seperti papan sirkuit terkecil. Komponen terakhir motherboard yang akan kita bahas adalah faktor bentuk. Ada berbagai ukuran motherboard yang tersedia saat ini. Ukuran faktor bentuk ini yang menentukan jumlah komponen yang dapat dimasukkan dan jumlah ruang yang kita miliki. Faktor bentuk umum motherboard adalah ATX, singkatan dari Advanced Technology Extended. ATX juga tersedia dalam beragam ukuran. Di desktop, umumnya ATX berukuran penuh. Jika tidak ingin menggunakan
+faktor bentuk ATX, Anda dapat menggunakan faktor bentuk IT atau information technology extended. Faktor bentuk ini berukuran
+lebih kecil dari papan ATX. Misalnya, Intel NUC menggunakan variasi papan ATX, yang terdiri dari 3 ukuran papan; mini ITX, nano ITX, dan pico ITX. Saat merakit komputer, Anda perlu mengingat jenis format bentuk yang diinginkan. Apakah Anda ingin membangun komputer kecil tetapi tidak dapat menangani
+banyak beban kerja atau membangun komputer yang sangat canggih yang dapat menambah banyak fungsi lain? Format bentuk juga memilik peran dalam menentukan slot ekspansi
+yang akan Anda gunakan. Memahami motherboard beserta karakteristiknya dapat bermanfaat
+saat perlu memperbaiki masalah hardware karena jenis modul RAM atau soket prosesor bergantung pada jenis motherboard yang perlu dipasangi. Katakanlah Anda menangani keluhan pengguna yang menghadapi masalah video, Anda tidak ingin jauh-jauh datang ke tempat pengguna dan menemukan bahwa kartu grafis
+yang Anda beli sebagai pengganti tidak kompatibel dengan motherboard
+yang digunakan komputer pengguna.

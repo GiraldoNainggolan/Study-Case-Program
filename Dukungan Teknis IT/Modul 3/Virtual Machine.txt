@@ -1,0 +1,25 @@
+Sebelum mulai menginstal sistem operasi kita harus memahami konsep virtual machine atau VM. Virtual machine adalah
+salinan mesin yang sebenarnya. Mengapa menggunakannya? Sejauh ini kita telah bekerja
+dengan berbagai mesin fisik, tetapi ada situasi
+dalam dukungan IT yang memerlukan akses ke mesin yang
+tidak berada di depan kita secara fisik. Katakanlah saya memiliki mesin Windows, dan ingin mempelajari
+sistem operasi lain seperti Linux. Saya tidak mau membeli komputer lain atau memiliki
+dua sistem operasi di dalam disk. Sebagai gantinya,
+saya bisa menggunakan aplikasi seperti Virtual Box
+untuk menginstal Linux agar benar-benar terpisah
+dari mesin saya. Virtual machine menggunakan
+resource fisik seperti memori, CPU, dan penyimpanan, tetapi menawarkan
+keuntungan tambahan dari menjalankan beberapa sistem operasi sekaligus. Virtual machine ini juga
+lebih mudah dikelola dan disediakan. Virtual machine
+juga merupakan pilihan utama di banyak departemen IT karena memungkinkan
+staf dukungan IT membuat komputer
+virtual baru sesuai permintaan. Staf juga dapat mengklaim kembali resource yang digunakan
+setelah tidak dibutuhkan lagi. Jika Anda ingin
+menggunakan software yang hanya tersedia di satu OS tertentu, akan lebih mudah
+menyiapkan virtual machine baru. Gunakan software lalu hapus virtual machine setelah selesai. Di sepanjang program ini,
+Anda akan menggunakan VM untuk melakukan latihan langsung. Anda akan menggunakan
+platform Qwiklabs dan diberi tugas untuk diselesaikan dari lab. Kami menuliskan
+tugas spesifik yang harus Anda selesaikan, dan setelah tugas selesai, Anda akan
+mendapatkan nilai untuk lab tersebut. Baiklah. Setelah mengetahui
+pengertian virtual machine, Anda akan paham
+mengapa VM begitu penting.

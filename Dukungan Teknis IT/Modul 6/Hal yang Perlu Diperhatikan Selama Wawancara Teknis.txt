@@ -1,0 +1,44 @@
+Saat melakukan wawancara untuk posisi teknis, Anda mungkin akan mengalami
+satu atau beberapa wawancara yang mengharuskan Anda
+secara spesifik menunjukkan pengetahuan dan kemampuan teknis Anda. Wawancara ini dapat berupa skenario pemecahan masalah teknis atau penjelasan terkait
+bidang dan konsep teknis. Seperti yang kami bilang, Anda perlu memiliki fondasi yang kuat terkait
+semua konsep dasar tersebut. Pewawancara yang baik akan berusaha
+melampaui batas pengetahuan Anda. Artinya, besar kemungkinan
+bahwa dalam wawancara, Anda akan mencapai titik di mana Anda tidak yakin
+bahwa Anda mengetahui jawaban yang tepat. Ini sangat mungkin terjadi. Namun, Anda tidak boleh hanya mengatakan,
+"Saya tidak tahu". Jika sedang memberikan dukungan
+kepada pengguna, Anda juga tidak akan mengatakan hal tersebut. Tidak masalah jika Anda mengakui
+bahwa Anda tidak yakin, tetapi setelahnya Anda harus menjelaskan apa yang akan Anda lakukan
+untuk menemukan jawabannya. Sebagai spesialis dukungan IT, Anda pasti akan sering menghadapi masalah yang baru dan tidak diketahui. Memiliki strategi
+pemecahan masalah yang baik lebih penting daripada sekadar mengetahui
+semua jawaban. Jika pertanyaan yang diajukan
+luas dan kompleks, jelaskan cara Anda mengelompokkan pekerjaan yang diperlukan
+untuk menyelesaikan masalah tersebut sebelum membahas detail spesifik tentang hal yang perlu dilakukan. Jika Anda memikirkan
+solusi terbaik yang bisa dilakukan, sampaikan pemikiran Anda kepada
+pewawancara agar ia bisa memahaminya. Menyampaikan pendapat tidak hanya membantu
+pewawancara melihat proses berpikir Anda, tetapi juga membantu Anda
+berupaya mengatasi masalah. Misalnya, jika Anda kesulitan
+dengan skenario pemecahan masalah teknis, Anda dapat mencoba dan merangkum informasi yang telah dikumpulkan dan menentukan
+potensi penyebab yang dapat dikesampingkan dengan pasti
+dan mencoba mencari tahu info yang masih belum ada
+untuk mengecualikan penyebab lainnya. Saat menyebutkan konsep atau teknologi, Anda harus siap untuk menjelaskannya dan menguraikan alasan Anda memilihnya
+dari semua opsi yang ada. Sebagai contoh,
+jika Anda mencari solusi masalah jejaring dan mengatakan bahwa "Masalahnya mungkin
+terkait dengan setelan DNS". Anda harus siap menjelaskan apa itu DNS, dan mengapa itu terkait dengan masalahnya. Anda juga harus mengklarifikasi
+batasan pertanyaan. Jangan berasumsi apa pun, tidak masalah
+dan bahkan Anda diharapkan mengajukan pertanyaan tindak lanjut
+kepada pewawancara untuk memastikan masalahnya
+telah diuraikan dengan benar. Selalu gunakan data dan bukti yang Anda dapat dari pewawancara untuk
+menyampaikan langkah Anda berikutnya. Misalnya, jika Anda perlu
+menyelesaikan masalah tentang pengguna yang tidak dapat
+terhubung ke sistem internal, Anda harus mengajukan
+pertanyaan tindak lanjut seperti, apa sistem operasi yang digunakan
+oleh pengguna tersebut, bagaimana seharusnya komputer tersebut
+terhubung ke jaringan, pesan error apa yang diterima, apakah pengguna lain juga terpengaruh? Sasaran Anda adalah mempersempit
+cakupan untuk menemukan akar masalahnya. Jika pertanyaannya sangat kompleks, mungkin akan sulit
+untuk memahami atau menjelaskan solusinya. Dalam hal ini, akan sangat berguna
+jika Anda mencatat dan menggunakan diagram untuk
+menggambarkan masalahnya. Anda dapat menggunakan proses ini
+jika diperlukan. Bukan berarti Anda harus
+menuliskan segala informasi selama wawancara. Terkadang, jawabannya bisa sangat sederhana dan Anda bisa langsung menjelaskannya
+tanpa harus menuliskan apa-apa.

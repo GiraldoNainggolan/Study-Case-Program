@@ -1,0 +1,41 @@
+Istilah yang sering dijumpai:
+
+* Container adalah Pembungkus atau wrapper merupakan wadah yang didalamnya terdapat items-items yang akan diatur posisinya.
+
+* Items merupakan elemen HTML yang berada di dalam container Flexbox
+
+* Main Axis merupakan sumbu flexbox yang berfungsi untuk mengatur items secara horizontal.
+
+* Main Start merupakan titik dimana sumbu horizontal tersebut dimulai (disebelah kiri).
+
+* Main End merupakan titik dimana sumbu horizontal tersebut berakhir (disebelah kanan).
+
+* Main Size merupakan ukuran dari kontainer tersebut secara horizontal.
+
+* Cross Axis merupakan sumbu flexbos yang berfungsi untuk mengatur elemen items secara vertikal
+
+* Cross Start merupakan titik awal dimana sumbu vertikal tersebut dimulai.
+
+* Cross End merupakan titik dimana sumbu vertikal tersebut berakhir.
+
+* Cross Size merupakan ukuran kontainer tersebut secara vertikal
+
+* Flexbox in the null shell. Flexbox atau Flexbox layout merupakan salah satu properti yang  terdapat pada CSS, yang berfungsi untuk  memengatur posisi dari suatu elemen.
+
+* Apa itu Align Items? Yaitu mengatur items pada sumbu cross-axis atau secara vertikal pada kontainer flexbox.
+ value yang akan diterapkan;
+ 1. Start yakni items akan berada dipaling atas atau di sumbu Cross Start.
+ 2. Center merupakan value yang kan menempatkan items dibagian tengah.
+ 3. End merupakan penempatan items dibagian paling akhir.
+ 4. Stretch ini berarti elemen items didalamnya akan mengisi seluruh ruang secara vertikal pada kontainer tersebut.
+ 5. Baseline ini digunakan untuk mengatur posisi dari elemen tersebut sesuai dari isi konten.
+
+* Apa itu Align Content? memungkinkan kita untuk mengatur posisi items secara vertikal dengan syarat masih terdapat ruang pada kontainer tersebut.
+Perlu diperhatikan? namun properti ini tidak memiliki efek langsung ketika hanya terdapat satu baris elemen didalamnya.
+ Value yang bisa diterapkan;
+ 1. Start yakni menempatkan items diatas
+ 2. Center yakni menempatkan items ditengah-tengah
+ 3. End yakni menempatkan items dibagian paling bawah
+ 4. Space Between yakni
+ 5. Space Around yakni
+ 6. Space Evenly

@@ -1,0 +1,16 @@
+Saat berinteraksi dengan komputer, kita menggunakan mouse, keyboard, atau bahkan layar sentuh Kita tidak berinteraksi dengan angka 0 dan 1 agar komputer memahami keinginan kita. Namun sebenarnya,
+kita berinteraksi dengan angka 0 dan 1. Hanya saja, kita tidak perlu memikirkannya. Kita menggunakan konsep abstraksi untuk memahami sistem yang relatif kompleks
+dan menyederhanakannya untuk penggunaan kita. Abstraksi digunakan setiap hari di di dunia nyata, dan
+Anda mungkin tidak menyadarinya. Saat mengendarai mobil, Anda tidak perlu mengetahui cara kerja transmisi atau mesinnya secara langsung. Di mobil ada setir, pedal, dan mungkin tongkat persneling. Meskipun Anda membeli mobil
+dari pabrikan yang berbeda, cara mengoperasikan mobil hampir sama, meskipun mesin dalam mobil mungkin sangat berbeda. Ini adalah esensi dari abstraksi. Abstraksi menyembunyikan kerumitan dengan menyediakan antarmuka umum. Setir mobil, pedal, pedal, tongkat persneling, dan
+indikator pengukur di mobil, misalnya. Hal yang sama terjadi di komputer kita. Kita tidak perlu mengetahui cara
+kerja komputer secara langsung. Kita menggunakan mouse dan keyboard untuk berinteraksi dengan komputer. Berkat abstraksi kebanyakan pengguna tidak perlu khawatir memikirkan detail teknis. Dalam program ini, kita akan menggunakan metafora “di balik layar” untuk menjelaskan area yang berisi teknologi yang kemudian
+dapat menggerakkan suatu sistem. Dalam komputasi, kita gunakan abstraksi agar masalah yang sangat kompleks, seperti cara kerja komputer,
+lebih mudah dipahami. Kita melakukannya dengan memecah persoalan
+menjadi ide-ide sederhana yang menjelaskan konsep tunggal atau tugas individual yang perlu dilakukan, lalu mengelompokkannya pada beberapa lapisan. Konsep abstraksi akan digunakan di sepanjang kursus ini. Abstraksi merupakan konsep dasar
+dalam dunia komputasi. Contoh sederhana lainnya dari abstraksi yang mungkin akan sering ada
+dalam peran IT adalah pesan error. Kita tidak perlu menggali suatu kode untuk menemukan bug. Bug telah diabstraksikan untuk pengguna dalam bentuk pesan error. Pesan error sederhana seperti
+"file tidak ditemukan" memberi tahu kita banyak informasi dan menghemat waktu
+untuk mencari solusinya. Bayangkan jika komputer tidak melakukan abstraksi pesan error dan tidak melakukan apa pun sehingga kita tidak tahu harus memulai
+dari mana untuk mencari jawaban. Abstraksi membantu kita dalam banyak cara
+yang kita bahkan tidak sadari.

@@ -1,0 +1,14 @@
+Setelah kita membahas sedikit
+tentang proses pendokumentasian, mari kita bahas tentang cara menulis
+dokumentasi dalam sistem tiket atau bug. Anda tidak perlu memberikan contoh lengkap dokumentasi proses
+untuk setiap tiket yang ditangani. Jika Anda mendapat masalah sama,
+cukup tulis dokumentasinya satu kali, lalu rujuk itu kembali. Salah satu aspek terpenting
+dalam menulis dokumentasi pada tiket atau bug adalah Anda meninggalkan jejak audit untuk
+melihat mana yang berhasil dan yang tidak. Mari kita lihat beberapa contoh dokumentasi
+yang bagus dan yang kurang bagus dalam sistem tiket dan bug. Ini sama sekali tidak membantu sama sekali
+karena kita tidak tahu apa masalahnya atau upaya perbaikan
+dari spesialis dukungan IT. Jika tiket ini ditemukan orang yang
+mengalami masalah yang sama, itu tidak akan berguna. Ini adalah contoh dokumentasi tiket
+yang sangat bagus. Teknisi menjelaskan apa masalahnya,
+apa penyebabnya, dan langkah spesifik yang mereka ambil
+untuk mengatasinya.

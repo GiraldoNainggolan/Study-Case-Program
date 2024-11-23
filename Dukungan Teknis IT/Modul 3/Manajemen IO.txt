@@ -1,0 +1,30 @@
+Sejauh ini, kita telah mempelajari
+cara kernel menangani file, mengelola penyimpanan file, mengatur
+berbagai proses yang berjalan di komputer, dan mengalokasikan memori. Tugas penting lain yang ditangani kernel
+adalah mengelola input dan output. Perangkat yang melakukan input dan output
+disebut sebagai perangkat I/O. Perangkat ini mencakup monitor,
+keyboard, mouse, hard disk drive, speaker, headset Bluetooth, webcam,
+dan adaptor jaringan. Semua perangkat I/O ini
+dikelola oleh kernel. Kernel harus dapat memuat
+driver yang digunakan agar kita dapat mengenali dan berinteraksi
+dengan berbagai jenis hardware ini. Saat kernel menjalankan driver
+untuk berkomunikasi dengan hardware, kernel ini juga mengelola proses
+transfer data masuk dan keluar perangkat. I/O bukan hanya berarti mentransfer
+data antara kita dan perangkat. Perangkat juga harus bisa
+berkomunikasi satu sama lain. Kernel menangani semua komunikasi internal
+antar-perangkat. Program ini juga mengetahui
+metode transfer apa yang paling efisien, dan mencoba yang terbaik untuk memastikan
+tidak ada data error selama proses berjalan. Saat Anda sedang memecahkan masalah
+menggunakan mesin yang lambat, biasanya beberapa bagian hardware
+mengalami penurunan resource. Jika tidak memiliki RAM yang memadai,
+Anda tidak bisa memuat banyak proses. Jika tidak memiliki CPU yang memadai, Anda
+tidak bisa mengeksekusi program dengan cepat. Jika perangkat Anda terlalu banyak
+menerima input atau mengeluarkan output, Anda juga akan memblokir pengiriman
+dan penerimaan data dari perangkat lain. Kecepatannya yang melambat adalah salah satu
+masalah paling umum yang akan Anda selesaikan dalam peran dukungan IT. Mengetahui sumber potensial melambatnya
+kecepatan ini akan sangat membantu ketika Anda mencari penyebab
+latensi pada komputer. Pemecahan masalah merupakan bagian penting
+dalam peran dukungan IT. Selain dukungan desktop, mengidentifikasi
+sumber bottleneck pada resource dan server atau sistem IT besar, seperti
+aplikasi web, dapat meningkatkan performa dan kemampuan respons yang lebih baik
+bagi pengguna Anda.

@@ -1,0 +1,19 @@
+* MySQL SQL
+Pengertian: SQL adalah bahasa standar untuk menangani Database Relasional.
+SQL digunakan untuk menyisipkan, mencari, memperbarui, dan menghapus catatan database.
+
+Pernyataan SQL berikut memilih semua catatan dalam tabel "Pelanggan":
+SELECT * FROM Customers;
+
+* MySQL SELECT
+* MySQL WHERE
+* MySQL AND, OR, NOT
+* MySQL ORDER BY
+* MySQL INSERT INTO
+* MySQL NULL Values
+* MySQL UPDATE
+* MySQL DELETE
+* MySQL LIMIT
+* MySQL COUNT, AVG, semua
+* MySQL LIKE
+* MySQL 

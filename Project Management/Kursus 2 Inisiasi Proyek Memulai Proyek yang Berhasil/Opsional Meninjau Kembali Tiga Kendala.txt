@@ -1,0 +1,5 @@
+Seperti yang baru saja Anda pelajari, manajer proyek dapat merujuk pada model tiga batasan untuk mengelola ruang lingkup dan mengendalikan pergeseran ruang lingkup. Model ini dapat berfungsi sebagai alat bantu yang berharga untuk membantu Anda menegosiasikan prioritas dan mempertimbangkan pertukaran.
+
+Untuk bacaan lebih lanjut tentang penggunaan model triple constraint dalam skenario kehidupan nyata sebagai manajer proyek dan bagaimana model triple constraint berkembang dari waktu ke waktu, kami sarankan untuk membaca artikel ini: 
+Contoh & Panduan Triple Constraint Manajemen Proyek
+. (https://thedigitalprojectmanager.com/projects/scope-management/triple-constraint/)

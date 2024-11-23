@@ -1,0 +1,30 @@
+Dampak desain diukur dengan menggunakan metrik UX selama proses desain.
+
+Kami menyukai pohon KPI desain Vitaly Friedman, yang memberikan representasi visual terperinci dari proyek klien, menguraikan komponen utama, fase, dan garis waktunya. Contohnya mencakup diagram dan bagan yang menggambarkan ruang lingkup, tujuan, dan hasil proyek 
+
+Proses ini diatur untuk membantu pemangku kepentingan secara efektif memahami alur kerja proyek, pencapaian, dan hasil yang diharapkan. Meskipun dia tidak secara eksplisit menjual ide KPI Desain, banyak PM dan staf senior menghargai memiliki hasil yang terukur untuk ide desain. Lihat contoh template proyeknya: https://lnkd.in/geFjnsJ6.
+
+Bagian yang diuraikan dalam diagram mencakup aspek-aspek berikut:
+
+Tujuan Bisnis 
+↳ Meningkatkan tingkat rujukan dan Net Promoter Score (NPS)
+
+Desain KPI
+↳ Lacak rekomendasi rata-rata per pengguna per bulan dan metrik spesifik seperti CPA (Biaya Per Akuisisi) dan SGR (Tingkat Pertumbuhan Pelanggan).
+
+Kriteria Pengukuran
+↳ Persentase pengguna yang telah mereferensikan setidaknya satu orang dalam enam bulan terakhir.
+
+Inisiatif Desain
+↳ Tindakan termasuk memberikan kode diskon, mengisyaratkan referensi pasca-dukungan, dan meningkatkan branding dengan studi kasus yang sukses.
+
+Kebutuhan Pengguna/Pekerjaan yang Harus Diselesaikan (JTBD)
+↳ Atasi penurunan skor NPS selama beberapa bulan terakhir.
+
+Mempertimbangkan metrik UX dalam setiap keputusan desain menawarkan banyak manfaat: Membuat keputusan lebih transparan bagi pemangku kepentingan, mempercepat pengambilan keputusan, dengan cepat mengidentifikasi titik nyeri pengguna, dan menetapkan dasar untuk peningkatan berkelanjutan.
+
+Kami menyukainya.
+
+Helio membantu Anda merancang metrik untuk meningkatkan hasil bisnis melalui desain berulang dan penelitian berkelanjutan. 
+
+Tagar#uxresearch Tagar#productdiscovery Tagar#marketresearch Tagar#productdesign

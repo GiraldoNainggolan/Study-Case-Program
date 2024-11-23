@@ -1,0 +1,45 @@
+Tidak seperti sistem operasi lainnya, ChromeOS memiliki satu tujuan utama: menjadi cara yang aman dan mudah bagi pengguna untuk berinteraksi
+di internet. Belum lama ini,
+gagasan memiliki sistem operasi khusus untuk menjalankan browser web
+akan dianggap aneh, sama seperti ketika
+sedang menggunakan komputer. Namun sekarang,
+Anda dapat melakukan banyak hal melalui browser web. Anda dapat berkomunikasi
+melalui email, membuat dan membagikan dokumen, mengedit foto, dan bahkan terhubung ke komputer lain
+dari jarak jauh, dan masih banyak lagi. Pengembangan aplikasi web baru meningkatkan berbagai aktivitas yang dapat dilakukan pengguna
+dalam browser web. Bagi banyak orang,
+hal ini berarti bahwa sebagian besar penggunaan
+komputer harian mereka terjadi di dalam browser. Mengembangkan sistem operasi yang terkait dengan browser web
+sangatlah masuk akal. Dengan kata lain,
+ChromeOS lebih dari sekadar sistem operasi
+untuk penjelajahan web. ChromeOS juga dapat menjalankan aplikasi Android dan Linux
+di dalam container. Antarmuka pengguna
+di ChromeOS disesuaikan, sehingga Anda hanya dapat melihat
+antarmuka Chrome. Manajemen proses, memori,
+serta input dan output masih terjadi di balik layar, tapi Anda tidak perlu berurusan
+dengan hal-hal tersebut. Anda hanya perlu fokus dengan browser. Komputer ChromeOS
+dilengkapi dengan sistem operasi bawaan. Kita tidak perlu
+menginstal apa pun. Saat login ke komputer ChromeOS, Anda juga login ke browser Chrome. Sekarang, mari kita praktikkan. Saya telah login
+ke komputer ChromeOs. Langkah ini kemudian memanggil
+setelan dan ekstensi Chrome saya dari konfigurasi yang disimpan di server eksternal yang disediakan oleh
+infrastruktur Chrome. Artinya, komputer ChromeOS
+dapat dipertukarkan karena sebagian besar data disimpan
+di Cloud, bukan di komputer lokal. Dua karakteristik ChromeOS lainnya sangat mudah digunakan dan sangat sulit bagi pengguna
+untuk mengotak-atiknya. Karena pengguna tidak memiliki hak administrator
+pada komputer ChromeOS, mereka tidak akan dapat mengubah
+konfigurasi sistem. Selain itu, ChromeOS juga memiliki mekanisme update otomatis yang mencakup mode fail-safe
+untuk berjaga-jaga jika terjadi kesalahan. Artinya, pengguna tidak perlu khawatir
+tentang masalah atau peretasan pada sistem karena sistem ini dirancang
+untuk terus aktif dan berjalan. Terakhir, ChromeOS
+memiliki keamanan yang kuat, yang akan kita pelajari
+dalam kursus mendatang. Untuk sekarang,
+Anda hanya perlu tahu bahwa ChromeOS memungkinkan pengguna menjelajahi web
+tanpa perlu khawatir tentang malware dan untuk berbagi komputer sambil tetap menjaga
+kerahasiaan data mereka. ChromeOS juga memastikan
+bahwa data tidak akan dapat disusupi
+jika komputer dicuri. Singkatnya, tidak perlu khawatir tentang software berbahaya yang mungkin beredar di luaran karena ChromeOS mampu bertahan
+dan melawan ancaman ini. Sebagai staf dukungan IT, Anda mungkin mendapati bahwa
+beberapa pengguna di organisasi Anda
+akan memilih ChromeOS untuk menjalankan
+pekerjaan sehari-hari mereka. Karena ChromeOS sangat mudah digunakan
+dan jarang rusak, kita tidak akan membahas dukungan harian
+secara mendetail.

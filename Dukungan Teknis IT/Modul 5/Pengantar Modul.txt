@@ -1,0 +1,35 @@
+Hai. Nama saya Phelan Vendeville, Insinyur Sistem di
+bagian Keandalan Situs di Google. Saya senang dapat menjadi instruktur Anda
+untuk beberapa materi berikutnya. Sebelum kita mulai, saya akan mengawali dengan
+menceritakan sedikit tentang diri saya. Kecintaan saya pada teknologi
+dimulai di SMA yang lokasinya terpencil
+di wilayah California. Karena lokasinya yang terpencil, teknologi dan internet berperan penting
+dalam memperkenalkan dunia luar kepada siswa serta menghubungkan mereka
+dengan ide dan peluang seperti karyawisata virtual
+dan pembelajaran jarak jauh. Sebagai contoh, saya ingat
+pernah melakukan persiapan SAT melalui sesi kelas digital
+yang mustahil saya hadiri secara langsung. Selepas SMA, saya masuk Angkatan Laut AS sebagai Teknisi sistem informasi, bertugas
+memelihara komputer dan sistem jaringan. Saya terus menyaksikan
+bagaimana teknologi menyatukan banyak orang. Baik saat mengoordinasikan
+gerakan kapal selama kegiatan latihan atau terhubung dengan orang tercinta
+via video chat saat bertugas jauh. Banyak orang menggunakan teknologi
+dengan berbagai cara setiap harinya. Namun, sangat sedikit orang
+yang memahami cara kerjanya. Karier di bidang IT terbilang menantang,
+seperti yang saya alami sendiri. Saya masih teringat kengerian yang saya lihat
+setelah meledaknya catu daya komputer karena menggunakan
+saklar voltase yang salah. Namun, karier di bidang IT
+bisa jadi terasa menyenangkan saat Anda melakukan hal-hal
+seperti memulihkan foto keluarga dari hard drive yang bermasalah. Sebagai seorang spesialis dukungan IT,
+Anda akan dihadapkan pada posisi untuk tidak hanya mengetahui
+fungsi setiap alat teknologi, tetapi juga cara membantu
+memperbaikinya saat rusak. Ini berarti Anda berdampak langsung pada arus informasi di antara
+banyak orang, cukup keren. Saya bersemangat untuk mengajarkan
+tentang lapisan ketiga dalam arsitektur komputer,
+yang disebut sebagai software. Sofware adalah cara kita, sebagai pengguna, berinteraksi langsung
+dengan komputer. Sistem operasi yang berinteraksi
+dengan kita juga tergolong software. Program musik, pengolah kata, dan lainnya
+yang kita gunakan tiap hari juga software. Namun apa definisi software
+yang sebenarnya? Jika hardware adalah benda fisik
+yang bisa diambil dan dipegang, software adalah instruksi tak berwujud
+yang memberi perintah kepada hardware. Di materi berikutnya, kita akan membahas
+lebih jauh tentang software, cara menginstalnya, dan cara kerjanya.

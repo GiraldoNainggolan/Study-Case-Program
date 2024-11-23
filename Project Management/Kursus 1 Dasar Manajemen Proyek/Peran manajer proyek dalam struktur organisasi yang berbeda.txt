@@ -1,0 +1,32 @@
+Struktur organisasi klasik
+Struktur organisasi klasik adalah sistem hierarki dari atas ke bawah, di mana seorang Chief Executive Officer (CEO) memiliki wewenang langsung atas beberapa manajer departemen. Manajer departemen memiliki wewenang langsung atas beberapa bagian karyawan lainnya. Sistem ini membutuhkan komunikasi ke atas dan ke bawah. Dalam struktur Klasik, otoritas berasal dari atas dan menyaring ke bawah. Pelaporan yang sering mengenai pembaruan status proyek mungkin diperlukan untuk melewati tingkat manajemen agar para pemimpin yang lebih tinggi mendapatkan informasi.
+
+Organisasi klasik juga disebut sebagai organisasi fungsional karena organisasi dibagi menjadi beberapa departemen berdasarkan fungsi. Setiap departemen dipimpin oleh seorang manajer fungsional, dan karyawan dikelompokkan sesuai dengan fungsi peran mereka. Sebagai contoh, fungsi utama Friendly Skies Airlines, sebuah perusahaan penerbangan, adalah menerbangkan pesawat terbang. Biasanya ada departemen yang disusun secara logis untuk memenuhi fungsi penting perusahaan lainnya, seperti Pemasaran, Sumber Daya Manusia, dan Strategi. Karyawan biasanya memiliki spesialisasi di dalam organisasi dan tidak boleh bekerja di area lain selama operasi normal sehari-hari.
+
+Mengelola proyek dalam organisasi Klasik
+Friendly Skies Airlines memiliki struktur organisasi Klasik, seperti yang ditunjukkan oleh bagan pelaporan atau "organisasi".
+
+Contoh bagan organisasi Klasik yang menunjukkan struktur pelaporan dari atas ke bawah dari CEO ke manajer departemen ke bawah
+Bayangkan bahwa Dewan Direksi Friendly Skies Airlines menyetujui sebuah inisiatif untuk memperbaiki pesawat yang sudah ada agar dapat mengangkut lebih banyak penumpang. CEO mensponsori tim proyek untuk mendesain ulang pesawat. Proyek ini akan dipimpin oleh seorang manajer proyek dari departemen Teknik dan Inovasi dan akan membutuhkan perwakilan dari departemen Keuangan, Pemasaran, Strategi, dan Operasi, bersama dengan beberapa anggota tim lain dari departemen Desain, untuk menyelesaikan proyek dengan sukses.
+
+Tim proyek biasanya akan tetap berada dalam jalur pelaporan mereka tetapi bertindak sebagai tim yang dibentuk sendiri. Mereka tidak berada di bawah departemen fungsional yang ada. Dalam struktur organisasi Klasik, proyek dibangun dari departemen yang sudah ada untuk membentuk tim. 
+
+Jika Anda adalah manajer proyek dalam jenis struktur ini, Anda mungkin perlu berkonsultasi dengan manajer fungsional untuk memahami sumber daya Anda dan kapasitas setiap rekan tim, serta membiasakan diri dengan proses internal setiap fungsi dan struktur persetujuan. Wewenang Anda mungkin sedikit terbatas karena adanya prioritas yang bersaing, rantai persetujuan, dan kerumitan lainnya, namun dengan menetapkan ekspektasi di awal, Anda dapat menavigasi organisasi dan melaksanakan proyek dengan baik.
+
+Struktur organisasi matriks
+Struktur Matriks berbeda dengan struktur Klasik karena karyawan memiliki dua atau lebih manajer. Dalam struktur Matriks, Anda masih memiliki orang-orang di atas Anda, tetapi Anda juga memiliki orang-orang di departemen yang berdekatan dengan siapa Anda perlu berkomunikasi tentang kemajuan pekerjaan Anda. Area fungsional cenderung lebih sering bertemu, dan tergantung pada sifat pekerjaan, manajer yang bertanggung jawab untuk setiap area memiliki wewenang paling besar.
+
+Sebagai manajer proyek dalam organisasi Matrix, sebuah tim pada dasarnya akan memiliki setidaknya dua rantai komando, atau manajer. Anda dapat menganggap manajer proyek sebagai manajer sementara saat ditugaskan ke tim. Manajer fungsional tetap konsisten terlepas dari proyek yang didukung oleh manajer proyek. Gambar di bawah ini mengilustrasikan seperti apa bentuk Friendly Skies Airlines jika memiliki struktur organisasi Matrix.
+
+Contoh bagan organisasi Matriks yang memiliki pelaporan langsung (hingga CEO) dan pelaporan yang berdekatan (departemen lain)
+Mengelola proyek dalam organisasi Matriks
+Bayangkan Friendly Skies Airlines diorganisir dalam struktur Matriks. Tim Product Excellence mereka mengembangkan perlengkapan fasilitas baru untuk penerbangan jarak jauh. Mereka meminta Manajer Proyek untuk membantu mengumpulkan materi pemasaran yang menyajikan data penelitian tentang bagaimana produk ini memenuhi keinginan penumpang. Manajer Proyek bekerja atas nama tim Keunggulan Produk, namun mereka dapat bekerja sama dengan tim Pemasaran untuk membuat materi-materi ini.
+
+Anda dapat membaca lebih lanjut tentang gambaran umum organisasi Matrix dalam 
+Artikel PMI
+.
+
+Hal-hal penting yang dapat diambil
+Baik dalam organisasi Classic maupun Matrix, manajer proyek harus mendefinisikan dengan jelas peran dan tanggung jawabnya agar dapat bekerja secara efektif. Namun, dalam sebagian besar organisasi Matrix, beberapa manajer proyek atau pimpinan departemen mungkin memiliki tingkat otoritas yang sama dengan manajer fungsional dan beroperasi secara lebih langsung.
+
+Sekarang Anda telah mengetahui cara mengidentifikasi struktur organisasi Klasik dan Matriks, bagaimana manajer proyek masuk ke dalamnya, dan bagaimana struktur organisasi dapat memengaruhi proyek. Anda sedang dalam perjalanan untuk menjadi manajer proyek yang hebat dalam struktur organisasi apa pun!

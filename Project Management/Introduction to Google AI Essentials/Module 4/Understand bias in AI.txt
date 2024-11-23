@@ -1,0 +1,32 @@
+- AI is an inspiring tool that helps allow for new experiences, opportunities, and achievements. For instance, AI is used
+to help self-driving cars detect pedestrians on a busy road and predict the presence and severity of a medical condition. However, the fact that AI is
+beneficial is not a given. As a user who is aware of AI's potential biases
+and its limitations, you can help ensure responsible outcomes rather than harmful ones. AI models are trained on
+data created by humans, so they consist of values
+and are subject to bias. They can also sometimes
+produce inaccurate results. Because an AI model is
+trained on a data set to recognize patterns and perform tasks, the model is only as good
+as the data it receives. The output from the AI
+tool may be affected by both systemic bias and data bias. Let's explore each of those now. First, systemic bias is a
+tendency upheld by institutions that favors or disadvantages
+certain outcomes or groups. Systemic bias exists
+within societal systems like healthcare, law,
+education, politics, and more. Even if the people who design and train an AI model think
+they're using high-quality data, the data may already be biased because humans are influenced
+by systemic biases. Data bias is a circumstance
+in which systemic errors or prejudices lead to unfair
+or inaccurate information, resulting in biased outputs. Maybe you're developing
+a work presentation, you ask an AI image generator
+to create a photo of a CEO. All of the images generated
+appear to be white males. Based on this result, you might assume that
+all CEOs are white men. Obviously, this data is biased. Still, the more an AI model is trained with images of white men as CEOs, the more likely these models are to generate similarly biased outputs. Therefore, the more the data represents a wider variety of people, the more inclusive the outcome of the image generation will be. Just as AI models reflect the biases of the data used to train them, they also reflect the values
+of the people who design them. In other words, AI models are value-laden. For example, perhaps an AI engineer wants to help create more sustainable
+ways to generate energy. The engineer could use AI to build a tool that allows energy suppliers to increase their use
+of renewable resources. In this case, the AI tool
+was created based on the idea that society can and should
+make the most of solar and wind power sources, which is a reflection of
+the engineer's values. This focus means that the AI tool is not intrinsically value-neutral. Other people may have different values about energy generation
+that are not reflected in this particular AI tool. Like most aspects of emerging technology, AI is not a perfect system. At present, it provides both
+opportunities and challenges, so using it responsibly
+requires critical thinking and an understanding about
+how data may be biased.

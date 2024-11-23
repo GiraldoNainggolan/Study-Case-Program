@@ -1,0 +1,66 @@
+Bayangkan jika Anda harus menyimpan satu file di dalam lemari.
+Sepertinya mudah. Tetapi bagaimana jika Anda
+harus menyimpan 100.000 file? Anda sudah bisa melihat
+masalahnya di sini? Di komputer, kita bisa menyimpan setidaknya ratusan ribu file
+dengan mudah. Masalah selesai? Tidak sampai di situ.
+Kita juga harus bisa memantau semua file ini. Kernel menangani penyimpanan file dan sistem file
+di komputer. Pada materi ini,
+kita akan membahas lebih dalam tentang cara kernel
+melakukan hal tersebut Ada tiga komponen utama untuk menangani file di OS, yaitu data file, metadata,
+dan sistem file. Mari kita mulai
+dengan sistem file. Kita memiliki hard disk baru yang ingin digunakan
+untuk menyimpan data. Kita harus menghapus
+dan mengonfigurasi disk tersebut. Dengan begitu, sistem operasi dapat
+membaca dan menulis data ke disk tersebut. Hal ini penting
+karena beginilah cara sistem operasi
+dapat terus memantau file. Kita harus tahu
+jenis sistem file yang digunakan. Ada begitu banyak sistem file dan tujuan penggunaannya
+juga berbeda. Beberapa sistem file mendukung
+penyimpanan data dalam jumlah besar, sementara yang lainnya hanya mendukung
+dalam jumlah kecil. Sistem file ini dapat beroperasi
+dengan kecepatan berbeda, memiliki ketahanan yang bervariasi
+terhadap kerusakan file, dan sebagainya. Kita tidak akan membahas
+sistem file mana yang terbaik. Itu pilihan Anda. Namun, produsen utama OS di pasaran memiliki sistem file unik sendiri
+yang mereka rekomendasikan. Untuk Windows, sistem file utama
+yang digunakan adalah NTFS. Sistem file ini diperkenalkan pada
+OS Windows versi sebelumnya, Windows NT, serta mencakup
+banyak fitur seperti enkripsi, kecepatan akses yang lebih cepat,
+keamanan, dan lainnya. Microsoft mengembangkan sistem file lain
+yang disebut ReFS, tetapi sistem file ini belum cukup siap
+untuk digunakan oleh konsumen. Untuk Linux, masing-masing distribusi menggunakan jenis
+sistem file yang berbeda-beda. Sistem file standar untuk Linux
+adalah Ext4, yang kompatibel dengan
+sistem file Ext versi lama. Secara umum, jenis sistem file
+yang berbeda tidak akan cocok
+satu sama lain. Anda mungkin tidak dapat memindahkan
+file ke sistem file berbeda dengan mudah, bergantung pada jenis sistem file tersebut. Panduan yang baik
+adalah hanya gunakan sistem file yang direkomandasikan oleh
+sistem operasi Anda. Bagian penting lainnya
+dari manajemen file adalah penyimpanan
+data file yang aktual. Kita menulis data ke hard drive dalam bentuk blok data. Saat kita menyimpan sesuatu
+ke dalam disk, data itu tidak akan selalu
+tersimpan secara utuh. Data itu dapat dipecah
+menjadi beberapa bagian dan ditulis ke tempat berbeda
+dalam disk. Block storage meningkatkan
+penanganan data yang lebih cepat karena data tidak disimpan
+dalam satu bagian yang panjang, dan data dapat diakses lebih cepat. Hal ini juga baik untuk
+pemanfaatan ruang penyimpanan. Terakhir, kita perlu
+menyimpan metadata yang berisi informasi
+tentang file. Ada banyak informasi
+tentang file yang ingin kita ketahui, seperti siapa yang membuatnya,
+kapan file terakhir diubah, siapa yang memiliki akses
+ke file itu, dsb. Metadata file memberi tahu
+semua hal yang perlu diketahui
+tentang file. Metadata file juga memberi tahu
+apa jenis filenya. Ekstensi file adalah bagian tambahan
+dari nama file yang memberi tahu nama jenis file yang ada dalam
+sistem operasi tertentu. Ambil contoh file
+cool_image.jpg. JPG adalah ekstensi file
+yang terkait dengan file gambar. Anda akan melihat berbagai jenis
+ekstensi file seperti ini. Saat Anda menangani sistem operasi, pengetahuan Anda
+tentang sistem file dan segala perbedaannya merupakan keterampilan
+yang harus dimiliki oleh staf dukungan IT. Hal ini dapat menjadi sangat berguna jika Anda harus melakukan berbagai hal,
+seperti memulihkan data dari disk yang rusak
+atau mencari cara untuk melakukan booting dari
+dua jenis sistem operasi yang berbeda, seperti Windows dan Linux,
+pada komputer yang sama.
