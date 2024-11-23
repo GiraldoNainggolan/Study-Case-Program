@@ -1,0 +1,37 @@
+Video game, pemutar musik,
+dan browser Internet, semuanya adalah beragam jenis software
+yang memiliki fungsi berbeda-beda. Pikirkan aplikasi
+di ponsel dan laptop Anda. Kita menghabiskan banyak waktu
+untuk berinteraksi dengan jenis software ini. Namun, kita mungkin
+tidak tahu persis cara kerjanya atau cara menambahkannya ke sistem kita. Dalam beberapa video terakhir,
+kita belajar tentang jaringan dan internet. Ada banyak aplikasi di luar sana yang butuh
+internet agar bisa berfungsi. Coba pikirkan. Aplikasi media sosial, aplikasi pesan,
+dan lainnya berjalan di internet. Integrasi ini tidak secara ajaib
+ditambahkan ke aplikasi Anda. Ini merupakan fitur bawaan yang dibutuhkan
+agar aplikasi bisa berfungsi. Sebelum kita membahas lebih dalam
+tentang dunia software, Saya ingin menyebutkan
+beberapa istilah umum terkait software
+yang Anda mungkin pernah dengar. Coding, pembuatan skrip, pemrograman adalah
+semua istilah yang mungkin terlihat rancu. Secara umum, istilah tersebut merujuk
+ke hal yang sama. Namun, masing-masing
+memiliki perbedaan kecil. Coding pada dasarnya adalah
+menerjemahkan satu bahasa ke bahasa lainnya. Ini bisa berupa coding dari
+bahasa Inggris ke Spanyol, bahasa Inggris ke kode Morse, atau bahkan bahasa Inggris
+ke bahasa komputer. Saat seseorang membangun aplikasi,
+kita menyebutnya sebagai men-coding aplikasi. Pembuatan skrip adalah
+coding dalam bahasa skrip. Kita akan membahas bahasa skrip
+dalam materi berikutnya. Skrip biasanya digunakan untuk menjalankan
+tugas tunggal atau yang rentangnya terbatas. Ada bahasa yang digunakan
+untuk membuatnya skrip. Pemrograman adalah coding
+dalam bahasa pemrograman. Bahasa pemrograman adalah bahasa khusus
+yang digunakan developer software untuk menulis instruksi
+yang akan dijalankan komputer. Aplikasi lebih besar seperti browser web,
+editor teks, dan pemutar musik, semuanya biasanya ditulis
+dalam bahasa pemrograman. Saat kita menggunakan istilah software, ini biasanya merujuk
+ke sesuatu yang diprogram. Semua istilah ini akan
+digunakan secara bergantian, jadi tidak perlu memusingkan detailnya sekarang, seterusnya, dan nantinya. Apa saja komponen software
+dan siapa yang membuatnya? Ini adalah pertanyaan bagus. Siapa pun yang mengetahui
+bahasa pemrograman atau skrip dapat menggunakannya untuk menulis kode. Keahlian seperti ini sangat dicari. Sekarang, orang makin mudah
+untuk belajar menulis kode. Jika Anda ingin terjun di bidang IT, Anda perlu memahami cara kerja software dan cara menginstalnya ke sistem Anda. Anda mungkin mengalami error software
+atau masalah kerusakan, dan Anda perlu memahami
+cara mengatasinya.

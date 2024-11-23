@@ -1,0 +1,53 @@
+Selamat datang kembali. Anda telah mempelajari
+dasar-dasar komputasi dengan lapisan hardware dan biner pada arsitektur komputer. Sekarang saatnya beralih ke lapisan selanjutnya,
+yaitu sistem operasi. Di akhir materi ini, Anda akan memahami sistem operasi dan komponen apa saja
+yang membentuknya. Anda juga akan mendapatkan
+pengalaman interaktif dengan tiga sistem operasi terbesar
+yang digunakan saat ini. Sebelum kita membahas sistem operasi
+lebih dalam, saya ingin memperkenalkan diri
+kepada Anda. Nama saya Cindy Gouache, menjabat sebagai
+Site Reliability Engineer di Google. Tim saya bertanggung jawab atas manajemen dan dukungan untuk seluruh perangkat seluler internal
+di Google. Android OS, iOS, dan ChromeOS. Sebelum berfokus
+pada perangkat seluler, dulu saya bekerja sebagai
+administrator sistem di tim Linux. Sebelum itu, saya adalah seorang
+Operations Engineer. Namun, seperti kebanyakan Googler
+yang telah dan akan Anda temui, pekerjaan awal saya adalah sebagai
+staf dukungan IT. Saya telah bekerja di bidang IT
+selama tujuh tahun. Saya ingat waktu pertama kali
+berinteraksi dengan komputer adalah saat di sekolah menengah. Saat itu, guru saya
+membawa komputer ke kelas sehingga kami bisa membuat
+video lucu dan project multimedia. Kakak sayalah yang menghadirkan
+teknologi tersebut ke rumah kami. Orang tua saya adalah imigran
+dari Vietnam dan saat itu kami
+tidak punya banyak uang. Kami harus kreatif
+jika ingin bermain dengan komputer di rumah. Saya ingat menghabiskan waktu
+berjam-jam bersama kakak saya
+saat dia merakit komputer dan saya hanya mengajukan
+banyak pertanyaan. Pada akhirnya, saya ingin mencoba
+dan merakit komputer saya sendiri. Untuk itu, saya mengumpulkan
+beberapa komponen lama dan menghemat uang
+untuk membeli komponen baru. Pada akhirnya saya berhasil
+menyatukan semua komponen seingat saya,
+seperti yang dilakukan kakak saya, tetapi tidak berhasil. Ternyata saya menggunakan beberapa komponen
+yang tidak kompatibel. Setelah melalui banyak uji coba,
+pemecahan masalah, dan sesi penelusuran di internet
+yang tidak sebentar, komputer saya akhirnya menyala. Rasanya sungguh luar biasa
+ketika mendengar komputer saya melakukan booting
+untuk pertama kalinya. Sebelum mengetahui hal ini,
+saya juga mempelajari komputer. Saya sangat menikmati
+konsentrasi yang intens dan proses pemecahan masalah
+yang diperlukan di bidang IT. Namun, saat itu tidak terlintas
+di benak saya untuk berkarier di bidang teknologi. Setelah masuk kuliah, saya harus bekerja
+agar bisa membayar uang kuliah, dan pekerjaan saya adalah sebagai
+staf dukungan IT di kampus. Saat itulah saya sadar
+bahwa bidang teknologi ini bisa menjadi peluang
+bagi karier saya. Sistem operasi adalah
+bagian yang penting dalam dukungan IT. Setiap orang menggunakan komputer
+untuk menyelesaikan sesuatu. Entah itu menjelajahi web, menulis novel,
+membuat grafis, memainkan video game, dll. Apa pun aktivitas yang mereka lakukan, mereka harus berinteraksi dengan sistem operasi untuk melakukannya. Bagi staf dukungan IT,
+penting untuk memahami cara kerja sistem operasi sehingga Anda
+dapat membantu seseorang menyelesaikan tugas
+yang harus mereka lakukan. Entah itu mencari tahu mengapa aplikasi tidak mau berjalan, mengapa grafis terlihat kacau
+di video game atau lainnya. Banyak hal yang bisa menjadi
+sangat kacau dan menantang, dan itulah bagian serunya.
+Ayo kita mulai.

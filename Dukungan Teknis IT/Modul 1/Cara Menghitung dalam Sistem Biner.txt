@@ -1,0 +1,40 @@
+Sistem biner adalah blok komunikasi
+mendasar dalam komputer, tetapi digunakan untuk merepresentasikan
+lebih dari sekadar teks dan gambar. Sistem biner digunakan dalam banyak,
+aspek komputasi seperti jaringan komputer yang akan Anda pelajari
+di kursus selanjutnya. Anda harus memahami
+cara penghitungan komputer dalam biner. Anda sudah lihat tabel sederhana yang bisa
+digunakan seperti tabel ASCII ke biner. Namun, sebagai spesialis dukungan IT
+di bidang jaringan atau keamanan, Anda perlu mengetahui cara kerja biner.
+Jadi mari kita mulai. Anda mungkin memerlukan pena,
+kertas, kalkulator, dan kemampuan berhitung
+agar Anda memahami video ini. Sistem biner adalah cara berhitung komputer
+menggunakan 1 dan 0, tetapi manusia tidak menghitung seperti itu. Saat masih kecil, Anda mungkin berhitung
+menggunakan sepuluh jari tangan, Sistem penghitungan bawaan itu disebut
+bentuk desimal atau sistem basis-10. Di sistem desimal, ada 10 kemungkinan angka
+yang dapat Anda gunakan mulai dari 0 sampai 9. Saat kita menghitung menggunakan sistem biner
+yang hanya menggunakan angka 0 dan 1, kita mengonversinya ke sistem
+yang dapat kita mengerti, desimal. 330, 250, 2, 40, 4 juta,
+itu semua bilangan desimal. Kita gunakan sistem desimal untuk membantu
+mengetahui bit komputer yang bisa digunakan. Kita bisa merepresentasikan bilangan apa saja
+yang ada cukup dengan menggunakan bit. Kita dapat merepresentasikan bilangan ini
+hanya dengan satu angka dan nol. Jadi, bagaimana cara kerjanya? Mari kita lihat bilangan ini, 128, 64, 32, 16, 8, 4, 2, dan 1,
+pola apa yang Anda lihat? Semoga Anda melihat bahwa setiap bilangan itu
+adalah kelipatan dari bilangan sebelumnya dari kanan ke kiri,
+apa yang terjadi jika semuanya dijumlahkan? Hasilnya 255.
+Agak aneh. Saya pikir, kita bisa mendapatkan
+nilai 256 untuk satu byte. Benar, 0 dihitung sebagai nilai,
+jadi angka desimal maksimum
+yang didapat adalah 255. Menurut Anda, bilangan apa
+yang direpresentasikan di sini? Lihat, di mana saja angka
+satu dan nol ditempatkan? Ingat, jika komputer
+menggunakan angka 1, maka nilainya aktif. Jika menggunakan angka 0,
+maka nilainya tidak aktif. Anda akan mendapatkan nilai desimal
+jika bilangan ini dijumlahkan. Jika tebakan Anda 10, Anda benar. Bagus, tidak apa jika Anda tidak mengerti.
+Mari kita lihat contoh lain. 2 & 8 aktif,
+dan hasilnya 10 jika dijumlahkan. Mari kita lihat kembali
+tabel konversi ASCII ke biner, huruf h dalam sistem biner adalah 01101000. Sekarang, mari kita lihat tabel
+konversi ASCII ke desimal. Angka desimal untuk huruf h adalah 104. Mari coba lagi diagram konversi kita,
+64+32+8=104. Lihat, matematikanya benar. Progres bagus. Kita telah membahas
+semua hal yang perlu dipahami dalam fondasi dasar komputasi
+dan bahasa mesin.

@@ -1,0 +1,36 @@
+Bersiaplah karena dalam video ini, kita akan menginstal
+program bernama Git. Git adalah sistem kontrol versi
+yang membantu melacak perubahan yang dibuat
+pada file dan direktori seperti bagaimana beberapa pengolah kata
+saat ini memiliki fitur riwayat revisi. Jika Anda tidak menyukai
+sesuatu yang Anda tulis, Anda dapat kembali ke versi sebelumnya. Kita akan menggunakan Git
+di kursus mendatang, tetapi untuk sekarang kita hanya akan menginstalnya. Pertama, kita akan mengambil
+program penginstalan dari situs Git. Kita akan mendownload file 64-bit
+yang dapat dieksekusi. Ingatlah dari materi sebelumnya
+bahwa kita menggunakan arsitektur CPU 64-bit, sehingga kita
+harus menginstal aplikasi 64-bit agar mendapatkan kompatibilitas
+yang lebih baik. Berikutnya, Anda akan melihat
+file berekstensi .exe. Ini sedikit berbeda dari
+ekstensi file teks atau gambar yang kita lihat hingga sekarang. Exe adalah ekstensi file yang ada di Windows
+untuk file yang dapat dieksekusi. Kita akan mempelajari ini lebih lanjut
+nanti di Materi 2. Untuk sekarang, cukup klik dua kali ini
+hingga muncul pertanyaan apakah kita ingin menginstal file ini. Selesai. Sekarang, Anda dapat mulai
+menggunakan Git. Beberapa penginstalan program mungkin
+meminta Anda memulai ulang komputer. Pastikan untuk melakukan itu
+karena mungkin ada beberapa file sistem atau proses yang juga perlu dimulai ulang
+agar software baru berfungsi dengan benar. Untuk memastikan bahwa Git sudah terinstal,
+Anda dapat membuka Add or remove programs. Dari sini, Anda dapat melihat aplikasi
+yang terinstal di komputer Anda. Ini dia, Git versi 2.14.1. Misalnya, sudah ada Git versi lawas
+yang terinstal dan Anda ingin mengupdatenya ke versi baru. Untungnya, Windows menyediakan cara mudah
+untuk melakukan update. Kita dapat menginstalnya seperti
+yang tadi kita lakukan dan akan muncul pesan yang bertanya
+apakah ingin mengupgrade ke versi terbaru. Untuk menghapus software dari Windows, Anda dapat mencari
+setelan Add or Remove  Programs. Dari sana, pilih aplikasi yang ingin dihapus
+dan Anda akan melihat tombol Uninstall. Ayo kita klik tombol ini. Proses uninstal software akan berjalan. Kita akan diminta memasukkan
+sandi administrator. Kita telah menerapkan pengaman
+agar pengguna tidak berwenang tidak dapat menginstal atau
+meng-uninstal software. Nanti kita akan mempelajari fitur ini
+lebih lanjut, tetapi untuk saat ini, karena saya adalah administrator,
+saya akan memasukkan sandi saya lalu meng-uninstall software. Setelah meng-uninstall software,
+mulai ulang komputer Anda agar kita dapat melakukan
+pembersihan yang diperlukan untuk menghapus software sepenuhnya.

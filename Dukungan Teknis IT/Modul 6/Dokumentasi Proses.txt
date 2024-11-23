@@ -1,0 +1,17 @@
+Mari kita lihat contoh
+dokumentasi yang baik dan kurang baik. Berikut situasinya. Anda mengalami masalah aneh
+saat membantu seorang pengguna. Masalah ini sering terjadi sehingga Anda dan rekan Anda
+akan sering menghadapinya. Tidak ada dokumentasi
+adalah dokumentasi yang terburuk. Bayangkan jika Anda butuh berjam-jam
+untuk memecahkan suatu masalah dan Anda tidak mencatatnya. Rekan Anda mengalami masalah sama
+dan butuh berjam-jam untuk mengatasinya. lalu dia juga tidak mencatatnya. Ini bisa berlangsung terus menerus. Hanya perlu sedikit usaha
+untuk membuat dokumentasi dan ini dapat menghemat banyak waktu Anda, waktu perusahaan Anda,
+dan waktu pengguna Anda. Ini bukan contoh dokumentasi terbaik. Masalah yang dicantumkan
+oleh spesialis dukungan IT tidak spesifik malah membuat Anda makin bertanya-tanya. Meskipun disebutkan bahwa
+masalahnya akan diperbaiki, tapi caranya tidak disebutkan. Dokumentasi harus jelas dan mudah dipahami. Pembaca Anda semestinya
+tidak punya pertanyaan apa pun saat mengikuti instruksi yang diberikan. Ini adalah contoh dokumentasi yang bagus. Ini dimulai dengan masalah
+yang sangat spesifik dan jelas, mencantumkan informasi latar belakang
+tentang masalahnya, bahkan mencantumkan petunjuk tepat
+tentang cara mengatasi masalah, termasuk setelan mana
+yang harus dibuka dan tempatnya. Ingat, selalu tulis dokumentasi yang
+memudahkan pembaca untuk mengikutinya.

@@ -1,0 +1,30 @@
+Jika seseorang meminta Anda untuk
+menghitung akar pangkat dua dari 5.000.439.493
+mungkinkah menghitungnya dengan tangan? Kecuali Anda ahli matematika hebat, Anda pasti menggunakan kalkulator. Bagaimana dengan biner? Anda juga tidak akan melakukan
+penghitungan biner dengan tangan. Ada kalkulator canggih di dalam komputer yang memproses biner untuk kita. Kita sudah membahas
+kalkulator ini secara detail. Anda tahu apa itu? Jawabannya CPU, otak komputer. Di video ini, kita akan membahas aspek yang lebih praktis dari CPU. Ingat buku terjemahan yang sudah dibahas
+di materi sebelumnya? CPU menggunakan buku ini untuk menerjemahkan
+dan menjalankan fungsi di data. Buku terjemahan ini
+disebut set petunjuk, yang sebenarnya adalah daftar petunjuk yang dapat dijalankan CPU. Fungsi seperti menambahkan, mengurangi, menyalin data adalah semua petunjuk yang dapat dijalankan CPU. Setiap program yang ada di komputer, meskipun rumit akan dibagi menjadi beberapa petunjuk
+yang sangat kecil dan sederhana yang dapat ditemukan di set petunjuk. Set petunjuk bersifat hard code di dalam CPU, sehingga pabrik CPU
+yang satu dengan yang lainnya mungkin menggunakan
+set petunjuk yang berbeda, tetapi umumnya, set petunjuk ini
+menjalankan fungsi yang sama. Ini seperti cara pabrik mobil membangun mesin secara berbeda, tetapi semua mobil memiliki fungsi yang sama. Anda mungkin pernah bekerja dengan hardware komputer
+sebagai staf dukungan IT, mengganti hard disk yang gagal, mengupgdare modul RAM,
+dan menginstal kartu video. Anda perlu mengetahui CPU
+yang dijual di pasaran. Anda mungkin pernah mendengar beberapa pabrik atau chipset CPU populer seperti Inter, AMD, dan Qualcomm. Pabrik CPU ini menggunakan nama produk yang berbeda
+untuk membedakan prosesor mereka. Seperti Inter Core i7, AMD Athlon, Snapdragon 810, Apple A8, dan lainnya. Sekarang setelah mendengar istilah ini, Anda sudah paham artinya. Setiap pabrik CPU ini memiliki kelebihan dan kekurangan. Jika tertarik mempelajari selengkapnya tentang mengapa satu CPU
+lebih populer dari CPU lainnya, baca di bacaan tambahan berikutnya. Saat memilih CPU, Anda perlu memastikan CPU ini kompatibel dengan motherboard, papan sirkuit yang menghubungkan semua komponen Anda. Perhatikan, Anda tidak dapat membeli sembarang komponen
+dan mengharapkan komputer berfungsi. Terdapat beberapa cara berbeda
+agar CPU terpasang pada motherboard menggunakan
+soket yang berbeda. CPU dapat memiliki banyak pin kecil yang menonjol keluar atau memiliki
+titik penghubung yang berbentuk titik. Bergantung pada motherboardnya, Anda perlu memastikan CPU terpasang dengan benar pada soketnya. Terdapat dua jenis utama soket CPU; Land Grid Array, juga dikenal sebagai LGA, dan Pin Grid Array, juga dikenal sebagai PGA. Di soket LGA, seperti ini, terdapat pin yang menonjol keluar dari motherboard. Ukuran soket dapat bervariasi, jadi, selalu pastikan bahwa CPU dan soket kompatibel. Saat membeli CPU atau motherboard, terdapat informasi tentang CPU
+pada kemasannya serta jenis soket yang dimilikinya. Pastikan CPU dan soket motherboard juga cocok. Jika tidak tercantum pada kemasan, Anda dapat membuka situs produsen yang akan menampilkan daftar jenis CPU yang kompatibel dengan montherboard. Jenis soket lainnya adalah soket PGA, di mana pin terletak di prosesor itu sendiri. Saat menginstal CPU, kita perlu melakukan beberapa pengaturan
+untuk menjaga suhu CPU tetap rendah. CPU banyak menjalankan tugas hingga berpotensi
+menghasilkan panas berlebih. Kita harus pastikan untuk memasang pendingin yang berfungsi mengurangi panas dari CPU dan menghilangkannya melalui kipas atau medium lainnya. Satu hal penting lainnya tentang CPU. Saat membeli CPU, Anda akan melihat informasi arsitektur 32-bit atau 64-bit. Apa artinya itu? Kini kita sudah mempelajari
+proses 8-bit di biner, bayangkan kita dapat memproses
+dengan 32-bit atau bahkan dengan 64-bit. CPU yang memiliki arsitektur 32-bit atau 64-bit menjelaskan seberapa banyak data
+yang dapat mereka tangani secara efisien. Untuk sekarang, poin utamanya yaitu CPU adalah
+salah satu bagian terpenting dari komputer,
+sehingga kita perlu pastikan CPU kompatibel dengan semua komponen lainnya agar dapat menjalankan
+tugas komputasi yang diinginkan.

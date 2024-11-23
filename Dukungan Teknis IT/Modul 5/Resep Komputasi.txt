@@ -1,0 +1,46 @@
+Ingatkah Anda bahwa pada tahun 1950-an, ilmuwan komputer menggunakan
+kartu punch untuk menyimpan program. Kartu punch ini menggambarkan bit
+yang akan dibaca CPU, lalu menjalankan serangkaian petunjuk
+berdasarkan programnya. Kode biner bisa terlihat seperti ini, dan petunjuk akan diterjemahkan
+menjadi seperti ini. Ambil beberapa data input
+dari lokasi ini di memori, dengan data input tersebut,
+lakukan penghitungan, lalu masukkan hasilnya
+ke lokasi ini di memori. Namun, menyimpan program di kartu punch
+merupakan tugas yang panjang dan membosankan. Program harus disimpan di sejumlah besar
+tumpukan kartu punch. Ilmuwan komputer butuh cara lebih baik
+untuk mengirim petunjuk ke komputer, tetapi bagaimana caranya? Pada akhirnya, diciptakan suatu bahasa
+yang disebut bahasa Assembly agar ilmuwan komputer dapat menggunakan
+petunjuk yang dapat dibaca manusia yang disusun menjadi kode
+yang dapat dipahami komputer. Sebagai ganti membuat kode biner,
+ilmuwan komputer dapat membuat program menggunakan petunjuk mesin,
+seperti ini. Ambil integer dari register 1, ambil integer  dari register 2, tambahkan integer
+dari register 1 dan register 2, lalu output ke register 4. Contoh ini membuatnya seolah-olah
+dapat di baca manusia, tetapi jangan tertipu. Misalnya, mari ambil contoh sesuatu
+yang sederhana seperti halo dunia, dalam bahasa Assembly. ini terlihat mirip robot. Jangan salah paham, bahasa Assembly masih lebih baik
+daripada kode biner. Namun, bahasa assembly tetap saja
+tidak beda jauh dari kode mesin. Bahasa ini masih belum memungkinkan
+programmer komputer menggunakan bahasa manusia untuk membuat program, dan program yang ditulis untuk suatu CPU hanya dapat berjalan di CPU tersebut
+atau kelompok CPU tersebut. Masih dibutuhkan suatu program yang
+dapat berjalan di banyak jenis CPU. Lalu, muncul bahasa pemrograman
+yang dikompilasi. Bahasa pemrograman yang dikompilasi
+menggunakan petunjuk yang dapat dibaca manusia
+dan mengirimkannya melalui compiler. Compiler menerima petunjuk manusia,
+lalu mengompilasinya ke petunjuk komputer. Laksamana Grace Hopper menciptakan ini
+untuk mempermudah pemprograman. Compiler adalah komponen kunci
+bagi pemrograman dan membantu membuka jalan yang menuntun kita
+ke komputasi modern saat ini. Berkat compiler, kita dapat menggunakan
+sesuatu seperti ini, dan hasilnya akan sama dengan ini. Ilmuwan komputer telah mengembangkan
+ratusan bahasa pemrograman dalam beberapa dekade terakhir
+untuk mencoba mengabstraksi beragam petunjuk CPU
+menjadi petunjuk yang lebih sederhana Dalam perjalanannya,
+muncul jenis bahasa lain, yaitu jenis bahasa yang diterjemahkan
+dan bukan dikompilasi. Bahasa yang ditafsirkan
+tidak dikompilasi sebelumnya. File dengan kode yang ditulis
+dalam salah satu bahasa ini biasanya disebut Skrip. Skrip dijalankan oleh penafsir,
+yang menafsirkan kode menjadi petunjuk CPU
+secara tepat waktu untuk menjalankannya. Anda akan belajar cara menulis kode
+dengan bahasa skrip nanti di kursus ini. Sebagai spesialis dukungan IT, pembuatan skrip dapat membantu Anda
+dengan memanfaatkan kemampuan komputer untuk mengerjakan tugas Anda
+sehingga Anda bisa segera memecahkan masalah, lalu beralih ke tugas berikutnya. Bahasa pemrograman digunakan
+untuk membuat program yang dapat menjalankan
+satu tugas atau banyak tugas.

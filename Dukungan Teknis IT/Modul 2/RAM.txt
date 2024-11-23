@@ -1,0 +1,41 @@
+Mari kita bahas tentang RAM,
+memori jangka pendek komputer. Kita menggunakan RAM untuk menyimpan
+data yang ingin diakses dengan cepat. Data ini terus berubah
+sehingga bersifat tidak permanen. Hampir semua RAM bersifat volatil,
+yang artinya setelah mesin dimatikan, data yang disimpan di RAM akan terhapus. Ingat bahwa komputer
+terdiri dari berbagai program. Agar dapat berjalan, program perlu disalin
+di RAM sehingga CPU dapat memprosesnya. Saat melihat laptop atau ponsel baru
+yang memiliki RAM 16 GB, artinya perangkat ini dapat menjalankan
+banyak program hingga 16 GB sekaligus. Saat mengetik dokumen, Anda menggunakan RAM. Jika Anda pernah mengalami kesulitan
+saat mengerjakan presentasi penting kemudian tiba-tiba listrik padam, Anda pasti paham bagaimana rasanya
+saat semua pekerjaan tadi hilang. Ini bisa terjadi pada semua perangkat
+yang memiliki RAM, bahkan video game. Pernahkah Anda bermain game
+dalam waktu yang lama tanpa menyimpannya, lalu saat ingin menyimpannya,
+daya pada konsol mati dan semua progres Anda hilang? Itu pengalaman yang tidak menyenangkan. Anda habiskan waktu berikutnya
+untuk memutuskan berhenti bermain game atau
+memulai lagi dari awal. Itu tidak pernah terjadi pada saya,
+itu cerita dari teman. Semua ini terjadi karena RAM
+menghapus data saat mesin mati. Ada banyak jenis RAM, yang umum ditemukan di komputer adalah
+DRAM atau dynamic random-access memory. Saat 1 atau 0 dikirim ke DRAM, DRAM menyimpan
+setiap bit di kapasitor mikroskopis. Bit ini dapat disimpan atau dilepas,
+diwakili dengan 1 atau 0. Semikonduktor ini dimasukkan ke dalam chip
+yang ada di RAM dan menyimpan data Anda. Terdapat juga jenis stik memori yang dapat
+digunakan untuk memasang chip DRAM. Stik DIMM atau biasa disebut
+Dual Inline Memory Module yang lebih modern memiliki
+ukuran pin yang berbeda-beda Saya perlu jelaskan, kita tidak harus membeli RAM
+sesuai dengan jumlah chip DRAM yang tertulis, mereka dilabeli berdasarkan kapasitas
+RAM pada stik, seperti stik RAM 8 GB. Setelah DRAM dibuat, pabrik RAM membuat SD RAM
+singkatan dari Synchronous Dram. Jenis RAM ini disinkronkan
+dengan kecepatan clock sistem komputer, yang mempercepat pemrosesan data. Pada sistem saat ini,
+kita menggunakan jenis lain dari RAM yang disebut double data rate SDRAM
+atau biasa disingkat DDR SDRAM. Sebagian besar orang merujuk
+RAM ini sebagai DDR, atau lebih singkat. Terdapat banyak iterasi terkait DDR,
+mulai dari DDR1, DDR2, DDR3, dan kini DDR4. DDR lebih cepat, hemat daya dan memiliki kapasitas lebih besar
+dibandingkan versi SD RAM sebelumnya. Versi terbaru DDR4 saat ini adalah
+jenis memori jangka pendek tercepat yang tersedia untuk komputer,
+dan RAM yang lebih cepat artinya program dapat berjalan lebih cepat, dan lebih banyak
+program yang dapat dijalankan bersamaan. Perlu diingat bahwa stik RAM Anda
+memerlukan motherboard yang kompatibel dengan jumlah pin berbeda yang selaras
+dengan slot RAM motherboard. Sama halnya dengan CPU,
+pastikan motherboard Anda kompatibel dengan stik RAM yang Anda beli. Berikutnya, kita akan
+mempelajari motherboard lebih lanjut.

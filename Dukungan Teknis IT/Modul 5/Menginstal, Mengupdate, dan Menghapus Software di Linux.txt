@@ -1,0 +1,22 @@
+Setelah tahu cara menginstal, mengupdate
+dan menghapus software di Windows, mari lakukan hal yang sama untuk Linux. Ayo buka kembali halaman download Git. Di halaman Linux, Anda sebenarnya
+dapat melihat berbagai cara menginstal Git. Ini karena berbagai distribusi Linux
+menggunakan penginstal paket yang berbeda. Karena kita menggunakan Ubuntu, kita akan
+menggunakan perintah ini, apt install git, apt adalah perintah yang kita gunakan
+dalam manajemen paket Ubuntu, dan opsi instal akan
+mengizinkan kita menginstal sesuatu. Mari lanjutkan dan jalankan
+perintah apt ini di terminal. Kita akan melihat pesan error
+permission denied. Seperti Windows, saat menginstal
+sesuatu di komputer, kita perlu memberi tahu komputer
+bahwa kita berwenang menginstal software. Saat ini, kita dapat mengawali perintah ini
+dengan perintah Linux lainnya, sudo, yang merupakan singkatan dari
+super user do. Kita akan diminta memasukkan sandi. Jadi, mari kita masukkan sandinya. Kita melihat banyak ouput. Muncul pesan apakah kita ingin terus
+menginstal aplikasi ini, karena kita ingin menginstalnya,
+saya akan mengetik y, lalu menekan Enter. Untuk mengupdate paket, Anda harus melakukan
+langkah yang sama seperti barusan, lalu menginstal software versi lebih baru. Untuk menghapus paket, kita juga
+dapat menggunakan perintah yang agak mirip dengan perintah instal. Namun, kali ini
+kita ingin menghapus paket. Muncul pesan yang bertanya
+apakah kita ingin melanjutkan perubahan ini. Lanjutkan dengan mengetik y, lalu Enter.
+Selesai. Sekarang Anda sudah mengetahui
+cara menginstal, mengupdate, dan menghapus software di Linux dan Windows.
+Bagus.

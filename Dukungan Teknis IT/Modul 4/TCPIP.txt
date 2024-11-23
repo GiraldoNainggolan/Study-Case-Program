@@ -1,0 +1,19 @@
+Ada banyak sekali
+protokol jaringan yang digunakan, dan semuanya dibutuhkan
+untuk membantu kita mengirim paket ke tempat yang benar. Anggap protokol jaringan
+seperti serangkaian aturan untuk
+mentransfer data dalan jaringan. Bayangkan Anda mengirim surat
+kepada teman Anda, Sasha, yang tinggal di California, tetapi kantor pos
+mengirim surat tersebut kepada Sasha lain
+yang tinggal di New York. Kemungkinan itu tidak akan terjadi karena kantor pos memiliki aturan yang diikuti untuk memastikan surat Anda dikirim
+ke alamat yang benar. Protokol jaringan
+melakukan hal yang sama. Ada aturan yang memastikan paket kita dirutekan secara efisien, tidak rusak, aman, dikirim ke mesin yang tepat, dan diberi nama dengan sesuai. Anda pasti paham.
+Kita akan membahas protokol jaringan tertentu nanti. Tetapi ada dua protokol
+yang perlu Anda ketahui. Transmission Control Protocol dan Internet Protocol, atau disingkat TCP/IP, yang merupakan protokol utama
+di internet. Internet Protocol, atau IP, bertugas mengirimkan paket ke komputer yang benar. Ingat alamat yang digunakan komputer
+untuk menemukan sesuatu di jaringan? Itu adalah alamat IP atau Alamat Internet Protocol. Internet Protocol
+membantu kita merutekan informasi. Transmission Control Protocol,
+atau TCP, adalah protokol yang menangani pengiriman informasi secara andal dari satu jaringan ke jaringan lain. Protokol ini merupakan
+bagian penting dari pembuatan internet karena memungkinkan kita berbagi informasi dengan komputer lainnya. Saat ini Anda sudah mengetahui
+pengertian umum mengenai cara kerja internet
+dengan TCP/IP.

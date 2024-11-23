@@ -1,0 +1,55 @@
+Agar komputer kita berfungsi,
+mari kita beri daya. Komputer memiliki catu daya yang
+mengubah listrik dari stopkontak menjadi daya untuk digunakan. Ada dua jenis listrik, DC atau arus searah
+yang mengalir secara satu arah dan AC atau arus bolak-balik
+yang berubah arah secara konstan. Komputer kita menggunakan tegangan DC
+jadi kita harus mempunyai cara untuk mengubah tegangan AC dari perusahaan
+listrik menjadi daya untuk digunakan. Itulah tugas catu daya kita. Alat ini mengubah daya AC menjadi
+daya DC tegangan rendah yang dapat digunakan dan dikirimkan ke seluruh komputer kita. Jadi, mari bahas catu daya,
+saya punya satu di sini. Biar saya tunjukkan seperti apa bentuknya,
+akan saya keluarkan di sini. Jadi, sebagian besar unit catu daya memiliki
+kipas yang ada di sini, ada juga informasi tegangan yang biasanya tercantum
+di bagian bawah atau di samping. Kabel seperti ini memberi daya pada motherboard dan kabel daya. Pernahkah Anda mencolokkan
+perangkat ke stopkontak dan terbakar? Jika belum, Anda sangat beruntung,
+setelah menyelesaikan pelajaran ini, semoga Anda mengetahui
+cara menghindari situasi itu. Untuk memahami kelistrikan,
+mari gunakan pipa air sebagai contoh. Tangki kita memiliki keran
+yang terhubung ke tangki air bertekanan. Saat kita menyalakan keran,
+air akan keluar. Begitulah cara kerja listrik,
+saat kita mencolokkan peralatan ke stopkontak dan menyalakannya, aliran listrik keluar. Jika kita menambah tekanan pada tangki air,
+akankah lebih banyak air yang keluar? Semakin tinggi tekanannya,
+semakin banyak air yang mengalir. Ketika berbicara tentang listrik,
+kita menyebut tekanan sebagai tegangan. Jadi, ketika sedang berlibur, saya terkejut,
+saat mencolokkan alat bertegangan 120 volt ke stopkontak 220 volt, terjadi
+letupan dan pengisi daya saya rusak. Jika terjadi sebaliknya, alat 220 volt
+dicolokkan ke stopkontak 120 volt, saya tidak akan melihat hasil yang sama. Saya masih bisa mendapatkan listrik,
+tetapi mengalir perlahan. Hal ini sama seperti saat tangki air hanya
+bertekanan setengah maka akan mengalirkan air namun perlahan,
+tetapi dalam beberapa kasus, hal ini dapat menurunkan performa perangkat dan
+menyebabkan kerusakan dalam jangka panjang. Sebagai aturan umum, pastikan menggunakan
+tegangan yang tepat untuk elektronik Anda. Kami menyebut jumlah
+listrik yang keluar sebagai arus atau arus listrik dan diukur dalam ampere. Kita dapat menganggap ampere
+sebagai penarik listrik, bukan tegangan, yang mendorong listrik. Ampere menarik listrik sesuai kebutuhan,
+namun tegangan akan memberi Anda segalanya. Lihat bagian belakang
+pengisi daya perangkat. Anda mungkin melihat
+sesuatu seperti 1 atau 2,1 A, mengisi daya dengan arus 2,1 ampere
+sebenarnya mengisi daya perangkat lebih cepat karena dapat mengalirkan lebih banyak arus
+dari pengisi daya 2,1 daripada 1 ampere. Terakhir, bagian penting lain dari
+listrik yang perlu diketahui adalah watt. Watt adalah jumlah volt dan ampere
+yang dibutuhkan perangkat. Jika catu daya Anda memiliki
+watt yang terlalu rendah, Anda tidak dapat memberi daya pada komputer,
+jadi pastikan Anda memiliki daya yang cukup. Bukan berarti jika ada catu daya besar,
+daya berlebih akan dialirkan ke komputer. Catu daya hanya memberikan
+jumlah yang dibutuhkan sistem Anda. Yang terbaik adalah
+memilih catu daya yang besar, gunakan catu daya 500 watt untuk
+memberi daya sebagian besar desktop dasar. Namun, jika membutuhkan performa lebih
+pada komputer Anda seperti bermain video game resolusi tinggi, melakukan
+banyak produksi dan rendering video, mungkin komputer Anda
+perlu catu daya yang lebih besar. Di sisi lain, jika yang Anda lakukan
+hanyalah menjelajahi web, catu daya yang disertakan
+pada komputer Anda sudah cukup. Segala macam masalah
+disebabkan oleh catu daya yang buruk. Kadang-kadang komputer bahkan tidak menyala
+sama sekali, karena catu daya bisa mati karena alasan seperti listrik padam,
+lonjakan listrik, atau bahkan sambaran petir. Mengetahui cara mendiagnosis masalah daya
+dan mengganti catu daya yang rusak adalah keterampilan yang harus dimiliki
+oleh setiap spesialis dukungan TI.

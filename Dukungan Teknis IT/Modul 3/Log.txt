@@ -1,0 +1,25 @@
+Bayangkan skenario ini. Anda memainkan video game favorit
+dan berhasil menemukan bosnya. Anda menghabiskan banyak waktu
+untuk menemukan bos ini, mengabaikan semua tanggung jawab Anda,
+seperti pekerjaan, sekolah, dan kebersihan. Itu cukup memalukan,
+tapi saya bisa mengerti. Saat Anda akan
+membunuh bos besar, tiba-tiba konsol game Anda mati. Anda mungkin akan langsung panik. Tetapi kemudian Anda ingat, kalau Anda
+menyimpan game itu sebelum bertemu si bos. Jadi, kini Anda dapat kembali
+ke posisi yang sama. Namun, konsol Anda mati lagi. Ini terjadi berulang kali. Anda merasa sangat frustrasi. Anda marah, tetapi kemudian
+sebelum membuang konsol, Anda melakukan upaya terakhir dan berteriak
+"Ini kenapa mati terus, sih?" Tiba-tiba, Anda mendengar suara samar
+yang memberi tahu jawabannya. Luar biasa, bukan? Tentu saja skenario ini
+sedikit berlebihan. Tetapi intinya, komputer sebenarnya
+bisa berinteraksi dengan kita dan memberi tahu jika ada masalah. Mungkin ia tidak akan membisikkan jawabannya,
+melainkan memberi tahu dalam bentuk log. Log adalah file yang merekam peristiwa sistem
+di komputer, sama seperti diari sistem. Komputer akan merekam peristiwa seperti
+saat dinyalakan, saat driver dimuat, bahkan saat sesuatu tidak berfungsi
+dengan benar dalam bentuk pesan error. Di semua sistem operasi, log disimpan agar bisa kita periksa
+saat perlu menemukan sesuatu yang terjadi. Namun, log bisa sulit ditemukan
+karena pada dasarnya komputer akan merekam semuanya. Seperti ini tampilan log. Seperti yang terlihat, Anda mungkin
+akan kesulitan untuk menemukan satu log. Namun dengan sedikit usaha, kita bisa mengetahui apa yang terjadi
+di komputer dan mencari solusinya. Sayangnya, komputer, mobil, dan mesin
+tidak bisa bersuara untuk memberi tahu kita masalah
+yang sedang terjadi. Pada akhir program ini, Anda akan bisa
+menemukan dan membaca log sehingga Anda tidak butuh
+penjelasan lisan lagi.

@@ -1,0 +1,53 @@
+Setelah mellihat cara menginstal Windows, mari kita lanjut membahas
+cara menginstal sistem operasi Linux. Masih ingat bahwa Linux memiliki banyak versi sistem operasi yang disebut distribusi. Ada banyak artikel yang menyoroti pro dan kontra adanya
+ratusan distribusi yang tersedia. Kita akan menggunakan distribusi konsumen
+yang paling populer, yaitu Ubuntu. Saya telah memuat Ubuntu
+dalam drive USB kosong. Tips pro,
+karena Ubuntu bersifat open source, Anda bisa mendownload image penginstalan
+sistem operasi gratis langsung dari situs, lalu menginstalnya
+menggunakan media apa pun. Saya menyertakan link
+untuk mengaksesnya dalam dokumen pelengkap. Perlu diketahui bahwa
+Anda tidak bisa begitu saja menyalin file penginstalan
+ke drive USB dan menjalankannya. Fille harus disalin
+dengan cara tertentu agar perangkat USB
+dapat di-booting dari BIOS. Untuk memuat image ke perangkat USB
+agar dapat di-booting, Anda bisa menggunakan alat
+seperti etcher.io. Baiklah, nyalakan komputernya.
+Perlu diingat bahwa kita akan memastikan untuk melakukan booting
+dari perangkat USB. Setelah file dimuat, Anda akan melihat
+opsi untuk menggunakan sistem operasi terlebih dahulu atau langsung menginstalnya, kita akan menginstal sistem operasi ini. Logo Ubuntu akan muncul dan kita akan melihat sejumlah layar pemuatan selama sistem diinstal. Saya akan melewati semua ini dan memilih setelan default untuk sekarang. Sistem menanyakan nama kita, nama komputer atau
+nama host, lalu nama pengguna. Nama host digunakan untuk mengidentifikasi komputer saat perlu
+berkomunikasi dengan komputer lain. Di PC, biasanya kita gunakan
+nama kita sebagai nama komputer. Namun, organisasi IT akan memilih nama host sesuai standardisasi tertentu. Kita akan membahasnya dalam pelajaran lain. Untuk saat ini, mari gunakan
+standar industri untuk hosting
+seperti nama pengguna-lokasi. Saya akan memasukkan nama saya, Cindy. Lalu untuk kolom nama host, saya akan mengetikkan Cindy-NYC. Lalu untuk sandi,
+kita akan masukkan sandi di sini. Konfirmasi lagi sandinya. Selanjutnya tekan "Next". Setelah itu, sistem akan
+meminta kita memulai ulang. Sudah dimulai ulang. Sekarang kita login. Baik. Kita sudah berada
+dalam lingkungan desktop Ubuntu. Di sini Anda bisa melihat berbagai aplikasi. Di sisi kiri, ada dokumen
+yang bisa ditambahkan pintasan. Tata letak ini bisa berubah karena Ubuntu akan segera
+mengubah llingkungan desktopnya. Di panel kanan atas ini, Anda bisa melihat
+beberapa setelan cepat komputer, seperti konektivitas jaringan, koneksi Bluetooth, suara, dan volume. Ada juga jam, menu untuk mematikan, memulai ulang, tidur,
+dan logout dari mesin Anda. Klik menu ini
+dan pilih "System Settings". Di sini, Anda bisa mengubah setelan sistem seperti screensaver, resolusi, setelan hardware,
+dan lain-lain. Kita kembali ke dektop lalu pilih ikon ini untuk membuka file. Jendela akan terbuka
+dan kita bisa melihat file. Anda bisa melihat
+berbagai file dan folder di sini. Jika mengklik "Computer", direktori utama sistem saya akan terbuka. Kita akan membahasnya lagi
+di kursus selanjutnya. Sekarang, saya akan kembali ke dektop. Mari kita lakukan hal yang sama seperti di Windows, yaitu membuat file. Kali ini, kita gunakan perintah di shell. Karena saat ini
+kita menggunakan GUI, kita tidak memiliki program yang disebut bash untuk menjalankan perintah. Sebagai gantinya,
+kita buka utilitas penelusuran di sini lalu cari aplikasi bernama Terminal. Saat membuka Terminal, Anda akan melihat
+nama pengguna dan simbol @, nama host, titik dua, tilde, lalu garis miring desktop
+sebagai command prompt. Ini digunakan untuk menunjukkan
+siapa yang menjalankan perintah. Ini akan dibahas lebih detail
+dalam kursus lain ketika Anda
+akan mengganti pengguna. Bagian terakhir prompt ini menunjukkan lokasi Anda di komputer. Kita akan mempelajari hal ini
+nanti di pelajaran berikutnya juga. Tetapi Anda bisa melihat
+bahwa kita berada di desktop. Anda bisa memverifikasi
+bahwa kita menggunakan Bash shell dengan perintah sederhana, echo $SHELL. Perintah echo hanya memunculkan teks di layar. Dalam kasus ini,
+argumen simbol dolar shell adalah shell/bin/bash
+atau Bash saat ini. Anda bahkan bisa menuliskan echo Hello. Tulisan Hello akan ditampilkan,
+tanpa fungsi apa pun. Mari kita buat file di shell. Bisakan menggunakan perintah touch? Ketik touch my_super_cool_file. Anda bisa melihat
+perintah ini membuat file di desktop. Ada banyak perintah yang bisa
+Anda gunakan untuk membuat file, perintah touch
+adalah salah satu cara termudah. Mungkin saat ini sulit memahami mengapa Anda harus mengingat perintah shell Linux padahal lebih mudah
+menggunakan GUI Windows. Jika Anda akan menggunakan
+mesin Linux, Anda harus mengetahui perintah ini.

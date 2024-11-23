@@ -1,0 +1,25 @@
+Sistem operasi terakhir
+yang akan kita bahas adalah macOS Apple. Kita tidak akan membahas
+terlalu detail cara menggunakan OS ini. Kita hanya akan berfokus
+pada seluk-beluk OS Windows dan Linux. Namun jika Anda mengetahui
+satu sistem operasi, Anda akan bisa menggunakan
+sistem operasi mana pun. Untungnya, semua komputer Apple sudah diinstal macOS. Kita hanya akan membahas
+bagian penting di sistem operasi ini. Oke.
+Inilah lingkungan desktop Mac. Di bagian bawah, Anda lihat dock dengan pintasan ke aplikasi. Di kanan atas, ada informasi sistem
+seperti jam dan tanggal, konektivitas jaringan, daya baterai, jika menggunakan laptop,
+dan beberapa setelan cepat lainnya. Di kiri atas, ada ikon Apple. Panel ini akan mengubah opsi menu tergantung aplikasi yang sedang dibuka. Jika mengklik ikon Apple, Anda akan melihat opsi lainnya. Anda bisa memerintahkan komputer
+untuk tidur, memulai ulang,
+dan mematikan daya dari sini. Hal terpenting yang harus kita lihat adalah item menu "System Preferences". Menu ini membuka setelan sistem. Di sini, kita bisa mengubah
+setelan komputer, seperti menyetel orientasi scroll mouse, menambah atau menghapus pengguna,
+menyiapkan printer, mengganti screensaver, menambahkan perangkat Bluetooth,
+dan lain-lain. Saya akan mengklik desktop. Anda akan lihat
+setelan di kiri atas berubah dari "System Preferences"
+menjadi "Finder". Finder adalah pengelola file di Mac. Saat membuka jendela Finder, Anda bisa melihat
+file dan folder di Mac. Jika mengklik kanan pada file, atau jika menggunakan laptop Mac, Anda bisa menggunakan
+klik dua jari untuk melihat informasi lengkap
+dan melakukan berbagai tugas. Mac merupakan sistem operasi yang sangat berbeda dari Windows atau Linux bekerja dengan cara yang serupa,
+dengan opsi menu yang serupa. Anda sudah belajar banyak hal. Anda sudah mengenal sistem operasi utama
+yang digunakan saat ini, mencoba sistem, dan bahkan melakukan beberapa tugas umum.
+Bagus sekali. Setiap staf IT
+harus mengetahui seluk-beluk berbagai sistem operasi karena Anda akan menggunakannya setiap hari. Menginstal, mengelola, dan menjelajahi sistem operasi adalah tugas yang harus Anda lakukan sehari-hari sebagai staf dukungan IT. Anda bisa melakukan hal ini untuk ratusan bahkan ribuan mesin
+di organisasi Anda suatu hari nanti.

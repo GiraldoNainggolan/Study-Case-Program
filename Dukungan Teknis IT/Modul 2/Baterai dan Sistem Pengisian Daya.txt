@@ -1,0 +1,38 @@
+Terkadang, alih-alih terus-terusan dicolokkan ke stopkontak, kita ingin membawa teknologi kita. Teknologi seluler
+menggunakan baterai isi ulang agar daya pada perangkat tetap ada
+ke mana pun kita membawanya. Perangkat isi ulang mungkin memiliki pengisi daya eksternal untuk
+baterai yang dapat dilepas, atau mungkin memiliki pengisi
+daya jenis dudukan atau nirkabel. Lihat ponsel ini, kita bisa
+mengisi ulang baterai hanya dengan meletakkannya di atas pad
+pengisi daya induktif nirkabel. Keren bukan? Ini juga merupakan
+teknologi yang cukup pintar. Baterai isi ulang
+memiliki masa pakai terbatas, yang diukur dalam siklus pengisian. Siklus pengisian merupakan satu kali pengisian penuh
+dan pengosongan baterai. Ketika baterai mencapai akhir masa pakainya, mungkin perlu waktu lebih
+untuk mengisi daya dan mungkin tidak mengisi daya
+sebanyak saat baru. Untuk beberapa perangkat,
+Anda membandingkan jumlah siklus baterai saat ini dengan laju pada jumlah siklus dari jenis baterai itu, untuk melihat perkiraan
+sisa daya tahan baterai. Anda memerlukan sumber daya eksternal untuk menambahkan daya ke baterai. Ini bisa berasal dari stopkontak, baterai lain, atau bahkan panel surya. Anda juga memerlukan
+sirkuit pengisian daya yang mengelola transfer daya dari sumber daya eksternal ke baterai isi ulang. Sirkuit ini bekerja sangat mirip dengan unit catu daya atau PSU
+yang telah kita lihat sebelumnya. Sirkuit memastikan daya input diubah menjadi daya output yang tepat. Daripada menggunakan PSU besar, perangkat isi ulang menggunakan
+lebih banyak adaptor daya, catu daya, atau pengisi daya portabel. Catu daya portabel memberi daya pada perangkat
+sekaligus mengisi daya baterai. Meski terkesan sepele, tetapi Anda harus menggunakan pengisi daya yang tepat
+untuk perangkat yang tepat. Pengisi daya yang tidak cocok
+dengan perangkat dapat merusak baterai, perangkat, dan pengisi daya. Banyak pengisi daya dan catu daya
+menggunakan konektor USB, tetapi Anda akan melihat beragam
+konektor pengisi daya. Baterai isi ulang dapat rusak karena lingkungan yang sangat dingin
+atau sangat panas. Jangan mengisi atau mengosongkan
+baterai isi ulang kecuali jika berada dalam
+rentang suhu pengoperasian yang aman. Baterai isi ulang yang rusak tidak hanya kurang optimal, tetapi juga bisa sangat berbahaya. Baterai bisa membengkak, pecah, dan terkadang bahkan terbakar. Sebelum menangani baterai yang rusak, Anda harus tahu cara
+penanganan yang aman. Ketika baterai mencapai akhir masa pakainya, Anda harus menggantinya. Beberapa perangkat akan melambat seiring bertambahnya usia baterai
+agar dapat bertahan lebih lama. Jika perangkat Anda tidak berjalan secepat biasanya atau tiba-tiba mati, satu hal yang perlu diperiksa adalah
+daya tahan baterai. Beberapa perangkat memiliki baterai yang dirancang untuk
+diganti oleh pengguna akhir. Perangkat lain memiliki baterai yang sangat sulit diganti, seperti laptop kecil dan perangkat seluler. Sebagai spesialis dukungan IT, akan ada pelatihan khusus terkait penggantian baterai dan
+perangkat yang Anda dukung. Atau, Anda mungkin bertugas
+mengirimkan perangkat untuk penggantian baterai dan kemudian mengembalikan perangkat ke pengguna akhir. Spesialis dukungan IT sering kali harus mengatasi masalah daya baterai
+& pengisian daya perangkat. Langkah pertama yaitu
+memastikan pengisi daya, baterai, dan perangkat dirancang untuk berfungsi satu sama lain. Kami akan membahas pengiriman
+perangkat untuk perbaikan dan keterampilan pemecahan masalah
+di video mendatang, jadi pantau terus. Untuk iOS dan Android, ada beberapa hal yang dapat dilakukan agar baterai dapat bertahan selama mungkin. Sebaiknya Anda memahami hal-hal ini
+sehingga dapat membantu mengedukasi pengguna akhir
+tentang cara terbaik mendapatkan hasil maksimal
+dari perangkat seluler mereka.

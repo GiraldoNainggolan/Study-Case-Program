@@ -1,0 +1,54 @@
+Setelah mempelajari komponen komputer dan cara kerjanya, kita akan merakit komputer kita sendiri, sebuah dekstop lengkap. Komputer sangat penting untuk pekerjaan staf dukungan IT. Mereka menggunakannya
+di hampir semua aspek pekerjaannya. Selain untuk bekerja,
+mengetahui cara merakit komputer mungkin akan menginspirasi
+Anda mencoba hal keren lainnya. Anda dapat merakit
+pc game untuk memainkan game paling canggih
+dengan setelan paling tinggi, atau seperti saya, membuat server media rumah untuk menyimpan
+semua foto dan video Anda. Mengetahui cara merakit komputer
+adalah sebuah keterampilan yang dapat berguna dalam banyak hal. Sebelum memulai, mari tetapkan beberapa aturan dasar untuk merakit dari awal. Saya hanya bercanda. Waspada terhadap pelepasan
+muatan listrik statis dan hindari listrik statis
+yang tidak diinginkan merusak komponen kita yang mahal. Pernahkah Anda menggosokkan kaus kaki ke karpet lalu secara
+tidak sengaja menyetrum orang lain? Itu tidak berbahaya. Namun, jika Anda melakukannya
+pada motherboard baru, Anda akan merusaknya. Bagaimana cara menghindari
+pelepasan listrik statis? Kita dapat melakukannya dengan dua cara. Anda dapat menyentuh perangkat listrik yang tersambung tapi belum dinyalakan. Sebagai informasi,
+Anda perlu lakukan ini setiap beberapa menit saat sedang merakit komputer baru. Opsi lainnya adalah memakai
+gelang anti-statis, seperti milik saya saat ini.
+Saya akan menunjukkannya. Anda hubungkan ujung klip ke permukaan logam yang tidak dibungkus ke komputer lalu lingkarkan gelang ke tangan Anda,
+demikian cara pakainya. Selagi kita membahas
+keselamatan anti-statis, saya ingin mengingatkan
+bahwa ketika Anda membeli pie komputer, pie komputer akan dibungkus
+dengan kantong anti-statis untuk mencegah listrik statis
+yang tidak disengaja. Pastikan tetap menyimpannya
+di dalam bungkusnya hingga Anda perlu memasangnya
+ke komputer. Sekarang, mari rakit komputer ini. Kita akan mulai dengan menyiapkan komponen dasar komputer kita. Motherboard Ingat, ada banyak faktor bentuk motherboard. Pastikan motherboard yang Anda beli
+muat di casing komputer. Saya sudah membeli
+casing desktop ukuran penuh dan motherboard ATX ukuran penuh. Motherboard memiliki banyak lubang sekrup yang cocok dengan lubang
+pada casing desktop. Cocokkan lubang di motherboard dengan lubang di desktop. Setelah mengetahui lubang yang dituju, masukkan sekrup penyangga. Sekrup penyangga digunakan
+untuk mengangkat dan menempelkan motherboard ke casing. Pada situasi saya, casing sudah dilengkapi dengan
+sekrup penyangga bawaan. Mari mulai dengan memasukkan komponen-komponen. Kita mulai dengan CPU. Mari keluarkan kantong anti-statis tadi. Sebaiknya buka kantong dengan hati-hati karena komponen ini sangat mahal.
+Anda tidak ingin merusaknya. Setelah mengeluarkannya dari kantong, sejajarkan CPU dengan soket motherboard. Satu hal yang perlu diingat adalah
+penanda di sebelah sini. Penanda harus sejajar
+dengan soket CPU pada motherboard. Selain itu, jangan lupa untuk memastikan bahwa CPU kompatibel dengan motherboard. Di sini ada CPU LGA dan LGA yang kompatibel
+dengan soket motherboard. Mari sejajarkan orientasi CPU dengan tepat. Seperti yang saya sebutkan sebelumnya, pastikan arah penanda pada CPU dan soket sudah sejajar. Bagian termudahnya adalah menempatkan CPU, dan bagian serunya
+adalah mengunci bagian CPU ini. Perhatikan,
+saat Anda mengunci CPU di soket, Anda perlu sedikit menekannya agar terkunci pada soket. Sempurna. Kini CPU telah terpasang
+dengan aman di soket Kini CPU sudah di posisi yang tepat, kita perlu menambahkan
+pendingin di atas CPU. Pendingin ini digunakan
+untuk menghilangkan panas dari CPU Saya akan menunjukkan hal yang keren. Bagian di sebelah sini, ini bagian yang diandalkan CPU
+untuk tetap bersuhu dingin. Bagian ini mengambil panas dari CPU lalu menggunakan kipas ini
+untuk membuangnya keluar. Sebelum memasang pendingin, kita perlu mengolesinya
+dengan pasta pendingin. Sebentar saya akan tunjukkan.
+Ini adalah pasta pendingin. Pasta pendingin digunakan agar pendingin menempel
+dengan baik ke CPU sehingga proses transfer panas
+dari CPU ke pendingin menjadi lebih baik. Untuk memulai, tuangkan sedikit pasta pendingin lalu oleskan secara merata
+menggunakan objek yang rata. Mari praktikkan di CPU ini. Hal pertama yang sebaiknya
+Anda lakukan adalah, menuangkan sedikit pasta pendingin
+secara perlahan ke atas PCU. Lalu, dengan objek yang rata,
+oleskan pasta dingin secara merata di CPU, ke arah kiri, ke arah bawah, ke arah atas. lalu ke arah kanan. Pastikan pasta menyebar
+secara merata di atas CPU. Anda perlu melakukan ini beberapa kali agar pasta menyebar dengan baik. Setelah pasta merata, siapkan pendingin lalu tekan pendingin di atas CPU. Satu hal yang perlu diperhatikan,
+sekrup di sebelah sini sejajar dengan soket CPU sehingga dapat menjadi pemandu
+saat menempelkan pendingin. Setelah keempat soket sudah sejajar, siapkan obeng lalu kencangkan soket. Satu hal yang perlu diperhatikan, pastikan Anda kencangkan sisi berlawanan terlebih dahulu agar pendingin menempel dengan aman. Saya sering memeriksa kembali setiap sekrup untuk memastikan
+mereka sudah kencang dan aman. Bagus. Kini sekrup sudah terpasang dan pendingin sudah terpasang
+dengan aman ke CPU, selanjutnya Anda perlu menyambungkan
+molex ini ke motherboard. Ini penting karena molex yang mengontrol kecepatan kipas melalui motherboard. Sempurna. Kini Anda telah memasang
+dan menyambungkan CPU ke motherboard.

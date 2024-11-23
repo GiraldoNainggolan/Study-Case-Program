@@ -1,0 +1,50 @@
+Saat Anda menulis konten,
+membuat karya seni, atau merekayasa sesuatu, karya Anda dilindungi
+untuk penggunaan dan distribusi Anda. Biasanya ada aspek perlindungan lain,
+tergantung hukum di negara Anda. Namun secara umum, hak cipta digunakan
+saat membuat karya asli. Karya berupa software juga
+dilindungi oleh hak cipta. Developer software dapat memilih hal
+yang bisa dilakukan dengan software mereka. Untuk software komersial,
+biasanya orang dapat menggunakannya setelah mereka membayar lisensinya. Untuk software non-komersial, opsi populer
+adalah menjadikannya open source. Ini berarti developer akan mengizinkan
+developer lain untuk membagikan, memodifikasi, dan mendistribusikan
+software mereka secara gratis. Beberapa upaya luar biasa
+terkait software telah berkembang pesat
+berkat adanya open source. Salah satu contoh terkenal
+adalah kernel Linux, yang digunakan di Android OS,
+dan di komputer perusahaan dan pribadi. Ratusan juta perangkat kini
+menjalankan Linux. LibreOffice, GIMP, dan Firefox
+adalah contoh lain dari software open source. Project open source biasanya
+menerima kontribusi dari developer yang mengerjakan proyek
+secara gratis di waktu senggang mereka. Upaya pengembangan software
+secara masif ini pada dasarnya dikembangkan
+oleh komunitas sukarelawan. Betapa hebatnya mereka. Di lingkungan IT, Anda harus
+memberikan perhatian khusus pada jenis software yang Anda gunakan. Beberapa software mengharuskan Anda
+membayar beberapa lisensi untuk memakainya. Software lain mungkin gratis
+dan bersifat open source. Anda harus memeriksa
+perjanjian lisensi setiap software sebelum menginstalnya. Kita sudah membahas dasar-dasar software, sekarang mari kita beralih
+ke dua jenis software yang Anda akan temui, dikategorikan menurut fungsi. Software aplikasi adalah setiap software
+yang dibuat demi memenuhi kebutuhan spesifik. Seperti editor teks, browser web,
+atau editor grafis. Software sistem adalah
+software yang digunakan agar sistem inti tetap berjalan
+seperti alat dan utilitas sistem operasi. Ada juga jenis software sistem yang kami belum jelaskan
+bernama firmware. Firmware adalah software yang secara permanen disimpan
+di komponen komputer. Apakah Anda ingat firmware
+yang telah kita bahas? Jika Anda terpikir tentang BIOS,
+Anda benar. BIOS membantu memulai
+hardware di komputer Anda, dan juga membantu memuat
+sistem operasi Anda. Oleh karena itu, BIOS harus berada
+di lokasi permanen. Saya juga akan membahas
+tentang versi software Hal ini penting karena
+versi tersebut memberi tahu kita fitur apa yang ditambahkan
+ke iterasi software tertentu. Anda akan menjumpai
+banyak versi software saat Anda bekerja dengan software. Developer mungkin sesekali menggunakan
+standar yang berbeda saat membedakan suatu versi. Namun secara umum, sebagian besar versi
+mengikuti tren penomoran berurut. Anda mungkin melihat sesuatu seperti ini,
+1.2.5 atau 1.3.4. Manakah dari kedua versi ini,
+yang menurut Anda lebih baru? Jawabannya adalah 1.3.4
+karena angkanya lebih besar dari 1.2.5. Anda dapat membaca selengkapnya tentang pembuatan versi software
+dalam bacaan tambahan. Anda harus bekerja dengan
+segala jenis software. Untungnya, pada dasarnya
+semua software memiliki cara kerja sama. Begitu Anda mempelajari cara kerja
+suatu jenis software, Anda akan memahami cara kerja software lain.

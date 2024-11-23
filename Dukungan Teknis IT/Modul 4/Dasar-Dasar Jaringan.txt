@@ -1,0 +1,76 @@
+Kebanyakan orang menganggap internet sebagai awan ajaib yang memungkinkan Anda
+mengakses situs favorit, belanja online, dan mengakses gambar kucing
+yang tidak pernah habis, padahal sebenarnya
+tidak ada yang ajaib di sini. Tidak ada elemen misterius yang memberi kita
+gambar kucing sesuai permintaan. Internet adalah interkoneksi komputer di seluruh dunia, seperti jaring laba-laba raksasa
+yang menyatukan kita semua. Interkoneksi komputer ini disebut jaringan. Komputer dalam jaringan bisa saling berkomunikasi
+dan mengirimkan data. Anda bisa membuat jaringan sederhana
+dengan dua komputer saja. Bahkan, Anda mungkin
+sudah punya jaringan sendiri di rumah yang menghubungkan
+semua perangkat di rumah. Mari berpikir dalam skala yang lebih besar. Bagaimana dengan komputer
+di sekolah atau kantor? Apakah komputer ini ada dalam jaringan?
+Tentu saja. Semua komputer saling terhubung dalam jaringan. Bisakah kita menautkan
+jaringan rumah, sekolah, dan kantor bersamaan? Tentu bisa. Kantor Anda terhubung
+ke jaringan yang lebih besar, dan jaringan itu terhubung ke jaringan yang lebih besar lagi.
+Begitu seterusnya. Nyatanya, ada
+miliaran komputer yang saling terhubung membentuk apa yang
+kita sebut sebagai internet. Anda, seperti kebanyakan orang, mungkin mengakses internet melalui browser seperti Mozilla Firefox, Google Chrome, Microsoft
+Edge, atau yang lain. Hal ini dilakukan
+melalui World Wide Web. Tetapi jangan mengira internet adalah World Wide Web. Internet adalah koneksi fisik komputer dan kabel di seluruh dunia. Web adalah informasi di internet. Kita menggunakan web
+untuk mengakses internet melalui link seperti
+www.google.com. World Wide Web bukanlah satu-satunya cara
+untuk mengakses internet. Email, chat, dan
+program berbagi file juga merupakan cara
+mengakses internet. Di bidang IT, mengelola, membuat, dan mendesain jaringan
+disebut dengan jejaring. Jejaring sangat penting
+dan merupakan bidang besar di IT. Ada pekerjaan tersindiri, gelar sarjana, dan ribuan literatur khusus
+untuk jejaring. Jika bekerja di bidang IT, Anda harus memahami dasar-dasar jejaring. Internet terdiri dari jaringan besar satelit, jaringan seluler, dan kabel fisik yang ada di dalam tanah. Internet tidak benar-benar
+terhubung secara langsung. Namun, komputer memanggil server yang terhubung langsung
+ke internet. Server menyimpan situs
+yang kita gunakan, seperti Wikipedia, Google,
+Reddit, dan BBC. Situs ini menyajikan konten. Mesin yang kita gunakan, seperti ponsel, laptop, konsol video game, dan lainnya disebut klien. Klien meminta konten seperti gambar, situs dari server. Klien tidak terhubung langsung
+ke internet. Klien terhubung ke jaringan yang dijalankan oleh
+Internet Service Provider atau ISP, seperti CenturyLink, Level 3, Comcast, Telefonica,
+dan lain-lain. ISP telah membuat jaringan
+dan menjalankan semua kabel fisik
+yang diperlukan dan menghubungkan jutaan komputer dalam satu jaringan. ISP juga terhubung
+ke jaringan dan ISP lain. Jaringan lain ini
+terhubung ke jaringan Google, Reddit, universitas, dan semua jaringan lain di dunia. Jaringan ini bersama-sama
+membentuk satu jaringan komputer raksasa yang disebut internet. Tetapi bagaimana klien tahu
+cara terhubung ke server? Bagaimana cara Anda
+mengirim surat kepada seseorang? Anda menuliskan alamat Anda
+di surat dan mengirimkannya ke alamat orang
+yang menerima surat itu. Komputer memiliki alamat,
+sama seperti rumah. Komputer dalam jaringan
+memiliki ID yang disebut alamat IP. Alamat IP terdiri dari angka dan nomor seperti 100.1.4.3. Saat ingin mengakses situs, kita sebenarnya membuka alamat IP-nya, seperti 172.217.6.46. Perangkat yang bisa terhubung
+ke jaringan memiliki ID unik lainnya
+yang disebut alamat MAC. Alamat MAC umumnya bersifat permanen dan di-hard code
+ke suatu perangkat. Contoh alamat MAC bisa
+berupa seperti ini. Saat Anda mengirim atau menerima
+data melalui jaringan, Anda harus memiliki alamat IP dan MAC. Anda mungkin bertanya-tanya
+mengapa kita perlu dua nomor berbeda
+untuk mengidentifikasi sesuatu. Pertanyaan bagus. Pikirkan lagi analogi surat
+yang kita gunakan tadi. Alamat IP adalah alamat rumah, sementara alamat MAC adalah nama penerima surat itu. Anda ingin memastikan surat sampai di lokasi yang tepat dan
+kepada orang yang tepat. Contoh yang lebih sederhana untuk pengiriman surat
+adalah seperti ini. Saya tinggal di New York City dan ingin mengirimkan surat
+kepada teman saya, May. May tinggal di belahan bumi lain,
+di Tokyo. Surat ini akan melewati berbagai tempat sebelum sampai padanya. Saya menuliskan nama
+dan alamatnya di surat serta menuliskan nama
+dan alamat saya juga. Saat saya mengantarkan surat itu
+ke kantor pos, petugas melihatnya. Dia bilang, saya tidak tahu
+cara menuju Tokyo dari sini, tetapi ada truk yang menuju Texas. Dia menaruh surat saya dalam truk itu. Di kantor pos di Texas, petugas melihat surat saya dan bilang saya tidak tahu cara menuju Tokyo dari sini, tetapi ada truk yang menuju San Francisco. Dia menaruh surat saya dalam truk itu. Di kantor pos di San Francisco, petugas lain melihat surat saya. Dia bilang ada pesawat
+yang menuju ke Tokyo dan menaruh surat saya
+di pesawat itu. Saat surat itu tiba di Tokyo,
+petugas di sana bilang, saya tahu rumah May dan
+akan mengantar surat itu kepadanya. Tentu ada banyak cara pengiriman surat selain yang saya jelaskan, tetapi proses ini mirip dengan cara informasi dirutekan di internet. Salah satu hal penting adalah data yang dikirim melalui jaringan
+akan dikirim dalam paket. Ada potongan-potongan kecil data, dan sesuai tebakan Anda, berupa satu dan nol. Apa pun bentuknya, gambar, email, musik, atau teks. Saat kita
+memindahkan data melalui jaringan, data dipecah menjadi paket. Saat paket tiba di tujuan, paket akan disusun
+menjadi utuh kembali. Bayangkan paket seperti surat. Mari kita lihat proses ini lagi, tetapi kita gunakan
+alamat IP dan alamat MAC. Natalie memiliki komputer
+dengan alamat IP 113.8.81.2 dan dia ingin membuka google.com
+untuk mencari gambar kucing. Sebelumnya, komputernya harus mengirim paket untuk menanyakan google.com apakah boleh mengakses situsnya. Paket mengetahui alamat IP google.com adalah 172.217.6.46, tetapi tidak tahu cara mencapainya. Paket berpindah dari satu tempat ke tempat lain dan bertanya, bagaimana cara menuju google.com? Lalu, paket dirutekan
+ke tujuan lain yang semakin dekat
+dengan google.com. Setelah mencapai tempat
+yang bisa mengirimkan paket ke server@google.com, Google akan mengirimkan
+paket kepada Natalie yang memberitahunya bahwa dia bisa mengakses
+banyak sekali gambar kucing tanpa batas.

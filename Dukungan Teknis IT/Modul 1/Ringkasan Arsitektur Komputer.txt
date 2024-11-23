@@ -1,0 +1,36 @@
+Kursus sejarah komputer
+tadi menarik bukan? Saya ingin kembali ke masa lalu
+dan melihat bagaimana kita bisa sampai ke era komputasi
+yang menarik seperti sekarang. Anda telah mempelajari langkah-langkah awal untuk membangun pengetahuan dasar IT. Sebelum membahas lebih mendalam, Saya akan memperkenalkan diri. Saya Devan Sri-Tharan. Saya telah bekerja di IT selama 10 tahun. Saya Corporate Operations Engineer di Google, tugas saya adalah mengatasi
+masalah IT yang menantang dan rumit. Jika mengingat yang lalu,
+pengalaman pertama saya dengan teknologi adalah saat berusia 9 tahun. Ayah saya membawa pulang
+komputer pertama kami Saya ingat ayah saya memegang disket dan memberi tahu
+ada game di dalamnya. Hal yang membuat ayah saya takjub
+adalah saya berhasil menyalin game dari disket ke hard drive komputer. Mungkin sekarang hal itu kelihatan sepele, tapi di masa itu,
+perangkat ini sangat baru bagi kami. Tentu saya senang
+dapat bermain banyak game, tapi hal yang saya sangat sukai
+adalah mengotak-atik komputer itu, mencoba membuat komputer
+melakukan tugas yang saya inginkan. Komputer dengan disket itu mungkin telah memicu
+minat saya akan teknologi, tetapi pengalaman kerja pertama saya-lah yang benar-benar membentuk karier IT saya. Salah satunya adalah di toko
+ritel yang menjual furnitur bayi, dan pengalaman lainnya adalah di kantor pos,
+di mana tugas saya adalah membantu pelanggan untuk mengirim paket mereka dan menjadi satu-satunya staf IT. Mungkin terdengar aneh jika bekerja di retail
+menginspirasi karier saya, tetapi saya menyadari bahwa saya benar-benar senang berkomunikasi dengan pelanggan, mencoba memahami
+kebutuhan mereka dan menawarkan solusi. Pengalaman pertama saya
+yang berhubungan langsung dengan IT adalah saat kuliah dan
+magang sebagai spesialis dukungan IT. Setelah itu,
+saya telah bekerja sebagai konsultan IT dengan tugas menonaktifkan sistem IT
+secara menyeluruh. Itu pengalaman kerja pertama saya yang berhubungan langsung
+dengan infrastruktur IT besar dan mendorong diri saya keluar dari zona nyaman sebagai mahasiswa. Ada alasan saya menceritakan
+beberapa pengalaman kerja ini. Berbagai pengalaman itulah yang membantu
+membentuk karier saya di bidang IT. Saya tahu saat itu saya ingin
+terjun ke bidang teknologi, tapi saya belum yakin
+ingin fokus berkarier di bidang mana. Bekerja di Google sebagai Generalis IT membuat saya merasakan
+pengalaman berbagai area teknologi, membuat saya paham bidang pekerjaan
+yang tidak saya inginkan dan mampu mengidentifikasi apa yang sebenarnya ingin saya lakukan. Saya sangat menyukai infrastruktur IT, tapi Anda tidak akan memahami insfratruktur sebelum memahami hardware. Mari kita mulai.
+Di bidang IT, hardware adalah topik penting
+yang perlu dipahami. Anda mungkin perlu mengganti
+komponen yang rusak atau bahkan memperbarui
+seluruh mesin dalam satu hari. Di akhir pelajaran ini, Anda akan dapat menjelaskan
+semua komponen fisik komputer dan cara mereka bekerja. Anda bahkan akan dapat merakit
+komputer Anda sendiri. Setelah memahami cara kerja komputer, Anda akan memahami cara kerja berbagai jenis komputer. Anda bersemangat seperti saya?
+Mari mulai.

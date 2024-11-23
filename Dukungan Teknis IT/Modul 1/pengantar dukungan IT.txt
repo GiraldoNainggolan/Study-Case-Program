@@ -1,0 +1,79 @@
+Ada masalah besar di dunia saat ini. Ada ratusan ribu lowongan pekerjaan
+dukungan IT yang membutuhkan kandidat yang terampil. Pekerjaan tersebut tersedia saat ini
+di perusahaan, besar maupun kecil, yang benar-benar ingin merekrut
+orang-orang yang termotivasi. Teknologi telah memasuki
+seluruh aspek bisnis di dunia, dan kebutuhan akan dukungan IT profesional
+juga terus meningkat. Ada banyak orang di seluruh dunia,
+seperti Anda, yang mencari cara fleksibel mempelajari keterampilan yang diperlukan agar
+dapat bekerja sebagai dukungan IT pemula. Namun, mungkin ada
+beberapa rintangan yang menghambat. Mungkin Anda tidak memiliki
+gelar sarjana, akses, atau fleksibilitas untuk mengikuti pelatihan secara langsung,
+atau mungkin biayanya terlalu mahal. Apa pun alasannya, Anda mencari cara praktis dan mudah untuk mempelajari
+keterampilan yang dibutuhkan perusahaan. Program ini dirancang untuk memberi Anda
+keterampilan mendasar dan kepercayaan diri yang dibutuhkan
+untuk menjadi dukungan IT tingkat pemula. Baik untuk memberikan dukungan langsung,
+dukungan jarak jauh, atau keduanya. Keistimewaan program ini adalah
+peserta didik mendapatkan pengalaman langsung melalui kombinasi dinamis
+antara laboratorium dan latihan interaktif lainnya, seperti yang
+Anda temui di bagian bantuan pengguna. Kurikulum ini dirancang
+agar Anda siap bekerja, tetapi kita melakukannya selangkah lebih maju. Setelah menyelesaikan program ini,
+Anda akan berkesempatan membagikan informasi Anda ke Google,
+Bank of America, dan perusahaan populer lain yang ingin merekrut
+profesional dukungan IT tingkat pemula. Program ini dirancang untuk mengajari
+siapa saja yang tertarik mempelajari keterampilan dasar dukungan IT.
+Anda mungkin telah memiliki pengalaman IT sebelumnya atau
+benar-benar baru di dunia IT. Kami memberikan konten yang sepenuhnya
+dibuat Googler, dan Anda hadirkan semangat dan motivasi untuk mempelajarinya. Beginilah cara melakukan pelatihan ini. Program ini berlandaskan pada keyakinan bahwa
+fondasi yang kuat dan pengetahuan teknis IT dapat berfungsi sebagai batu loncatan
+untuk karir cemerlang di bidang IT. Kami telah merancang kursus
+yang relevan dengan industri, dasar-dasar dukungan teknis,
+jaringan komputer, sistem operasi administrasi sistem & layanan
+infrastruktur IT, serta keamanan IT. Jika Anda meluangkan sekitar 8 hingga 10 jam
+per minggu mengikuti kursus ini, Anda akan menyelesaikan sertifikasi
+dalam waktu sekitar delapan bulan. pengalaman belajar ini akan berbeda dari
+pengalaman yang biasanya diperoleh di kelas. Anda dapat melakukan pelatihan sesuai
+tempo Anda, melewati konten yang mungkin sudah Anda pahami, atau mengulang pelajaran
+jika Anda ingin meningkatkan pemahaman. Anda dapat menentukan pilihan sendiri
+dalam pengalaman ini. Durasi kursus yang panjang adalah sinyal kuat
+bagi perusahaan bahwa Anda berani dan gigih untuk berhasil
+di bidang yang terus berubah seperti IT. Bagian keren lainnya dari program ini
+adalah program ini telah dibuat sepenuhnya oleh profesional di dunia yang memiliki
+latar belakang kuat di bidang dukungan IT. Mereka bekerja di bidang IT seperti
+rekayasa operasi, keamanan, Site Reliability Engineering,
+dan administrasi sistem. Mereka tahu konten ini karena
+mereka menjalaninya setiap hari. Di pelatihan ini, Anda akan mendengar cerita
+dari Googler dengan latar belakang dan perspektif unik. Mereka akan menceritakan bagaimana fondasi
+mereka dalam dukungan TI menjadi titik awal karier mereka. Mereka juga menunjukkan sedikit
+pekerjaan sehari-hari serta tips mengenai cara menghadapi
+wawancara dukungan IT. Mereka menceritakan rintangan pribadi yang
+mereka atasi dengan cara yang menginspirasi. Mereka senang mengikuti perjalanan ini
+bersama Anda karena Anda menginvestasikan masa depan dengan dengan
+menyelesaikan program sertifikasi ini. Terakhir, kami mengumpulkan grup instruktur
+kursus yang benar-benar luar biasa sebagai pengajar dalam program ini. Mereka semua bekerja di
+bidang dukungan IT di Google, dan dengan senang membimbing Anda menyelesaikan
+konten selangkah demi selangkah. Siap bertemu mereka? Mereka semua sangat antusias
+untuk bertemu Anda. Saya Kevin Limehouse. Saya bekerja
+sebagai staf spesialis dukungan untuk platform di Double Click. Saya akan mempresentasikan
+histori komputasi di kursus pertama. >> Saya Victor Escobedo,
+seorang Corporate Operations Engineer. Kita akan bertemu pada pelajaran
+di Internet di kursus pertama, Technical Support Fundamentals. Saya kemudian akan menjadi
+instruktur Anda untuk kursus kedua, The Bits and Bytes of Computer Networking. >> Halo, saya Cindy Coatch, dan saya
+bekerja di Site Reliability Engineering. Saya akan mengajari Anda tentang
+sistem operasi di kursus pertama, dan mengajak Anda membahas lebih dalam
+tentang OS di kursus ketiga, Operating Systems and You:
+Becoming a Power User. >> Saya Devan Sri-Tharan dan saya bekerja di Corporate Operations
+Engineering di Google. Kita akan membahas semua hardware dan
+bahkan membuat komputer di kursus pertama. Kita akan bertemu lagi di kursus keempat, Systems Administration in
+IT Infrastructure Services. >> Halo, semuanya,
+saya Phelan Vanderbilt dan saya seorang System Engineer dalam
+tim Keandalan Situs Google. Saya sangat bersemangat mengajarkan
+tentang software pada kursus pertama. >> Halo, saya Gian Spicuzza, seorang
+Program Manager di Android Security. Saya akan mengajarkan histori
+dan dampak Internet di kursus pertama, dan saya akan menjadi
+instruktur untuk kursus terakhir program ini IT Security:
+Defense against the digital dark arts. >> Halo, saya Marti Clark, seorang manajer dalam tim
+dukungan IT internal Google. Saya akan mengajari Anda tentang
+pemecahan masalah, layanan pelanggan, dan dokumentasi di kursus pertama. >> Halo, saya Rob Cliffton,
+seorang Program Manager di Google. Saya akan membagikan beberapa tips cara
+berhasil wawancara di kursus pertama, dan menunjukkan skenario wawancara teknis
+di akhir setiap kursus di selama program ini.

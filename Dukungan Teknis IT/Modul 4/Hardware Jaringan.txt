@@ -1,0 +1,44 @@
+Kita sudah memahami apa itu jaringan. Mari kita bahas cara jaringan terhubung. Ada banyak cara untuk
+menghubungkan komputer ke jaringan, tetapi kita hanya akan membahas
+beberapa cara utama dalam kursus ini. Pertama, ada kabel ethernet yang memungkinkan
+Anda terhubung secara fisik ke jaringan melalui kabel. Di bagian belakang desktop
+yang kita bahas di pelajaran sebelumnya, ada port jaringan
+tempat untuk memasang kabel ethernet. Cara lain untuk terhubung
+ke jaringan adalah melalui Wi-Fi, yaitu jaringan nirkabel. Sebagian besar sistem komputasi modern
+punya kemampuan nirkabel seperti ponsel, smart TV, dan laptop. Kita terhubung ke jaringan nirkabel
+melalui radio dan antena. Cara terakhir adalah menggunakan kabel
+serat optik untuk terhubung ke jaringan. Ini metode paling mahal karena kabel serat
+optik memungkinkan kecepatan lebih tinggi dibandingkan metode lainnya.
+Disebut serat optik karena kabel mengandung serat kaca yang memindahkan data
+melalui cahaya, bukan listrik. Artinya, kita mengirimkan satu dan
+nol melalui seberkas cahaya sebagai ganti arus listrik melalui kawat tembaga. Keren, bukan? Tetapi kabel
+harus terhubung ke sesuatu. Bukan berarti ada jutaan kabel yang masuk dan keluar dari komputer
+untuk saling terhubung. Komputer terhubung
+ke beberapa perangkat yang membantu mengatur jaringan yang ada. Perangkat pertama yang terhubung
+ke komputer adalah router. Router menghubungan banyak perangkat dan membantu merutekan traffic.
+Katakanlah kita punya empat komputer, A, B, C, dan D terhubung
+melalui router di jaringan yang sama. Anda ingin mengirim file
+dari komputer A ke komputer B. Paket melewati router
+dan router tersebut menggunakan protokol jaringan untuk
+membantu menentukan tujuan pengiriman paket. Jadi, sekarang paket kita dirutekan
+dari komputer A ke komputer B. Bagaimana jika kita ingin mengirim paket
+ke komputer yang tidak ada di jaringan kita? Bagaimana jika kita ingin mengirim paket
+ke komputer Alejandro? Alejandro ada di jaringan tersendiri. Untungnya, router kita tahu
+cara menanganinya. Paket bisa dirutekan ke luar jaringan
+ke jaringan ISPS kita. Menggunakan protokol jaringan, router bisa
+menemukan lokasi komputer Alejandro. Selama proses ini, paket kita melalui
+banyak router, switch, dan hub yang berbeda. Switch dan hub adalah perangkat
+yang juga membantu perjalanan data. Anggap switch seperti
+ruangan surat di dalam bangunan, router memasukkan surat ke bangunan itu. Saat di dalam, kita menggunakan ruangan surat
+untuk menentukan tujuan pengirimannya. Hub seperti memo perusahaan. Tidak ada nama penerima memo,
+jadi memo dikirim kepada semua orang. Bekerja dengan perangkat jaringan
+mengharuskan kita paham, karena suatu hari akan ada pengguna yang melaporkan
+masalah saat mengakses internet. Anda akan menyelidiki hingga
+ke stack jaringan, technology stack. Dalam hal ini, stack jaringan
+adalah serangkaian hardware atau software yang menyediakan
+infrastruktur bagi komputer. Stack jaringan adalah semua
+komponen penyusun jaringan komputer. Anda mungkin perlu menyelidiki
+stack jaringan dalam pekerjaan Anda. Anda mulai dengan memastikan komputer
+pengguna akhir bekerja dengan semestinya. Lalu alihkan perhatian
+ke kemungkinan titik kegagalan lain, seperti kabel, tombol, dan router
+yang bekerja sama untuk mengakses internet.

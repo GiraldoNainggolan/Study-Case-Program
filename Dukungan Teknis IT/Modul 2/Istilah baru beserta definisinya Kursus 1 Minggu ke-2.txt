@@ -1,0 +1,201 @@
+Address bus: Menghubungkan CPU ke MCC dan mengirimkan lokasi data, tetapi tidak mengirimkan data itu sendiri
+
+ATA: Antarmuka paling umum yang digunakan hard drive untuk terhubung ke sistem
+
+ATX (Advanced Technology eXtended): Faktor bentuk paling umum untuk motherboard
+
+Kompatibel dengan versi lama: Ini berarti hardware lama kompatibel dengan hardware baru
+
+BIOS (Basic Input Output Services): BIOS adalah software yang membantu menginisialisasi hardware di komputer kita serta membuat sistem operasi aktif dan berjalan
+
+BYOD (Bawa Perangkat Sendiri): Mengacu pada praktik yang mengizinkan orang untuk menggunakan perangkat pribadinya untuk bekerja
+
+Cache: Lokasi penyimpanan yang ditetapkan untuk data yang baru-baru ini diakses atau sering diakses. Untuk aplikasi seluler, cache merupakan tempat menyimpan semua hal yang diubah atau dibuat dengan aplikasi tersebut
+
+Siklus pengisian daya: Satu pengisian daya penuh dan pengosongan daya baterai
+
+Chipset: Alat inimengatur komunikasi antara berbagai komponen di perangkat kita
+
+Siklus clock: Saat Anda mengirimkan voltase ke kabel clock
+
+Kecepatan clock: Jumlah maksimum siklus clock yang dapat ditanganinya dalam satu set pada jangka waktu tertentu
+
+Kabel clock: Saat Anda mengirim atau menerima data, kabel mengirimkan voltase ke kabel clock tersebut agar CPU tahu bahwa CPU dapat mulai melakukan penghitungan
+
+CPU: Unit pemrosesan terpusat
+
+Soket CPU: Soket CPU adalah serangkaian pin yang menghubungkan prosesor CPU ke motherboard PC
+
+Ukuran data: Metrik yang mengacu pada ukuran data, termasuk bit, byte, kilobyte, kibibyte, dan megabyte
+
+DDR SDRAM (Double Data Rate SDRAM): Jenis RAM yang lebih cepat, membutuhkan lebih sedikit daya, dan memiliki kapasitas lebih besar daripada versi SDRAM sebelumnya
+
+Desktop:Layar utama tempat kita dapat membuka file, folder, dan aplikasi
+
+DIMM: Dual Inline Memory Module
+
+Port tampilanPort yang juga menghasilkan output berupa audio dan video
+
+DRAM: Dynamic Random Access Memory
+
+Driver: Driver berisipetunjuk yang diperlukan CPU untukmemahamiperangkateksternalseperti keyboard, webcam, printer
+
+DVI: Kabel DVI umumnyahanyamenghasilkan output berupa video
+
+Pelepasanmuatanlistrik statis:Pelepasanmuatanlistrik statis adalahaliranaruslistriksecaratiba-tiba dan sesaatantara dua objekbermuatanlistrik yang disebabkan oleh kontak, hubunganaruspendek, ataukebocoran insulator listrik
+
+External Data Bus (EDB): Ini adalahderetankabel yang menghubungkanberbagaibagiankomputer
+
+Reset kesetelanpabrik: Meresetperangkatkesetelanawaldaripabrik
+
+Faktor bentuk: Cara matematisuntukmengompensasiketidakteraturanbentukobjekdenganmenggunakanrasioantara volume dan tingginya
+
+Hard drive: Ini merupakankomponenmemorijangkapanjang yang menyimpansemua data, yang dapatmencakupmusik, gambar, aplikasi
+
+Hardware: Perangkat dan peralataneksternalatau internal yang membantu Anda menjalankanfungsiutama
+
+HDD (Hard disk drive): Hard disk drive atau HDD menggunakan piring berputar dan tuas mekanis untuk membaca dan menulis informasi
+
+HDMI: Jenis kabel yang menghasilkan output berupa video dan audio
+
+Pembuang panas: Ini digunakan untuk membuang panas dari CPU
+
+Kumpulan petunjuk: Daftar petunjuk yang dapat dijalankan oleh CPU
+
+ITX (Information Technology eXtended): Faktor bentuk untuk motherboard yang jauh lebih kecil daripada ATX board
+
+Land Grid Array (LGA): Ini adalah jenis soket CPU yang mencuat dari motherboard
+
+Adaptor lightning: Salah satu jenis konektor daya, data, dan tampilan standar yang digunakan di perangkat seluler
+
+Mb/s: megabit per detik, yang merupakan satuan kecepatan transfer data
+
+Memory controller chip (MCC): Jembatan antara CPU dan RAM
+
+Port tampilan mikro: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler 
+
+Micro HDMI: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler 
+
+USB Mikro: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler 
+
+Mini HDMI: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler 
+
+Mini USB: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler
+
+Motherboard: Bodi atau sistem sirkulasi komputer yang menghubungkan semua bagian secara bersamaan
+
+Northbridge: menghubungkan komponen seperti RAM dan kartu video
+
+NVMe (NVM Express): standar antarmuka yang memungkinkan throughput data yang lebih besar dan peningkatan efisiensi
+
+Overclocking: ini meningkatkan kecepatan siklus clock CPU untuk menjalankan lebih banyak tugas
+
+PCI Express: Peripheral Component Interconnect Express
+
+Periferal:perangkat eksternal yang terhubung ke komputer dan memiliki fungsi tambahan, seperti: mouse, keyboard, dan monitor
+
+Pin Grid Array (PGA): Soket CPU yang pinnya berada di prosesor itu sendiri
+
+Port: Titik koneksi yang dapat dihubungkan dengan perangkat untuk menambah fungsi komputer
+
+POST (Power On Self Test): Alat ini mencari tahu hardware apa saja yang ada di komputer
+
+Catu daya: Mengonversi listrik dari stopkontak ke format yang dapat digunakan komputer
+
+Program: Petunjuk dasar yang memberi tahu hal yang harus dilakukan komputer
+
+RAM: Random Access Memory
+
+Register: Lokasi yang dapat diakses untuk menyimpan data yang digunakan CPU
+
+Pembuatan ulang image:Proses pembuatan ulang image melibatkan penghapusan total dan penginstalan ulang sistem operasi yang menggunakan disk image yang merupakan salinan dari sistem operasi
+
+Otorisasi pengembalian merchandise (RMA): Proses menerima merchandise yang dikembalikan dan memberi otorisasi untuk pengembalian dana
+
+Chip ROM (Read-Only Memory): Chip read-only memory tempat BIOS disimpan
+
+RPM: Revolusi per menit
+
+Suhu pengoperasian yang aman: Rentang suhu yang aman untuk menyimpan baterai isi ulang guna menghindari kerusakan
+
+SATA: Drive serial ATA terpopuler, yang menggunakan satu kabel untuk transfer data
+
+SDRAM: Ini adalah singkatan dari Synchronous DRAM. Jenis RAM ini disinkronkan dengan kecepatan clock sistem yang memungkinkan pemrosesan data yang lebih cepat
+
+SOC (Sistem di Chip): Memaketkan CPU, RAM, dan bahkan terkadang penyimpanan ke dalam satu chip
+
+Southbridge: Ini menjalankan pengontrol IO atau input/output seperti hard drive dan perangkat USB yang mengambil input dan menghasilkan output berupa data
+
+SSD: Solid State Drive
+
+Sekrup penyangga: Digunakan untuk menaikkan dan memasang motherboard ke casing
+
+Pasta pendingin: Zat yang digunakan untuk menghubungkan CPU dan pembuang panas dengan lebih baik sehingga panas berpindah ke pembuang panas dengan lebih baik
+
+Konektor Type-C: Jenis konektor USB yang dimaksudkan untuk menggantikan banyak koneksi periferal
+
+UEFI: Unified Extensible Firmware Interface
+
+USB (Universal Serial Bus): Standarkoneksiuntukmenghubungkanperiferalkeperangkatsepertikomputer
+
+Adaptor USB-C: Salah satujeniskonektordaya, data, dan layarstandar yang digunakan di perangkatseluler
+
+
+
+Istilah dan definisinya dari minggu sebelumnya
+A
+
+Abstraksi: Proses penyederhanaan sistem yang relatif kompleks agar mudah digunakan
+
+Algoritma: Serangkaian langkah yang memecahkan masalah tertentu
+
+ASCII: Standar encoding karakter paling tua yang digunakan adalah ASCII. Karakter ini mewakili alfabet, angka, dan tanda baca dalam bahasa Inggris
+
+B
+
+Sistem biner: Komunikasi yang dilakukan komputer disebut sebagai sistem biner, yang juga dikenal sebagai sistem bilangan basis-2
+
+Byte: Satu grup yang terdiri atas 8 bit
+
+C
+
+Encoding karakter: Digunakan untuk menetapkan nilai biner ke karakter agar dapat dibaca oleh manusia
+
+Komputer: Perangkat yang menyimpan dan memproses data dengan melakukan proses penghitungan
+
+Kriptografi: Seluruh ilmu yang mencakup praktik pengodean dan penyembunyian pesan dari pihak ketiga
+
+D
+
+Bentuk desimal - sistem bilangan desimal Dalam sistem desimal, ada 10 kemungkinan angka yang dapat Anda gunakan mulai dari nol hingga sembilan
+
+Kesenjangan digital: Kesenjangan yang makin melebar antara orang yang memiliki kemampuan literasi digital dan yang tidak memilikinya
+
+I
+
+Teknologi informasi: Penggunaan teknologi digital, seperti komputer dan internet, untuk menyimpan dan memproses data menjadi informasi yang berguna
+
+L
+
+Linux OS: Linux adalah salah satu sistem operasi open source terbesar yang banyak digunakan dalam infrastruktur bisnis dan dunia konsumen
+
+Logic gate:Memungkinkan transistor untuk melakukan tugas yang lebih kompleks, seperti memutuskan ke mana sinyal listrik harus dialirkan yang tergantung pada kondisi logika
+
+O
+
+Open source: Ini berarti developer akan mengizinkan developer lain membagikan, mengubah, dan mendistribusikan software mereka secara gratis
+
+P
+
+PDA (Asisten Digital Pribadi): Memungkinkan komputasi berjalan di perangkat seluler
+
+Kartu punch: Urutan kartu dengan lubang di dalamnya untuk melakukan penghitungan secara otomatis, bukan memasukkannya secara manual dengan tangan
+
+R
+
+Model RGB: RGB atau model merah, hijau, dan biru adalah model dasar untuk merepresentasikan warna
+
+U
+
+UTF-8: Standar encoding yang paling umum digunakan saat ini
+

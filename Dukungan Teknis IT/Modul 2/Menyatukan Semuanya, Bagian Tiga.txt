@@ -1,0 +1,65 @@
+Mari kembali ke konektor
+yang banyak ini. Ada beberapa hal
+yang ingin saya sorot. Konektor besar ini. Ini adalah konektor
+yang disambungkan ke motherboard. Sementara konektor yang ini, ini model lama,
+adalah konektor Molex empat pin. Konektor ini banyak digunakan
+sebelum SATA hadir. Sekarang, kita menggunakan
+konektor ini untuk memberi daya pada
+sebagian besar perangkat SATA. Sebagian besar komputer modern saat ini
+mungkin akan menggunakan konektor SATA untuk hard drive. Hard drive ini mungkin dilengkapi dengan
+adaptor Molex ke SATA. Sekarang kita lanjut
+ke bagian serunya. Pertama, sambungkan catu daya ke motherboard. Kita gunakan pin besar ini,
+seperti yang sudah dibahas tadi. Kita akan sambungkan ke sini. Pasang seperti ini. Selanjutnya kita akan
+memberi daya pada CPU dengan pin Molex di sini. Ini cukup sempit,
+tapi Anda bisa memasangnya. Berhasil.
+Kita barus saja memasang catu daya untuk memberi daya pada
+motherboard dan CPU. Setelah menyambungkan kabel ke CPU dan motherboard, selanjutnya kita harus menyambungkan kabel-kabel yang ada
+di belakang casing komputer. Kabel-kabel ini berbeda-beda
+pada setiap casing komputer, tapi ayo kita bahas. Beberapa kabel ini
+digunakan untuk casing, tombol, dan lampu. Untuk kabel ini,
+saya akan memasangnya. Kabel casing kini telah tersambung
+dengan aman ke motherboard. Bagusnya, terkadang motherboard dilengkapi beberapa tempat kabel. Ini akan membantu Anda
+memasang kabel ke motherboard dengan aman dan rapi
+di casing komputer. Saya akan masukkan kabelnya ke sini. Setelah kabel terpasang
+dengan aman di casing komputer, jangan lupa satu hal lagi, yaitu kartu grafis. Kita akan memerlukannya agar
+bisa mengupload video ke monitor. Kita akan masukkan
+kartu grafis ini ke dalam slot PCI Express
+di motherboard. Sama seperti RAM,
+Anda harus sedikit memberikan tekanan
+saat memasukkannya. Jangan ragu untuk sedikit menekan hingga Anda
+mendengar bunyi klik, seperti ini. Selesai, Anda berhasil memasang
+kartu grafis ini dengan kencang dan aman
+di casing komputer. Hal ini dapat berbeda-beda
+pada setiap casing. Selesai.
+Kartu grafis kini telah terpasang. Semuanya sudah terpasang.
+Mari kita tutup casing komputernya. Pastikan Anda melepaskan
+gelang antistatis terlebih dahulu. Ambil tutup casing-nya... lalu pasang seperti ini. Dorong sedikit hingga terpasang.
+Selesai. Akhirnya, kita berhasil
+merakit komputer. Terakhir, namun tak kalah penting, hubungkan monitor, keyboard, dan mouse ke desktop. Pertama, ambil keyboard
+yang akan digunakan. Kita akan melakukannya
+dengan menghubungkan USB ini ke port USB di desktop. Lakukan hal yang sama
+untuk mouse. Hubungkan kabel mouse
+ke port USB. Terakhir, kita akan
+menghubungkan monitor. Untuk monitor ini,
+kita akan menggunakan kabel port layar. Sambungkan salah satu ujungnya
+ke desktop, seperti ini. Setelah itu, sambungkan bagian ini
+ke monitor. Sekarang tiba saatnya di bagian
+yang paling menarik. Mari kita lihat apakah
+semuanya bisa berjalan dengan baik. Saya akan menyalakannya. Muncul cahaya biru,
+yang berarti bagus. Tentu saja hal ini akan berbeda-beda
+pada setiap sistem. Mari lihat apakah ada sesuatu
+yang muncul di layar. Komputer memulai proses booting. Kita tunggu hasilnya. Sepertinya monitor
+menerima sinyal. Bagus. Ada pesan yang muncul.
+Kita berhasil. Komputernya berfungsi
+dengan baik. Jika Anda mengalami masalah terkait komputer
+yang tidak mau menyala, jangan khawatir. Pastikan catu daya dapat memasok jumlah watt yang benar atau pastikan konektor berada
+di posisi yang tepat. Wah, apa ini?
+"Non-system disk or disk error replace and strike
+any key when ready". Sepertinya disk kita tidak memiliki sistem operasi untuk proses booting.
+Jangan khawatir. Kita akan membahas hal tersebut dalam rangkaian materi berikutnya. Kita akan belajar
+tentang sistem operasi, jenis-jenis sistem operasi yang utama, dan cara menginstalnya. Kerja bagus. Komputer Anda
+sudah menyala dan berjalan, lalu monitor menerima sinyal.
+Selesai. Luangkan waktu sejenak dan pikirkan kembali
+apa yang baru saja Anda lakukan. Anda tidak hanya belajar tentang komponen komputer, tetapi juga mengetahui
+cara kerjanya masing-masing, dan kita merakit satu komputer
+bersama-sama. Ini pencapaian yang bagus.

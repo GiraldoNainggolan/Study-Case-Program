@@ -1,0 +1,52 @@
+Kita sudah mempelajari komponen utama untuk membuat komputer berjalan. Hal terakhir yang akan kita bahas adalah cara perangkat
+saling berkomunikasi satu sama lain. Kita tahu cara program dieksekusi dari hard drive ke CPU, tapi bagaimana dengan proses lainnya
+seperti klik pada mouse, atau klik pada keyboard dapat terkirim
+ke CPU untuk diproses? Keduanya adalah perangkat dasar. Keduanya tidak berisi petunjuk yang perlu dipahami CPU
+untuk bisa membacanya. Jika Anda mengklik
+tombol pada keyboard, Anda hanya mengirimkan
+sebagian kecil informasi ke CPU. CPU tidak memahaminya karena tidak memiliki petunjuk cara menanganinya. Ternyata perangkat kita juga menggunakan program untuk memberi tahu
+CPU cara mengeksekusinya. Program ini bernama layanan atau driver. Driver berisi petunjuk yang diperlukan CPU untuk memahami perangkat eksternal seperti
+keyboard, webcam, printer. CPU tidak mengenali perangkat yang mencoba
+berkomunikasi dengannya. CPU perlu terhubung
+ke sesuatu yang disebut BIOS atau basic input output services. BIOS adalah software
+yang membantu melakukan inisialisasi hardware di komputer dan memelihara sistem operasi
+tetap berfungsi dan berjalan. Tidak seperti program
+yang biasa Anda gunakan untuk menjalankan
+browser web atau sistem operasi. BIOS tidak disimpan di hard drive. Motherboard menyimpan
+BIOS di memori jenis spesial bernama chip read-only memory chip ROM. Tidak seperti RAM,
+ROM bersifat non-volatil, artinya tidak menghapus data jika komputer dimatikan. Setelah sistem operasi dimuat, CPU dapat memuat driver dari perangkat yang tidak penting
+langsung dari hard drive. Pada sistem yang banyak digunakan saat ini terdapat pemutar BIOS lainnya bernama UEFI, singkatan dari Unified
+Extensible Firmware Interface. UEFI melakukan fungsi yang sama untuk menjalankan
+komputer seperti BIOS lama, tapi lebih modern dan memiliki kompabilitas dan dukungan
+yang lebih baik untuk hardware yang baru. Sebagian besar hardware saat ini
+dilengkapi dengan UEFI bawaan. Pada akhirnya,
+UEFI akan menjadi BIOS yang dominan. Saat menyalakan komputer, Anda mungkin akan mendengar
+bunyi bip dari waktu ke waktu. Komputer menjalanan pengujian untuk memastikan semua hardware
+berfungsi dengan baik. Ini bernama
+power-on self-test atau POST. Bios berjalan saat Anda
+melakukan booting komputer. POST mencari tahu
+hardware yang ada di komputer. Ini terjadi sebelum BIOS
+melakukan inisialisasi hardware atau memuat
+driver yang penting. Jika ada masalah di titik ini, tidak ada cara untuk menampilkan
+masalah pada layar karena driver video belum dimuat. Sebagai gantinya, komputer biasanya mengeluarkan
+serangkaian bunyi bip, hampir seperti kode Morse, yang dapat mengidentifikasi masalah. Setiap produsen memiliki
+kode bunyi bip yang berbeda-beda. Jika komputer berhasil booting, Anda mungkin akan mendengar satu bunyi bip. Jika mendengar dua bunyi bip, ini berarti terjadi error pada POST. Sebaiknya baca panduan motherboard untuk mengetahui arti setiap kode. Selain itu, Anda juga perlu memahami bahwa tidak semua mesin
+dilengkapi speaker bawaan. Jangan khawatir jika komputer Anda
+melakukan booting tanpa bunyi bip. Jika komputer memiliki
+speaker bawaan, dapat membedakan kode bunyi bip akan sangat bermanfaat saat terjadi error booting. Satu hal penting lainnya,
+kita akan membahas setelan BIOS. Terdapat chip spesial di motherboard yang bernama chip CMOS. Chip ini menyimpan data dasar
+tentang cara menghidupkan komputer, seperti tanggal, waktu, dan bagaimana Anda ingin
+komputer tersebut dijalankan Anda dapat mengubah
+setelan ini dengan melakukan booting ke dalam menu setelan CMOS atau BIOS. Setiap komputer memiliki
+setelan yang berbeda, tapi biasanya saat Anda
+melakukan booting komputer, akan muncul layar singkat
+yang memberi tahu tombol yang perlu ditekan
+untuk membuka setelan. Setelah masuk, Anda dapat mengubah setelan BIOS dasar mesin Anda, Dengan peran dukungan IT, Anda mungkin akan berinteraksi dengan BIOS lebih sering dari yang Anda pikirkan. Setelan BIOS menentukan perangkat mana
+yang akan digunakan untuk booting. Dalam peran IT, Anda mungkin perlu mengubah setelan ini
+lebih sering dari biasanya. Tugas IT yang sering dilakukan adalah melakukan reimage komputer. Istilah ini merujuk pada disk image, yang merupakan salinan sistem operasi. Proses melakukan reimage mencakup penghapusan dan penginstalan
+sistem operasi. Prosedur ini
+biasanya dilakukan menggunakan program yang disimpan
+di perangkat eksternal, seperti stik memori USB atau CD ROM, atau bahkan server
+yang dapat diakses melalui jaringan. Untuk mengakses program ini Anda perlu menggunakan bios
+guna memberi tahu komputer untuk melakukan booting
+dari perangkat eksternal.

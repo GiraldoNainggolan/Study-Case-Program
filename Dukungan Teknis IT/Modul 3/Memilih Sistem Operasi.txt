@@ -1,0 +1,41 @@
+Pada materi sebelumnya,
+Anda sudah mempelajari cara sistem operasi
+melakukan booting. Ini adalah konsep yang penting untuk dipahami
+karena Anda akan menghadapi tugas terkait pemecahan masalah booting
+dalam dukungan IT. Sekarang kita akan membahas
+langkah-langkah untuk memilih dan menginstal
+sistem operasi. Kita akan fokus pada sistem operasi di bidang IT. Pertama, kita akan membahas
+tentang cara menentukan sistem operasi yang akan diinstal
+dalam setelan bisnis. Kedua, kita akan membahas proses penginstalan sistem operasi
+secara menyeluruh. Bagaimana cara Anda menentukan
+sistem operasi yang akan diinstal? Anda harus memikirkan
+beberapa pertanyaan terlebih dahulu. Apakah keputusannya sudah diambil? Sistem operasi yang digunakan
+oleh organisasi banyak berinteraksi dengan aplikasi dan sistem yang harus dijalankan. Apakah Anda bekerja sama
+dengan organisasi atau layanan yang mengharuskan penggunaan
+sistem operasi tertentu? Jika ya, tugas Anda selesai.
+Itu cukup mudah. Jika keputusan terkait OS apa
+yang akan digunakan belum diambil atau jika Anda mencari sistem operasi untuk penggunaan pribadi, Anda harus memikirkan software apa yang perlu dijalankan pada perangkat ini
+dan dalam kebanyakan kasus, software akan dirancang untuk berjalan di sistem operasi tertentu. Software juga mungkin berjalan
+di lintas platform, artinya software ini dapat berjalan
+di lebih dari satu sistem operasi. Pertanyaan lain yang perlu dipikirkan, hardware apa yang akan digunakan? Sistem operasi modern memberikan dukungan yang sangat baik
+pada hardware umum. Perlu diingat bahwa beberapa produsen hanya mengizinkan sistem operasi mereka diinstal pada hardware mereka sendiri. Satu hal lagi yang perlu saya bahas. Ingat bahwa kita memiliki
+arsitektur CPU yang berbeda, yaitu 32-bit dan 64-bit. Sistem operasi kita
+juga akan dioptimalkan untuk arsitektur ini. Pastikan bahwa CPU dan OS-nya kompatibel. Jika Anda memiliki CPU 64-bit, Anda juga harus menginstal
+sistem operasi pilihan Anda dalam versi 64-bit. Setelah Anda memilih sistem operasi yang ingin digunakan, lanjutkan dengan menginstalnya
+di hardware. Banyak komputer dilengkapi dengan sistem operasi bawaan. Jika Anda melakukan
+booting komputer dalam kondisi ini, sistem operasi akan melanjutkan dari titik saat vendor meninggalkannya. Anda harus melakukan
+beberapa hal untuk menyelesaikan penginstalan, seperti memilih nama komputer
+atau nama host, atau mengonfigurasi jaringan
+untuk perangkat. Jika ingin menginstal sistem operasi dari awal, Anda dapat menggunakan
+media penginstalan yang berbeda. Beberapa produsen sistem operasi menjual sistem operasi mereka
+dalam bentuk disk atau USB. Beberapa produsen lainnya membolehkan Anda
+menginstal ulang langsung melalui internet. Sebagai staf dukungan IT, Anda akan sering
+menginstal sistem operasi, jadi penggunaan satu disk akan memakan waktu
+atau tidak skalabel. Skalabilitas adalah konsep penting yang akan kita bahas nanti. Jika ingin menskalakan
+atau mengakomodasi beberapa komputer,
+dukungan tambahan adalah hal yang perlu Anda pertimbangkan. Saat ini, Anda hanya perlu
+bekerja menggunakan satu komputer, jadi fokus saja
+pada hal tersebut. Mari kita gunakan drive USB untuk menginstal sistem operasi Anda. Banyak produsen memiliki
+drive USB khusus mereka sendiri dengan image penginstalan,
+seperti Windows. Untuk Linux, kita dapat memuat
+OS ke drive USB mana pun.

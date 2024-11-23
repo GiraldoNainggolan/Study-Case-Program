@@ -1,0 +1,26 @@
+Jika Anda memerlukan penggunaan pembaca layar untuk menyelesaikan aktivitas lab, Anda dapat menjalankan Mesin Virtual Windows yang telah dimuat sebelumnya dengan NVDA . Ikuti petunjuk di bawah ini untuk mengakses Mesin Virtual Anda.
+
+Detail Koneksi
+
+Setelah Anda mengeklik tombol "Mulai Lab", Anda akan melihat semua detail koneksi yang dibuat di bawah ini. Harap dicatat bahwa pembuatan detail koneksi mungkin memerlukan waktu beberapa menit. Gunakan detail koneksi ini dan ikuti petunjuk di bagian "Mengakses mesin virtual" berdasarkan sistem operasi Anda.
+
+Alamat IP Eksternal:ip_eksternal
+
+Nama pengguna: qwiklabs
+
+Kata sandi:kata sandi
+
+Catatan : Bekerja dengan Qwiklabs mungkin mirip dengan pekerjaan yang akan Anda lakukan sebagai Spesialis Dukungan TI; Anda akan berinteraksi dengan teknologi canggih yang memerlukan beberapa langkah untuk mengaksesnya, dan mungkin kesabaran dan kegigihan yang tinggi(!). Anda juga akan menggunakan RDP untuk memasuki lab -- keterampilan penting dalam Dukungan TI yang dapat Anda praktikkan melalui lab.
+Mengakses mesin virtual
+Temukan salah satu dari empat pilihan relevan di bawah ini berdasarkan sistem operasi perangkat Anda.
+
+Opsi 1: Pengguna Windows: Menghubungkan ke VM Anda melalui RDP
+Di bagian ini, Anda akan menggunakan Koneksi Desktop Jarak Jauh untuk terhubung ke instansi Windows Anda menggunakan alamat IP eksternalnya.
+
+Buka Remote Desktop Connection dengan memilih tombol Start . Di kotak pencarian, ketik Remote Desktop Connection, lalu, di daftar hasil, klik Remote Desktop Connection.
+Masukkan alamat IP eksternal dari instans yang ingin Anda sambungkan di kolom Komputer . Temukan alamat IP eksternal untuk instans Anda dari Rincian Koneksi yang disertakan di bagian atas, berjudul “Petunjuk Mesin Virtual untuk pengguna pembaca layar”. Pilih sambungkan .
+
+Remote Desktop Connection;
+Computer: 35.226.23.203
+Username: qwiklabs
+Show Options: Connect

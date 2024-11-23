@@ -1,0 +1,333 @@
+Android: Sistem operasi seluler yang berbasis Linux
+
+Aplikasi: Program komputer yang dirancang untuk penggunaan tertentu
+
+BIOS/UEFI: Software level rendah yang menginisialisasi hardware komputer untuk memastikan semuanya berfungsi dengan baik
+
+Block storage: Ini meningkatkan penanganan data yang lebih cepat karena data tidak disimpan dalam satu bagian yang panjang, tetapi dalam blok sehingga dapat diakses lebih cepat
+
+Boot: Untuk mulai menjalankan komputer
+
+Bootloader: Program kecil yang memuat sistem operasi
+
+Chrome OS: Sistem operasi berbasis Linux yang didesain oleh Google
+
+Antarmuka Command Line (CLI): Shell yang menggunakan perintah teks untuk berinteraksi dengan sistem operasi
+
+File komputer: Data yang kita simpan dan file dapat berupa apa saja mulai dari dokumen word, gambar, lagu, atau apa pun
+
+Blok data: Data yang dapat dibagi menjadi banyak bagian dan ditulis ke berbagai bagian hard disk
+
+Distribusi: Beberapa distribusi Linux yang umum adalah Ubuntu, Debian, dan Red Hat
+
+Etcher.io
+: Alat yang dapat Anda gunakan untuk memuat image penginstalan ke perangkat USB dan membuatnya dapat di-booting
+
+Ekstensi file: Bagian tambahan dari nama file yang memberi tahu nama jenis file yang ada dalam sistem operasi tertentu
+
+Proses penanganan file: Proses penyimpanan data menggunakan program
+
+Sistem file:Sistem yang digunakan untuk mengelola file
+
+Finder: File manager untuk semua Mac
+
+Folder/Direktori: Digunakan untuk mengelola file
+
+Kekurangan resource hardware: Ini mengacu pada kurangnya resource sistem seperti memori, ruang hard drive, dan sebagainya
+
+HFS+/APFS: HFS+ adalah sistem penulisan jurnal yang dikembangkan oleh Apple Inc. dan APFS adalah sistem penulisan jurnal Apple lainnya, tetapi lebih terenkripsi
+
+Nama host: Digunakan untuk mengidentifikasi komputer ketika perlu berkomunikasi dengan komputer lain
+
+Perangkat Input/Output:Perangkat yang menjalankan input dan output, termasuk monitor, keyboard, mouse, hard disk, speaker, headset bluetooth, webcam, dan adaptor jaringan
+
+Image penginstalan: Image sistem operasi yang dapat didownload dan digunakan untuk menginstal sistem operasi di perangkat
+
+Manajemen I/O: Segala sesuatu yang dapat memberikan input atau yang dapat digunakan untuk menghasilkan output berupa data
+
+iOS: Sistem operasi seluler yang dikembangkan oleh Apple Inc.
+
+Kernel: Inti utama dari sistem operasi yang membuat proses, menjadwalkannya secara efisien, dan mengelola cara menghentikan proses
+
+Log: File yang merekam peristiwa sistem di komputer
+
+Mac OS: Sistem operasi Apple
+
+Manajemen memori:Salah satu fungsi yang dijalankan kernel; fungsi ini mengoptimalkan penggunaan memori dan memastikan aplikasi kita memiliki memori yang cukup untuk berjalan
+
+Metadata: Memberi tahu semua hal yang perlu diketahui tentang file, termasuk siapa yang membuatnya, kapan terakhir diubah, siapa yang memiliki akses ke file, dan jenis filenya
+
+Microsoft Terminal Services Client: Program klien yang digunakan untuk membuat koneksi RDP ke komputer jarak jauh
+
+Open SSH: Program paling populer untuk menggunakan SSH dalam Linux
+
+Sistem operasi: Seluruh paket yang mengelola resource komputer dan memungkinkan kita berinteraksi dengannya
+
+PC:Komputer pribadi, yang secara teknis berarti komputer yang digunakan oleh satu orang
+
+Plink (PuTTY Link): Alat yang terintegrasi ke dalam command line setelah PuTTY diinstal yang digunakan untuk membuat koneksi SSH jarak jauh
+
+Powershell: Shell (program yang menafsirkan perintah teks) untuk Windows
+
+Pengguna super:Pengguna komputer di atas rata-rata
+
+Manajemen proses:Kapasitas untuk mengelola banyak program dalam suatu sistem - kapan harus menjalankannya, bagaimana urutannya, berapa banyak resource yang dibutuhkan, berapa lama program berjalan, dll.
+
+Qwiklabs: Platform online yang menyediakan pelatihan layanan cloud
+
+Koneksi jarak jauh: Kemampuan untuk menghubungkan pengguna yang berwenang ke komputer atau jaringan dari jarak jauh; sehingga kita dapat mengelola banyak perangkat dari mana saja di seluruh dunia 
+
+Remote Desktop Protocol (RDP): Protokol komunikasi jaringan aman yang dikembangkan oleh Microsoft dan memungkinkan pengguna untuk terhubung ke perangkat lain dari jarak jauh
+
+Skalabilitas: Ukuran kemampuan sistem untuk meningkatkan atau menurunkan performa dan biaya sebagai respons terhadap berbagai beban dalam permintaan pemrosesan sistem
+
+Shell: Program yang menafsirkan perintah teks dan mengirimkannya ke OS untuk dijalankan
+
+SSH (Secure Shell): Protokol yang diimplementasikan oleh program lain untuk mengakses satu komputer dari komputer lain secara aman.
+
+Kunci autentikasi SSH: Metode autentikasi yang aman untuk mengakses komputer dari perangkat lain
+
+Klien SSH: Program yang harus diinstal di perangkat untuk membuat koneksi SSH dengan perangkat lain
+
+Server SSH: Software yang diinstal di komputer yang memungkinkan perangkat tersebut untuk menerima koneksi SSH
+
+Standardisasi: Cara sistematis untuk menamai host
+
+Ruang swap: Ruang yang dialokasikan tempat memori virtual disimpan di hard drive jika jumlah ruang memori fisik sudah habis atau penuh
+
+Sistem: Sekelompok komponen hardware dan software yang bekerja sama untuk menjalankan program atau proses di komputer
+
+Setelan sistem:Setelan seperti resolusi layar, akun pengguna, jaringan, perangkat, dll.
+
+Panel tugas: Fitur ini memberikan opsi cepat dan menampilkan informasi seperti konektivitas jaringan, tanggal, notifikasi sistem, suara, dll.
+
+Terminal: Antarmuka berbasis teks ke komputer
+
+Irisan waktu: Interval waktu yang sangat singkat yang dialokasikan untuk proses eksekusi CPU
+
+Ubuntu: Distribusi konsumen Linux yang paling populer
+
+Nama pengguna: ID unik untuk akun pengguna
+
+Ruang pengguna: Aspek sistem operasi yang berinteraksi dengan manusia secara langsung seperti program, contohnya editor teks, pemutar musik, setelan sistem, antarmuka pengguna, dll.
+
+Virtual Box: Aplikasi yang dapat Anda gunakan untuk menginstal Linux dan mengisolasinya secara penuh dari komputer Anda
+
+Virtual machine (VM): Aplikasi yang menggunakan resource fisik seperti memori, CPU, dan penyimpanan, tetapi memberikan manfaat tambahan seperti menjalankan beberapa sistem operasi sekaligus
+
+Memori virtual: Kombinasi ruang hard drive dan RAM yang berfungsi seperti memori yang dapat digunakan oleh berbagai proses
+
+VPN (Virtual private network): Metode aman untuk menghubungkan perangkat ke jaringan pribadi melalui internet
+
+
+Istilah dan definisinya dari minggu sebelumnya
+A
+
+Abstraksi: Proses penyederhanaan sistem yang relatif kompleks agar mudah digunakan
+
+Address bus: Menghubungkan CPU ke MCC dan mengirimkan lokasi data, tetapi tidak mengirimkan data itu sendiri
+
+Algoritma: Serangkaian langkah yang memecahkan masalah tertentu
+
+ASCII: Standar encoding karakter paling tua yang digunakan adalah ASCII. Karakter ini mewakili alfabet, angka, dan tanda baca dalam bahasa Inggris
+
+ATA: Antarmuka paling umum yang digunakan hard drive untuk terhubung ke sistem
+
+ATX (Advanced Technology eXtended): Faktor bentuk paling umum untuk motherboard
+
+B
+
+Kompatibel dengan versi lama: Ini berarti hardware lama kompatibel dengan hardware baru
+
+Sistem biner: Komunikasi yang dilakukan komputer disebut sebagai sistem biner, yang juga dikenal sebagai sistem bilangan basis-2
+
+BIOS (Basic Input Output Services): BIOS adalah software yang membantu menginisialisasi hardware di komputer kita serta membuat sistem operasi aktif dan berjalan
+
+BYOD (Bawa Perangkat Sendiri): Mengacu pada praktik yang mengizinkan orang untuk menggunakan perangkat pribadinya untuk bekerja
+
+Byte: Satu grup yang terdiri atas 8 bit
+
+C
+
+Cache: Lokasi penyimpanan yang ditetapkan untuk data yang baru-baru ini diakses atau sering diakses. Untuk aplikasi seluler, cache merupakan tempat menyimpan semua hal yang diubah atau dibuat dengan aplikasi tersebut
+
+Encoding karakter: Digunakan untuk menetapkan nilai biner ke karakter agar dapat dibaca oleh manusia
+
+Siklus pengisian daya: Satu pengisian daya penuh dan pengosongan daya baterai
+
+Komputer: Perangkat yang menyimpan dan memproses data dengan melakukan proses penghitungan
+
+Chipset: Alat inimengatur komunikasi antara berbagai komponen di perangkat kita
+
+Siklus clock: Saat Anda mengirimkan voltase ke kabel clock
+
+Kecepatan clock: Jumlah maksimum siklus clock yang dapat ditanganinya dalam satu set pada jangka waktu tertentu
+
+Kabel clock: Saat Anda mengirim atau menerima data, kabel mengirimkan voltase ke kabel clock tersebut agar CPU tahu bahwa CPU dapat mulai melakukan penghitungan
+
+CPU: Unit pemrosesan terpusat
+
+Soket CPU: Soket CPU adalah serangkaian pin yang menghubungkan prosesor CPU ke motherboard PC
+
+Kriptografi: Seluruh ilmu yang mencakup praktik pengodean dan penyembunyian pesan dari pihak ketiga
+
+D
+
+Ukuran data: Metrik yang mengacu pada ukuran data, termasuk bit, byte, kilobyte, kibibyte, dan megabyte
+
+DDR SDRAM (Double Data Rate SDRAM): Jenis RAM yang lebih cepat, membutuhkan lebih sedikit daya, dan memiliki kapasitas lebih besar daripada versi SDRAM sebelumnya
+
+Bentuk desimal - sistem bilangan desimal Dalam sistem desimal, ada 10 kemungkinan angka yang dapat Anda gunakan mulai dari nol hingga sembilan
+
+Desktop:Layar utama tempat kita dapat membuka file, folder, dan aplikasi
+
+Kesenjangan digital: Kesenjangan yang makin melebar antara orang yang memiliki kemampuan literasi digital dan yang tidak memilikinya
+
+DIMM: Dual Inline Memory Module
+
+Port tampilan Port yang juga menghasilkan output berupa audio dan video
+
+DRAM: Dynamic Random Access Memory
+
+Driver: Driver berisi petunjuk yang diperlukan CPU untuk memahami perangkat eksternal seperti keyboard, webcam, printer
+
+DVI: Kabel DVI umumnya hanya menghasilkan output berupa video
+
+E
+
+Pelepasan muatan listrik statis: Pelepasan muatan listrik statis adalah aliran arus listrik secara tiba-tiba dan sesaat antara dua objek bermuatan listrik yang disebabkan oleh kontak, hubungan arus pendek, atau kebocoran insulator listrik
+
+External Data Bus (EDB): Ini adalah deretan kabel yang menghubungkan berbagai bagian komputer
+
+F
+
+Reset ke setelan pabrik: Mereset perangkat ke setelan awal dari pabrik
+
+Faktor bentuk: Cara matematis untuk mengompensasi ketidakteraturan bentuk objek dengan menggunakan rasio antara volume dan tingginya
+
+H
+
+Hard drive: Ini merupakan komponen memori jangka panjang yang menyimpan semua data, yang dapat mencakup musik, gambar, aplikasi
+
+Hardware: Perangkat dan peralatan eksternal atau internal yang membantu Anda menjalankan fungsi utama
+
+HDD (Hard disk drive): Hard disk drive atau HDD menggunakan piring berputar dan tuas mekanis untuk membaca dan menulis informasi
+
+HDMI: Jenis kabel yang menghasilkan output berupa video dan audio
+
+Pembuang panas: Ini digunakan untuk membuang panas dari CPU
+
+I
+
+Teknologi informasi: Penggunaan teknologi digital, seperti komputer dan internet, untuk menyimpan dan memproses data menjadi informasi yang berguna
+
+Kumpulan petunjuk: Daftar petunjuk yang dapat dijalankan oleh CPU
+
+ITX (Information Technology eXtended): Faktor bentuk untuk motherboard yang jauh lebih kecil daripada ATX board
+
+L
+
+Land Grid Array (LGA): Ini adalah jenis soket CPU yang mencuat dari motherboard
+
+Adaptor lightning: Salah satu jenis konektor daya, data, dan tampilan standar yang digunakan di perangkat seluler
+
+Linux OS: Linux adalah salah satu sistem operasi open source terbesar yang banyak digunakan dalam infrastruktur bisnis dan dunia konsumen
+
+Logic gate:Memungkinkan transistor untuk melakukan tugas yang lebih kompleks, seperti memutuskan ke mana sinyal listrik harus dialirkan yang tergantung pada kondisi logika
+
+M
+
+Mb/s: megabit per detik, yang merupakan satuan kecepatan transfer data
+
+Memory controller chip (MCC): Jembatan antara CPU dan RAM
+
+Port tampilan mikro: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler 
+
+Micro HDMI: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler 
+
+USB Mikro: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler 
+
+Mini HDMI: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler 
+
+Mini USB: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler
+
+Motherboard: Bodi atau sistem sirkulasi komputer yang menghubungkan semua bagian secara bersamaan
+
+N
+
+Northbridge: menghubungkan komponen seperti RAM dan kartu video
+
+O
+
+Open source: Ini berarti developer akan mengizinkan developer lain membagikan, mengubah, dan mendistribusikan software mereka secara gratis
+
+Overclocking: ini meningkatkan kecepatan siklus clock CPU untuk menjalankan lebih banyak tugas
+
+P
+
+PCI Express: Peripheral Component Interconnect Express
+
+PDA (Asisten Digital Pribadi): Memungkinkan komputasi berjalan di perangkat seluler
+
+Periferal:perangkat eksternal yang terhubung ke komputer dan memiliki fungsi tambahan, seperti: mouse, keyboard, dan monitor
+
+Pin Grid Array (PGA): Soket CPU yang pinnya berada di prosesor itu sendiri
+
+Port: Titik koneksi yang dapat dihubungkan dengan perangkat untuk menambah fungsi komputer
+
+POST (Power On Self Test): Alat ini mencari tahu hardware apa saja yang ada di komputer
+
+Catu daya: Mengonversi listrik dari stopkontak ke format yang dapat digunakan komputer
+
+Program: Petunjuk dasar yang memberi tahu hal yang harus dilakukan komputer
+
+Kartu punch: Urutan kartu dengan lubang di dalamnya untuk melakukan penghitungan secara otomatis, bukan memasukkannya secara manual dengan tangan
+
+R
+
+RAM: Random Access Memory
+
+Register: Lokasi yang dapat diakses untuk menyimpan data yang digunakan CPU
+
+Pembuatan ulang image:Proses pembuatan ulang image melibatkan penghapusan total dan penginstalan ulang sistem operasi yang menggunakan disk image yang merupakan salinan dari sistem operasi
+
+Otorisasi pengembalian merchandise (RMA): Proses menerima merchandise yang dikembalikan dan memberi otorisasi untuk pengembalian dana
+
+Model RGB: RGB atau model merah, hijau, dan biru adalah model dasar untuk merepresentasikan warna
+
+Chip ROM (Read-Only Memory): Chip read-only memory tempat BIOS disimpan
+
+RPM: Revolusi per menit
+
+S
+
+Suhu pengoperasian yang aman: Rentang suhu yang aman untuk menyimpan baterai isi ulang guna menghindari kerusakan
+
+SATA: Drive serial ATA terpopuler, yang menggunakan satu kabel untuk transfer data
+
+SDRAM: Ini adalah singkatan dari Synchronous DRAM. Jenis RAM ini disinkronkan dengan kecepatan clock sistem yang memungkinkan pemrosesan data yang lebih cepat
+
+SOC (Sistem di Chip): Memaketkan CPU, RAM, dan bahkan terkadang penyimpanan ke dalam satu chip
+
+Southbridge: Ini menjalankan pengontrol IO atau input/output seperti hard drive dan perangkat USB yang mengambil input dan menghasilkan output berupa data
+
+SSD: Solid State Drive
+
+Sekrup penyangga: Digunakan untuk menaikkan dan memasang motherboard ke casing
+
+T
+
+Pasta pendingin: Zat yang digunakan untuk menghubungkan CPU dan pembuang panas dengan lebih baik sehingga panas berpindah ke pembuang panas dengan lebih baik
+
+Konektor Type-C: Jenis konektor USB yang dimaksudkan untuk menggantikan banyak koneksi periferal
+
+U
+
+UEFI: Unified Extensible Firmware Interface
+
+USB (Universal Serial Bus): Standar koneksi untuk menghubungkan periferal ke perangkat seperti komputer
+
+Adaptor USB-C: Salah satu jenis konektor daya, data, dan layar standar yang digunakan di perangkat seluler
+
+UTF-8: Standar encoding yang paling umum digunakan saat ini
+

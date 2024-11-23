@@ -1,0 +1,33 @@
+Ingat bahwa saat proses berjalan, proses itu
+memerlukan waktu CPU dan juga memori. Saat proses berjalan,
+proses itu memakan ruang dalam memori, sehingga komputer dapat membaca
+dan memuat data dengan cepat. Namun, dibandingkan dengan hard disk drive,
+memori hadir dalam jumlah yang lebih kecil. Agar memiliki memori lebih banyak
+daripada memori fisik yang sudah ada, kita akan menggunakan
+memori virtual. Memori virtual adalah kombinasi
+ruang hard drive dan RAM yang berfungsi seperti memori
+yang dapat digunakan oleh berbagai proses. Saat mengeksekusi proses, kita mengambil data program
+dalam potongan yang disebut halaman. Kita menyimpan halaman ini
+di memori virtual. Jika kita ingin membaca
+dan mengeksekusi halaman ini, halaman tersebut harus dikirim ke
+memori fisik atau RAM. Mengapa kita tidak menyimpan seluruh program
+di RAM agar bisa mengeksekusinya lebih cepat? Anda bisa melakukannya
+jika aplikasinya kecil, tetapi akan menjadi boros
+jika aplikasinya besar. Pernahkah Anda menjalankan pengolah kata lalu
+membuka menu yang biasanya tidak digunakan, kemudian menyadari jika
+aplikasinya sedikit melambat? Hal ini terjadi karena komputer Anda
+harus memuat halaman untuk menu tersebut
+dari memori virtual ke RAM. Kita tidak menggunakan
+semua fitur aplikasi sekaligus. Mengapa halamannya
+harus dimuat sekaligus? Hal ini mirip dengan membuat
+suatu masakan dari buku resep. Anda tidak perlu membaca seluruh buku
+hanya untuk membuat satu masakan. Anda hanya perlu membaca halaman
+resep masakan yang ingin dibuat. Saat kita menyimpan memori virtual
+di hard drive, kita menyebut ruang yang dialokasikan
+sebagai ruang swap. Saat mencoba penerapan praktis
+terkait partisi disk, kita akan mengalokasikan
+ruang untuk swap. Kernel akan menangani
+semua hal ini dengan baik. Kernel menangani proses pengambilan
+halaman data dan melakukan proses swap antara RAM dan memori virtual. Namun, kernel bukan satu-satunya program
+yang melakukan hal ini. Sejauh ini, Anda telah mengikuti
+berbagai pelajaran dengan baik. Usaha yang bagus.

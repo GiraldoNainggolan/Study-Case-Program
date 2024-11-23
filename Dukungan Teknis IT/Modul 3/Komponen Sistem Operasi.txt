@@ -1,0 +1,85 @@
+Kita banyak mendengar istilah sistem operasi
+dan mengira itu adalah antarmuka desktop dan ponsel, seperti menu,
+tombol, dan latar belakang. Secara teknis, komponen ini adalah
+bagian dari sistem operasi, tetapi sistem operasi
+sedikit lebih rumit dari itu. Sistem operasi adalah paket lengkap
+yang mengelola resource komputer dan memungkinkan kita berinteraksi
+dengan komputer itu sendiri. Ada dua bagian utama dalam sistem operasi,
+yaitu kernel dan ruang pengguna. Kernel adalah inti utama
+dari sistem operasi. Kernel langsung berinteraksi dengan hardware
+dan mengelola resource sistem. Sebagai pengguna, kita tidak
+berinteraksi langsung dengan kernel. Kita berinteraksi dengan komponen kedua
+dari sistem operasi, yaitu ruang pengguna. Ruang pengguna pada dasarnya terdiri dari
+semua hal yang berada di luar kernel. Kita berinteraksi langsung
+dengan hal-hal ini, seperti program sistem, antarmuka pengguna, dll. Saat kami menyebutkan sistem operasi,
+kami membahas tentang kernel dan ruang pengguna. Ada ratusan sistem operasi
+di luaran sana, tetapi kita akan fokus pada
+sistem operasi utama di bidang IT, yaitu Windows, Mac, dan Linux. OS Windows dikembangkan oleh Microsoft
+dan digunakan secara luas dalam dunia bisnis dan konsumen. Kebanyakan PC yang Anda beli dilengkapi
+Windows sebagai sistem operasi default. PC singkatan dari personal computer, yang secara teknis berarti
+komputer yang digunakan oleh satu orang. Namun saat ini, PC lebih sering dianggap
+sebagai komputer Windows. Jadi, sekarang kita akan menganggap
+PC sebagai komputer Windows. macOS yang dikembangkan Apple
+biasanya digunakan dalam dunia konsumen. Jika membeli komputer Apple, komputer itu
+akan dilengkapi dengan macOS bawaan. Sistem operasi terakhir
+yang akan kita bahas adalah Linux. Linux adalah sistem operasi open source
+yang berarti sofware-nya bisa dibagikan, dimodifikasi, dan didistribusikan
+secara gratis. Linux banyak digunakan dalam
+infrastruktur bisnis dan dunia konsumen. Linux sendiri sebenarnya adalah
+kernel yang dikembangkan oleh Linus Torvalds. Karena pengembangan ini, kita menyebut
+kernel tersebut sebagai sistem operasi Linux. Saat ini, Linux telah menjadi
+upaya komunitas besar bersama developer di seluruh dunia yang berkontribusi
+pada keberhasilannya. Karena Linux bersifat open source,
+banyak organisasi yang mengembangkan versinya sendiri. Di sisi lain, sistem operasi
+seperti Windows atau Macintosh hanya dikembangkan oleh
+perusahaannya masing-masing. Kita menyebut berbagai
+OS Linux ini sebagai distribusi. Beberapa distribusi Linux yang umum
+adalah Ubuntu, Debian, dan Red Hat. Sistem operasi lain yang mulai
+beranjak populer adalah ChromeOS, tetapi kita tidak akan membahasnya
+secara detail. Penggunaan ponsel di seluruh dunia
+semakin marak dibandingkan komputer desktop. Kabar baiknya adalah ChromeOS dan Android OS menjalankan
+kernel Linux di balik layar. Jadi, ada kemungkinan Anda telah
+menggunakan Linux dan tidak menyadarinya. Ada banyak sistem operasi di luaran sana dan semuanya memiliki
+karakteristik umum yang sama. Jika Anda bisa memahami
+elemen penyusun dasar satu OS, Anda bisa menerapkannya ke sistem operasi
+apa pun dan memahami cara kerjanya. Dalam dukungan IT, sangat umum untuk
+bekerja dengan berbagai sistem operasi, OS desktop, OS smartphone,
+dan lainnya. Sebelum membahasnya lebih lanjut,
+mari pelajari urutan dasarnya. Kernel menangani penyimpanan file
+dan pengelolaan file. Bandingkan dengan kantor pada umumnya di mana
+kita menyimpan data dalam bentuk kertas. File komputer hanyalah data yang kita simpan
+dan sebuah file bisa berupa apa saja, seperti dokumen Word, gambar,
+lagu, atau apa pun. Sistem file adalah cara kita
+menggunakan file ini, seperti di kantor saat kita menggunakan
+sistem untuk menyimpan file. Kita tidak bisa menyimpan semua file
+di satu lemari karena pasti sangat kacau. Sebagai gantinya, kita harus menyusun
+file tersebut ke dalam folder atau direktori agar mudah ditemukan. Ada berbagai jenis sistem file
+yang akan dibahas secara mendetail dalam video mendatang, Fungsi kernel lainnya yang penting
+adalah manajemen proses. Kita memiliki banyak program
+yang ingin dijalankan di sistem. Untuk itu, kita perlu mengurutkan
+langkah-langkah yang harus diterapkan, berapa banyak resource yang digunakan, berapa lama program berjalan, dll. Kernel membantu kita melakukan hal ini
+dengan kemampuan manajemen prosesnya. Misalnya, Anda mungkin menggunakan komputer
+untuk melakukan beberapa tugas sekaligus. Anda mungkin menulis teks dalam dokumen
+sambil mendengarkan musik atau memutar video. Penjadwal proses adalah elemen kernel yang memungkinkan melakukan
+proses multitasking ini. Elemen ini mengalihkan eksekusi
+setiap proses yang berbeda di CPU lebih cepat dari yang Anda bayangkan dan memberikan ilusi seolah-olah
+semuanya terjadi secara bersamaan. Selanjutnya adalah manajemen memori. Kernel mengoptimalkan
+penggunaan memori dan memastikan aplikasi
+memiliki cukup memori agar bisa berjalan. Fungsi terakhir yang penting adalah
+kernel melakukan manajemen input dan output, atau manajemen IO. Ini adalah cara kernel berinteraksi
+dengan perangkat eksternal, seperti disk, keyboard, koneksi jaringan,
+perangkat audio, dan lainnya. Manajemen IO adalah semua hal
+yang bisa memberikan input atau yang bisa digunakan untuk
+menghasilkan output berupa data. Jika Anda pernah menyimpan file ke disk,
+mengklik tombol mouse, atau menggunakan mikrofon saat melakukan
+video chat bersama teman, berarti Anda telah memanfaatkan
+kemampuan kernel untuk mengelola IO. Itulah urutan dasar dari
+fungsi utama kernel, yaitu manajemen file, manajemen proses,
+manajemen memori, dan manajemen IO. Terakhir, kita akan membahas
+komponen lain dari sistem operasi, yaitu ruang pengguna. Ruang pengguna adalah semua hal
+di luar kernel. Kita berinteraksi dengan berbagai hal ini
+secara langsung, misalnya berbagai program seperti editor teks, pemutar musik,
+setelan sistem, antarmuka pengguna, dll. Di akhir modul ini, semoga Anda bisa
+memiliki pemahaman yang kuat tentang semua fungsi
+sistem operasi ini. Mari kita mulai dengan membahas
+manajemen file kernel lebih dalam.

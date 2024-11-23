@@ -1,0 +1,121 @@
+Selamat datang kembali.
+Di video ini, kita akan mempelajari cara perangkat besar seperti mesin analisis berkembang, maksud saya menyusut menjadi perangkat komputasi
+yang kita gunakan saat ini. Perkembangan komputasi telah terus tumbuh sejak penemuan mesin analisis, tetapi tidak mengalami banyak kemajuan hingga
+Perang Dunia II. Pada waktu itu, penelitian
+di bidang komputasi sangat mahal. komponen elektronik masih berukuran
+sangat besar dan Anda perlu banyak komponen
+untuk melakukan proses penghitungan. Ini juga berarti bahwa komputer
+memerlukan ruang yang besar dan banyak proyek penelitian yang kekurangan dana
+dan tidak dapat dilanjutkan. Tetapi saat perang terjadi, pemerintah mulai mengucurkan dana dan sumber daya untuk penelitian komputasi. Mereka ingin membantu mengembangkan
+teknologi yang dapat memberi mereka keunggulan
+dibandingkan negara lain. Banyak upaya dilakukan dan menghasilkan perkembangan di
+berbagai bidang, seperti kriptografi. Kriptografi adalah seni menulis
+dan memecahkan kode. Selama perang, komputer
+digunakan untuk memproses pesan rahasia dari musuh dengan kecepatan yang
+lebih tinggi dibandingkan manusia. Hari ini, peran kriptografi dalam komunikasi yang aman merupakan bagian penting dari keamanan komputer, yang akan kita pelajari selengkapnya
+di kursus selanjutnya. Untuk sekarang, mari kita lihat
+bagaimana komputer mulai memberikan dampak
+yang signifikan bagi masyarakat. Usai perang, perusahaan
+seperti IBM, Hewlett Packard, dan perusahaan lainnya mulai mengembangkan teknologi mereka menjadi ranah akademis, bisnis, dan pemerintah. Banyak kemajuan teknologi dan komputasi yang dicapai
+pada abad ke-20 berkat minat langsung dari pemerintah, ilmuwan, dan perusahaan yang
+masih tersisa dari Perang Dunia II. Berbagai institusi ini menemukan metode baru untuk menyimpan data di komputer, yang kemudian memicu
+pertumbuhan daya komputasi. Bayangkan, hingga tahun 1950-an, kartu punch merupakan
+cara populer untuk menyimpan data. Operator memiliki setumpuk kartu punch yang diurutkan
+untuk pemrosesan data. Jika mereka menjatuhkan dek
+secara tidak sengaja dan kartu menjadi tidak urut, nyaris tidak mungkin mengurutkannya lagi. Jelas ada beberapa batasan
+pada kartu punch. Namun, berkat inovasi teknologi yang baru seperti pita magnetik dan sarana sejenis, orang-orang mulai menyimpan lebih banyak data
+pada media yang lebih andal. Pita magnetik bekerja dengan
+memagnetisasi data ke dalam pita. Tumpukan kartu punch mulai ditinggalkan sementara penggunaan pita magnetik mulai merevolusi industri. Saya tidak bercanda soal komputer masa awal
+sangat memakan tempat. Mesinnya sangat besar
+untuk membaca data dan rak tabung vakum
+yang membantu memindahkan data. Tabung vakum mengontrol
+tegangan listrik dan semua peralatan elektronik
+seperti televisi dan radio. Tapi tabung vakum yang spesifik ini sangat besar dan mudah rusak. Bayangkan seperti apa pekerjaan spesialis dukungan IT pada masa awal komputasi. Pekerjaan yang dilakukan saat itu
+mungkin saja termasuk merangkak di dalam mesin besar yang dipenuhi debu dan serangga atau mengganti tabung vakum
+dan menukar kartu punch Pada waktu itu, melakukan debugging mungkin
+dapat diartikan secara harafiah. Ilmuwan komputer yang terkenal
+Laksamana Grace Hopper memiliki cerita favorit yang mengenai sejumlah insinyur yang bekerja pada
+komputer Harvard Mark II. Mereka berusaha mengetahui sumber masalah dalam sebuah relay. Setelah menyelidiki, mereka menemukan sumber masalahnya
+adalah ngengat, serangga (bug) yang benar-benar
+berada di dalam komputer. ENIAC adalah salah satu bentuk paling awal dari komputer
+untuk tujuan umum. ENIAC merupakan gabungan rumit komponen elektronik dan kabel-kabel,
+yang berukuran sangat besar. Komputer ini memiliki 17.000 tabung vakum dan membutuhkan
+area seluas 1.800 kaki persegi. Bayangkan jika Anda harus bekerja dengan skala peralatan tersebut saat ini. Saya tidak ingin kantor saya dipenuhi dengan mesin berukuran 167 meter persegi. Pada akhirnya,
+industri mulai menggunakan transistor untuk mengontrol
+tegangan listrik. Sekarang transistor telah
+menjadi komponen dasar dari semua perangkat elektronik. Transistor melakukan hampir semua fungsi yang sama
+seperti tabung vakum, tetapi lebih ringkas dan efisien. Anda dapat dengan mudah
+memiliki miliaran transistor dalam chip
+komputer kecil saat ini. Selama beberapa dekade terakhir, semakin banyak kemajuan
+yang dicapai dalam bidang IT. Compiler pertama diciptakan oleh Laksamana Grace Hopper. Dengan Compiler, kita dapat menerjemahkan bahasa manusia melalui ke dalam kode mesin
+melalui bahasa pemrograman. Salah satu makna penting
+kemajuan ini adalah kompilator menjadi adalah pencapaian besar dalam komputasi yang membawa kita
+sampai pada teknologi hari ini. Sekarang, bahasa pemrograman dapat dipelajari oleh hampir semua orang,
+di mana pun mereka berada. Kita tidak lagi harus belajar cara menulis kode mesin dalam
+kombinasi angka satu dan nol. Pada akhirnya, industri memproduksi drive hard disk dan mikroprosesor pertama. Bahasa pemrograman ini mulai menjadi cara utama bagi insinyur untuk mengembangkan
+software komputer. Komputer semakin kecil, berkat kemajuan
+di bidang komponen elektronik. Alih-alih memenuhi
+seluruh ruangan seperti ENIAC, komputer menjadi cukup kecil
+untuk ditaruh di atas meja. Xerox Alto adalah komputer pertama yang menyerupai komputer
+yang kita kenali saat ini. Ada juga komputer pertama
+yang mengimplementasikan antarmuka pengguna grafis yang menggunakan ikon, mouse, dan window. Anda mungkin ingat, bahwa
+ukuran yang besar dan harga yang mahal menjadikan komputer saat itu tidak mungkin dimiliki
+oleh masyarakat umum. Komputer biasanya ditemukan di fasilitas militer dan penelitian universitas. Saat perusahaan seperti Xerox
+mulai membuat mesin dengan harga yang relatif terjangkau dan ukuran dan bentuk yang lebih kecil. Era komputasi konsumen dimulai. kemudian pada tahun 1970-an, seorang insinyur muda bernama Steve Wozniak menciptakan Apple 1, sebuah komputer single-board MIT
+yang digunakan oleh para pegiat IT. Bersama temannya Steve Jobs, mereka menciptakan perusahaan
+yang disebut Apple Computer. Setelah menciptakan Apple I, komputer Apple II pun siap
+digunakan oleh masyarakat umum. Apple II adalah sebuah
+kesuksesan yang fenomenal, tersedia di pasaran selama hampir
+dua dekade dan memberikan akses komputer pribadi untuk generasi baru. Untuk pertama kalinya, komputer menjadi terjangkau untuk kelas menengah dan membantu menghadirkan
+teknologi komputasi ke rumah dan kantor. Pada tahun 1980-an, IBM
+memperkenalkan komputer pribadinya. Komputer tersebut dirilis
+dengan versi primitif sistem operasi yang disebut MS DOS atau Sistem Operasi Microsoft Disk. Sebagai catatan tambahan,
+sistem operasi modern tidak hanya memiliki teks, tetapi juga memiliki ikon, kata-kata, dan gambar yang indah seperti yang kita lihat
+di smartphone kita. Luar biasa kemajuan dari sistem operasi pertama hingga sistem operasi yang kita gunakan hari ini. Kembali ke PC IBM; komputer ini diadopsi secara luas dan dibuat agar lebih dapat diakses untuk konsumen, berkat kemitraan dengan Microsoft. Microsoft didirikan oleh Bill Gates, yang pada akhirnya membuat
+Microsoft Windows. Selama beberapa dekade,
+Microsoft merupakan sistem operasi pilihan di tempat kerja dan mendominasi industri komputasi karena dapat dijalankan di hardware
+apa saja yang kompatibel. Dengan lebih banyak komputer
+di tempat kerja, ketergantungan pada IT meningkat, begitu pula permintaan terhadap pekerja terampil yang bisa
+mendukung teknologi tersebut. Bukan hanya komputer pribadi memasuki rumah tangga
+untuk pertama kali, tetapi jenis komputasi baru
+muncul, game video. Selama tahun 1970-an dan 80-an, mesin hiburan yang dioperasikan koin
+yang disebut arkade menjadi semakin populer. Perusahaan bernama Atari
+mengembangkan salah satu game arkade pertama yang menggunakan koin
+pada tahun 1972, yaitu Pong. Pong merupakan sensasi
+yang membuat orang-orang berdiri mengantre di bar dan pusat rekreasi selama berjam-jam
+untuk bermain. Komputer hiburan seperti Pong mendorong lahirnya era video game. Pada akhirnya, Atari meluncurkan Video Computer System, yang membantu menghadirkan
+konsol video pribadi ke rumah. Game video telah berkontribusi terhadap evolusi komputer secara nyata, sampaikan ini kepada orang yang hanya
+menganggap video game sebagai mainan. Video game menunjukkan
+bahwa komputer tidak selalu harus untuk bekerja dan tanpa hiburan. Komputer juga sumber hiburan
+yang luar biasa. Ini merupakan pencapaian yang penting bagi industri komputasi, karena pada waktu itu, komputer utamanya digunakan di tempat kerja atau di lembaga riset. Dengan adanya pemain besar seperti Apple Macintosh,
+dan Microsoft Windows, yang mengambil alih ruang sistem operasi, seorang programer yang bernama
+Richard Stallman mulai mengembangkan sistem operasi
+mirip Unix gratis. Unix adalah sistem operasi yang dikembangkan oleh Ken Thompson dan Dennis Ritchie, tapi OS ini tidak murah
+dan hanya tersedia untuk sebagian orang. Stallman membuat OS yang disebut GNU. Tujuan sistem operasi ini
+adalah bisa digunakan secara gratis dan memiliki fungsionalitas
+yang serupa dengan Unix. Tidak seperti Windows dan Macintosh, GNU tidak dimiliki oleh satu perusahaan, kodenya bersifat open source, artinya siapa saja dapat memodifikasi
+dan membagikannya. GNU tidak berkembang menjadi
+sistem operasi seutuhnya, tapi, OS ini menjadi dasar
+terbentuknya salah satu sistem operasi open source terbesar, Linux, yang dibuat oleh Linus Torvalds. Nanti, kita akan membahas Linux secara teknis dalam kursus ini, tapi ketahuilah bahwa Linux
+adalah salah satu pemain utama dalam sistem operasi saat ini. Sebagai seorang spesialis dukungan IT, kemungkinan besar Anda akan bekerja dengan software open-source. Anda mungkin sudah menggunakan
+salah satunya seperti browser internet Mozilla Firefox. Pada awal 90-an, ukuran
+komputer semakin mengecil. Kemudian masuklah para pemain baru yang mengubah situasi di dunia IT: PDA atau asisten digital pribadi, yang memberikan mobilitas
+pada proses komputasi. Perangkat seluler ini menyertakan pemutar media portabel, pengolah kata, program email, browser Internet, dan lebih banyak lagi, hanya dalam
+sebuah perangkat genggam yang praktis. Pada akhir tahun 1990-an, Nokia memperkenalkan PDA dengan
+fungsionalitas telepon seluler. Hal ini mendorong berkembangnya industri komputer portabel atau seperti yang kita tahu sekarang, smartphone. Hanya dalam beberapa dekade,
+kita merevolusi komputer. Dari yang semula memiliki
+bobot hingga berton-ton dan memenuhi seluruh ruangan, hingga komputer andal yang pas di saku. Nyaris tidak dapat dipercaya,
+dan ini baru permulaan. Jika Anda memasuki industri IT, Anda harus memahami cara mendukung peningkatan kebutuhan akan teknologiyang terus
+mengalami perubahan ini. 50 tahun lalu,
+pekerjaan teknisi komputer meliputi mengganti tabung vakum
+dan menumpuk kartu punch, hal-hal yang tidak lagi ada
+di dunia IT saat ini. Seiring perkembangan komputer baik dari segi kompleksitas
+maupun penggunaannya, pengetahuan aspek teknis dan pemeliharaan
+yang dibutuhkan juga terus berkembang. Dalam 10 tahun, dukungan IT mungkin saja
+harus bekerja melalui lensa realitas maya,
+Anda tidak pernah tahu. Tidak ada yang tahu
+yang akan terjadi di masa depan, tetapi saat ini adalah saat yang tepat untuk menempatkan
+diri di garis depan industri IT. Setelah penjelasan secara detail
+tentang asal usul komputer dan bagaimana komputer berkembang
+selama beberapa dekade, mari kita pelajari lebih lanjut
+cara kerja komputer.

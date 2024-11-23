@@ -1,0 +1,25 @@
+Sistem operasi pertama
+yang akan kita instal adalah OS Windows 10. Ini adalah iterasi terbaru dalam sistem operasi Windows. Jika Anda membeli software ini di toko, Anda akan mendapatkan drive USB. Windows saya ada di drive USB. Saya akan melanjutkan dan mulai menjalankan drive, lalu
+melakukan booting dalam satu menit Tetapi sebelumnya,
+pastikan urutan booting BIOS atau UEFI disetel
+untuk booting dari drive USB. Bergantung merek komputer Anda, tekan "F12" atau tombol lain
+untuk mengakses setelan BIOS. Oke. Biarkan berjalan dan kita akan melihat proses booting dari drive USB. Perhatikan bahwa proses penginstalan Anda
+mungkin sedikit berbeda bergantung pada versi Windows-nya. Saya akan klik "Next". Menentukan preferensi bahasa, waktu, dan keyboard, lalu saya klik tombol "Install now". Saya diminta memasukkan "product key". Saya akan melewatinya, nanti saja, lalu saya diminta menyetujui
+persyaratan lisensi software, saya setuju. Lalu klik "Next." Oke. Saya ditanya
+jenis penginstalan yang saya inginkan. Saya akan pilih "Custom" karena hanya ingin menginstal Windows. Saya pilih drive tempat penginstalan. Sepertinya
+komputer dimulai ulang, lalu sekarang
+mengonfigurasi update. Setelah update selesai, komputer akan dimulai ulang lagi. Sekarang muncul layar yang meminta kita
+memasukkan "product key". Kita akan lanjut dan melewatinya. Kita akan melakukannya nanti. Saya akan mengklik
+"Do this later". Lalu menanyakan setelan
+yang ingin saya gunakan. Saya klik setelan
+"Use Express" untuk saat ini. Saya ingin segera menggunakan mesin ini secepatnya. Saya diminta membuat akun untuk PC ini. Kolom pertama
+adalah nama pengguna. Nama pengguna adalah
+ID unik untuk akun pengguna. Saya akan menggunakan nama depan saya sebagai nama pengguna. Lalu, masukkan sandi. Setelah itu, lanjutkan
+dan selesaikan penyiapan ini. Sistem akan menyelesaikan semuanya. Oke. Sekarang kita sudah ada di dalam
+sistem operasi Windows 10. Ayo lihat.
+Ini adalah ruang pengguna. Ada lingkungan desktop tempat kita meletakkan file, folder, dan aplikasi. Layar utama ini disebut desktop. Di sudut kanan bawah ini adalah taskbar. Di sini ada opsi cepat dan menampilkan informasi
+seperti konektivitas jaringan, tanggal, notifikasi sistem, suara, dll. Di sudut kiri bawah, kita bisa mengakses aplikasi, file, folder, dan setelan. Kita juga bisa menonaktifkan, memulai ulang,
+dan mematikan komputer dari sini. Kita lanjut ke setelan sistem. Di menu utama, buka "Settings". Dari sini, Anda bisa mengubah setelan sistem seperti resolusi layar, akun pengguna, jaringan, perangkat, dll. Sekarang, kita akan membuat file di sistem operasi dengan GUI. Mari buat file di desktop. Caranya klik kanan dan Anda akan melihat
+sejumlah opsi yang ada. Pillih "New",
+lalu "Text Document". Sekarang ada file teks di desktop. Kita hanya perlu memberinya nama. Coba "My Super Cool File". Selesai.
+Anda sudah membuat file di Windows. Mudah, bukan?

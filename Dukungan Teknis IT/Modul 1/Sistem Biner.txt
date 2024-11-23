@@ -1,0 +1,25 @@
+Anda mungkin penasaran
+bagaimana cara komputer mendapatkan angka satu dan nol ini? Ini pertanyaan yang bagus.
+Bayangkan kita memiliki bohlam dan sakelar untuk mematikan dan menyalakan lampu. Jika kita menyalakan lampu, kita bisa menyatakan statusnya sebagai satu, jika bohlam mati, kita bisa merepresentasikan statusnya
+sebagai nol. Sekarang bayangkan
+delapan bohlam dan sakelar yang merepresentasikan delapan bit
+dengan kombinasi angka nol atau satu. Mari kita kembali ke kartu punch yang digunakan di mesin tenun Jacquard. Ingat bahwa mesin tenun menggunakan
+kartu dengan lubang di dalamnya. Saat mesin tenun menemukan lubang, maka mesin akan mengaitkan
+benang yang ada di bawahnya, artinya mesin tenun nyala. Jika tidak menemukan lubang, mesin tenun tidak akan mengaitkan benangnya,
+atau dengan kata lain, mesin tenun mati. Inilah konsep dasar sistem biner. Dengan memanfaatkan dua status
+nyala dan mati, Jacquard bisa menenun pola kain yang rumit
+dengan mesin tenunnya. Sejak itu, industri mulai menyempurnakan sistem kartu punch. Jika ada lubang, komputer akan membacanya sebagai angka satu, jika tidak ada lubang, artinya angka nol. Kemudian, cukup dengan menerjemahkan kombinasi angka nol dan satu, komputer bisa menghitung jumlah angka yang dapat dihasilkan. Sistem biner di komputer saat ini
+tidak dilakukan dengan membaca lubang, tetapi menggunakan kelistrikan melalui transistor yang memungkinkan
+sinyal listrik melewatinya. Jika ada tegangan listrik, kita akan menyatakannya sebagai angka satu, jika tidak ada, berarti angka nol. Namun, komputer tidak dapat
+mengerjakan tugas-tugas rumit hanya dengan mengandalkan transistor. Bayangkan jika Anda memiliki dua sakelar lampu di
+ujung ruangan yang berlawanan, yang masing-masing mengontrol
+satu lampu di dalam ruangan. Bagaimana jika Anda menyalakan lampu dengan satu sakelar, tetapi sakelar satunya
+tidak dapat mematikan lampu? Desain ruangan itu akan sangat buruk. Kedua sakelar harus dapat
+menyalakan atau mematikan lampu, tergantung kondisi lampunya. Untungnya, kami memiliki logic gate. Logic gate memungkinkan transistor melakukan tugas yang lebih kompleks, seperti menentukan lokasi pengiriman sinyal listrik bergantung pada kondisi logika. Ada berbagai jenis logic gate, tetapi kita tidak akan membahasnya
+secara detail di sesi kali ini. Jika Anda ingin memahami peran transistor dan logic gate
+di sirkuit modern, Anda dapat membaca penjelasan selengkapnya
+pada sumber bacaan tambahan. Sekarang kita tahu cara komputer
+menghitung angka satu dan nol, menjadi instruksi yang bermakna. Selanjutnya dalam kursus ini, kita akan membahas cara kita bisa mengubah instruksi yang dapat dipahami
+manusia menjadi kombinasi angka nol dan satu yang dipahami komputer
+melalui compiler. Itu salah satu komponen
+penyusun pemrograman paling dasar yang mengarah pada pembuatan situs media sosial, game video favorit kita, dan lain-lain.

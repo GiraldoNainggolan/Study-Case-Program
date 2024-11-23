@@ -1,0 +1,35 @@
+Mari kita lihat kembali
+bagian belakang komputer kita. Di sini, Anda melihat banyak konektor atau port yang dapat kita sambungkan
+ke berbagai objek, seperti mouse, keyboard,
+dan monitor. Ini dikenal sebagai periferal. Pada dasarnya, periferal ialah
+segala hal yang Anda sambungkan ke komputer secara eksternal
+yang menambah fungsionalitas. Anda mungkin pernah
+menggunakan perangkat USB. USB, yang juga dikenal sebagai
+perangkat universal serial bus, adalah koneksi paling populer
+untuk gadget kita. USB telah mengalami
+banyak perubahan sejak diluncurkan. Anda paling sering menemukan USB 2.0, USB 3.0, dan 3.1 di sistem saat ini. Dalam diagram, mari kita perhatikan detailnya menggunakan Mb/s daripada menggunakan MB
+sebagai referensi kecepatan transfer, Keduanya adalah
+satuan yang berbeda. MB adalah megabyte
+atau satuan penyimpanan data, sedangkan Mb/s (huruf M besar)
+adalah megabit per detik, yang merupakan
+satuan kecepatan transfer data. Orang sering salah mengira
+kecepatan 40 megabit per detik berarti kecepatan transfer ialah 40 megabyte data per detik. Ingatlah bahwa satu byte adalah delapan bit, jadi untuk mentransfer file sebesar
+satu megabyte dalam satu detik, Anda memerlukan kecepatan koneksi
+delapan megabit per detik. Anda juga memerlukan port USB yang kompatibel dengan perangkat Anda. Jika Anda menghubungkan
+perangkat USB 2.0 ke port USB 3.0, Anda tidak akan
+mendapatkan kecepatan transfer 3.0, tetapi masih dapat menggunakan port tersebut karena masih kompatibel, artinya hardware lama akan berfungsi
+dengan hardware lebih baru. Port-nya mudah dibedakan,
+saya akan tunjukkan kepada Anda. Secara umum, port USB 2.0 berwarna hitam, USB 3.0 berwarna biru,
+dan 3.1 berwarna hijau kebiruan. Hal ini dapat berubah tergantung produsennya. Ada banyak jenis konektor USB dan Anda dapat membaca semuanya di bacaan tambahan setelah video ini.
+Silakan dilihat. Kembali ke konektor USB. Yang terbaru adalah konektor Type-C, yang dimaksudkan untuk menggantikan
+banyak koneksi periferal. Konektor ini dengan cepat
+menjadi standar universal untuk transfer data dan tampilan. Selain periferal USB, Anda juga harus
+mengetahui periferal tampilan. Ada beberapa standar input umum
+yang perlu diketahui. Kebanyakan monitor komputer akan memiliki satu atau beberapa koneksi ini, tetapi Anda mungkin menemukan
+beberapa standar lama juga, yaitu DVI. Kabel DVI umumnya hanya berupa output video, jika perlu menyambungkan monitor atau proyektor untuk presentasi slide, serta memerlukan audio, mungkin tidak terlalu optimal,
+akan tetapi Anda perlu melihat
+salah satu kabel berikut, HDMI. HDMI telah
+menjadi standar di banyak televisi dan komputer saat ini, dan menghasilkan video dan audio. Standar lain yang menjadi populer di kalangan produsen
+adalah display port, yang juga menghasilkan audio dan video. Selain audio dan video, USB Type-C juga bisa
+melakukan transfer data dan pengisian daya. Sebagai spesialis dukungan IT, menggunakan periferal seperti perangkat USB dan perangkat layar
+akan menjadi rutinitas Anda. Sekarang, Anda akan dapat membedakan jenis-jenis utamanya.

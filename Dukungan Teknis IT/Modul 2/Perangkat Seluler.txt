@@ -1,0 +1,49 @@
+Halo, jumpa lagi. Anda mungkin ingat saya
+dari modul sebelumnya, dan jangan khawatir jika tidak,
+yang penting saya di sini sekarang. Kami memperbarui program ini
+untuk memastikan Anda mendapat info terbaru
+tentang perangkat seluler. Saya akan hadir sepanjang program ini. Jadi, mohon simak baik-baik. Mari kita bahas perangkat seluler. Perangkat seluler adalah komputer.
+Perangkat ini punya CPU, RAM, penyimpanan, sistem daya, dan periferal. Apa bedanya perangkat seluler
+dengan server, komputer desktop, atau laptop? Perangkat ini berbeda
+karena bersifat bergerak. Perangkat ini portabel
+dan biasanya bertenaga baterai. Sebagian perangkat seluler
+adalah perangkat komputasi serbaguna, seperti tablet atau smartphone. Perangkat seluler lainnya dioptimalkan
+untuk melakukan tugas tertentu, seperti monitor kebugaran,
+e-reader, dan smartwatch. Perangkat seluler
+biasanya sangat terintegrasi. Ingat sistem yang
+kami tunjukkan sebelumnya, Anda bisa mengeluarkan
+dan memegang komponennya. Perangkat seluler berisi
+sebagian atau semua komponen yang disatukan sehingga sulit dibongkar. Semakin kecil perangkat,
+biasanya komponennya semakin terintegrasi. CPU, RAM, dan penyimpanan mungkin
+disolder langsung ke motherboard perangkat. Perangkat seluler yang sangat kecil
+menggunakan sistem di chip atau SOC. SOC mengemas CPU, RAM, dan terkadang
+bahkan penyimpanan ke dalam satu chip. SOC bukan hanya kecil, tetapi juga
+menggunakan daya baterai lebih sedikit dibandingkan jika komponennya terpisah. Meskipun kecil, beberapa perangkat seluler
+menggunakan periferal. Misalnya, smartphone yang terhubung ke
+headphone Bluetooth. Perangkat seluler bisa juga
+menjadi periferal. Pelacak kebugaran adalah
+perangkat mandiri, tapi bisa juga menjadi periferal
+untuk smartphone. Pelacak kebugaran itu juga mungkin memakai
+monitor detak jantung sebagai periferal. Itu adalah periferal sepenuhnya. Perangkat seluler mungkin menggunakan
+port dan konektor standar atau eksklusif. Anda mungkin perlu memiliki
+adaptor atau konektor khusus untuk mengisi daya perangkat
+atau menghubungkannya ke komputer. Terkadang bentuk fisik atau
+tujuan penggunaan perangkat seluler membuat koneksi standar seperti USB
+menjadi pilihan yang buruk. Misalnya, Anda memiliki
+pelacak kebugaran tahan air. Jika yang dipakai adalah port micro-USB,
+port tersebut akan rusak jika terkena air. Jadi, perangkat seluler dirancang dengan
+antarmuka pengisi daya kustom yang dapat
+terendam di air. Berikut beberapa jenis konektor data,
+daya, dan layar standar yang dapat digunakan pada perangkat seluler. Ini adalah USB-C, berikutnya ada adaptor lightning, lalu mini USB, dan micro USB, Micro HDMI, dan mini HDMI, dan ini mini port display. Karena perangkat seluler pada umumnya
+kecil dan memiliki akses listrik terbatas, perangkat ini menjalankan
+sistem operasi dan software aplikasi yang dirancang khusus untuk
+memaksimalkan performanya. Kita akan mendalami sistem operasi
+dan aplikasi seluler di video mendatang. Sebagai spesialis dukungan IT, tugas Anda mungkin membantu
+pengguna akhir mengurus perangkat seluler. Ini bisa mencakup penyiapan, pemecahan masalah, perbaikan,
+dan penggantian perangkat seluler. Jangan khawatir, kami akan
+menguraikan semua ini untuk Anda. Satu hal yang sangat penting, perangkat seluler dapat berisi
+banyak data pribadi. Penggunaan perangkat pribadi
+diizinkan di sebagian tempat kerja. Kami menyebut ini dengan istilah
+Bawa Perangkat Sendiri atau BYOD. Anda harus menjaga privasi orang
+yang meminta bantuan terkait perangkat pribadi mereka. Untuk tahu cara menangani perangkat ini, sebaiknya selalu mengacu ke
+kebijakan organisasi Anda.
