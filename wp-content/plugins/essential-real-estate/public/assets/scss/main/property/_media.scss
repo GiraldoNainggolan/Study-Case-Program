@@ -1,0 +1,16 @@
+.media-drag-drop {
+	background-color: #efefef;
+	border: 2px dashed #dfdfdf;
+	text-align: center;
+	padding: 30px;
+}
+
+.remove {
+	cursor: pointer;
+}
+
+.media-drag-drop,
+.property-video-url,
+.property-image-360{
+	margin-bottom: 20px;
+}

@@ -1,0 +1,150 @@
+table.compare-tables {
+	tbody {
+		> tr:nth-of-type(even) {
+			background-color: #f6f6f6;
+		}
+		> tr:nth-of-type(odd) {
+			background-color: transparent;
+		}
+	}
+
+
+	border: none;
+	th,
+	td {
+		border: none;
+	}
+
+	thead {
+		th {
+			vertical-align: top;
+		}
+	}
+
+	th {
+		background: transparent !important;
+		padding: 0 15px 15px 15px;
+	}
+
+	td {
+		border: none;
+		vertical-align: middle;
+		text-align: center;
+		font-size: 16px;
+		font-weight: normal;
+		color: #8f8f8f;
+	}
+
+	tr {
+		height: 52px;
+	}
+
+	.title-list-check {
+		font-weight: 500;
+		padding-left: 21px;
+		text-align: left;
+		color: #222222;
+	}
+
+	.check-no {
+		color: #e33f3f;
+	}
+
+	.check-yes {
+		color: #4ede00;
+	}
+
+	.property-inner {
+		position: relative;
+		padding: 15px;
+		max-width: 360px;
+		margin: auto;
+		background-color: #f8f8f8;
+		&:before {
+			content: '';
+			display: block;
+			width: 25px;
+			height: 25px;
+			background: #f8f8f8;
+			position: absolute;
+			left: 0;
+			right: 0;
+			margin: auto;
+			bottom: -20px;
+			@include transform(translateY(-50%) rotate(45deg));
+		}
+
+		.property-image-wrap {
+			img {
+				width: 100%;
+			}
+		}
+
+		.property-label {
+			position: absolute;
+			left: 18px;
+			top: 40px;
+			p {
+				margin-bottom: 10px;
+				color: #fff;
+				font-weight: 400;
+				text-align: left;
+
+				.property-label-bg {
+					display: inline-block;
+					background-color: var(--ere-color-accent);
+					padding-left: 10px;
+					padding-right: 5px;
+					position: relative;
+					line-height: 19px;
+					font-size: 12px;
+
+					span {
+						position: absolute;
+						content: '';
+						display: block;
+						left: 100%;
+						top: 0;
+						border-top: 10px solid transparent;
+						border-bottom: 9px solid transparent;
+						border-left: 7px solid var(--ere-color-accent);
+					}
+				}
+			}
+		}
+
+		.property-title {
+			text-align: left;
+			margin-top: 17px;
+			margin-bottom: 10px;
+			font-size: 18px;
+			a {
+				color: #222222;
+				font-weight: 500;
+			}
+		}
+
+		.property-price {
+			font-weight: 600;
+			color: #222222;
+		}
+
+		.property-location {
+			font-weight: 400;
+			color: #8f8f8f;
+			i {
+				color: var(--ere-color-accent);
+			}
+		}
+
+
+
+	}
+}
+
+@media (max-width: 991px) {
+	.compare-table-wrap {
+		overflow-x: auto;
+	}
+}
+

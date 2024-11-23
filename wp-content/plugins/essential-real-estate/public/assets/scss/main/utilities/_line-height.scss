@@ -1,0 +1,17 @@
+$line_height: (
+		"small": 1em,
+		"normal": 1.5em,
+		"medium": 1.6em,
+		"large": 1.8em,
+		"2x": 2em,
+		"3x": 3em,
+		"21": 21px,
+		"24": 24px,
+		"34": 34px,
+		"42": 42px,
+);
+@each $k, $v in $line_height {
+	.line-#{$k} {
+		line-height: $v !important;
+	}
+}

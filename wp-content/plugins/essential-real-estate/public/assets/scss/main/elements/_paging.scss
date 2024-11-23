@@ -1,0 +1,66 @@
+.paging-navigation {
+	position: relative;
+	ul {
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		position: relative;
+	}
+
+	li {
+		> a,
+		> span {
+			border: none;
+			@include border-radius(0);
+		}
+	}
+
+	.page-numbers {
+		margin-right: 6px;
+		padding: 0 19px;
+		line-height: 35px;
+		text-align: center;
+		color: var(--ere-color-heading-foreground);
+		font-size: 12px;
+		font-weight: 500;
+		display: inline-block;
+		@include transition(all .3s);
+		background-color: var(--ere-color-heading);
+		&.current,
+		&:hover,
+		&:focus {
+			background-color: var(--ere-color-accent);
+			color: var(--ere-color-accent-foreground);
+			border-color: transparent;
+		}
+
+		&.prev,
+		&.next {
+			left: auto;
+			height: 35px;
+			line-height: 35px;
+			&:before {
+				display: none;
+			}
+		}
+
+		&.prev {
+			position: absolute;
+			right: 104px;
+			bottom: 0;
+		}
+
+		&.next {
+			margin-right: 0;
+			position: absolute;
+			right: 0;
+			bottom: 0;
+		}
+	}
+
+	&.next-disable .page-numbers.prev {
+		right: 0;
+		margin-right: 0;
+	}
+
+}

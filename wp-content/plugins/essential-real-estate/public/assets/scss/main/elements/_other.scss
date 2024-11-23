@@ -1,0 +1,188 @@
+.property-element-inline,
+.agency-element-inline {
+	display: table;
+	width: 100%;
+	> div {
+		display: table-cell;
+		vertical-align: top;
+		&:last-child {
+			text-align: right;
+		}
+	}
+}
+.property-info-item-tooltip {
+	display: inline-block;
+}
+.position-inline {
+	display: inline-block;
+}
+.list-1-column .ere-item-wrap {
+	width: 100% !important;
+}
+
+.btn-save-search
+{
+	border-bottom-left-radius: 2em !important;
+	border-bottom-right-radius: 2em !important;
+}
+#ere_save_search i{
+	padding-left: 5px;
+}
+
+.mce-i-fascbutton_add_shortcode:before {
+	content: '\f502';
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font:400 20px/1 dashicons;
+}
+
+#geocomplete-error
+{
+	position: absolute;
+}
+.advanced-saved-searches
+{
+	border-top: 2px solid var(--ere-color-accent);
+	text-align: center;
+}
+.ere-recaptcha-wrap
+{
+	margin-bottom: 15px;
+}
+
+li.dotted-right {
+	float: right;
+}
+
+li.dotted-left + li.dotted-right:before {
+	content: '';
+	width: 100%;
+	display: block;
+	height: 1px;
+	border: 1px dotted;
+	position: absolute;
+	left: 0;
+	bottom: 10px;
+	color: #dddddd;
+}
+
+li.dotted-left {
+	position: relative;
+	z-index: 2;
+	padding-right: 10px;
+}
+
+.content-single-property .post-ratings
+{
+	margin-top: 30px;
+	text-align: center;
+}
+.ere-agent-single .post-ratings
+{
+	margin-top: 30px;
+}
+
+ul.ere-property-list
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+
+	strong
+	{
+		display: inline-block;
+		width: 50%;
+	}
+
+	span
+	{
+		display: inline;
+		width: 50%;
+	}
+
+	li
+	{
+		padding: 8px 15px;
+		&:nth-child(odd) {
+			background: #f8f8f8;
+		}
+	}
+}
+
+
+#property_price_on_call
+{
+	margin-right: 5px;
+}
+.ere-link-more
+{
+	font-style: italic;
+	display: block;
+}
+
+.ere_payment_stripe button {
+	display: none !important;
+}
+
+
+.agent-info h2.agent-name{
+	font-size: 18px;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+.property-price-prefix,.property-price-postfix
+{
+	font-size: 12px;
+	color: var(--ere-color-accent);
+}
+.property-info-header .property-price-prefix,.property-info-header .property-price-postfix{
+	font-size: 14px;
+}
+.property-type i, .property-location i, .property-type-list i,.property-agent i,.property-date i,.property-views-count i,
+.property-info-header .property-info span.fa,.property-count span,.agent-info i,.ere-link-more,.ere-widget-listing-property-taxonomy i,.user-dropdown i,.address-marker i,.ere-my-saved-search-item i,
+span.total-properties,.ere-dashboard-logout i,.attachment-file-type,.open-on-google-maps,.walk-score-more-detail,.ere-my-property-address i,.ere-my-property-total-views i,.ere-my-property-date i {
+	color: var(--ere-color-accent);
+}
+.ere-link-more{
+	text-align: right;
+}
+.ere-package-price{
+	font-size: 50px;
+	font-weight: bold;
+}
+.ere-package-title,.ere-package-price,.ere-package-choose
+{
+	text-align: center;
+}
+.ere-profile-avatar,.agent-avatar
+{
+	text-align: center;
+}
+.agent-description
+{
+	margin-top: 20px;
+}
+
+
+.agent-company-info span,.agent-main-info span,.agent-company-info p,.agent-main-info p
+{
+	font-weight: bold;
+}
+.ere-thankyou-content
+{
+	margin-bottom: 40px;
+}
+.agency-title
+{
+	font-size: 18px;
+}
+
+.ere-wire-transfer-info
+{
+	display: none;
+}
+
+h2.property-title
+{
+	font-size: 18px;
+}

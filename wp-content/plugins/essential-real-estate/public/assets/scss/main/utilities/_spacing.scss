@@ -1,0 +1,9 @@
+$letter_spacing: (
+		"50": 0.05em,
+		"100": 0.1em,
+);
+@each $k, $v in $letter_spacing {
+	.spacing-#{$k} {
+		letter-spacing: $v;
+	}
+}

@@ -1,0 +1,245 @@
+.ere-property-wrap .container {
+	max-width: 1170px;
+	width: auto;
+	padding-left: 0;
+	padding-right: 0;
+}
+.ere-item-wrap {
+	width: 100%;
+	float: left;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.property-carousel .ere-item-wrap {
+	float: none;
+	padding-left: 0;
+	padding-right: 0;
+}
+.list-2-col {
+	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2;
+}
+.list-2-col li{
+	display: block;
+	-moz-column-break-inside:avoid;
+	-webkit-column-break-inside:avoid;
+	column-break-inside:avoid;
+	overflow: hidden;
+}
+@media (min-width: 1200px) {
+	.columns-2 > .ere-item-wrap {
+		width: 50%;
+	}
+
+	.columns-2 > .ere-item-wrap:nth-child(2n+1) {
+		clear: both;
+	}
+
+	.columns-3 > .ere-item-wrap {
+		width: 33.33333333%;
+	}
+
+	.columns-3 > .ere-item-wrap:nth-child(3n+1) {
+		clear: both;
+	}
+
+	.columns-4 > .ere-item-wrap {
+		width: 25%;
+	}
+
+	.columns-4 > .ere-item-wrap:nth-child(4n+1) {
+		clear: both;
+	}
+
+	.columns-5 > .ere-item-wrap {
+		width: 20%;
+	}
+
+	.columns-5 > .ere-item-wrap:nth-child(5n+1) {
+		clear: both;
+	}
+
+	.columns-6 > .ere-item-wrap {
+		width: 16.66666666666667%;
+	}
+
+	.columns-6 > .ere-item-wrap:nth-child(6n+1) {
+		clear: both;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.columns-md-2 > .ere-item-wrap {
+		width: 50%;
+	}
+
+	.columns-md-2 > .ere-item-wrap:nth-child(2n+1) {
+		clear: both;
+	}
+
+	.columns-md-3 > .ere-item-wrap {
+		width: 33.33333333%;
+	}
+
+	.columns-md-3 > .ere-item-wrap:nth-child(3n+1) {
+		clear: both;
+	}
+
+	.columns-md-4 > .ere-item-wrap {
+		width: 25%;
+	}
+
+	.columns-md-4 > .ere-item-wrap:nth-child(4n+1) {
+		clear: both;
+	}
+
+	.columns-md-5 > .ere-item-wrap {
+		width: 20%;
+	}
+
+	.columns-md-5 > .ere-item-wrap:nth-child(5n+1) {
+		clear: both;
+	}
+
+	.columns-md-6 > .ere-item-wrap {
+		width: 16.66666666666667%;
+	}
+
+	.columns-md-6 > .ere-item-wrap:nth-child(6n+1) {
+		clear: both;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.columns-sm-2 > .ere-item-wrap {
+		width: 50%;
+	}
+
+	.columns-sm-2 > .ere-item-wrap:nth-child(2n+1) {
+		clear: both;
+	}
+
+	.columns-sm-3 > .ere-item-wrap {
+		width: 33.33333333%;
+	}
+
+	.columns-sm-3 > .ere-item-wrap:nth-child(3n+1) {
+		clear: both;
+	}
+
+	.columns-sm-4 > .ere-item-wrap {
+		width: 25%;
+	}
+
+	.columns-sm-4 > .ere-item-wrap:nth-child(4n+1) {
+		clear: both;
+	}
+
+	.columns-sm-5 > .ere-item-wrap {
+		width: 20%;
+	}
+
+	.columns-sm-5 > .ere-item-wrap:nth-child(5n+1) {
+		clear: both;
+	}
+
+	.columns-sm-6 > .ere-item-wrap {
+		width: 16.66666666666667%;
+	}
+
+	.columns-sm-6 > .ere-item-wrap:nth-child(6n+1) {
+		clear: both;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+	.columns-xs-2 > .ere-item-wrap {
+		width: 50%;
+	}
+
+	.columns-xs-2 > .ere-item-wrap:nth-child(2n+1) {
+		clear: both;
+	}
+
+	.columns-xs-3 > .ere-item-wrap {
+		width: 33.33333333%;
+	}
+
+	.columns-xs-3 > .ere-item-wrap:nth-child(3n+1) {
+		clear: both;
+	}
+
+	.columns-xs-4 > .ere-item-wrap {
+		width: 25%;
+	}
+
+	.columns-xs-4 > .ere-item-wrap:nth-child(4n+1) {
+		clear: both;
+	}
+
+	.columns-xs-5 > .ere-item-wrap {
+		width: 20%;
+	}
+
+	.columns-xs-5 > .ere-item-wrap:nth-child(5n+1) {
+		clear: both;
+	}
+
+	.columns-xs-6 > .ere-item-wrap {
+		width: 16.66666666666667%;
+	}
+
+	.columns-xs-6 > .ere-item-wrap:nth-child(6n+1) {
+		clear: both;
+	}
+}
+
+@media (max-width: 480px) {
+	.columns-mb-2 > .ere-item-wrap {
+		width: 50%;
+	}
+
+	.columns-mb-2 > .ere-item-wrap:nth-child(2n+1) {
+		clear: both;
+	}
+
+	.columns-mb-3 > .ere-item-wrap {
+		width: 33.33333333%;
+	}
+
+	.columns-mb-3 > .ere-item-wrap:nth-child(3n+1) {
+		clear: both;
+	}
+
+	.columns-mb-4 > .ere-item-wrap {
+		width: 25%;
+	}
+
+	.columns-mb-4 > .ere-item-wrap:nth-child(4n+1) {
+		clear: both;
+	}
+
+	.columns-mb-5 > .ere-item-wrap {
+		width: 20%;
+	}
+
+	.columns-mb-5 > .ere-item-wrap:nth-child(5n+1) {
+		clear: both;
+	}
+
+	.columns-mb-6 > .ere-item-wrap {
+		width: 16.66666666666667%;
+	}
+
+	.columns-mb-6 > .ere-item-wrap:nth-child(6n+1) {
+		clear: both;
+	}
+}
+@media (max-width: 767px) {
+	.list-2-col {
+		columns: 1;
+		-webkit-columns: 1;
+		-moz-columns: 1;
+	}
+}

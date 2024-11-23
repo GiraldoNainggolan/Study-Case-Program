@@ -1,0 +1,81 @@
+.ere-tabs {
+	--ere-tabs-bg: #222;
+	--ere-tabs-text-color: #8f8f8f;
+	--ere-tabs-card-header-bg-color: #f8f8f8;
+	--ere-tabs-card-header-text-color: #f8f8f8;
+	--ere-tabs-card-header-font-size: 16px;
+	.nav-tabs {
+		border-bottom: none;
+		background-color: var(--ere-tabs-bg);
+		margin: 0 0 30px 0;
+		.nav-link {
+			margin: 0;
+			@include border-radius(0);
+			border: none;
+			color: var(--ere-tabs-text-color);
+			padding: 19px 30px;
+			@include transition(all .3s);
+			font-weight: 500;
+
+			&.active,
+			&:hover {
+				background-color: var(--ere-color-accent);
+				color: var(--ere-color-accent-foreground);
+			}
+		}
+	}
+
+	.tab-content {
+		table {
+			width: 100%;
+			border: none;
+			td {
+				width: 50%;
+			}
+
+			tr:nth-child(2n-1) th,
+			tr:nth-child(2n-1) td {
+				background-color: #f8f8f8;
+			}
+
+			th,
+			td {
+				padding: 8.5px 18px;
+				border: none;
+			}
+
+			th {
+				font-weight: 500;
+				color: #222;
+			}
+
+			td {
+				font-weight: 400;
+				color: #8f8f8f;
+			}
+		}
+	}
+
+	.card {
+		margin-bottom: 20px;
+		border: 1px solid rgba(0,0,0,.125);
+		@include border-radius(0);
+		@include box-shadow(0 1px 1px rgb(0 0 0 / 5%));
+		.nav-link {
+			padding: 0;
+			color: inherit;
+		}
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	.card-header {
+		color: var(--ere-tabs-card-header-text-color);
+		background-color: var(--ere-tabs-card-header-bg-color);
+		padding: 15px;
+		.card-title {
+			font-size: var(--ere-tabs-card-header-font-size);
+		}
+	}
+}

@@ -1,0 +1,195 @@
+.ere-login-wrap {
+	max-width: 570px;
+	margin: auto;
+	border: 10px solid rgba(237, 237, 237, 0.7);
+	padding: 35px 30px 0;
+	hr {
+		display: none;
+	}
+	form {
+		padding-bottom: 55px;
+
+		:-moz-placeholder,
+		::-moz-placeholder,
+		:-ms-input-placeholder,
+		::-webkit-input-placeholder {
+			color: #787878;
+			text-transform: uppercase;
+		}
+
+
+	}
+	input:-webkit-autofill {
+		@include transition(background-color 50000s);
+		-webkit-text-fill-color: #787878;
+	}
+
+/*	button {
+		display: block;
+		background: transparent;
+		border: 2px solid rgba(237, 237, 237, 0.9);
+		color: #fff;
+		font-size: 14px;
+		height: 50px;
+	}
+
+	.btn-primary {
+		color: #fff;
+		background-color: #fb6a19;
+		border-color: #fb6a19;
+		&:hover,
+		&:focus,
+		&:active {
+			background: transparent !important;
+			color: #fb6a19;
+			border-color: #fb6a19;
+		}
+	}*/
+
+	.checkbox {
+		display: inline-block;
+		margin: 15px 0 15px 0;
+		color: #bababa;
+		@include transition(all .3s);
+		&:hover {
+			color: var(--ere-color-accent);
+		}
+		input {
+			cursor: pointer;
+		}
+	}
+
+/*	.btn-facebook {
+		background-color: #3b5998;
+		&:hover,
+		&:focus {
+			background-color: #4c70ba;
+		}
+	}
+
+	.btn-google-plus {
+		background-color: #dd5044;
+		&:hover,
+		&:focus {
+			background-color: #e5786f;
+		}
+	}*/
+
+	.form-group {
+		position: relative;
+		margin-bottom: 10px;
+		&:after {
+			font-family: FontAwesome;
+			position: absolute;
+			top: 0;
+			right: 0;
+			width: 40px;
+			color: #bababa;
+			text-align: center;
+			line-height: 55px;
+		}
+		&.control-username {
+			&:after {
+				content: "\f007";
+			}
+		}
+
+		&.control-email {
+			&:after {
+				content: "\f0e0";
+			}
+		}
+
+		&.control-password {
+			&:after {
+				content: "\f13e";
+			}
+		}
+
+		input:not([type="checkbox"]),
+		select.form-control {
+			position: relative;
+			background: transparent;
+			height: 55px;
+			line-height: 55px;
+			padding: 0 40px 0 10px;
+			color: #787878;
+			font-weight: 400;
+			border: none;
+			box-shadow: none;
+			border-bottom: 2px solid rgba(237, 237, 237, 0.8);
+			-webkit-border-radius: 0;
+			-moz-border-radius: 0;
+			border-radius: 0;
+			font-size: 12px;
+			letter-spacing: .1em;
+			@include transition(all 0.3s);
+			&:hover,
+			&:focus {
+				border-bottom-color: #fb6a19;
+			}
+		}
+	}
+
+	.ere_messages {
+		p {
+			font-size: 16px;
+			color: #3CAB1A;
+			margin-bottom: 30px !important;
+			&.error {
+				color: #F45230;
+			}
+		}
+	}
+
+	button.ere-login-button {
+		margin-top: 10px;
+	}
+
+	.ere-reset-password {
+		float: right;
+		padding-top: 15px;
+		font-weight: 400;
+		color: #bababa;
+		@include transition(all 0.3s);
+		&:hover {
+			color: #fb6a19;
+		}
+	}
+
+	> button {
+		position: relative;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 10px;
+		border: none;
+		@include border-radius(4px);
+		text-transform: capitalize;
+		&:last-child {
+			margin-bottom: 50px;
+		}
+
+		&:hover,
+		&:focus {
+			outline: none;
+			border: none;
+			color: #fff;
+		}
+
+		i {
+			position: absolute;
+			left: 0;
+			display: block;
+			top: 0;
+			bottom: 0;
+			height: 70%;
+			margin: auto;
+			width: 50px;
+			font-size: 18px;
+			border-right: 1px solid rgba(186, 186, 186, 0.5);
+			line-height: 35px;
+			text-align: center;
+		}
+	}
+
+}

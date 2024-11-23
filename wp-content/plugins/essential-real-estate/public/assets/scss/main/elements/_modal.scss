@@ -1,0 +1,84 @@
+.modal-login  {
+	.modal-content {
+		padding: 15px;
+	}
+
+	.ere-reset-password-wrap,
+	.ere-login-wrap,
+	.ere-register-wrap {
+		border: 0;
+		padding: 0;
+	}
+
+	.ere-register-wrap,
+	.ere-login-wrap {
+		form {
+			padding-bottom: 25px;
+		}
+	}
+
+	.ere-login-wrap {
+		button:last-child {
+			margin-bottom: 30px;
+		}
+	}
+
+	@media (min-width: 768px) {
+		.modal-content {
+			padding: 15px;
+		}
+
+		.modal-dialog {
+			width: 500px;
+		}
+
+
+	}
+
+	.modal-header {
+		.nav-tabs {
+			border: none;
+			> li  {
+				> a {
+					padding: 0;
+					&.active,
+					&:hover,
+					&:focus {
+						color: var(--ere-color-accent);
+					}
+				}
+			}
+		}
+	}
+
+}
+
+.content-popup i{
+	margin-right: 10px;
+}
+.ui-dialog-titlebar-close:before{
+	content: "\f00d";
+	font-family: FontAwesome;
+	color: #fff;
+	cursor: pointer;
+}
+
+
+.modal {
+	text-align: center;
+}
+@media screen and (min-width: 768px) {
+	.modal:before {
+		display: inline-block;
+		vertical-align: middle;
+		content: " ";
+		height: 100%;
+	}
+}
+
+.modal-dialog {
+	display: inline-block;
+	text-align: left;
+	vertical-align: middle;
+}
+

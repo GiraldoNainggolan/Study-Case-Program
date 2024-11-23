@@ -1,0 +1,28 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly
+}
+global $wp_query;
+$current_author = $wp_query->get_queried_object();
+$author_id      = $current_author->ID;
+$agent_id       = 0;
+$ere_property   = new ERE_Property();
+$total_property = $ere_property->get_total_properties_by_user( $agent_id, $author_id );
+?>
+<?php if ( $total_property > 0 ): ?>
+	<div class="agent-properties">
+		<div class="agent-properties-inner">
+			<div class="ere-heading">
+				<h2><?php esc_html_e( 'My properties', 'essential-real-estate' ); ?>
+					<sub>(<?php echo esc_html(ere_get_format_number( $total_property )) ; ?>)</sub></h2>
+			</div>
+			<?php echo ere_do_shortcode( 'ere_property', array(
+				'layout_style' => "property-list",
+				'item_amount'  => 10,
+				'show_paging'  => "true",
+				'author_id'    => $author_id,
+				'agent_id'     => $agent_id
+			) ) ?>
+		</div>
+	</div>
+<?php endif; ?>

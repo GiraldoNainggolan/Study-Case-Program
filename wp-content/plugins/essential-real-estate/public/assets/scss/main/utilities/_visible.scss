@@ -1,0 +1,26 @@
+.visible-mb {
+	display: none;
+}
+
+@media ( max-width: 480px ) {
+	.visible-mb {
+		display: block;
+	}
+
+	.hidden-mb {
+		display: none !important;
+	}
+}
+
+.visible-xs {
+	display: none !important;
+}
+
+@media (max-width: 767px) {
+	.visible-xs {
+		display: block !important;
+	}
+	.hidden-xs {
+		display: none !important;
+	}
+}

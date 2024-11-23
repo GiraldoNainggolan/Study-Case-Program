@@ -1,0 +1,14 @@
+@for $i from 0 through 12 {
+	.mg-bottom-#{$i * 5} {
+		margin-bottom: #{$i * 5}px !important;
+	}
+}
+
+
+@media screen and (max-width: 991px) {
+	@for $i from 0 through 12 {
+		.sm-mg-bottom-#{$i * 5} {
+			margin-bottom: #{$i * 5}px !important;
+		}
+	}
+}

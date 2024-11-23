@@ -1,0 +1,24 @@
+.ere-package-item
+{
+	&.active {
+		box-shadow: 0 20px 35px rgba(0, 0, 0, 0.3);
+		border-color: #fb6a19;
+		> .panel-heading {
+			background-color: #fb6a19;
+			color: #ffffff;
+		}
+	}
+}
+
+.ere-package-price
+{
+	padding: 20px 0;
+	sup {
+		font-size: 60%;
+	}
+}
+
+
+.list-group {
+	padding-left: 0 !important;
+}

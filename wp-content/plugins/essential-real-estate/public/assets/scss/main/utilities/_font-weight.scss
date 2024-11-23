@@ -1,0 +1,13 @@
+$font_weight: (
+		"light": 300,
+		"normal": 400,
+		"medium": 500,
+		"semi-bold": 600,
+		"bold": 700,
+		"black": 900,
+);
+@each $k, $v in $font_weight {
+	.fw-#{$k} {
+		font-weight: $v !important;
+	}
+}

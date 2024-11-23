@@ -1,0 +1,25 @@
+.block-center {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	font-size: 0;
+	&:before {
+		content: "";
+		height: 100%;
+		vertical-align: middle;
+		display: inline-block;
+	}
+}
+
+.block-center-inner {
+	display: inline-block;
+	margin: 0 auto;
+	position: relative;
+	vertical-align: middle;
+	max-width: 100%;
+	font-size: initial;
+}
+
+.block-center-inner > * {
+	margin: auto;
+}
