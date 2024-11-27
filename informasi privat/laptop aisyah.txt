@@ -1,0 +1,25 @@
+Membuat SSH didalam folder:
+1. Jalankan ssh-keygen Lagi
+Di Command Prompt, jalankan perintah berikut untuk memulai proses pembuatan kunci SSH:
+`ssh-keygen`
+2. Saat diminta lokasi penyimpanan:
+Tekan Enter untuk menyimpan di lokasi default:
+`C:\Users\aisyah\.ssh\id_ed25519 (sesuaikan dengan folder C)`
+3. Saat diminta passphrase:
+Masukkan passphrase jika ingin menambah keamanan.
+Atau, tekan Enter dua kali untuk melewati (tanpa passphrase).
+
+Langkah Selanjutnya
+Verifikasi Isi Folder .ssh: Jalankan perintah ini untuk memastikan file telah dibuat:
+`dir $env:userprofile\.ssh`
+Anda seharusnya melihat dua file:
+
+id_ed25519 (kunci privat).
+id_ed25519.pub (kunci publik).
+
+Salin Kunci Publik ke Server:
+Jika Anda ingin menggunakan kunci ini untuk akses SSH ke server:
+
+Salin isi file id_ed25519.pub ke file ~/.ssh/authorized_keys di server.
+Untuk melihat kunci publik:
+`type $env:userprofile\.ssh\id_ed25519.pub`
